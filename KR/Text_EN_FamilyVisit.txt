@@ -1,0 +1,92 @@
+FAMILYVISIT_GENERAL |= I like your décor.
+FAMILYVISIT_GENERAL |= Nice decorating.
+FAMILYVISIT_GENERAL |= Ah, it's good to be back.
+FAMILYVISIT_GENERAL |= This brings back memories.
+FAMILYVISIT_GENERAL |= Nice to be here.
+FAMILYVISIT_GENERAL |= Hope you don't mind the visit.
+FAMILYVISIT_GENERAL |= Good to see the place again.
+FAMILYVISIT_GENERAL |= Good to see you again.
+FAMILYVISIT_GENERAL |= Ahhh, memories.
+FAMILYVISIT_GENERAL |= How have you been keeping?
+FAMILYVISIT_GENERAL |= Always liked the air in this place.
+FAMILYVISIT_GENERAL |= I miss being here.
+FAMILYVISIT_GENERAL |= Missing you.
+FAMILYVISIT_GENERAL |= Hope I can come again.
+FAMILYVISIT_GENERAL |= Great to see you.
+FAMILYVISIT_GENERAL |= Ahhh, love it here.
+FAMILYVISIT_GENERAL |= Appreciate you letting me visit.
+FAMILYVISIT_GENERAL |= Good to see you and the farm.
+
+FAMILYVISIT_KYNSEED_TREE |= That tree is beautiful.
+FAMILYVISIT_KYNSEED_TREE |= Growing nicely!
+FAMILYVISIT_KYNSEED_TREE |= That will have very deep roots.
+FAMILYVISIT_KYNSEED_TREE |= Love the colours.
+FAMILYVISIT_KYNSEED_TREE |= Such foliage!
+FAMILYVISIT_KYNSEED_TREE |= The seed grows...
+FAMILYVISIT_KYNSEED_TREE |= A beautiful family tree.
+
+FAMILYVISIT_JETTY |= Love this area.
+FAMILYVISIT_JETTY |= The lavender smells wonderful.
+FAMILYVISIT_JETTY |= You used to sleep here?
+FAMILYVISIT_JETTY |= Such a relaxing river.
+FAMILYVISIT_JETTY |= Love windmills.
+
+FAMILYVISIT_HENGE |= Always creepy.
+FAMILYVISIT_HENGE |= What's that whispering?
+FAMILYVISIT_HENGE |= Never liked this.
+FAMILYVISIT_HENGE |= Am sure I saw something.
+
+FAMILYVISIT_POND |= Still full of fish.
+FAMILYVISIT_POND |= I always liked this pond.
+FAMILYVISIT_POND |= My favourite pond.
+FAMILYVISIT_POND |= Brings back memories of watching fish.
+
+FAMILYVISIT_TWIG_BRIDGE |= Is Twig still around?
+FAMILYVISIT_TWIG_BRIDGE |= Always liked the Nook.
+FAMILYVISIT_TWIG_BRIDGE |= Good old Twig.
+FAMILYVISIT_TWIG_BRIDGE |= I should learn to fish one day.
+FAMILYVISIT_TWIG_BRIDGE |= Quiet in the Nook.
+
+FAMILYVISIT_MINE |= Did you ever go in there?
+FAMILYVISIT_MINE |= I am not keen on dark places.
+FAMILYVISIT_MINE |= I just heard knocking.
+FAMILYVISIT_MINE |= I am not going in there.
+
+FAMILYVISIT_OBJECT |= Wow! You have a {OBJECT_NAME}.
+FAMILYVISIT_OBJECT |= I like your {OBJECT_NAME}.
+FAMILYVISIT_OBJECT |= Oh! {OBJECT_NAME}!
+FAMILYVISIT_OBJECT |= I see you have {OBJECT_NAME}.
+FAMILYVISIT_OBJECT |= Was {OBJECT_NAME} expensive?
+FAMILYVISIT_OBJECT |= That {OBJECT_NAME} really ties the farm together.
+FAMILYVISIT_OBJECT |= That {OBJECT_NAME} is nice.
+FAMILYVISIT_OBJECT |= Ooh! {OBJECT_NAME} there I see.
+FAMILYVISIT_OBJECT |= I would like a {OBJECT_NAME} for my house one day.
+
+FAMILYVISIT_HOW_ARE_YOU |= I am good, thank you. It's lovely to be back here, reminiscing. I miss the place.
+FAMILYVISIT_HOW_ARE_YOU |= I've been better, but coming here is a breath of fresh air. It always did have a nice smell about it.
+FAMILYVISIT_HOW_ARE_YOU |= I am doing well, thanks for asking. I like my new home despite the big spiders. I also have a very creaky floorboard, but can't complain.
+FAMILYVISIT_HOW_ARE_YOU |= I am good, thank you. Always a pleasure to see you and the farm. I wonder who originally built the place? It's really big. Are you going to make it look much nicer? Anyway, it's good to see those timbers once more.
+FAMILYVISIT_HOW_ARE_YOU |= I am doing great! Coming here is great for nostalgia, but I am forging new memories in my own gaff now.
+FAMILYVISIT_HOW_ARE_YOU |= Wonderful, thanks! Visiting here is very calming. Things have been busy at home, so it is nice to just stretch my legs and catch up on somewhere I cherish.
+FAMILYVISIT_HOW_ARE_YOU |= Good to be here! My house has a very naughty Brounie, and he has a love of pranks. At least he keeps the dust down and the garden neat.
+FAMILYVISIT_HOW_ARE_YOU |= I'm doing OK. You know, it is nice being able to come back and visit. I miss not living here, sometimes.
+FAMILYVISIT_HOW_ARE_YOU |= I'm enjoying this little stroll down memory lane, coming back to the farm. I notice that Pott is still not doing much, is he? Is he bugged?
+FAMILYVISIT_HOW_ARE_YOU |= I'm a little teary eyed wondering where time has gone since I used to live here.
+FAMILYVISIT_HOW_ARE_YOU |= I was OK until I saw the Kynseed Tree and remembered days, friends and pets passed. I'm having a little wobble but am fine!
+FAMILYVISIT_HOW_ARE_YOU |= I'm really enjoying heading back to Willowdown Farm. Happy memories, for the most part.
+FAMILYVISIT_HOW_ARE_YOU |= I'm a bit sad. I miss living here. But, life moves on. We grow up, grow apart but this place will always connect us. We are family, after all.
+
+FAMILYVISIT_WHATS_HAPPENING |= I am just taking in the sights and smells of your beautiful farm. I always wondered where the actual Willow tree is, though.
+FAMILYVISIT_WHATS_HAPPENING |= I'm just having a day out. The walls close in sometimes, so a walk and new scenery is good for the mind, body and soul.
+FAMILYVISIT_WHATS_HAPPENING |= I am just getting away for a little break and to catch up with old friends.
+FAMILYVISIT_WHATS_HAPPENING |= I am visiting you, then off to see other old pals, maybe. Perhaps do some shopping.
+FAMILYVISIT_WHATS_HAPPENING |= A good healthy walk reinvigorates. I am staying clear of dark shadows and rustling bushes, though!
+FAMILYVISIT_WHATS_HAPPENING |= Having a nostalgia burst, so I decided to visit my old haunts. Not that I am a ghost or anything.
+FAMILYVISIT_WHATS_HAPPENING |= What is happening? Well, a happy walk and a visit to people I care for is the order of the day.
+FAMILYVISIT_WHATS_HAPPENING |= I'm wondering where I left that favourite radish of mine all those moons ago.
+FAMILYVISIT_WHATS_HAPPENING |= I'm hoping to get some inspiration for how to do up my own place, now.
+FAMILYVISIT_WHATS_HAPPENING |= I'm thinking that I actually saw a Salmon in our old river just now.
+FAMILYVISIT_WHATS_HAPPENING |= I'm going to wander around the old place, then might head off to see Hubbard and give her a pat on the head.
+FAMILYVISIT_WHATS_HAPPENING |= I'm doing this quick nostalgia trip around the farm, then I might head into the village and see if anyone new is performing on stage in the tavern. 
+FAMILYVISIT_WHATS_HAPPENING |= I'm looking for my old favourite bee. Do you think he is still alive? 
+

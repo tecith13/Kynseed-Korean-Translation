@@ -1,0 +1,3 @@
+<PlayerName> 에게
+이 선물을 보내야만 했어요! 마음에 드셨으면 좋겠어요.  
+<SenderName>

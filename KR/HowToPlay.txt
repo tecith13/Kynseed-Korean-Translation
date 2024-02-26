@@ -1,0 +1,158 @@
+Title|Hints and Tips
+Name|I'm lost!
+Text|Thatterways will point you in the right direction. Summon them using the Set Thatterway button in your task list and then pressing <thatterway>. Pressing Map <map> will allow you to swap between World and Local views of your whereabouts.
+ID|thatterway
+Name|What is that? What is it for?
+Text|Wottyzits often hover over important items in the world. Interact with the marked object with <interact>.
+
+Find out more about most items in the game with the Bubble Help system. Press <bubblehelp> to show or hide the bubbles. Then select a bubble and <interact> for more information.
+ID|wottyzit
+
+Name|Star Quality, or what are those stars on my fruit and veg?
+Text|Most collectable items in Quill have a Star Quality (1-5). Higher quality items may sell for more <link:brass>Brass<link>; have more powerful, longer-lasting <link:traits>effects<link>; and can even help you to make <link:friends>friends<link> more quickly.
+
+<link:proverbs>Proverbs<link> and <link:friends>Gossip<link> teach you how to boost the quality of the things that you find.
+ID|stars
+
+Name|How to make friends (or enemies) and influence people
+Text|You can gain Friendship Points (FP) by helping folk and raising friendship.
+
+All Quillians have their likes and dislikes, and finding out about these can be the key to your relationship with a person.
+
+Regular gifts of liked or loved items will encourage people to look forward to your visits; tell you their life stories; share <link:proverbs>proverbs<link> and gossip about their neighbours; <link:itempermissions>allow<link> you to take things from their land; become part of a building team for your projects, or even eventually give you access to their valuable family heirlooms! People are always particularly touched if you remember their birthdays...
+
+Folk sometimes drops heavy hints for items with a particular <link:traits>trait<link>. Gifting a suitable item will make them grateful enough to pass on Gossip about other villagers, collectable items, or some interesting lore. Conversely, people will become much less well-disposed and helpful to you if you hurt them, give them things they dislike, or mess up their homes.
+ID|friends
+
+Name|Earning Brass
+Text|As a child, you can do chores for Uncle Bill, sell things at the little Lemonade Stalls in Festival areas, use Selling Cabinets in shops, complete <link:apprenticeships>apprenticeships<link> for business owners, and get non-combat tasks from the <link:noticeboards>Noticeboard<link>.
+
+Adults can save up to buy their businesses and can take on dangerous but well-paid combat tasks from the <link:noticeboards>Noticeboard<link> or the Witchhunter (based in Homesteads tavern).
+ID|brass
+
+Name|Village Noticeboards
+Text|Noticeboards can be found in each area of the main village. Check these for details of events, markets and trader visits.
+
+Villagers can post tasks here to earn you Brass or <link:friends>Friendship-Points<link>. Notices regenerate every day, but some dangerous, well-paying task types are only available to adults.
+
+Noticeboard tasks can always be handed in at a person's <link:mail>mailbox<link>. The reward won't be affected if you do this.
+ID|noticeboards
+
+Name|Apprenticeships
+Text|Children are invited to do apprenticeships in the Blacksmith and Apothecary. Once you've completed these, you can make items for yourself or sell them to the business owner. It costs ☎5 each time you use the shop's equipment.
+
+The Goods Store apprenticeship has a one-off reward, but all apprenticeships help to set you up for owning your own stores as an adult.
+ID|apprenticeships
+
+Name|Goddesses and their Boons
+Text|The Goddesses expect offerings every 7th day and will bless you for them. Interact with a Goddess statue to offer.
+
+Goddesses are paired each week, and you must decide which one to honour with an offering to gain her Boon for the week.
+
+There are no penalties for not making an offering.
+
+Name|Finding a Person
+Text|If you have already met a person, you can look up their home area in the Status screen <stats>. Use the World Map for help getting there, then use the Local Map <map> once in that region to spot their home.
+
+The <link:thatterway>Thatterway<link> can guide you to anybody's <link:mail>mailbox<link>, even if you have never met them.
+ID|findperson
+
+Name|Mail
+Text|Most tasks can be handed in at a person's mailbox at their home, and the reward won't be affected.
+
+You can collect mail at any postbox - look and listen for the helpful carrier pigeon.
+
+You will get information about upcoming events and competitions, news from and about other people, some magical advertisements, and gifts of items, proverbs or recipes from <link:friends>friends<link>.
+ID|mail
+
+Name|Tools
+Text| Usage increases your proficiency with fishing rods, pickaxes, sickles, slingshots, shovels, and swords. This unlocks valuable perks and can also improve the <link:stars>quality<link> of the items you collect or the damage you do in combat.
+
+Tool unlocks are separate from any <link:skills>skills<link> that you earn from Masters, like Twig. Check your proficiency level by viewing the tool in your inventory.
+
+Proficiency applies to the type of tool - for example, you can change from a tin to a zinc shovel without penalty.
+
+Different metals affect the world in various ways, so it can be worth having more than one of each tool type (though you can only ever have one rod and pickaxe).
+ID|tools
+
+Name|Combat
+Text| Combat is for adults only. Visit Master Jogon in Rivermoor to learn the basics and unlock vital skills.
+
+In order of difficulty, the four combat areas are Simplewood, Midwood, Toughwood and Mixwood. Each has different inhabitants, with Mixwood also offering additional challenges daily.
+
+<link:fairweather>Mr. Fairweather<link> will revive you four times before taking a year of your life as payment should you fall in combat.
+
+Prepare for harder combat by <link:tools>levelling-up<link> your swords; collecting Wards and Charms; taking a cooked meal with <link:traits>traits<link> like Strength or Toughness; buying or crafting combat recipes at Apothecary's; and by unlocking <link:skills>skills<link> via Jogon and Moon.
+
+Take up to two pets into combat with you - different species have different abilities, and some are particularly effective against certain enemies.
+ID|combat
+
+Name|Sleep and Save
+Text|Children must sleep from 11 pm to 6 am daily, but adults may stay up all night without ill effects.
+
+The game auto-saves at 6 am every day, and you can also choose to save at any time by sleeping in a bed at home or at one of the campfires scattered around the world.
+ID|sleep
+
+Name|Traits, or what are those icons over people's heads?
+Text|Traits affect people by temporarily changing their skills or demeanor, e.g. making them run faster, be more friendly or smell nice. Crafted items e.g. cooked meals, alter traits for a longer duration, while <link:stars>higher-quality<link> items have more intense effects. For example, a high-quality pie will have a strong, long-lasting effect.
+
+A maximum of three traits can be active at one time. Consuming a new item will replace any currently active traits.
+
+Collect 15 of any item to discover its traits. You will discover the traits of a cooked item the first time you craft it using its recipe.
+ID|traits
+
+Name|Item Permissions
+Text|You can only take fruit and vegetables from a garden when you have high enough <link:friends>friendship<link> with all residents of a home. Check the Monument Stone outside to find out your current level of friendship with that household.
+ID|itempermissions
+
+Name|Mr Fairweather
+Text|Adults can visit Mr Fairweather to buy his wares anytime by shining the Obscura on the Henge-portal to Briar. He will collect payment (years of Life Tax) for any goods or services at the end of the year.
+ID|fairweather
+
+Name|Proverbs
+Text|Proverbs are sheets of yellow paper that tell you how to find or improve an item's <link:stars>quality<link>. They are scattered around the world, for sale in shops and from traders, or can be passed on by <link:friends>friends<link>.
+
+Look for the item under the proverbs section of your inventory to check your collected tips before going gathering, fishing or fighting.
+
+Proverbs for a given item can also be gained by collecting more than five of that item. Task rewards and prizes don't count towards the number collected for this purpose.
+ID|proverbs
+
+Name|Skills
+Text|You can unlock Skills by visiting the Masters scattered around Quill and fulfilling their requirements. Give them what they ask for, and you can get new abilities to improve your gardening, melee and ranged combat, cooking, exploring, and fishing.
+ID|skills
+
+Name|Pets
+Text|You can own up to 3 cats, dogs, pigs and sheep. Cows and certain special exotic pets are limited to one per species.
+
+Pets have a mood that drops with bad treatment and hunger. Keep an eye on their fullness and mood bars: when red, they will stop using their abilities, working, producing milk, or following you. Feed and pet animals to raise fullness and mood.
+
+Pets may get ill after prolonged periods without being fed. They might go green, poor things. Like dear old Uncle Bill, they would benefit from being given something with the Healing trait.
+
+Press <whistle> to view the pet whistle. You can check a pet's age, whereabouts, fullness and mood. You can also summon the pet or send them home.
+ID|pets
+
+Name|Families
+Text|Families. Oh, how we love them! In Kynseed, there are various ways to make family life fun and productive.
+
+First of all, you need a family. The path here is reasonably straightforward - woo an NPC, get married, adopt or have children and eh voila, you have a family. The children must put on some years before they are 'useful', but you could always visit Mr Fairweather if you were desperate to speed things up.
+
+The Family Scheduler is to be found indoors at Willowdown Farm. You can use it to give your family orders, from farming to studying. You can also send them out to forage. Over 18s can be sent into combat if you so wish.
+
+If you own a business, you might want them to work in one.
+
+Suppose you have a family member doing multiple tasks for you. In that case, the priority is automatically set at gathering first, then working in the shop and then their schedule as specified in the Family Scheduler.
+ID|families
+
+Name|커스터마이징
+Text|The player can customise the Willowdown Farmhouse and large sections of the farm area itself.
+
+To access Customisation, open the map whilst at Willowdown Farm or, if in the farmhouse itself you can interact with the Customisation Table. Doing so will open up the map view of Willowdown Farm. 
+
+Select the area you wish to customise. The areas with the grey icons must be bought before you can play with them.
+
+Objects placed in storage can be used at a later date. Some objects are only for indoor or outdoor use.
+Objects sold will be removed, but you get a Brass bonus for doing so.
+
+The best way to learn customisation is to play about with it. Game time is paused, so you are not missing out on any events whilst doing so.
+One tip we like to share with budding designers is to try the Fine Tuning option. Many objects can be placed more precisely within their square when using this. This allows you to create less regimented and more organic layouts.
+ID|customisation

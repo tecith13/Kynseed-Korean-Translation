@@ -1,0 +1,6 @@
+친애하는 <PlayerName> 에게,
+
+<LetterText>
+
+당신이 도움이되기를 바랍니다.
+<SenderName>

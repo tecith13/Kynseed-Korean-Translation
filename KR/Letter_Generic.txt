@@ -1,0 +1,6 @@
+<Salutation> <PlayerName>,
+
+<LetterText>
+
+<SignOff>
+<SenderName>

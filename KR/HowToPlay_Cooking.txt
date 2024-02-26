@@ -1,0 +1,37 @@
+Title|Cooking
+
+Name|Placeholder
+ID|main
+Text|Placeholder
+
+Name|Recipe Book
+ID|recipe_book
+Text|Placeholder
+
+Name|Ingredient Selection
+ID|inventory
+Text|Placeholder
+
+Name|Chopping
+ID|chopping
+Text|Placeholder
+
+Name|Chopping for Jam
+ID|chopping_jam
+Text|Placeholder
+
+Name|Chopping for Stew
+ID|chopping_stew
+Text|Placeholder
+
+Name|Baking
+ID|baking
+Text|Placeholder
+
+Name|Rolling Pin
+ID|rolling
+Text|Placeholder
+
+Name|Soup Making
+ID|soup
+Text|Placeholder

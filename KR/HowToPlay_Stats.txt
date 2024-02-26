@@ -1,0 +1,299 @@
+Title|Stats, Traits & Talents
+Name|Stats
+Text|
+Accuracy:↩️
+•Player: Combat Critical Hit chance.↩️
+•Player: Helps with Blacksmith crafting.↩️
+•NPC: Higher quality items when crafting in jobs.
+Barter:↩️
+•Player: Helps with bartering.↩️
+•NPC: Chance to get a better deal.
+Charm:↩️
+•Player: FP gains.↩️
+•Player: Offset REP losses.↩️
+•NPC: Reduce REP drops when working.
+Constitution:↩️
+•Player: Combat resistance to some enemy attacks.↩️
+•Player: Helps with Apothecary crafting.↩️
+•NPC: Chance of crafting higher quality cures.
+Intelligence:↩️
+•Player: Increases sandbox XP gain.↩️
+•Player: Increases weapon XP gain.↩️
+•Player: Helps with Apothecary crafting.↩️
+•NPC: Increases XP gain from family orders.↩️
+•NPC: Work XP gain.↩️
+•NPC: Apothecary cure improvement chance.
+Speed:↩️
+•Player: Movement speed.↩️
+•Player: Increase combat parry window.↩️
+•NPC: Movement speed.↩️
+•NPC: Less time taken to serve customers.
+Stamina:↩️
+•Player: Combat Stamina regeneration speed.↩️
+•NPC: Reduce energy drain while working.
+Strength:↩️
+•Player: Combat damage modifier.↩️
+•Player: Amount of Blacksmith anvil hits.↩️
+•NPC: Blacksmith crafting improvement chance.
+Toughness:↩️
+•Player: Reduces damage taken from blocked enemy attacks.↩️
+•NPC: Helps negate damage in Gathering combat.
+Virility:↩️
+•Player: Increases your chances to have a baby.↩️
+•NPC: Ability to conceive and perform.
+ID|stats
+
+
+Name|Traits
+Text|<trait:Stamina>:↩️
+•Player: In Combat, the player's Stamina orbs will refill more quickly. ↩️
+•NPC: They have reduced Energy draining whilst they are working.
+<trait:Laziness>:↩️
+•Player: In Combat, the player's Stamina orbs will refill more slowly.↩️
+•NPC: Increases Energy draining whilst they are working.
+<trait:Intelligence>:↩️
+•Player: Increases EXP gains and helps your Apothecary crafting prowess.↩️
+•NPC: Increases the quality of Apothecary cures they make and also their ability to learn jobs.
+<trait:Stupidity>:↩️
+•Player: Decreases EXP gains and reduces your Apothecary crafting prowess.↩️
+•NPC: Decreases the quality of Apothecary cures they make and also their ability to learn jobs.
+<trait:Strength>:↩️
+•Player: Makes anvil strikes at the blacksmith a little easier.↩️
+•NPC: Increases their chance to make better quality blacksmithing items.
+<trait:Weakness>:↩️
+•Player: Makes anvil strikes at the blacksmith a little harder.↩️
+•NPC: Decreases their chance to make better quality blacksmithing items.
+<trait:Barter>:↩️
+•Player: Increases your chance to make a better barter deal.↩️
+•NPC: Increases their chance to make a better barter deal.
+<trait:Weakwilled>:↩️
+•Player: Decreases your chance to make a better barter deal.↩️
+•NPC: Decreases their chance to make a better barter deal.
+<trait:Charm>:↩️
+•Player: Each + increases Friendship Point gains and reduces Reputation falls.↩️
+•NPC: Reduces falls in reputation.
+<trait:Repel>:↩️
+•Player: Each + decreases Friendship Point gains and increases Reputation falls.↩️
+•NPC: Increases falls in reputation.
+<trait:Accuracy>:↩️
+•Player: Makes blacksmithing a little easier.↩️
+•NPC: Increases their chance to make better quality blacksmithing items.
+<trait:Clumsiness>:↩️
+•Player: Makes blacksmithing a little harder.↩️
+•NPC: Decreases their chance to make better quality blacksmithing items.
+<trait:Constitution>:↩️
+•Player: Gives you more time crafting cures and helps reduce combat status effects.↩️
+•NPC: Increases their chance to make better quality cures.
+<trait:Squeamish>:↩️
+•Player: Gives you less time crafting cures and increases combat status effects.↩️
+•NPC: Decreases their chance to make better quality cures.
+<trait:Toughness>:↩️
+•Player: Take less damage when you block in combat.↩️
+•NPC: Family members take less damage when they block in combat.
+<trait:Meek>:↩️
+•Player: Take more damage when you block in combat.↩️
+•NPC: Family members take more damage when they block in combat.
+<trait:Speed>:↩️
+•Player: Increases your speed and gives you longer to parry in combat.↩️
+•NPC: Increases their speed.
+<trait:Sedative>:↩️
+•Player: Decreases your speed and gives you less time to parry in combat.↩️
+•NPC: Decreases their speed.
+<trait:Virility>:↩️
+•Player: Each + increases the chance of conception.↩️
+•NPC: Each + increases the chance of conception.
+<trait:Infertility>:↩️
+•Player: Each + decreases the chance of conception.↩️
+•NPC: Each + decreases the chance of conception.
+<trait:Healing>:↩️
+•Player: Each + gives you an extra 5% healing when the item is eaten during combat.↩️
+•NPC: No effect on NPCs.
+<trait:Poisonous>:↩️
+•Player: Each + gives you an extra 5% damage when the item is eaten during combat.↩️
+•NPC: No effect on NPCs.
+<trait:Narcolepsy>:↩️
+•Player: You lose one random stat for each + active.↩️
+•NPC: Will sleep at random, each + increases for how long.
+<trait:Insomnia>:↩️
+•Player: You have fewer hours to select when deciding to go to sleep.↩️
+•NPC: Having trouble falling asleep.
+<trait:Digestive>:↩️
+•Player: Extends other trait duration.↩️
+•NPC: Extends other trait duration.
+<trait:Flatulence>:↩️
+•Player: Each + increases the chance you will fart. Adults aren't too keen but kids love it.↩️
+•NPC: Will fart and use the toilet, each + increases the effect.
+<trait:Bravery>:↩️
+•Player: Each + increases your damage on combat counterattacks.↩️
+•NPC: No effect on NPCs.
+<trait:Cowardly>:↩️
+•Player: Each + decreases your damage on combat counterattacks.↩️
+•NPC: No effect on NPCs.
+<trait:Truth>:↩️
+•Player: A range of 10% to 50% chance you will get an extra item when foraging in Quill.↩️
+•NPC: Will reveal secret codes, each + increases the likelihood.
+<trait:Illusion>:↩️
+•Player: A range of 10% to 50% chance you will get an extra item when foraging in Fae areas.↩️
+•NPC: Less likely to reveal secret codes, each + decreases the likelihood.
+<trait:Flameproof>:↩️
+•Player: Each + reduces damage from fire attacks.↩️
+•NPC: No effect on NPCs.
+<trait:Waterproof>:↩️
+•Player: Each + reduces damage from water attacks.↩️
+•NPC: No effect on NPCs.
+<trait:Scent>:↩️
+•Player: Each + increases your prowess during nookie.↩️
+•NPC: Each + increases their prowess during nookie.
+<trait:Stench>:↩️
+•Player: Each + decreases your prowess during nookie.↩️
+•NPC: Each + decrease their prowess during nookie.
+<trait:AntiSickness>:↩️
+•Player: Each + reduces your negative traits by 1 and in combat reduces the duration of status effects.↩️
+Each + reduces their negative traits by 1
+<trait:Emetic>:↩️
+•Player: Each + increases your negative traits by 1 and in combat increases the duration of status effects.↩️
+•NPC: Each + increases their negative traits by 1
+<trait:Blessed>:↩️
+•Player: In combat, you can charge an amazing Effigy attack for 10 fewer points for each + you have.↩️
+•NPC: No effect on NPCs.
+<trait:Cursed>:↩️
+•Player: In combat, charging an Effigy attack is 10 more points for each + you have.↩️
+•NPC: No effect on NPCs.
+<trait:Friendly>:↩️
+•Player: Each + increases Friendship Point gains.↩️
+•NPC: Each + increases Friendship Point gains.
+<trait:Shy>:↩️
+•Player: Each + decreases Friendship Point gains.↩️
+•NPC: Each + decreases Friendship Point gains.
+<trait:Positivity>:↩️
+•Player: Each + reduces Friendship Point losses.↩️
+•NPC: Each + reduces Friendship Point losses.
+<trait:Negativity>:↩️
+•Player: Each + increases Friendship Point losses.↩️
+•NPC: Each + increases Friendship Point losses.
+<trait:Gossip>:↩️
+•Player: NPCs are more likely to give you gossip.↩️
+•NPC: Each + increases the chance they will have a Gift Request or Favour.
+<trait:Paranoid>:↩️
+•Player: NPCs are less likely to give you gossip.↩️
+•NPC: Each + reduces the chance they will have a Gift Request or Favour.
+<trait:AnimalLover>:↩️
+•Player: You will befriend animals more quickly.↩️
+•NPC: Each + increases Friendship Point gains if the player has an animal following.
+<trait:AnimalHater>:↩️
+•Player: You will befriend animals more slowly.↩️
+•NPC: Each + decreases Friendship Point gains if the player has an animal following.
+<trait:Growth>:↩️
+•Player: De-gnomes you.↩️
+•NPC: No effect on NPCs.
+<trait:Shrinking>:↩️
+•Player: Turns you into a gnome.↩️
+•NPC: No effect on NPCs.
+<trait:SeeInDark>:↩️
+•Player: Slightly increases brightness in mines and caves.↩️
+•NPC: No effect on NPCs.
+ID|traits
+
+Name|Talents
+Text|
+Alchemist:↩️
+•Gets a + 1 potion Star Rating.
+Angler:↩️
+•Gets a + 1 yield on fish.
+Botanist:↩️
+•Gets a + 1 yield on wildflowers.
+Bushman:↩️
+•Gets a + 1 fruit/berry yield.
+Carpenter:↩️
+•Builds cost less wood.
+Cheat:↩️
+•Gets a + 10-50 score on scoring minigames.
+Craftsman:↩️
+•Gets a + 1 Star Rating when smithing.
+Dermatologist:↩️
+•Creams Star Rating +1.
+Explorer:↩️
+•Has + 3 Stamina.
+Farmer:↩️
+•Harvest yield chance 25%.
+Fast Food Chef:↩️
+•Gets a + 1 yield to recipes.
+Gardener:↩️
+•Gets a + 1 crop yield.
+Gatherer:↩️
+•Gets + 3 items when gathering.
+Gourmet:↩️
+•Gets a + 1 Star Rating to recipes.
+Hammerer:↩️
+•Gets a + 1 smithy yield.
+Horticulturist:↩️
+•Gets a + 1 crop quality.
+Grinder:↩️
+•Powder Star Rating +1.
+Resilient:↩️
+•Heals faster / CONS Up + 5.
+Tough Nut:↩️
+•Toughness up +5.
+Detectorist:↩️
+•Gets a + 1 yield on digging.
+Lucky:↩️
+•10% chance of Brass find when cutting grass.
+Builder:↩️
+•Builds need 3 less STR.
+Animal Trainer:↩️
+•Animal combat cooldown reduced.
+Jogger:↩️
+•Has + 5 Speed.
+Samaritan:↩️
+•Chance of Favours increased.
+Labourer:↩️
+•Build needs 3 less STA.
+Planner:↩️
+•Build needs 3 less INT.
+Miller:↩️
+•Double yield flour.
+Lode Runner:↩️
+•Gets a + 1 ore Star Rating.
+Miner:↩️
+•Gets a +1 ore yield.
+Swordsman:↩️
+•Has + 5 sword damage.
+Archer:↩️
+•Has + 5 arrow damage.
+Salesman:↩️
+•Bonus brass from selling.
+Haggler:↩️
+•Barter up +5.
+Charmer:↩️
+•50% Reputation loss reduction.
+Bargain Hunter:↩️
+•Items cost 20% less rounded up.
+Intellectual:↩️
+•XP gains increased 25%.
+Sharpshooter:↩️
+•Archery Crit chance up 25%.
+Assassin:↩️
+•Sword crit chance up 25%.
+Adventurer:↩️
+•Constitution up +5.
+Looter:↩️
+•Chance of 1 extra combat loot per room.
+Souper Human:↩️
+•Gets a + 1 soup Star Rating.
+Steward:↩️
+•Gets a + 1 stew Star Rating.
+Master Baker:↩️
+•Gets a + 1 bread Star Rating.
+Sandwich Earl:↩️
+•Gets a + 1 sandwich Star Rating.
+Jammy Beggar:↩️
+•Gets a + 1 jam Star Rating.
+Confectioner:↩️
+•Gets a + 1 dessert Star Rating.
+Pieman:↩️
+•Gets a + 1 pie Star Rating.
+Socialite:↩️
+•FP gains.
+Stonemason:↩️
+•Less stone cost for builds.
+ID|talents

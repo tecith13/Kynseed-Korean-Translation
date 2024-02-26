@@ -1,0 +1,1560 @@
+Chat_Greeting_WORK_Blacksmith[P][Dislike] |= I thank <Goddess> for my work at the forge, but not for being distracted by people I barely know.
+Chat_Greeting_WORK_Blacksmith[P][Neutral] |= <Greeting>. I thank <Goddess> for all this steady work at the forge.
+Chat_Greeting_WORK_Blacksmith[P][Friendly] |= <Greeting>. Let us work hard and honour the divine <Goddess> with our toil.
+Chat_Greeting_WORK_Blacksmith[P][Like] |= <Greeting>. I am grateful for your visit to my forge today, <PlayerName>.
+Chat_Greeting_WORK_Blacksmith[P][Love] |= <Greeting>. I pray for your safety and happiness, <PlayerName>. as we craft these tools.
+Chat_Greeting_WORK_GoodsStore[P][Dislike] |= I thank <Goddess> for the opportunity to practice patience and forbearance, even with the most difficult customers...
+Chat_Greeting_WORK_GoodsStore[P][Neutral] |= <Greeting>. May <Goddess> guide our sales today and bring us prosperity.
+Chat_Greeting_WORK_GoodsStore[P][Friendly] |= <Greeting> I pray that your shopping trip is fruitful and prosperous.
+Chat_Greeting_WORK_GoodsStore[P][Like] |= <Greeting>. Your patronage brings joy to my heart, <PlayerName>.
+Chat_Greeting_WORK_GoodsStore[P][Love] |= <Greeting>. I thank <Goddess> for sending such a kind and generous person as you, <PlayerName>.
+Chat_Greeting_WORK_Tavern[P][Dislike] |= I thank the divine <Goddess> for the drinks here that distract me from your insufferable presence.
+Chat_Greeting_WORK_Tavern[P][Neutral] |= <Greeting>. May the entertainments we deliver bring joy and comfort to our patrons.
+Chat_Greeting_WORK_Tavern[P][Friendly] |= <Greeting>. Let us enjoy the warm company of good friends.
+Chat_Greeting_WORK_Tavern[P][Like] |= <Greeting>. I am glad to hang out in the Tavern with such a fine person as yourself, <PlayerName>.
+Chat_Greeting_WORK_Tavern[P][Love] |= <Greeting>. I pray that we continue to make merry and enjoy each other's company, <PlayerName>.
+Chat_Greeting_WORK_Apothecary[P][Dislike] |= May the healing powers of the herbs help me tolerate the fact that you are distracting me.
+Chat_Greeting_WORK_Apothecary[P][Neutral] |= <Greeting> I thank <Goddess> for granting me the gift of healing through these potions.
+Chat_Greeting_WORK_Apothecary[P][Friendly] |= <Greeting>. May the divine <Goddess> bring you healing and comfort today.
+Chat_Greeting_WORK_Apothecary[P][Like] |= <Greeting>. Your visit to my shop is a blessing from <Goddess>.
+Chat_Greeting_WORK_Apothecary[P][Love] |= <Greeting>. May <Goddess> bless us with healing and well-being, <PlayerName>.
+Chat_Greeting_FARMING[P][Dislike] |= I thank the divine <Goddess> for the peace and quiet of the fields, which allows me to escape from people annoying me...
+Chat_Greeting_FARMING[P][Neutral] |= <Greeting>. May the divine Freyl bless these crops with growth and abundance.
+Chat_Greeting_FARMING[P][Friendly] |= <Greeting>. Let us tend to these crops with care and gratitude for the land.
+Chat_Greeting_FARMING[P][Like] |= <Greeting>. May our hard work in the fields bear fruit for us both, <PlayerName>.
+Chat_Greeting_FARMING[P][Love] |= <Greeting>. May the divine Freyl bless us both, <PlayerName> with a bountiful harvest.
+Chat_Greeting_GARDEN[P][Dislike] |= I thank the divine Druida for the serenity of the orchard, which provides a respite from constant interruptions.
+Chat_Greeting_GARDEN[P][Neutral] |= <Greeting>. I thank Druida for these sweet and nourishing fruits.
+Chat_Greeting_GARDEN[P][Friendly] |= <Greeting>. May we be blessed with ripe and delicious fruits today.
+Chat_Greeting_GARDEN[P][Like] |= <Greeting>. Your company makes this picking much more enjoyable, <PlayerName>.
+Chat_Greeting_GARDEN[P][Love] |= <Greeting>. I thank Druida for the joy of picking fruit with you around, <PlayerName>.
+Chat_Greeting_PETS[P][Dislike] |= I thank Morwenna for my pets, which provide a much-needed distraction from being interrupted...
+Chat_Greeting_PETS[P][Neutral] |= <Greeting>. I pray that I am a good caretaker for these beloved pets.
+Chat_Greeting_PETS[P][Friendly] |= <Greeting>. I pray that we are good caretakers for these loyal companions.
+Chat_Greeting_PETS[P][Like] |= <Greeting>. I am grateful to have a friend who shares my love for animals, <PlayerName>.
+Chat_Greeting_PETS[P][Love] |= <Greeting>. I thank the divine Morwenna for the joy and love that our pets bring us, <PlayerName>.
+Chat_Greeting_SHOPPING[P][Dislike] |= I pray for the strength to bear constant interruptions and rudeness. I'm trying to walk to the shops...
+Chat_Greeting_SHOPPING[P][Neutral] |= <Greeting>. I thank <Goddess> for the abundance of goods available to us. So, I'm heading to the shops.
+Chat_Greeting_SHOPPING[P][Friendly] |= <Greeting>. Let us enjoy the hustle and bustle of the marketplace and find what we need.
+Chat_Greeting_SHOPPING[P][Like] |= <Greeting>. May <Goddess> bring us good fortune on this shopping trip, <PlayerName>.
+Chat_Greeting_SHOPPING[P][Love] |= <Greeting>. I thank the divine <Goddess> for the pleasure of your company, <PlayerName> on this errand.
+Chat_Greeting_TAVERN[P][Dislike] |= I thank the divine <Goddess> for the tavern, but could do without being bothered by you.
+Chat_Greeting_TAVERN[P][Neutral] |= <Greeting>. May some time in the tavern warm our spirits.
+Chat_Greeting_TAVERN[P][Friendly] |= <Greeting>. May we make a toast to good health and happiness.
+Chat_Greeting_TAVERN[P][Like] |= <Greeting>. Your humour and good cheer are a blessing, <PlayerName>.
+Chat_Greeting_TAVERN[P][Love] |= <Greeting>. I thank the divine for the warmth and laughter that we share in this tavern, <PlayerName>.
+Chat_Greeting_EXPLORE[P][Dislike] |= May <Goddess> forgive me for having to break my train of thought.
+Chat_Greeting_EXPLORE[P][Neutral] |= <Greeting>. I thank the divine <Goddess> for the wonders and mysteries of this world.
+Chat_Greeting_EXPLORE[P][Friendly] |= <Greeting>. Let us take a moment to reflect on the grandeur and mystery of this world.
+Chat_Greeting_EXPLORE[P][Like] |= <Greeting>. Your sense of wonder and curiosity is a gift, <PlayerName>.
+Chat_Greeting_EXPLORE[P][Love] |= <Greeting>. I pray that we continue to appreciate and protect the natural wonders of this world, <PlayerName>.
+Chat_Greeting_WALK[P][Dislike] |= I thank the divine <Goddess> for the peace and quiet of the outdoors, which provides a break from the constant irritations.
+Chat_Greeting_WALK[P][Neutral] |= <Greeting>. May we find peace and tranquility in the great outdoors.
+Chat_Greeting_WALK[P][Friendly] |= <Greeting>. I pray that we find peace and tranquility on our walks today.
+Chat_Greeting_WALK[P][Like] |= <Greeting>. Your company is a blessing on my journey, <PlayerName>.
+Chat_Greeting_WALK[P][Love] |= <Greeting>. I pray that we continue to enjoy the simple pleasures of life, <PlayerName>.
+Chat_Greeting_COOK[P][Dislike] |= I pray for the patience to endure constant interruptions while I cook.
+Chat_Greeting_COOK[P][Neutral] |= <Greeting>. May the food we prepare nourish and sustain us.
+Chat_Greeting_COOK[P][Friendly] |= <Greeting>. May the divine <Goddess> bless these ingredients and inspire us with delicious recipes.
+Chat_Greeting_COOK[P][Like] |= <Greeting>. Blessings be upon this kitchen and all who cook in it.
+Chat_Greeting_COOK[P][Love] |= <Greeting>. May the divine <Goddess> bless our kitchen and our meal, <PlayerName>. And also fill us with warmth and nourishment.
+Chat_Greeting_EAT[P][Dislike] |= May the divine <Goddess> bless this meal and allow me to enjoy it despite your presence.
+Chat_Greeting_EAT[P][Neutral] |= <Greeting>. I thank <Goddess> for the abundance of food on our plates.
+Chat_Greeting_EAT[P][Friendly] |= <Greeting>. May we be thankful for the food before us and the divine <Goddess> who provides it.
+Chat_Greeting_EAT[P][Like] |= <Greeting>. May we always be grateful for the abundance on our plates.
+Chat_Greeting_EAT[P][Love] |= <Greeting>. May <Goddess> bless our food, <PlayerName> and nourish our bodies and souls.
+
+Chat_Greeting_WORK_Blacksmith[J][Dislike] |= Oh, it's you. What can I do for you?
+Chat_Greeting_WORK_Blacksmith[J][Neutral] |= <Greeting>. Don't mind the noise, we are just making some new tools.
+Chat_Greeting_WORK_Blacksmith[J][Friendly] |= <Greeting> I love the smell of a hot furnace in the morning. It's invigorating.
+Chat_Greeting_WORK_Blacksmith[J][Like] |= <PlayerName>. My favourite customer. What can I forge for you today?
+Chat_Greeting_WORK_Blacksmith[J][Love] |= <Greeting>. I could forge anything for you, <PlayerName>, my dear. Just name it.
+Chat_Greeting_WORK_GoodsStore[J][Dislike] |= Well, look who it is. What do you need from the store?
+Chat_Greeting_WORK_GoodsStore[J][Neutral] |= <Greeting>. Looking for anything special? We've got it all.
+Chat_Greeting_WORK_GoodsStore[J][Friendly] |= <Greeting>. If you're looking for something specific, you'll probably find it right over there.
+Chat_Greeting_WORK_GoodsStore[J][Like] |= <Greeting>, <PlayerName>. I always look forward to seeing you in the shop.
+Chat_Greeting_WORK_GoodsStore[J][Love] |= <Greeting>, <PlayerName>. Always the highlight of my day, seeing you. What are you shopping for?
+Chat_Greeting_WORK_Tavern[J][Dislike] |= Oh right, it's you. Found the tavern, I see.
+Chat_Greeting_WORK_Tavern[J][Neutral] |= <Greeting>. Take a load off and take a break.
+Chat_Greeting_WORK_Tavern[J][Friendly] |= <Greeting>. Whether you're celebrating or commiserating, there's a drink for every occasion.
+Chat_Greeting_WORK_Tavern[J][Like] |= <Greeting>. I always have a listening ear if you need to vent or chat, <PlayerName>.
+Chat_Greeting_WORK_Tavern[J][Love] |= <Greeting>, <PlayerName>. You are always the life and soul of the party. I'd like to see you on the stage!
+Chat_Greeting_WORK_Apothecary[J][Dislike] |= If you don't know what you're looking for, then you're in the wrong place.
+Chat_Greeting_WORK_Apothecary[J][Neutral] |= <Greeting>. Come to check out our latest concoctions?
+Chat_Greeting_WORK_Apothecary[J][Friendly] |= <Greeting>. If you're feeling under the weather, don't worry. I've got you covered.
+Chat_Greeting_WORK_Apothecary[J][Like] |= <Greeting>. It's not just about the potions; it's about the people I can help with them.
+Chat_Greeting_WORK_Apothecary[J][Love] |= <Greeting>. I could spend all day mixing potions, but time with you is always the highlight.
+Chat_Greeting_FARMING[J][Dislike] |= <Greeting>. I'm starting to regret letting you near my crops.
+Chat_Greeting_FARMING[J][Neutral] |= Whew, working up a sweat out here. How can I help you?
+Chat_Greeting_FARMING[J][Friendly] |= <Greeting>. Working the land is hard work, but it's also very rewarding.
+Chat_Greeting_FARMING[J][Like] |= <Greeting>. It's always amazing to see what you can grow with a little love and care. And some compost.
+Chat_Greeting_FARMING[J][Love] |= <Greeting>. Having you visit whilst I'm among the crops is like a dream come true.
+Chat_Greeting_GARDEN[J][Dislike] |= If you're not going to be useful, then you're just in the way. I'm picking fruit.
+Chat_Greeting_GARDEN[J][Neutral] |= Mmm, nothing like fresh fruit. Want some?
+Chat_Greeting_GARDEN[J][Friendly] |= <Greeting>. If you're looking for the juiciest fruit, I know just where to look.
+Chat_Greeting_GARDEN[J][Like] |= <Greeting>. I have a feeling we're going to be making some amazing pies and jams with this haul, <PlayerName>.
+Chat_Greeting_GARDEN[J][Love] |= I could pick fruit with you forever, my friend.
+Chat_Greeting_PETS[J][Dislike] |= I don't really have time for you, I've got hungry animals to feed.
+Chat_Greeting_PETS[J][Neutral] |= <Greeting>. Come meet my pets and give them a snack.
+Chat_Greeting_PETS[J][Friendly] |= <Greeting>. Hey there, furry friends. Who's hungry?
+Chat_Greeting_PETS[J][Like] |= <Greeting>. Looks like my furry friends are in good hands with you around.
+Chat_Greeting_PETS[J][Love] |= <Greeting>. You have such a way with animals... it's amazing to watch.
+Chat_Greeting_SHOPPING[J][Dislike] |= Can't you see I'm in a hurry here? I'm off to the shops, so be quick.
+Chat_Greeting_SHOPPING[J][Neutral] |= <Greeting>. What's on your shopping list?
+Chat_Greeting_SHOPPING[J][Friendly] |= <Greeting>. Shopping is one of my favourite hobbies. It's all about finding bargains.
+Chat_Greeting_SHOPPING[J][Like] |= <Greeting>. It's always a good idea to shop around, but I think you'll find the best deals right here in town.
+Chat_Greeting_SHOPPING[J][Love] |= <Greeting>, <PlayerName>. Your company makes even the most boring trips to the shops more enjoyable.
+Chat_Greeting_TAVERN[J][Dislike] |= <Greeting>. If you're not here to drink, then why are you wasting my time?
+Chat_Greeting_TAVERN[J][Neutral] |= <Greeting>, stranger. Want to share some time with me?
+Chat_Greeting_TAVERN[J][Friendly] |= <Greeting>. There's nothing quite like the camaraderie of hanging out with good friends.
+Chat_Greeting_TAVERN[J][Like] |= Cheers, <PlayerName>. To friendship, good times, and good drinks.
+Chat_Greeting_TAVERN[J][Love] |= <Greeting>. Going to the tavern is always better with you here, <PlayerName>.
+Chat_Greeting_EXPLORE[J][Dislike] |= Can't you see I'm trying to admire this, thing?
+Chat_Greeting_EXPLORE[J][Neutral] |= <Greeting>. Come see this fascinating thingie.
+Chat_Greeting_EXPLORE[J][Friendly] |= <Greeting>. Let's take a moment to appreciate the beauty and wonder of this place.
+Chat_Greeting_EXPLORE[J][Like] |= <Greeting>. I'm always amazed at how much there is to discover in Quill.
+Chat_Greeting_EXPLORE[J][Love] |= I love exploring new places with you, <PlayerName>. What do you think of this spot? Not the one on my face.
+Chat_Greeting_WALK[J][Dislike] |= I don't really have time for you, I'm trying to relax.
+Chat_Greeting_WALK[J][Neutral] |= <Greeting>. Stretching my legs. Want to come along?
+Chat_Greeting_WALK[J][Friendly] |= <Greeting>. There's nothing quite like the peace and tranquility of a leisurely walk.
+Chat_Greeting_WALK[J][Like] |= <Greeting>. I always feel better after a good walk, especially when I have good company.
+Chat_Greeting_WALK[J][Love] |= <Greeting>. I love how peaceful and rejuvenating walks can be. Let's go explore Quill.
+Chat_Greeting_COOK[J][Dislike] |= If you're not going to help, then stay out of my kitchen.
+Chat_Greeting_COOK[J][Neutral] |= <Greeting>. Come taste my latest creation.
+Chat_Greeting_COOK[J][Friendly] |= I love the smell of fresh ingredients and the sound of sizzling pans.
+Chat_Greeting_COOK[J][Like] |= <Greeting>. I'm always up for a taste-test and some good conversation while I cook.
+Chat_Greeting_COOK[J][Love] |= <Greeting>. Cooking with you is always a treat, <PlayerName>. What can I help you with?
+Chat_Greeting_EAT[J][Dislike] |= I'm not your personal dining companion, so don't expect me to entertain you.
+Chat_Greeting_EAT[J][Neutral] |= <Greeting>, stranger. I'm eating, by the way...
+Chat_Greeting_EAT[J][Friendly] |= <Greeting>. Eating is one of life's greatest pleasures. I enjoy every bite.
+Chat_Greeting_EAT[J][Like] |= <Greeting>. If you ever need a dining companion, <PlayerName>, I'm always up for it.
+Chat_Greeting_EAT[J][Love] |= <Greeting>. I like seeing the joy on your face when you take a bite of something delicious.
+
+Chat_Greeting_WORK_Blacksmith[B][Dislike] |= You should just stick to buying weapons from me, since you'll never make anything worth using.
+Chat_Greeting_WORK_Blacksmith[B][Neutral] |= <Greeting>. I've got a gift for turning scrap metal into treasure.
+Chat_Greeting_WORK_Blacksmith[B][Friendly] |= <Greeting>. You're a lucky charm when it comes to crafting weapons.
+Chat_Greeting_WORK_Blacksmith[B][Like] |= <Greeting>. I knew you had potential, <PlayerName>. And you're proving me right.
+Chat_Greeting_WORK_Blacksmith[B][Love] |= I'm the best blacksmith in town, and I'm devoted to making the perfect weapon for you, <PlayerName>. 
+Chat_Greeting_WORK_GoodsStore[B][Dislike] |= I'm the only one who knows how to make a real profit in this business.
+Chat_Greeting_WORK_GoodsStore[B][Neutral] |= <Greeting>. I've got the best prices in town.
+Chat_Greeting_WORK_GoodsStore[B][Friendly] |= <Greeting>. Thanks to me, this goods store is thriving like never before.
+Chat_Greeting_WORK_GoodsStore[B][Like] |= <Greeting>. You must be a natural salesperson, I can tell, <PlayerName>.
+Chat_Greeting_WORK_GoodsStore[B][Love] |= <Greeting>. I'll always have a special offer waiting just for you, <PlayerName>.
+Chat_Greeting_WORK_Tavern[B][Dislike] |= I don't have time for people who can't handle their drinks.
+Chat_Greeting_WORK_Tavern[B][Neutral] |= <Greeting>. The tavern is the place to be in you if want a good time.
+Chat_Greeting_WORK_Tavern[B][Friendly] |= <Greeting>. The tavern is the heart of the village, don't you think?
+Chat_Greeting_WORK_Tavern[B][Like] |= <Greeting>, <PlayerName>. Perhaps you're the reason why the tavern is always busy?
+Chat_Greeting_WORK_Tavern[B][Love] |= <Greeting>, <PlayerName>. I'll make sure you always have a good time and unforgettable memories at this tavern.
+Chat_Greeting_WORK_Apothecary[B][Dislike] |= I'm the one who keeps the town healthy. What are you doing for the rest of us?
+Chat_Greeting_WORK_Apothecary[B][Neutral] |= <Greeting>. I'm the best healer in town, hands down, legs down, pills down.
+Chat_Greeting_WORK_Apothecary[B][Friendly] |= <Greeting>. Thanks to us, the villagers are in good health and better spirits.
+Chat_Greeting_WORK_Apothecary[B][Like] |= <Greeting>, <PlayerName>. I've seen a lot of healers come and go, but I reckon you've got real talent. Try some more crafting?
+Chat_Greeting_WORK_Apothecary[B][Love] |= <Greeting>, <PlayerName>. I'm the most knowledgeable alchemist in the business, but I still have a lot to learn about the chemistry between us.
+Chat_Greeting_FARMING[B][Dislike] |= I'm the one who feeds the town. You're just a glorified gardener.
+Chat_Greeting_FARMING[B][Neutral] |= <Greeting>. My green thumb is the envy of every farmer in town. Just look!
+Chat_Greeting_FARMING[B][Friendly] |= <Greeting> Good to see you. Want to take a look at my latest crops?
+Chat_Greeting_FARMING[B][Like] |= <Greeting>. You're a natural gardener, <PlayerName>. I can tell.
+Chat_Greeting_FARMING[B][Love] |= <Greeting>. I'm constantly amazed by our farming skills, <PlayerName>.
+Chat_Greeting_GARDEN[B][Dislike] |= I know how to pick fruit without damaging it, unlike you.
+Chat_Greeting_GARDEN[B][Neutral] |= <Greeting>. I know how to pick 'em ripe and sweet.
+Chat_Greeting_GARDEN[B][Friendly] |= <Greeting>. Together, we're the fruit-picking dream team.
+Chat_Greeting_GARDEN[B][Like] |= <Greeting>. You've got a real talent for spotting the ripest fruit, <PlayerName>
+Chat_Greeting_GARDEN[B][Love] |= Together, <PlayerName>, we'll gather the juiciest fruit in Quill.
+Chat_Greeting_PETS[B][Dislike] |= I can communicate with pets in ways that you can't even imagine.
+Chat_Greeting_PETS[B][Neutral] |= <Greeting>. My pets are the healthiest and happiest around.
+Chat_Greeting_PETS[B][Friendly] |= <Greeting>. When you visit, my pets seem to get a bit happier.
+Chat_Greeting_PETS[B][Like] |= <Greeting>, <PlayerName>. I hear that you know exactly what your pets need, just like me.
+Chat_Greeting_PETS[B][Love] |= <Greeting>. I'm just feeding the animals, <PlayerName> but it is always lovely to see you.
+Chat_Greeting_SHOPPING[B][Dislike] |= I can haggle prices down to the lowest possible amount, can you?
+Chat_Greeting_SHOPPING[B][Neutral] |= <Greeting>. I've got a knack for finding hidden treasures in the shops.
+Chat_Greeting_SHOPPING[B][Friendly] |= <Greeting>. You could be the shopping partner I'm looking for.
+Chat_Greeting_SHOPPING[B][Like] |= <Greeting>, <PlayerName>. I've learned a lot from watching how you navigate the shops.
+Chat_Greeting_SHOPPING[B][Love] |= <Greeting>. You have a great eye for spotting the best deals, <PlayerName>.
+Chat_Greeting_TAVERN[B][Dislike] |= I really know how to appreciate my time in the tavern. I'm not sure you do.
+Chat_Greeting_TAVERN[B][Neutral] |= <Greeting>. My favourite drink? All of them.
+Chat_Greeting_TAVERN[B][Friendly] |= <Greeting>. I'm grateful for your company when it comes to enjoying a drink or two.
+Chat_Greeting_TAVERN[B][Like] |= <Greeting>. I'm always happy to have a tavern buddy like you, <PlayerName>.
+Chat_Greeting_TAVERN[B][Love] |= Stay for a while, I can't wait to see what kind of fun we'll have together.
+Chat_Greeting_EXPLORE[B][Dislike] |= This is nothing compared to the sights I've seen on my travels.
+Chat_Greeting_EXPLORE[B][Neutral] |= <Greeting>. I'm always up for exploring Quill.
+Chat_Greeting_EXPLORE[B][Friendly] |= <Greeting>. Do you have my curiosity when it comes to exploring the land?
+Chat_Greeting_EXPLORE[B][Like] |= <Greeting>, <PlayerName>. You know how to find the most interesting treasures of Quill, just like me.
+Chat_Greeting_EXPLORE[B][Love] |= <Greeting>, <PlayerName>. I'm constantly amazed by your sense of adventure.
+Chat_Greeting_WALK[B][Dislike] |= I can walk for days without getting tired. You look like you can barely make it past the hour.
+Chat_Greeting_WALK[B][Neutral] |= <Greeting>. My walks are always a journey of discovery.
+Chat_Greeting_WALK[B][Friendly] |= <Greeting>. With you around, every walk is a new adventure.
+Chat_Greeting_WALK[B][Like] |= <Greeting>, <PlayerName> I'm always happy to take a walk with a friend like you.
+Chat_Greeting_WALK[B][Love] |= Together, <PlayerName>, we'll hike to the highest peaks and deepest valleys. If there were any.
+Chat_Greeting_COOK[B][Dislike] |= I know how to mix flavours in ways you'll never understand.
+Chat_Greeting_COOK[B][Neutral] |= <Greeting>. I can cook up a storm with just a few ingredients.
+Chat_Greeting_COOK[B][Friendly] |= <Greeting>, <PlayerName>. My secret ingredient is always love; it makes every dish taste better. And salt.
+Chat_Greeting_COOK[B][Like] |= <Greeting>. You always know exactly what ingredients to use and how to prepare them, <PlayerName>.
+Chat_Greeting_COOK[B][Love] |= <Greeting>. Cooking is more fun when I'm doing it with you, <PlayerName>.
+Chat_Greeting_EAT[B][Dislike] |= I can appreciate the subtle flavours of any dish, while you look like you just stuff your face.
+Chat_Greeting_EAT[B][Neutral] |= <Greeting>. My meals are always an adventure for my taste buds.
+Chat_Greeting_EAT[B][Friendly] |= <Greeting>. Thanks to you, our cooking sessions are full of laughter.
+Chat_Greeting_EAT[B][Like] |= <Greeting>, <PlayerName>. I've learned a lot from watching how you savour and enjoy each bite.
+Chat_Greeting_EAT[B][Love] |= <Greeting>. I'm glad I get to share meals with you, <PlayerName>.
+
+Chat_Greeting_WORK_Blacksmith[Q][Dislike] |= I'd rather stick my hand in the forge than talk to you right now.
+Chat_Greeting_WORK_Blacksmith[Q][Neutral] |= <Greeting>. The hammer talks to me, but it only speaks in code.
+Chat_Greeting_WORK_Blacksmith[Q][Friendly] |= <Greeting>. Welcome to the forge. Can I interest you in some heavy metal?
+Chat_Greeting_WORK_Blacksmith[Q][Like] |= Don't worry, <PlayerName>. I haven't burned down the forge... yet.
+Chat_Greeting_WORK_Blacksmith[Q][Love] |= Every hammer strike is like a love song for you, my dear, <PlayerName>. Whatever that means.
+Chat_Greeting_WORK_GoodsStore[Q][Dislike] |= Are you actually going to buy something?
+Chat_Greeting_WORK_GoodsStore[Q][Neutral] |= Welcome to the store, where everything is 100% off. Just kidding, We are not that crazy.
+Chat_Greeting_WORK_GoodsStore[Q][Friendly] |= <Greeting>. Welcome to the emporium of wonders. What can I offer you?
+Chat_Greeting_WORK_GoodsStore[Q][Like] |= Good to see you again, <PlayerName>. I've got everything you need... and some things you don't.
+Chat_Greeting_WORK_GoodsStore[Q][Love] |= The items in this store pale in comparison to the treasure of your friendship, my dear, <PlayerName>.
+Chat_Greeting_WORK_Tavern[Q][Dislike] |= Are you here for a drink or to talk to me?
+Chat_Greeting_WORK_Tavern[Q][Neutral] |= Welcome to the happiest place in the world, where the drinks are always cold and the jokes are as cheesy as the nibbles.
+Chat_Greeting_WORK_Tavern[Q][Friendly] |= <Greeting>. Need a break from adventuring?
+Chat_Greeting_WORK_Tavern[Q][Like] |= Welcome to where I work. The tavern is good to me, as indeed are you!
+Chat_Greeting_WORK_Tavern[Q][Love] |= Look who's here. It's <PlayerName>! The life and soul of the party has arrived!
+Chat_Greeting_WORK_Apothecary[Q][Dislike] |= Can't you see I'm trying to help other patients? Stop wasting my time.
+Chat_Greeting_WORK_Apothecary[Q][Neutral] |= Welcome to the land of magic potions and weird smells. I'm the master of the art of healing.
+Chat_Greeting_WORK_Apothecary[Q][Friendly] |= <Greeting>. Need a cure for what ails you? Look no further. Unless what ails you is chronic indecision, then I can't help you.
+Chat_Greeting_WORK_Apothecary[Q][Like] |= <Greeting>. Look who's come for some remedies. My day just got better.
+Chat_Greeting_WORK_Apothecary[Q][Love] |= <Greeting>, <PlayerName>. I may not be a magician, but I can make any ailment disappear with a smile from you.
+Chat_Greeting_FARMING[Q][Dislike] |= I'm starting to think you're trying to sabotage my crops.
+Chat_Greeting_FARMING[Q][Neutral] |= <Greeting>. Want to know the secret to a good harvest? Just add a sprinkle of magic and a dash of <NPC NAME>'s love. And rain.
+Chat_Greeting_FARMING[Q][Friendly] |= <Greeting>. Just taking care of my plants. They're like my children except far better behaved.
+Chat_Greeting_FARMING[Q][Like] |= The secret to growing the best crops, <PlayerName>? Talk to them. Just don't let anyone see you, or they'll think you're crazy for not sending them pigeon post instead.
+Chat_Greeting_FARMING[Q][Love] |= Growing crops is like growing love. It takes time, care, and patience. Luckily, I have all three when it comes to you, <PlayerName>.
+Chat_Greeting_GARDEN[Q][Dislike] |= Can't you see I'm trying to pick my fruit? Stop getting in the way.
+Chat_Greeting_GARDEN[Q][Neutral] |= <Greeting>. I'm the fruit warrior... the master of the art of picking fruits and dodging bees.
+Chat_Greeting_GARDEN[Q][Friendly] |= Hey, hey, hey. Just picking some juicy treats. Want to try some?
+Chat_Greeting_GARDEN[Q][Like] |= <Greeting>, <PlayerName>. Picking fruit is like a treasure hunt, but instead of gold, you get... well, fruit.
+Chat_Greeting_GARDEN[Q][Love] |= <Greeting>. Fruit may be sweet, but you're even sweeter.
+Chat_Greeting_PETS[Q][Dislike] |= I'd rather feed a pack of Barghests than talk to you right now. 
+Chat_Greeting_PETS[Q][Neutral] |= <Greeting>. I'm like a pet whisperer, knowing their needs before they even ask.
+Chat_Greeting_PETS[Q][Friendly] |= <Greeting>. These little ones love their food. Want to see them eat?
+Chat_Greeting_PETS[Q][Like] |= You and my pets are like family, except they don't talk back. Unless you count barking or meowing, which I do.
+Chat_Greeting_PETS[Q][Love] |= <Greeting>, <PlayerName>. If I could domesticate my affection for you, I'd never let it out of my sight. 
+Chat_Greeting_SHOPPING[Q][Dislike] |= Can't you see I'm trying to go shopping? Stop getting in my way.
+Chat_Greeting_SHOPPING[Q][Neutral] |= <Greeting>. If you want to be a savvy shopper, just watch me in action.
+Chat_Greeting_SHOPPING[Q][Friendly] |= <Greeting>. Let's see what treasures we can find in the shops.
+Chat_Greeting_SHOPPING[Q][Like] |= I once haggled with a merchant so well they paid me to take the item.
+Chat_Greeting_SHOPPING[Q][Love] |= I may not have a lot of Brass, but I have a heart full of love for you, <PlayerName>.
+Chat_Greeting_TAVERN[Q][Dislike] |= Why do you always have to get so close to me? Can't you find someone and somewhere else?
+Chat_Greeting_TAVERN[Q][Neutral] |= <Greeting>. I'm not just drinking, I'm building friendships.
+Chat_Greeting_TAVERN[Q][Friendly] |= <Greeting>, pal. Want to grab a drink and chat about great adventures?
+Chat_Greeting_TAVERN[Q][Like] |= Well, well, well. You're in for a treat, <PlayerName>. I know all the best drinks to try.
+Chat_Greeting_TAVERN[Q][Love] |= <Greeting>. I don't need a drink to have a good time. All I need is you, <PlayerName>.
+Chat_Greeting_EXPLORE[Q][Dislike] |= Can't you see I'm trying to explore Quill in peace? Go away.
+Chat_Greeting_EXPLORE[Q][Neutral] |= <Greeting>. I'm like an explorer, but instead of discovering new lands, I'm discovering new perspectives.
+Chat_Greeting_EXPLORE[Q][Friendly] |= <Greeting>. If you look closely enough, you can find beauty in even the most mundane things. Like this... thing. Whatever it is.
+Chat_Greeting_EXPLORE[Q][Like] |= <Greeting>. Let's see if we can find any hidden gems around here.
+Chat_Greeting_EXPLORE[Q][Love] |= <Greeting>, <PlayerName>. I could stare at this view all day, but I'd rather chat with you!
+Chat_Greeting_WALK[Q][Dislike] |= I'm walkin' here!
+Chat_Greeting_WALK[Q][Neutral] |= <Greeting>. I'm not just walking, I'm wandering with a purpose.
+Chat_Greeting_WALK[Q][Friendly] |= <Greeting>. I know some lovely places to wander around, like date spots, for instance.
+Chat_Greeting_WALK[Q][Like] |= <Greeting>, <PlayerName>. I once went for a walk and ended up in a neighbouring Haven. Okay, that's not true, but it sounded more exciting than 'I got lost for three hours'.
+Chat_Greeting_WALK[Q][Love] |= <Greeting>. Walking with you is like walking on air, <PlayerName>. Impossible. Haha! Just kidding.
+Chat_Greeting_COOK[Q][Dislike] |= Why are you hanging around my kitchen?
+Chat_Greeting_COOK[Q][Neutral] |= <Greeting>. I'm like a musician, but instead of playing instruments, I'm using pots and pans.
+Chat_Greeting_COOK[Q][Friendly] |= <Greeting>. Welcome to my kitchen. Want to help me create a masterpiece?
+Chat_Greeting_COOK[Q][Like] |= The key to cooking, <PlayerName> is to add love. And salt. And maybe some garlic. But mostly love.
+Chat_Greeting_COOK[Q][Love] |= <Greeting>, <PlayerName>. I may be cooking, but you're the one who makes my heart simmer.
+Chat_Greeting_EAT[Q][Dislike] |= Why do you always have to come and ruin my mealtime?
+Chat_Greeting_EAT[Q][Neutral] |= <Greeting>. I'm not just satisfying my hunger, I'm indulging my senses.
+Chat_Greeting_EAT[Q][Friendly] |= <Greeting>. friend. Food is not just fuel; it's an experience. And I'm all about experiencing life to the fullest.
+Chat_Greeting_EAT[Q][Like] |= <Greeting>, <PlayerName>. Eating is one of life's greatest pleasures. And I'm pretty good at it, if I do say so myself.
+Chat_Greeting_EAT[Q][Love] |= <Greeting>, <PlayerName>. I may be eating, but I'm really just savouring every moment just being with you.
+
+Chat_Greeting_WORK_Blacksmith[C][Dislike] |= Great, another clueless adventurer. Just what I need.
+Chat_Greeting_WORK_Blacksmith[C][Neutral] |= Ugh, my back is killing me from all this heavy work.
+Chat_Greeting_WORK_Blacksmith[C][Friendly] |= <Greeting>. You caught me on a busy day. I've got so many orders to fill.
+Chat_Greeting_WORK_Blacksmith[C][Like] |= <Greeting>. Thanks for visiting, but my ears are killing me from all this hammering.
+Chat_Greeting_WORK_Blacksmith[C][Love] |= <Greeting>. I wish we could take a break and sit down with you, <PlayerName>. My back is killing me.
+Chat_Greeting_WORK_GoodsStore[C][Dislike] |= I bet you have no idea what you're looking for. Like always.
+Chat_Greeting_WORK_GoodsStore[C][Neutral] |= I hate dealing with all these grumpy customers. Can't they just be nice for once?
+Chat_Greeting_WORK_GoodsStore[C][Friendly] |= <Greeting>. Another day, another stack of inventory to sort. I wish I could take a nap instead.
+Chat_Greeting_WORK_GoodsStore[C][Like] |= <Greeting>. Thanks for keeping me company, these customers can be so demanding.
+Chat_Greeting_WORK_GoodsStore[C][Love] |= Why do I have to work on weekends too? Can't we have some time off together, <PlayerName>?
+Chat_Greeting_WORK_Tavern[C][Dislike] |= Why do I always get stuck serving the worst customers?
+Chat_Greeting_WORK_Tavern[C][Neutral] |= I wish I could just sit down and have a drink myself, but no, I have to keep working.
+Chat_Greeting_WORK_Tavern[C][Friendly] |= <Greeting>. Another day, another shift. I just wish I didn't have to deal with all these rowdy patrons.
+Chat_Greeting_WORK_Tavern[C][Like] |= <Greeting>. It's great to have you here, I can't hear myself think over all the noise.
+Chat_Greeting_WORK_Tavern[C][Love] |= <Greeting>, <PlayerName>. I love serving drinks and chatting with customers, but sometimes they can be so rowdy.
+Chat_Greeting_WORK_Apothecary[C][Dislike] |= I'm sure you have some ridiculous request, as usual.
+Chat_Greeting_WORK_Apothecary[C][Neutral] |= Why do people always wait until they're sick to come in here? It's so frustrating.
+Chat_Greeting_WORK_Apothecary[C][Friendly] |= <Greeting>. Can you believe how expensive these ingredients are? It's a miracle anyone can afford to be healthy.
+Chat_Greeting_WORK_Apothecary[C][Like] |= <Greeting>. I'm happy to have someone to talk to; these customers can be so grumpy.
+Chat_Greeting_WORK_Apothecary[C][Love] |= It's great to see you, <PlayerName>, but can you believe how many customers are asking for medicine today?
+Chat_Greeting_FARMING[C][Dislike] |= Why do I always have to deal with the pests and weeds?
+Chat_Greeting_FARMING[C][Neutral] |= I wish I could just relax for once, but these plants need constant attention.
+Chat_Greeting_FARMING[C][Friendly] |= <Greeting>. Can you believe how unpredictable the weather can be? It's hard to plan ahead.
+Chat_Greeting_FARMING[C][Like] |= <Greeting>. Thanks for joining me, these weeds just won't stop growing.
+Chat_Greeting_FARMING[C][Love] |= <Greeting>. I'm glad I can provide fresh veg for you, <PlayerName>, but weeding can be so tedious.
+Chat_Greeting_GARDEN[C][Dislike] |= Why do I even bother with these trees? Most of them get worms... and then you turn up.
+Chat_Greeting_GARDEN[C][Neutral] |= I wish I had some help. This is too much work for one person.
+Chat_Greeting_GARDEN[C][Friendly] |= <Greeting>. I wish people wouldn't pick the fruits before they're ripe. It's such a waste.
+Chat_Greeting_GARDEN[C][Like] |= <Greeting>. I'm glad you're here, my arms are aching from all the picking.
+Chat_Greeting_GARDEN[C][Love] |= <Greeting>, <PlayerName>. Always happy to chat with you, but my back is starting to ache from all this bending.
+Chat_Greeting_PETS[C][Dislike] |= Why do I always have to deal with these animals?
+Chat_Greeting_PETS[C][Neutral] |= These pets are always so demanding. They're like little children.
+Chat_Greeting_PETS[C][Friendly] |= <Greeting>. Why are these animals always so picky with their food? Reminds me of me.
+Chat_Greeting_PETS[C][Like] |= <Greeting>. I'm grateful for your company, these feeding times never seem to end.
+Chat_Greeting_PETS[C][Love] |= <Greeting>, <PlayerName> just feeding my pets. Can we get more treats for them? They seem bored.
+Chat_Greeting_SHOPPING[C][Dislike] |= I'm off to the shops, but I'm so sick of all the bargaining and haggling.
+Chat_Greeting_SHOPPING[C][Neutral] |= Why do they always rearrange the store? It's like they're trying to confuse us.
+Chat_Greeting_SHOPPING[C][Friendly] |= <Greeting>. Can you believe how hard it is to find what you need in the store, sometimes? It's frustrating.
+Chat_Greeting_SHOPPING[C][Like] |= <Greeting>. It's good to see you; these merchants always seem to overcharge.
+Chat_Greeting_SHOPPING[C][Love] |= <Greeting>, <PlayerName>. It's nice to have access to different stores, but sometimes I feel like I'm overspending.
+Chat_Greeting_TAVERN[C][Dislike] |= Can't you see I'm trying to relax here?
+Chat_Greeting_TAVERN[C][Neutral] |= I wish they served better drinks here. These taste like swill. I should know... I drink enough of it!
+Chat_Greeting_TAVERN[C][Friendly] |= <Greeting>. Can you believe how rowdy some people can get in here? It's a bit much.
+Chat_Greeting_TAVERN[C][Like] |= <Greeting>. Thanks for joining me, the drinks they serve here always gives me a headache.
+Chat_Greeting_TAVERN[C][Love] |= <Greeting>, <PlayerName> Why do I have to deal with all these rowdy patrons? Can't we have a quiet drink at home?
+Chat_Greeting_EXPLORE[C][Dislike] |= I'm trying to relax, but I'm so sick of all the distractions and interruptions.
+Chat_Greeting_EXPLORE[C][Neutral] |= I wish I had brought some snacks on this trip. I'm starving.
+Chat_Greeting_EXPLORE[C][Friendly] |= <Greeting>. Glad you could join me in staring thoughtfully at the wonders of Quill, and nodding sagely.
+Chat_Greeting_EXPLORE[C][Like] |= <Greeting>. I'm happy you're here, the weather never seems to cooperate when I plan to visit the corners of Quill.
+Chat_Greeting_EXPLORE[C][Love] |= <Greeting>, <PlayerName>. Let's take a moment to share in the beauty of Quill together.
+Chat_Greeting_WALK[C][Dislike] |= Can't you see I'm trying to clear my head? Go bother someone else.
+Chat_Greeting_WALK[C][Neutral] |= I'm so tired of all the walking. My feet are killing me.
+Chat_Greeting_WALK[C][Friendly] |= <Greeting>. The paths here are so uneven. It's a tripping hazard.
+Chat_Greeting_WALK[C][Like] |= <Greeting>. I'm happy you're here, everyone else is getting on my nerves.
+Chat_Greeting_WALK[C][Love] |= <Greeting>. I'm tired of walking alone. That's not a hint for a piggyback, <PlayerName>.
+Chat_Greeting_COOK[C][Dislike] |= Why do I always have to do all the cooking around here?
+Chat_Greeting_COOK[C][Neutral] |= Why do I always burn something? It's like I have no talent for cooking.
+Chat_Greeting_COOK[C][Friendly] |= <Greeting>. I wish I had more ingredients to work with. It's limiting my potential.
+Chat_Greeting_COOK[C][Like] |= <Greeting>. I'm happy you're here, but the amount of dishes to clean up after cooking is overwhelming.
+Chat_Greeting_COOK[C][Love] |= <Greeting>, <PlayerName>. I'm so tired of standing in front of a hot stove. I wish I could sit down with you instead.
+Chat_Greeting_EAT[C][Dislike] |= Can't you see I'm trying to enjoy my meal? Go bother someone else.
+Chat_Greeting_EAT[C][Neutral] |= I wish we had better ingredients. These dishes taste so bland.
+Chat_Greeting_EAT[C][Friendly] |= <Greeting>. Another day, another meal to eat.
+Chat_Greeting_EAT[C][Like] |= <Greeting>. This recipe always requires ingredients that are hard to find.
+Chat_Greeting_EAT[C][Love] |= <Greeting>. I wish we could eat together more often, <PlayerName>... instead of me eating alone.
+
+Chat_Greeting_WORK_Blacksmith[Dislike] |= What do you want now? Can't you see I'm busy? Tell me what you need so I can get back to 'smithing.
+Chat_Greeting_WORK_Blacksmith[Neutral] |= <Greeting>. How can I help you? Just let me know what you're looking for, and I'll see what I can do.
+Chat_Greeting_WORK_Blacksmith[Friendly] |= <Greeting>. It's good to see you. What brings you to the blacksmiths? I'm a bit swamped with tasks, but I'll do my best to help you out.
+Chat_Greeting_WORK_Blacksmith[Like] |= <Greeting>. How have you been? I'm quite occupied with my blacksmith duties, but I'd love to hear how things are going for you.
+Chat_Greeting_WORK_Blacksmith[Love] |= <Greeting>. I've been waiting for you to drop by, <PlayerName>. How's everything going? I'm all ears.
+Chat_Greeting_WORK_GoodsStore[Dislike] |= What do you want? Can't you see I'm busy? Look around if you need something, but don't bother me.
+Chat_Greeting_WORK_GoodsStore[Neutral] |= <Greeting>. I'm in the middle of stocking shelves, so excuse me if I seem a bit preoccupied.
+Chat_Greeting_WORK_GoodsStore[Friendly] |= <Greeting>. Good to see you. I'll be here, busy as always, but happy to help.
+Chat_Greeting_WORK_GoodsStore[Like] |= <Greeting>. I'm multitasking here, but I always have time for a quick chat.
+Chat_Greeting_WORK_GoodsStore[Love] |= Oh my gosh, <PlayerName>. You're here. I'm in the middle of stocking shelves, but you're my top priority.
+Chat_Greeting_WORK_Tavern[Dislike] |= Oh, its you. Don't expect any special treatment.
+Chat_Greeting_WORK_Tavern[Neutral] |= <Greeting>, stranger. Welcome to our establishment.
+Chat_Greeting_WORK_Tavern[Friendly] |= <Greeting>. Great to see you again. How do you like our tavern?
+Chat_Greeting_WORK_Tavern[Like] |= <Greeting>. How've you been? Anything exciting happening lately? I'm all ears, as long as you don't mind the occasional interruption.
+Chat_Greeting_WORK_Tavern[Love] |= Oh, <PlayerName>. You're here. I've been waiting for you. What can I do to make your day even better?
+Chat_Greeting_WORK_Apothecary[Dislike] |= What do you want now? Can't you see I'm busy making powders here?
+Chat_Greeting_WORK_Apothecary[Neutral] |= <Greeting>. What can I do for you? Just give me a moment to finish up these creams.
+Chat_Greeting_WORK_Apothecary[Friendly] |= <Greeting>. It's good to see you! How can I assist you today? I'm in the middle of making some amazing potions.
+Chat_Greeting_WORK_Apothecary[Like] |= <Greeting>. How have you been? I'm working on some new concoctions here. Share your adventures while I finish up.
+Chat_Greeting_WORK_Apothecary[Love] |= <PlayerName>, I'm absolutely thrilled to see you. Let me drop everything and focus on you for a moment.
+Chat_Greeting_FARMING[Dislike] |= Can't you see I'm busy tending to these crops? Just make it quick and be on your way.
+Chat_Greeting_FARMING[Neutral] |= <Greeting>. I'm just here minding the crops. If you need something, let me know.
+Chat_Greeting_FARMING[Friendly] |= <Greeting>. It's good to see you. I'm tending to the crops here, making sure they grow nice and strong. How's everything with you?
+Chat_Greeting_FARMING[Like] |= <Greeting>. I've been looking forward to catching up. I'm just taking care of these crops, making sure they're thriving. How's life been treating you?
+Chat_Greeting_FARMING[Love] |= <PlayerName>. You're here. I've been waiting for you to drop by. Look at these crops. They're growing so well!
+Chat_Greeting_GARDEN[Dislike] |= What do you want? Can't you see I'm busy picking fruit?
+Chat_Greeting_GARDEN[Neutral] |= <Greeting>. How can I help you? Just picking some fruit here, nothing exciting.
+Chat_Greeting_GARDEN[Friendly] |= <Greeting>. Good to see you! I'm picking fruit, want to lend a hand?
+Chat_Greeting_GARDEN[Like] |= <Greeting>. How've you been? I'm just here picking some fruit. Anything interesting happening with you?
+Chat_Greeting_GARDEN[Love] |= I'm so thrilled to see you, <PlayerName>! I'm just picking fruit but you're here now, and that's just great!
+Chat_Greeting_PETS[Dislike] |= Well, I guess if you're here, you can help me feed these critters.
+Chat_Greeting_PETS[Neutral] |= <Greeting>. I'm in the middle of feeding these animals, so don't distract me, alright?
+Chat_Greeting_PETS[Friendly] |= <Greeting>. Good to see you! Come on over and check out these hungry little fellas. They always brighten my day.
+Chat_Greeting_PETS[Like] |= <Greeting>. Hope you're doing alright. Take a look at these adorable creatures while I feed them. They're always a delight.
+Chat_Greeting_PETS[Love] |= So glad you're here, <PlayerName>! Look at these precious little darlings. They get excited when they see you, just like I do.
+Chat_Greeting_SHOPPING[Dislike] |= What do you want now? I'm heading to the shops, so make it quick.
+Chat_Greeting_SHOPPING[Neutral] |= <Greeting>. Good to see you. Just heading to the shops, anything you need?
+Chat_Greeting_SHOPPING[Friendly] |= <Greeting>. I'm actually heading to the shops right now. Want to tag along?
+Chat_Greeting_SHOPPING[Like] |= <Greeting>. How have you been? I'm on my way to the shops, anything exciting happening with you?
+Chat_Greeting_SHOPPING[Love] |= Wow, <PlayerName>. It's you. I'm so happy to see you. I'm just heading to the shops, but let's catch up later, okay?
+Chat_Greeting_TAVERN[Dislike] |= What do you want? Can't you see I'm tryin' to enjoy my drink here?
+Chat_Greeting_TAVERN[Neutral] |= <Greeting>. What brings you to the tavern? I'm just here for a drink.
+Chat_Greeting_TAVERN[Friendly] |= <Greeting>. Good to see you again. We could all use some company around here.
+Chat_Greeting_TAVERN[Like] |= <Greeting>. How've you been? Come over and tell me all about your adventures since we last met.
+Chat_Greeting_TAVERN[Love] |= <Greeting>, <PlayerName>. I can't believe my luck to have you grace this tavern tonight! Come, sit with me, and let's raise a toast to your glorious presence.
+Chat_Greeting_EXPLORE[Dislike] |= Can't you see I'm busy? I am busy, it just might not look like I am.
+Chat_Greeting_EXPLORE[Neutral] |= <Greeting>. If you need anything, just let me know. I'm just taking some time for myself and stretching my legs.
+Chat_Greeting_EXPLORE[Friendly] |= <Greeting>. It's good to see you! I was just admiring this hand-crafted scenery.
+Chat_Greeting_EXPLORE[Like] |= <Greeting>. How've you been? I'm just taking a break and exploring this corner of Quill.
+Chat_Greeting_EXPLORE[Love] |= <PlayerName>. Oh my gosh, it is you!
+Chat_Greeting_WALK[Dislike] |= What do you want? Can't you see I'm trying to enjoy my walk?
+Chat_Greeting_WALK[Neutral] |= <Greeting>. Nice day for a walk, isn't it?
+Chat_Greeting_WALK[Friendly] |= <Greeting>. It's good to see you! I love taking walks like these, clears the mind, you know?
+Chat_Greeting_WALK[Like] |= <Greeting>. How've you been? Anything exciting happening in your life?
+Chat_Greeting_WALK[Love] |= <Greeting>. I was just thinking about you, <PlayerName>. Let's walk together and catch up. How's everything going in your world?
+Chat_Greeting_COOK[Dislike] |= What do you want now? I've got pots to stir and not a second to waste on your nonsense.
+Chat_Greeting_COOK[Neutral] |= <Greeting>. What can I do for you? I'm busy in the kitchen, so make it quick.
+Chat_Greeting_COOK[Friendly] |= <Greeting>. Good to see you! How's your day going? I'm just here stirring up some deliciousness.
+Chat_Greeting_COOK[Like] |= <Greeting>. I'm whipping up something tasty here, but I'd love to hear what's new with you.
+Chat_Greeting_COOK[Love] |= <Greeting>. I'm thrilled you're here, <Playername>. I've been dying to catch up with you while cooking up some mouthwatering treats.
+Chat_Greeting_EAT[Dislike] |= What's the matter? Can't find anything of your own to eat?
+Chat_Greeting_EAT[Neutral] |= <Greeting>. What can I do for you? Just trying to enjoy my meal here.
+Chat_Greeting_EAT[Friendly] |= <Greeting>. It's great to see you! Come join me while I munch on this grub. What's new with you?
+Chat_Greeting_EAT[Like] |= <Greeting>. How've you been? Mind if I finish my meal while we catch up?
+Chat_Greeting_EAT[Love] |= <PlayerName>. You're here. Hold on, let me finish this food, and then we'll catch up.
+
+Chat_GreetingWord[Dislike] |= Hello
+Chat_GreetingWord[Neutral] |= Greetings
+Chat_GreetingWord[Neutral] |= Hello
+Chat_GreetingWord[Neutral] |= Hey
+Chat_GreetingWord[Neutral] |= How do
+Chat_GreetingWord[Friendly] |= Greetings
+Chat_GreetingWord[Friendly] |= Hello
+Chat_GreetingWord[Friendly] |= Hey
+Chat_GreetingWord[Friendly] |= Hey there
+Chat_GreetingWord[Friendly] |= Hiya
+Chat_GreetingWord[Friendly] |= Well met
+Chat_GreetingWord[Friendly] |= Good morrow
+Chat_GreetingWord[Friendly] |= Hail
+Chat_GreetingWord[Like] |= Greetings
+Chat_GreetingWord[Like] |= Hello
+Chat_GreetingWord[Like] |= Hey
+Chat_GreetingWord[Like] |= Hey there
+Chat_GreetingWord[Like] |= Hiya
+Chat_GreetingWord[Like] |= Well met
+Chat_GreetingWord[Like] |= Aha
+Chat_GreetingWord[Like] |= Salutations
+Chat_GreetingWord[Like] |= Good morrow
+Chat_GreetingWord[Like] |= Respects this day
+Chat_GreetingWord[Love] |= Greetings my love
+Chat_GreetingWord[Love] |= Hello
+Chat_GreetingWord[Love] |= Hey
+Chat_GreetingWord[Love] |= Hey there
+Chat_GreetingWord[Love] |= Hiya
+Chat_GreetingWord[Love] |= Well met
+Chat_GreetingWord[Love] |= Fairest greetings
+Chat_GreetingWord[Love] |= Blessed greetings
+Chat_GreetingWord[Love] |= Many salutations
+Chat_GreetingWord[Love] |= Oh joyous greetings
+
+Chat_Gift |= A gift? For me?
+Chat_Gift[P] |= An offering? For me?
+Chat_Gift[Q] |= You want to give me a gift?
+Chat_Gift[J] |= Ooh! A present?
+Chat_Gift[B] |= A gift? Nice to know I am respected.
+Chat_Gift[C] |= A gift? I bet I already have one.
+Chat_CancelGiftTask |= Oh, ok.
+Chat_CancelGiftTask[P] |= Getting a message from the Goddesses to wait?
+Chat_CancelGiftTask[Q] |= Oh! Did you have a rethink or not got the right thing?
+Chat_CancelGiftTask[J] |= Changed your mind? That's fine!
+Chat_CancelGiftTask[B] |= I knew you wouldn't have what I wanted yet.
+Chat_CancelGiftTask[C] |= I hate it when people cancel gifting.
+Chat_CancelGift |= Oh, changed your mind?
+Chat_CancelGift[P] |= Goddess changed your mind?
+Chat_CancelGift[Q] |= Did you mean to press Cancel?
+Chat_CancelGift[J] |= Changed your mind? That's OK!
+Chat_CancelGift[B] |= I probably had it anyway.
+Chat_CancelGift[C] |= Changed your mind, eh? Typical.
+Chat_ChangeFavour |= Oh, ok.
+Chat_ChangeFavour |= Fair enough, I guess.
+Chat_ChangeFavour |= That's fine.
+Chat_ChangeFavour |= No problem.
+Chat_ChangeFavour[P] |= I'll ask someone else.
+Chat_ChangeFavour[Q] |= No? Didn't see that coming!
+Chat_ChangeFavour[J] |= That's fine, really it is.
+Chat_ChangeFavour[B] |= Well, plenty of others will help me.
+Chat_ChangeFavour[C] |= I'll ask someone else.
+
+Chat_AnotherGift |= Another gift? 
+Chat_AnotherGift[P] |= Another offering for me?
+Chat_AnotherGift[Q] |= More? Hurray!
+Chat_AnotherGift[J] |= More gifts?
+Chat_AnotherGift[B] |= Proper respect. I like it.
+Chat_AnotherGift[C] |= I don't have space to store all these.
+Chat_DoNotWant |= I don't need this, thanks.
+Chat_DoNotWant[P] |= Not for me.
+Chat_DoNotWant[Q] |= Very kind of you, but I already have a huge stash.
+Chat_DoNotWant[J] |= Oh, bless you! Sadly, I have to decline.
+Chat_DoNotWant[B] |= I already have more than any person needs.
+Chat_DoNotWant[C] |= Why would you want to give me that?
+Chat_ThankYou |= Thank you very much.
+Chat_ThankYou[P] |= Bless you.
+Chat_ThankYou[Q] |= Many gratitudes.
+Chat_ThankYou[J] |= Thank you muchly!
+Chat_ThankYou[B] |= Thanks, I suppose.
+Chat_ThankYou[C] |= I suppose I should thank you. So thanks!
+Chat_Goodbye |= Goodbye.
+Chat_Goodbye[P] |= Goddesses go with you. 
+Chat_Goodbye[Q] |= See you later.
+Chat_Goodbye[J] |= Have a good one! 
+Chat_Goodbye[C] |= Goodbye, I suppose.
+Chat_AskGossip |= Thank you! What kind of gossip would you like?
+Chat_AskGossip[P] |= Which knowledge would you prefer?
+Chat_AskGossip[Q] |= I have much juicy gossip. What would you like to know?
+Chat_AskGossip[J] |= Ooh, what can I tell you about on the hush-hush?
+Chat_AskGossip[B] |= What would you like to know? Knowledge is power!
+Chat_AskGossip[C] |= I suppose I have to tell you something useful, sigh.
+
+Chat_Happening_NOTHING |= Not much is happening.
+Chat_Happening_NOTHING |= It's pretty dull, actually.
+Chat_Happening_NOTHING |= Ho hum.
+Chat_Happening_NOTHING |= Absolutely nothing going on.
+Chat_Happening_NOTHING |= It's as dead as a doornail.
+Chat_Happening_NOTHING[P] |= The Goddesses must be napping.
+Chat_Happening_NOTHING[P] |= Blessed boredom.
+Chat_Happening_NOTHING[P] |= It's quiet in Opal today.
+Chat_Happening_NOTHING[P] |= A blessed day for doing nothing.
+Chat_Happening_NOTHING[P] |= It's as quiet as Aurore's whispers.
+Chat_Happening_NOTHING[Q] |= Nothing is going on. It's as quiet as a mouse in slippers.
+Chat_Happening_NOTHING[Q] |= About as much happening as nothing.
+Chat_Happening_NOTHING[Q] |= I am in-between the in-between parts of my day.
+Chat_Happening_NOTHING[Q] |= It's one of those days where I am at odds with myself.
+Chat_Happening_NOTHING[Q] |= Ssshhh! Hear that? Exactly. The sound of nothing.
+Chat_Happening_NOTHING[J] |= Absolutely nothing fun going on for once!
+Chat_Happening_NOTHING[J] |= It's so dull I could explode!
+Chat_Happening_NOTHING[J] |= I am having a break from joviality.
+Chat_Happening_NOTHING[J] |= Haha! That's funny! Or would be if there was something funny happening.
+Chat_Happening_NOTHING[J] |= A great big, fat zero.
+Chat_Happening_NOTHING[B] |= Peaceful as it should be.
+Chat_Happening_NOTHING[B] |= I am enjoying talking to myself.
+Chat_Happening_NOTHING[B] |= Just me and my massive ego doing nothing.
+Chat_Happening_NOTHING[B] |= It's pretty quiet around here.
+Chat_Happening_NOTHING[B] |= I am giving my wonderful self a break from doing anything.
+Chat_Happening_NOTHING[C] |= It's too quiet.
+Chat_Happening_NOTHING[C] |= It's so dull around here. Just as I like it.
+Chat_Happening_NOTHING[C] |= Oh, absolutely nothing is going on. Is there ever?
+Chat_Happening_NOTHING[C] |= This place needs more entertainment. It's as lively as a lump of coal.
+Chat_Happening_NOTHING[C] |= What's happening? I'll tell you what's happening! Well, I would if something were.
+
+Chat_Happening_SLEEP |= Just heading to my little bed.
+Chat_Happening_SLEEP |= Am off to the land of Nod soon.
+Chat_Happening_SLEEP |= I am just making my way to bed.
+Chat_Happening_SLEEP |= I am so tired I can't wait to flop into my bed.
+
+Chat_Happening_SLEEP[P] |= The Goddesses expect us to rest, so that is where I am going now.
+Chat_Happening_SLEEP[P] |= I am going to bed to dream of Opal and our beloved Goddesses.
+Chat_Happening_SLEEP[P] |= Am going to get some rest so I have the energy to worship the Goddesses.
+Chat_Happening_SLEEP[P] |= Sleep is for the true. I must go to my bed to seek the truth.
+
+Chat_Happening_SLEEP[J] |= My bed beckons! Those feather pillows tickle my nose!
+Chat_Happening_SLEEP[J] |= Getting ready for bed. I love my bed. I would marry it if I could!
+Chat_Happening_SLEEP[J] |= Soft pillows and a bouncy mattress ahoy!
+Chat_Happening_SLEEP[J] |= I am going home to snore my head off!
+Chat_Happening_SLEEP[J] |= Bedtime soon! Can't wait!
+
+Chat_Happening_SLEEP[B] |= Bedtime. My bed is the comfiest in Quill, I am sure.
+Chat_Happening_SLEEP[B] |= Time for a deserved sleep. I bet I can sleep better than you can.
+Chat_Happening_SLEEP[B] |= I am going to my home to rest my big head on my big pillow.
+Chat_Happening_SLEEP[B] |= Bedtime! My bed cost a fortune, but you can't deny yourself quality sleep.
+
+Chat_Happening_SLEEP[Q] |= Twinkle twinkle, little star, How I wonder what you are. Well, it's the eye of the sky raven, of course!
+Chat_Happening_SLEEP[Q] |= I am going to bed where I shall dream of a little dream of meat.
+Chat_Happening_SLEEP[Q] |= I am going to bed soon. I once dreamt I ate a pillow and woke to find a marshmallow in my bed.
+Chat_Happening_SLEEP[Q] |= Am going to bed. I sometimes sleep upside down to see if my dreams are inverted.
+
+Chat_Happening_SLEEP[C] |= I am going to bed, but it is lumpier than my breakfast porridge.
+Chat_Happening_SLEEP[C] |= I must hasten to bed, even though my pillows are like flapjacks. I really don't like them!
+Chat_Happening_SLEEP[C] |= Going home to bed, but not sure I will be able to sleep as usual. Too much noise. I wish those moths would shut up.
+Chat_Happening_SLEEP[C] |= Bedtime shortly. Don't know why I bother. I never have interesting dreams.
+
+Chat_Happening_SLEEP[Spouse] |= Time for beddy bye-byes! 
+Chat_Happening_SLEEP[Spouse] |= I need a good sleep. Goodnight dear.
+Chat_Happening_SLEEP[Spouse] |= I am heading to bed for a well-deserved slumber.
+Chat_Happening_SLEEP[Spouse] |= It's bedtime. Don't stay up too late; your eyes are redder than our tomatoes.
+
+Chat_Happening_SLEEP[OwnKid] |= Awww, do I have to go to bed?
+Chat_Happening_SLEEP[OwnKid] |= Oh is it really bedtime?
+Chat_Happening_SLEEP[OwnKid] |= I am going to sleep. Goodnight, Dad, Mum, whatever your preference.
+Chat_Happening_SLEEP[OwnKid] |= Night night! Don't let the bed witch bite!
+
+Chat_Happening_SLEEP[OwnKidAdult] |= I am going to do what any son or daughter would do for their parents... sleep.
+Chat_Happening_SLEEP[OwnKidAdult] |= It's my bedtime. I need at least 25 hours per day.
+Chat_Happening_SLEEP[OwnKidAdult] |= Going to bed. Goodnight, parent of mine.
+Chat_Happening_SLEEP[OwnKidAdult] |= It's my bedtime. I have an appointment with Mr. Snooze.
+
+Chat_Happening_GETUP |= A good sleep makes you ready for the day ahead.
+Chat_Happening_GETUP |= Another day beckons with its finger of adventure.
+Chat_Happening_GETUP |= I had a decent sleep. Can't complain, really.
+Chat_Happening_GETUP |= Feeling refreshed and ready to tackle the day.
+
+Chat_Happening_GETUP[P] |= Another day of wonderful worship and loving nature ahead.
+Chat_Happening_GETUP[P] |= The Goddesses visited me in my sleep to thank me for my dedication!
+Chat_Happening_GETUP[P] |= I slept the sleep of the devout. Absolutely horribly as we should suffer for our sins.
+Chat_Happening_GETUP[P] |= Am glad to be awake. When I am asleep, I cannot revere our wonderful gift of nature.
+
+Chat_Happening_GETUP[J] |= I slept like a log! All brown and long!
+Chat_Happening_GETUP[J] |= Oh, I feel magnificent after that kip! I am a great kipper!
+Chat_Happening_GETUP[J] |= I dreamt I was a marshmallow, and a pillow ate me! Loved it!
+Chat_Happening_GETUP[J] |= Sleep is like a stone egg. You can't beat it!
+
+Chat_Happening_GETUP[B] |= I slept better than you last night. And that's not me being competitive. I'm the most uncompetitive person there is!
+Chat_Happening_GETUP[B] |= Another night passed, and another day that the world welcomes my presence.
+Chat_Happening_GETUP[B] |= You can't buy a good sleep, they say. Well, I did!
+Chat_Happening_GETUP[B] |= I had my beauty sleep. You obviously had an ugly sleep.
+
+Chat_Happening_GETUP[Q] |= What a dream! Sheep were counting me jumping over fences. After that, things got woolly.
+Chat_Happening_GETUP[Q] |= I dreamt I slept on a sausage. It was the wurst sleep I ever had.
+Chat_Happening_GETUP[Q] |= I had a nightmare last night. I was an egg, and the stress was so much I nearly cracked. No yolk!
+Chat_Happening_GETUP[Q] |= I think one of my bedsprings hates me. I should sleep on onions. Bedspring onions.
+
+Chat_Happening_GETUP[C] |= I slept like the dead. Rotten.
+Chat_Happening_GETUP[C] |= My bed is the worst. I may as well just punch myself in the spine all night.
+Chat_Happening_GETUP[C] |= Am sure the bedbugs have a vendetta against me. I have more bites than a vampire at a neck festival.
+Chat_Happening_GETUP[C] |= Good morning? What's good about it? Just push me in the funeral pool now and be done with it.
+
+Chat_Happening_WORK |= Just working. An honest day's work hurt nobody. Unless that work is fighting monsters.
+Chat_Happening_WORK |= Work, work and some more work.
+Chat_Happening_WORK |= Earning my keep. Someone has to pay the bills. Those duck money collectors get you every time.
+Chat_Happening_WORK |= Bit of this. Bit of that. Ducking and diving, wheeling and dealing. More pennies for the jar.
+
+Chat_Happening_WORK[P] |= I am going to work now. I hope the Goddesses can see how much effort I put in.
+Chat_Happening_WORK[P] |= Work separates the devout from the lazy. If you love your Goddess, you are energised to work hard.
+Chat_Happening_WORK[P] |= Goddesses bless me with the work I am about to do.
+Chat_Happening_WORK[P] |= I am looking forward to a good, honest bit of work.
+
+Chat_Happening_WORK[J] |= Work! I love it! When I am not hating it!
+Chat_Happening_WORK[J] |= Working. I work about as hard as the butter in my larder. If only I had any butter!
+Chat_Happening_WORK[J] |= Got to love a bit of work! Seeing people smile makes the work go easy. I always go to work on a smile. I can't ride pigs that's why.
+Chat_Happening_WORK[J] |= Work time! Work is never a chore if you have the right attitude.
+
+Chat_Happening_WORK[B] |= I am the hardest worker in Quill, which is why I am so renowned.
+Chat_Happening_WORK[B] |= I am working, but it's a cinch for talented folk like me.
+Chat_Happening_WORK[B] |= If they had the best worker award, I would win it, I am sure. There is no I in pie, but there is a ME in meat.
+Chat_Happening_WORK[B] |= I am meant to be working, but often, work just does itself for me. I have no idea what that means.
+
+Chat_Happening_WORK[Q] |= I am going to work. It's the only way to earn enough Brass to be able to chew on the coins.
+Chat_Happening_WORK[Q] |= My dialogue is meant to suggest I am working, but I often forget who I am. Confused? Me too.
+Chat_Happening_WORK[Q] |= I will be pretending to work. This is a role-playing game, after all!
+Chat_Happening_WORK[Q] |= Earning Brass. Would be rich if we earned Wood or Soil.
+
+Chat_Happening_WORK[C] |= Got to work. I am so happy about that, as you can probably tell from my grimace.
+Chat_Happening_WORK[C] |= I am meant to be 'working'. I said that in inverted commas to emphasise my displeasure.
+Chat_Happening_WORK[C] |= My job is like a bee on a flower. It sucks. I just wish it would buzz off.
+Chat_Happening_WORK[C] |= My back aches from complaining about work.
+
+Chat_Happening_FARMING |= Am going to toil in the soil. Need to keep our crop squares tiptop.
+Chat_Happening_FARMING[Spouse] |= You set the order for me to tend to the crops, so I feel compelled to do so.
+Chat_Happening_FARMING[Spouse] |= I am doing a bit of farming. The soil needs tending to as a lover would tend to their love.
+Chat_Happening_FARMING[Spouse] |= Am going to toil in the soil. Need to keep our crop squares tiptop.
+Chat_Happening_FARMING[Spouse] |= There's farm work needs doing. Crops and soil, work and toil. Those plots are our dinner plates.
+
+Chat_Happening_GOHOME |= I am going home.
+Chat_Happening_GOHOME |= Heading to my lovely home.
+Chat_Happening_GOHOME |= I am going back to my house.
+Chat_Happening_GOHOME |= Just walking home. Nothing exciting.
+
+Chat_Happening_GOHOME[P] |= I am going home to think of our beautiful Fae deities.
+Chat_Happening_GOHOME[P] |= Home time. A time to reflect on our place in the order of things.
+Chat_Happening_GOHOME[P] |= I am going back to my humble home to meditate.
+Chat_Happening_GOHOME[P] |= Bless the Goddesses for my little home. I am heading there now.
+
+Chat_Happening_GOHOME[J] |= Home is where the heart is. I keep mine in a jar under the bed. Wahey!
+Chat_Happening_GOHOME[J] |= I am going back to my house to watch the fire dancing. It's really entertaining!
+Chat_Happening_GOHOME[J] |= Just heading home. A spring in my step. Literally, I have some coiled metal in my shoe.
+Chat_Happening_GOHOME[J] |= I'm so happy to be heading back to my house. It's where all my fond memories are, and my stuff.
+
+Chat_Happening_GOHOME[B] |= Haven't you got a home to go to like me? Probably not as nice as mine, though.
+Chat_Happening_GOHOME[B] |= I am heading home after a nice walk, showing off my superior clothing quality.
+Chat_Happening_GOHOME[B] |= I am going home. Some of us have nice homes to go to and don't waste time chatting with folk.
+Chat_Happening_GOHOME[B] |= Going home to my silk sheets, fine food and spotless windows.
+
+Chat_Happening_GOHOME[Q] |= I am going back to my house. It's nothing much in the grand scheme of things, but it has a working toilet and see-through windows, so all good.
+Chat_Happening_GOHOME[Q] |= Home time! I love to sit in my chair and stare at the spiders in the rafters. I named mine Rita, Sue and Kevin. Sadly, Bob got squashed.
+Chat_Happening_GOHOME[Q] |= I am walking home. I love the sight of my three walls. Apparently, there are four, but I can't count that high.
+Chat_Happening_GOHOME[Q] |= I am going to that place where everybody knows my name. No, not the pub... home! Cheers!
+
+Chat_Happening_GOHOME[C] |= I am going home, and my feet hurt. Can never get good shoes these days. It's cobblers, I tell you.
+Chat_Happening_GOHOME[C] |= I am going back to my house. It is damp and smelly. I would burn it down, but it's just too damp.
+Chat_Happening_GOHOME[C] |= It's time for me to go home. Well, I would if my dandelion worked. I sneezed, and now it is apparently 12 hours later.
+Chat_Happening_GOHOME[C] |= Going home. I hate going home. I like being at home sometimes; I just don't like the going there part.
+
+Chat_Happening_GARDEN |= Just sorting out the garden.
+Chat_Happening_GARDEN |= A nice bit of gardening.
+Chat_Happening_GARDEN |= Just tending to my humble garden.
+Chat_Happening_GARDEN |= Lovely day for some gardening.
+
+Chat_Happening_GARDEN[P] |= Gardening. It is growth that makes a person better.
+Chat_Happening_GARDEN[P] |= Gardening is the best way to appreciate nature's bounty. 
+Chat_Happening_GARDEN[P] |= I need to tend to my garden. It is one small way to give back to nature.
+Chat_Happening_GARDEN[P] |= I am growing simple things for my simple self. The Goddesses appreciate that, I am sure.
+
+Chat_Happening_GARDEN[J] |= Got to do some gardening. It's great to be outdoors getting some fresh air!
+Chat_Happening_GARDEN[J] |= I am gardening. You just can't beat it! Especially if you love gardening.
+Chat_Happening_GARDEN[J] |= Gardening makes me smile. I think my gardening pants are too tight.
+Chat_Happening_GARDEN[J] |= Get out and do some gardening like me! It's great fun!
+
+Chat_Happening_GARDEN[B] |= I have to keep my excellent garden in order.
+Chat_Happening_GARDEN[B] |= Tending my garden. It's the first thing passers-by see, so it must be up to mustard plants.
+Chat_Happening_GARDEN[B] |= I have to garden. How else would I impress other gardeners?
+Chat_Happening_GARDEN[B] |= I am gardening. I use only the best tools.
+
+Chat_Happening_GARDEN[Q] |= I am sorting out my garden. I like to talk to the worms at length.
+Chat_Happening_GARDEN[Q] |= I am culturing my horti. Yes, I have no idea what horti are. I thought they might be seed fairies.
+Chat_Happening_GARDEN[Q] |= I am tending to my little garden. Every time I bend down, I get a hole in my plants.
+Chat_Happening_GARDEN[Q] |= What does it look like I am doing? Gardening? Oh, that's right.
+
+Chat_Happening_GARDEN[C] |= I am sure my garden is plotting against me.
+Chat_Happening_GARDEN[C] |= My back hurts from gardening. Even the thought of gardening causes back pain.
+Chat_Happening_GARDEN[C] |= I am gardening. I would get more done if I didn't have to keep answering obvious questions.
+Chat_Happening_GARDEN[C] |= This garden needs sorting. It doesn't matter what I do; it always gets dirty.
+
+Chat_Happening_GARDEN[Spouse] |= I am just getting some of those weeds pulled up in our garden.
+Chat_Happening_GARDEN[Spouse] |= I am doing a nice bit of gardening to help keep it looking nice for us.
+Chat_Happening_GARDEN[Spouse] |= Got to sort the garden out. Apparently, our house Brounie thinks the garden is beneath him. Which it is.
+Chat_Happening_GARDEN[Spouse] |= Nice day for some gardening. A marital home is nothing without a neat garden.
+
+Chat_Happening_GARDEN[OwnKid] |= Do I have to do the gardening? It's hard work!
+Chat_Happening_GARDEN[OwnKid] |= I keep finding worms. They have smiley faces.
+Chat_Happening_GARDEN[OwnKid] |= You told me to help in the garden. It's not fair.
+Chat_Happening_GARDEN[OwnKid] |= I am playing in the garden. I mean working hard.
+
+Chat_Happening_GARDEN[OwnKidAdult] |= I am helping you out by doing the gardening. Your appreciation is noted.
+Chat_Happening_GARDEN[OwnKidAdult] |= Do I have to do this at my age? Gardening is for really old people.
+Chat_Happening_GARDEN[OwnKidAdult] |= Getting my fingers green in the garden.
+Chat_Happening_GARDEN[OwnKidAdult] |= Doing my chores. Do I still get pocket money at my age?
+
+Chat_Happening_RELAX |= Just relaxing a bit.
+Chat_Happening_RELAX |= Taking it easy. Restful body, restful mind.
+Chat_Happening_RELAX |= It is my time to relax a bit and enjoy the world.
+Chat_Happening_RELAX |= I am recharging my butteries. I think that's the expression.
+
+Chat_Happening_RELAX[P] |= Even the Goddesses relax, and when they do, I do.
+Chat_Happening_RELAX[P] |= I am meditating and thinking of our beloved guardians.
+Chat_Happening_RELAX[P] |= I am relaxing. The body needs to be ready for worship at any time.
+Chat_Happening_RELAX[P] |= I am taking it easy for all you sinners, dude.
+
+Chat_Happening_RELAX[J] |= I am having some me time. It's the best time after dinner time and read a book on the toilet time.
+Chat_Happening_RELAX[J] |= Having a bit of a wind-down! All that laughing knackers a person out!
+Chat_Happening_RELAX[J] |= I am not being lazy. I am just expressing my right not to do anything. *winks*
+Chat_Happening_RELAX[J] |= Relax! Don't do it! When you want to fart, brew it! 
+
+Chat_Happening_RELAX[B] |= I am having a well-deserved rest. Success demands it.
+Chat_Happening_RELAX[B] |= Rest is for the wicked. I am having a rest.
+Chat_Happening_RELAX[B] |= Time stands still for no man. Well, except for the quality ones, so I am having a rest.
+Chat_Happening_RELAX[B] |= If you live a life wanting the best, then you will have time to rest. Mainly because you can afford to pay others to do your jobs.
+
+Chat_Happening_RELAX[Q] |= Life is like a box of Candy Squirrels. You always know there are nuts in it. That's why you need to relax and take it easy, Mr Squirrel. 
+Chat_Happening_RELAX[Q] |= I am just resting my eyes. The rest of me is still very active, though.
+Chat_Happening_RELAX[Q] |= Just having some me time. It is the time of day I like to breathe in deeply and hopefully remember to breathe out again. I sometimes forget and float off.
+Chat_Happening_RELAX[Q] |= My routine says RELAX, so that is exactly what I intend to do!
+
+Chat_Happening_RELAX[C] |= Even my relaxing time is disturbed by nattering!
+Chat_Happening_RELAX[C] |= I can't talk much more; my jaw aches.
+Chat_Happening_RELAX[C] |= I am trying to relax, but as usual, it never happens.
+Chat_Happening_RELAX[C] |= I may as well just relax in Toughwood. Get more peace there, I bet. Definitely more pieces.
+
+Chat_Happening_RELAX[Spouse] |= Ahhh, some mind and body cleansing relaxation.
+Chat_Happening_RELAX[Spouse] |= I am having a break, dear, from the hustle and bustle of daily life on our farm.
+Chat_Happening_RELAX[Spouse] |= I am giving my aching muscles some respite. Go easy on that scheduling, dearest.
+Chat_Happening_RELAX[Spouse] |= A well-deserved break from the every day, if you don't mind, my sweet honeypot.
+
+Chat_Happening_RELAX[OwnKid] |= Playtime!
+Chat_Happening_RELAX[OwnKid] |= I am playing.
+Chat_Happening_RELAX[OwnKid] |= It's time to play!
+Chat_Happening_RELAX[OwnKid] |= It's my playtime. Zoooom!
+
+Chat_Happening_RELAX[OwnKidAdult] |= It's nice to know you care what I am doing. Or are you just checking up on me?
+Chat_Happening_RELAX[OwnKidAdult] |= I am having a little break from the endless grind.
+Chat_Happening_RELAX[OwnKidAdult] |= Just unwinding and thinking of how lucky we are to be here.
+Chat_Happening_RELAX[OwnKidAdult] |= I need a rest. Being your child is exhausting, even though I am grown up.
+
+Chat_Happening_SOCIALISE |= I am going to talk to my pals.
+Chat_Happening_SOCIALISE[OwnKid] |= I want to see my invisible friends.
+Chat_Happening_SOCIALISE[OwnKid] |= I am going to talk to my pals.
+Chat_Happening_SOCIALISE[OwnKid] |= I am searching for deep, meaningful human interactions that will fulfil my soul and expand my intellect.
+
+Chat_Happening_STUDY |= Ssshh, I am studying.
+Chat_Happening_STUDY[OwnKid] |= Ssshh, I am studying.
+Chat_Happening_STUDY[OwnKid] |= I am doing my homework as you asked.
+Chat_Happening_STUDY[OwnKid] |= I am expanding my mind through the usage of literary works, both fact, fictional and nonsense.
+Chat_Happening_STUDY[OwnKid] |= I am trying to raise my intelligence stat through study.
+
+Chat_Happening_MILKCOW |= Someone needs to milk the family cow, so I will do it.
+
+Chat_Happening_MILKCOW[Spouse] |= I am getting us some milk from our lovely cow.
+Chat_Happening_MILKCOW[Spouse] |= Just going to exercise some udders.
+Chat_Happening_MILKCOW[Spouse] |= I have a bucket with my name on it. Well, if I was called Milk.
+Chat_Happening_MILKCOW[Spouse] |= Someone needs to milk the family cow, so I will do it.
+
+Chat_Happening_MILKCOW[OwnKidAdult] |= Have I got to milk that cow? Its udders make me shudder.
+Chat_Happening_MILKCOW[OwnKidAdult] |= Going to milk the cow. Need milk if I am to stay healthy and strong.
+Chat_Happening_MILKCOW[OwnKidAdult] |= The cow is calling my name. Well, I am not called moo, but it is suggesting I milk it.
+Chat_Happening_MILKCOW[OwnKidAdult] |= Going to do some milking, just because.
+
+Chat_Happening_GET_HONEY |= I am going to talk to the bees and see what I can trade with them.
+
+Chat_Happening_GET_HONEY[Spouse] |= I am collecting honey, honey.
+Chat_Happening_GET_HONEY[Spouse] |= I am going to talk to the bees and see what I can trade with them.
+Chat_Happening_GET_HONEY[Spouse] |= I am likely going to get stung. Honey prices these days!
+Chat_Happening_GET_HONEY[Spouse] |= There is some nectar that needs harvesting from the hive, so I am going to do it.
+
+Chat_Happening_GET_HONEY[OwnKid] |= Honey time! Yum!
+Chat_Happening_GET_HONEY[OwnKid] |= I have to go get some honey for us all. Yay!
+Chat_Happening_GET_HONEY[OwnKid] |= Those bees stung me! It's not fair!
+Chat_Happening_GET_HONEY[OwnKid] |= Mrs Queen Bee said I could take some honey if I trade her some cakes. Honest.
+
+Chat_Happening_GET_HONEY[OwnKidAdult] |= It's my favourite time. Dodge bees and grab their honey time.
+Chat_Happening_GET_HONEY[OwnKidAdult] |= I am collecting honey to meet my needs. Our needs.
+Chat_Happening_GET_HONEY[OwnKidAdult] |= Going to get me some sweeeeet honey!
+Chat_Happening_GET_HONEY[OwnKidAdult] |= I am going to fill up on the amber nectar. No, not beer, yet.
+
+Chat_Happening_EXPLORE |= Am going exploring! 
+Chat_Happening_EXPLORE[OwnKid] |= I am just off out for a wander and to find fun things.
+Chat_Happening_EXPLORE[OwnKid] |= Am going exploring!
+Chat_Happening_EXPLORE[OwnKid] |= Exploring time!
+Chat_Happening_EXPLORE[OwnKid] |= Is it OK if I go exploring? I like finding things hidden away, like those little doors.
+
+Chat_Happening_PETS |= I am just sorting out the animals.
+
+Chat_Happening_PETS[Spouse] |= I am just sorting out the animals. Someone has to!
+Chat_Happening_PETS[Spouse] |= I am just tending to the pets. Got to love them!
+Chat_Happening_PETS[Spouse] |= I need to tend to the animals. They can't feed themselves! Well, they sort of can and do.
+Chat_Happening_PETS[Spouse] |= Just going to groom and pamper the pets. Lucky things.
+
+Chat_Happening_PETS[OwnKid] |= I want to stroke the pets! Unless I have the animal hater trait, in which case I don't.
+Chat_Happening_PETS[OwnKid] |= I am going to feed the animals. 
+Chat_Happening_PETS[OwnKid] |= Going to feed our pets, as you said.
+Chat_Happening_PETS[OwnKid] |= Pet time!
+
+Chat_Happening_PETS[OwnKidAdult] |= I am going to sort the pets out.
+Chat_Happening_PETS[OwnKidAdult] |= Time to feed the pets as commanded. Would rather be doing something less smelly.
+Chat_Happening_PETS[OwnKidAdult] |= It's feeding time at the zoo. I learned that a zoo was a kind of crazy animal house, a bit like our home.
+Chat_Happening_PETS[OwnKidAdult] |= I am just going to see if the pets are ok, as you asked. 
+
+Chat_Happening_EAT |= Just going to have a bite to eat.
+Chat_Happening_EAT |= A bit hungry, so going to sort that out in the customary way.
+Chat_Happening_EAT |= Just about to have a bit of grub. Or any other small insect.
+Chat_Happening_EAT |= Need a nibble to satisfy my craving for nibbles.
+
+Chat_Happening_EAT[P] |= I am about to eat after I say a little prayer of thanks.
+Chat_Happening_EAT[P] |= Food sustains the body. Worship sustains the soul.
+Chat_Happening_EAT[P] |= I am eating something, so I have energy for reverence.
+Chat_Happening_EAT[P] |= All things must eat. It is the will of the Goddesses that we develop, eat, fertilise and grow.
+
+Chat_Happening_EAT[J] |= I am peckish... said the small chicken to the Druid.
+Chat_Happening_EAT[J] |= I could murder a nice meal, but murder isn't even a concept in this day and age, so I will just eat one.
+Chat_Happening_EAT[J] |= I need to eat. Gotta love food! It's even better when it's free!
+Chat_Happening_EAT[J] |= I was about to fill my empty belly with the fruits of, well, fruit trees.
+
+Chat_Happening_EAT[B] |= I need to eat. A person of quality needs to maintain energy.
+Chat_Happening_EAT[B] |= My food is always top-tier, so I shall endeavour to eat some and absorb its quality.
+Chat_Happening_EAT[B] |= I need to eat. I could probably eat more than any Ogyr easily.
+Chat_Happening_EAT[B] |= I am going to eat something rich because you are what you eat.
+
+Chat_Happening_EAT[Q] |= I am going to run the gauntlet of eating cooked food.
+Chat_Happening_EAT[Q] |= My first is in Pie but not in Cake. I rhyme with meat but not with pudding. What am I? Other than starving?
+Chat_Happening_EAT[Q] |= It's time for Mr Pastry to go potholing in Rumblytum Cavern.
+Chat_Happening_EAT[Q] |= I could eat a horse. Perhaps that's why they became extinct? In that logic, why aren't pies extinct?
+
+Chat_Happening_EAT[C] |= It's time for me to eat. I bet it tastes like squirrel droppings again. I really must stop snacking on those.
+Chat_Happening_EAT[C] |= Uuugghh, food time. I bet it's cold salad again.
+Chat_Happening_EAT[C] |= I need to eat, but my stomach faery is really fussy.
+Chat_Happening_EAT[C] |= A bowmaker once tried to test me. I ate his quiver with some Crystal Beans and a nice Pea Shandy.
+
+Chat_Happening_EAT[Spouse] |= I am eating if you do not mind? It's rude to talk with your face stuffed.
+Chat_Happening_EAT[Spouse] |= I am just grabbing some grub as I am famished.
+Chat_Happening_EAT[Spouse] |= I am just eating this delicious meal provided for us by your good self and the Goddesses.
+Chat_Happening_EAT[Spouse] |= Just getting some well-earned nourishment, O love of my life.
+
+Chat_Happening_EAT[OwnKid] |= I am eating my food.
+Chat_Happening_EAT[OwnKid] |= I am hungry. Food time!
+Chat_Happening_EAT[OwnKid] |= Mmfffmmm I am grmmpphh eatin'.
+Chat_Happening_EAT[OwnKid] |= Yay! Foody time!
+
+Chat_Happening_EAT[OwnKidAdult] |= Do you have to talk to me while I am eating?
+Chat_Happening_EAT[OwnKidAdult] |= I am hungry, so just filling my belly up.
+Chat_Happening_EAT[OwnKidAdult] |= It's my favourite time of day... gorging time.
+Chat_Happening_EAT[OwnKidAdult] |= Just having some nourishment. Being your child is draining.
+
+Chat_Happening_TAVERN |= Am going to have a nice drink.
+Chat_Happening_TAVERN |= I don't endorse drunken behaviour, but I do endorse drinking.
+Chat_Happening_TAVERN |= I'm just here for the beer.
+Chat_Happening_TAVERN |= I am going to talk to the spirits and see which one wants me to drink them.
+
+Chat_Happening_TAVERN[P] |= I am going to the tavern to quench my thirst after a hard day's worship.
+Chat_Happening_TAVERN[P] |= I don't believe in getting drunk unless instructed to by our Fae deities.
+Chat_Happening_TAVERN[P] |= I find that the tavern is a wonderful place to spread the word of the Goddesses. And have a little tipple on the side. It's thirsty work!
+Chat_Happening_TAVERN[P] |= I could worship a ******* pint right now.
+
+Chat_Happening_TAVERN[J] |= Drink, drink, and be merry! Taverns are the place to be!
+Chat_Happening_TAVERN[J] |= Am looking forward to a lovely beer and some terrible bar snacks.
+Chat_Happening_TAVERN[J] |= You can't beat a tavern for the sound of laughter, merriment and projectile vomiting.
+Chat_Happening_TAVERN[J] |= I am going to have so much booze I will forget what I was going to the tavern for, then have another drink to remind myself.
+
+Chat_Happening_TAVERN[B] |= Tavern time is a great time to show everyone the proper way to drink.
+Chat_Happening_TAVERN[B] |= I bet I could drink anyone under the table. Not literally.
+Chat_Happening_TAVERN[B] |= I once drank 13 pints of Dragonsbreath and it did nothing to me. My ancestors, however, all got poisoned livers.
+Chat_Happening_TAVERN[B] |= I am the best drinker in all Quill, and I am going to prove it someday. Just a small tipple now, though.
+
+Chat_Happening_TAVERN[Q] |= Drinkapintabeeraday. Hank Hock told me that half an hour ago.
+Chat_Happening_TAVERN[Q] |= I hope the tavern has some good entertainment on. I like Jester Draws. He's outstanding. Over there in that field.
+Chat_Happening_TAVERN[Q] |= Am going to replace my blood with some good old-fashioned alcohol. If I die, I will come back as a very unstable bee.
+Chat_Happening_TAVERN[Q] |= I need a drink like a worm needs shoes! Oh, hang on...
+
+Chat_Happening_TAVERN[C] |= I am going to have a drink to forget my amazing shithouse of a life.
+Chat_Happening_TAVERN[C] |= Going to the pub. It smells in there, but moany buggers can't be choosers.
+Chat_Happening_TAVERN[C] |= I hope they don't have that awful bard on stage. He can play the lute like a cow can knit.
+Chat_Happening_TAVERN[C] |= The beer I am going to drink will no doubt taste like someone mashed it with their cheesy feet. At least one thing in life is good.
+
+Chat_Happening_WALK |= Just going for a lovely walk!
+Chat_Happening_WALK |= I am going to get some exercise in the traditional way. Walking around randomly.
+Chat_Happening_WALK |= Just going to pound the white path a bit. I do mean walk.
+Chat_Happening_WALK |= Hey! I'm walking here! A good thing it's not midnight, cow-boy.
+
+Chat_Happening_WALK[P] |= I need a good, honest walk to build up a head of worshipping steam.
+Chat_Happening_WALK[P] |= Just off to ramble around and gaze at the wonderful nature.
+Chat_Happening_WALK[P] |= Just going to have a lovely walk under the gaze of our wondrous Goddesses.
+Chat_Happening_WALK[P] |= I just love to walk beneath Aurore's soft blanket.
+
+Chat_Happening_WALK[J] |= Just going for a jolly old stroll because I am jolly and old.
+Chat_Happening_WALK[J] |= Having a perambulation, which is a funny word and makes me giggle.
+Chat_Happening_WALK[J] |= I am going for a walk to fill my lungs with magnificent Quillian air! 
+Chat_Happening_WALK[J] |= I love a good walk! I bet you have been everywhere all over on your travels.
+
+Chat_Happening_WALK[B] |= I am the best walker in Quill, you know?
+Chat_Happening_WALK[B] |= I am taking a stroll through the land to nosey at other people's inferior houses.
+Chat_Happening_WALK[B] |= I am just having a stroll because that's how I develop my amazing ideas.
+Chat_Happening_WALK[B] |= These boots were made for walking. Made from the finest Bowing Nancy, to be frank.
+
+Chat_Happening_WALK[Q] |= I am going for a walk. I can moonwalk, you know? I just go out at night.
+Chat_Happening_WALK[Q] |= I like to take a stride out in my strides. It's better than wearing my shuffles.
+Chat_Happening_WALK[Q] |= Have you ever been rambling? I could talk for hours about it.
+Chat_Happening_WALK[Q] |= I am going to stretch my legs, said the masochist in the torture rack.
+
+Chat_Happening_WALK[C] |= Oh, my feet are aching just thinking about this walk I am going on.
+Chat_Happening_WALK[C] |= I am going for a walk to try to forget just how boring walks are.
+Chat_Happening_WALK[C] |= Heading out for some fresh air. If by fresh, you mean stinking of beer and cowpats.
+Chat_Happening_WALK[C] |= Must I really go for a walk? I'm tired. My routine needs changing in the editor.
+
+Chat_Happening_SHOPPING |= I am just heading to the shops for supplies.
+Chat_Happening_SHOPPING |= Supplies! Supplies! The unexpected prices hit you between the eyes. 
+Chat_Happening_SHOPPING |= Just about to stock up on unnecessaries.
+Chat_Happening_SHOPPING |= Going to treat myself. Butter, flour, eggs, River Trout. I am making a fish cake.
+
+Chat_Happening_SHOPPING[P] |= I am going to the store to find gifts for our beloved Goddesses.
+Chat_Happening_SHOPPING[P] |= I need to stock up on the basics.
+Chat_Happening_SHOPPING[P] |= I am a bit short on offerings, so going to buy more.
+Chat_Happening_SHOPPING[P] |= A Goddess whispered to me that I need retail therapy. I didn't have a tail to begin with so I will just go shopping instead.
+
+Chat_Happening_SHOPPING[J] |= I am going to buy some lovely treats. I mean essentials!
+Chat_Happening_SHOPPING[J] |= Can't beat a bit of window shopping, especially if you need new windows!
+Chat_Happening_SHOPPING[J] |= I am going to get a few things from this shopping list. And a few things that aren't on it, I am sure!
+Chat_Happening_SHOPPING[J] |= I love shopping and seeing what's in store.
+
+Chat_Happening_SHOPPING[B] |= I am going to spend more of my huge amounts of money on the luxury items that I am accustomed to.
+Chat_Happening_SHOPPING[B] |= I need to buy a gift for a very special person. Me!
+Chat_Happening_SHOPPING[B] |= I am going shopping as I need to justify all my money and success via material gain and flaunting.
+Chat_Happening_SHOPPING[B] |= I am going to the shops. I might even buy the shops.
+
+Chat_Happening_SHOPPING[Q] |= I am just popping to the shops. And I don't mean I am giving gassy apples to pigs.
+Chat_Happening_SHOPPING[Q] |= I need to get a gift for a birthday I forgot about next year. Not sure how that works.
+Chat_Happening_SHOPPING[Q] |= I have a list of shopping items as long as my arm. There are two items on the list as I have really big handwriting and short arms.
+Chat_Happening_SHOPPING[Q] |= Is there a sale on? I love a good bargain. I also love bad bargains. I just like bargains!
+
+Chat_Happening_SHOPPING[C] |= Am off shopping, but I bet they don't have what I want in stock.
+Chat_Happening_SHOPPING[C] |= I need to buy some bits and bobs, but I hate queuing. The lines are longer than my stress wrinkles.
+Chat_Happening_SHOPPING[C] |= Have you seen the prices of stuff these days? I can't use the inflation joke as that is used elsewhere!
+Chat_Happening_SHOPPING[C] |= I really don't like shopping, but I have to do some. I am not buying any gifts, though, I am not made of Brass. I am made of meat before you ask.
+
+Chat_Happening_WORSHIP |= Just about to make some offerings.
+Chat_Happening_WORSHIP |= I am all ready to worship.
+Chat_Happening_WORSHIP |= Going to get me some blessings!
+Chat_Happening_WORSHIP |= Revering our fair Goddesses, mainly because if I don't, I might end up as a newt.
+
+Chat_Happening_WORSHIP[P] |= My favourite time of day. Worship time!
+Chat_Happening_WORSHIP[P] |= I worship this part of the day. Literally. It's worship time.
+Chat_Happening_WORSHIP[P] |= Everyone should do as I do and pay reverence to those who guide us. No, not Thatterways! Goddesses!
+Chat_Happening_WORSHIP[P] |= I am just heading to the local Goddess Statue to pay homage with some fromage. That's ancient tongue that means an item 'from an age'. I think.
+
+Chat_Happening_WORSHIP[J] |= Worship time! I just love showering the celestial Ladies with gifts!
+Chat_Happening_WORSHIP[J] |= Oh, I am about to worship. It's nice to say a little thanks and get some handy blessings.
+Chat_Happening_WORSHIP[J] |= It's worship time. I personally like to do a little dance to impress those who watch us.
+Chat_Happening_WORSHIP[J] |= Dance with me! It's time to celebrate our beloved Goddesses!
+
+Chat_Happening_WORSHIP[B] |= I am just going to give my high-quality gifts to the Goddesses.
+Chat_Happening_WORSHIP[B] |= I always seem to get great favour with the Goddesses. They must love me.
+Chat_Happening_WORSHIP[B] |= What are you offering the Goddesses? 5-star items like me?
+Chat_Happening_WORSHIP[B] |= Sometimes I think people should worship me!
+
+Chat_Happening_WORSHIP[Q] |= It's time to worship. I like to offer in alphabetical order, starting with number 1.
+Chat_Happening_WORSHIP[Q] |= What are you going to offer? I am going to offer something but can't decide between what's in my left pocket or what is now squashed in my right pocket.
+Chat_Happening_WORSHIP[Q] |= I am in full worship mode. I have no choice. I was designed that way.
+Chat_Happening_WORSHIP[Q] |= Do you hear the Goddesses whisper when making offerings? Am sure I heard someone say, "Put the ******* potion in the ******* offering bowl!". Then complete silence, except for some lambs bleating.
+
+Chat_Happening_WORSHIP[C] |= Do I have to kneel to worship? My joints creak like old trees.
+Chat_Happening_WORSHIP[C] |= Just about to make my offerings. I am sure I will be cursed to be a miserable old Puck again.
+Chat_Happening_WORSHIP[C] |= Off to worship. I seem to get nothing much back! No idea why I do it.
+Chat_Happening_WORSHIP[C] |= Oh, the joyous time of day we pay homage to those who couldn't care less about my dodgy knees.
+
+Chat_Happening_OFFERING |= I am making offerings so that our home can remain safe and blessed.
+
+Chat_Happening_OFFERING[Spouse] |= I am making offerings so that our home can remain safe and blessed.
+Chat_Happening_OFFERING[Spouse] |= Worship time. I want to meditate and embrace the spirit of our beloved Goddesses.
+Chat_Happening_OFFERING[Spouse] |= I am worshipping now. Please do not disturb my transcendental harmonising.
+Chat_Happening_OFFERING[Spouse] |= I am just filling up this bowl with goodies so the house Brounie stops putting ants in my slippers.
+
+Chat_Happening_OFFERING[OwnKid] |= I am going to put things in Mr Pott's big bowl.
+Chat_Happening_OFFERING[OwnKid] |= You said I should make an offering to Mr Pott.
+Chat_Happening_OFFERING[OwnKid] |= I am putting things in that bowl for lovely Mr Pott.
+Chat_Happening_OFFERING[OwnKid] |= Offering time! Hurray!
+
+Chat_Happening_OFFERING[OwnKidAdult] |= I am going to pay my respects to our Guardians.
+Chat_Happening_OFFERING[OwnKidAdult] |= I am going to make the offerings that keep us alive and in human form.
+Chat_Happening_OFFERING[OwnKidAdult] |= Just going to put some food in the big bowl.
+Chat_Happening_OFFERING[OwnKidAdult] |= I am going to go meditate by the bowl and pay our dues to the Fae folk.
+
+Chat_Happening_COOK |= I am just cooking up a nice little meal.
+Chat_Happening_COOK |= I was making a lovely pie. Three point one four two to be precise.
+Chat_Happening_COOK |= I am going to whip up a lovely snack using only the finest whatevers.
+Chat_Happening_COOK |= Am cooking something just like mother used to make. Iron-hard cake and cremated sausages.
+
+Chat_Happening_COOK[P] |= I am cooking up something special for our beautiful and doubtless hungry Goddesses.
+Chat_Happening_COOK[P] |= They say piety begins in the heart, but the energy to be pious begins in the stomach.
+Chat_Happening_COOK[P] |= I am baking some simple products for my next offerings.
+Chat_Happening_COOK[P] |= I am going to cook up some wholesome food.
+
+Chat_Happening_COOK[J] |= Just making something yummy for my tummy!
+Chat_Happening_COOK[J] |= I just love cooking! My favourite bit is scraping out the cake mix with my finger.
+Chat_Happening_COOK[J] |= Cooking up a delicious meal!
+Chat_Happening_COOK[J] |= I am making some delicious grub to satisfy the hunger fairies.
+
+Chat_Happening_COOK[B] |= This meal I am making will be special, even by my standards.
+Chat_Happening_COOK[B] |= I am baking the best food anyone has ever tasted.
+Chat_Happening_COOK[B] |= I want to boast about my toast. 
+Chat_Happening_COOK[B] |= I am preparing a fine meal for my fine stomach. Something so fine I don't even need to chew it.
+
+Chat_Happening_COOK[Q] |= Well, I am trying to rustle up something to eat. When I can unwrap this paper, I will eat what's inside.
+Chat_Happening_COOK[Q] |= I am attempting something I have never done before. Edible cooking.
+Chat_Happening_COOK[Q] |= Step back; I need to light the stove. Last time I set my eyebrows on fire. 
+Chat_Happening_COOK[Q] |= I have to label my mashed-up potatoes. I need a hashtag! Just kidding, potatoes don't exist.
+
+Chat_Happening_COOK[C] |= I'm absolutely stewing. And this time, I do mean in the cookery sense.
+Chat_Happening_COOK[C] |= Am attempting to provide nourishment, but there are vitamins in my cooking that aren't on any apothecary chart.
+Chat_Happening_COOK[C] |= My cooking is so bad that even the cockroaches send it back. It could break the teeth of a Barghest.
+Chat_Happening_COOK[C] |= Why is cooking so tedious? And all that effort so that I can spend an hour on the plopper.
+
+Chat_Happening_COOK[Spouse] |= I do enjoy a bit of cooking. I love the smells. Makes this home feel even more homely.
+Chat_Happening_COOK[Spouse] |= I am just preparing dishes for rumbly tummies.
+Chat_Happening_COOK[Spouse] |= I am making some tasty treats.
+Chat_Happening_COOK[Spouse] |= I am trying not to burn the food or my fingers.
+
+Chat_Happening_COOK[OwnKid] |= Should I be doing this? Seems dangerous!
+Chat_Happening_COOK[OwnKid] |= I like playing with knives and chopping stuff up.
+Chat_Happening_COOK[OwnKid] |= I want to do cooking!
+Chat_Happening_COOK[OwnKid] |= I am cooking! I promise not to burn anything again.
+
+Chat_Happening_COOK[OwnKidAdult] |= I am just making some delicacies. It's one life skill I am glad I have.
+Chat_Happening_COOK[OwnKidAdult] |= Can't you smell what I am doing? I bet they can smell this in Pineshade!
+Chat_Happening_COOK[OwnKidAdult] |= I am making something to eat, as instructed. Fancy taking over?
+Chat_Happening_COOK[OwnKidAdult] |= You can't beat some lovely cooking to take your mind off everyday problems.
+
+Chat_Happening_OUTHOUSE |= Just going to have a quick tinkle.
+Chat_Happening_OUTHOUSE |= I have an urgent call of nature, which is very apt for pagans.
+Chat_Happening_OUTHOUSE |= I am just going to relive myself. I mean relieve! That's reincarnation for you!
+Chat_Happening_OUTHOUSE |= Too much information, but I need a poo.
+
+Chat_Happening_OUTHOUSE[P] |= You must excuse me as I rid myself of badness.
+Chat_Happening_OUTHOUSE[P] |= The Goddesses dictate that I make an offering of the bottom variety.
+Chat_Happening_OUTHOUSE[P] |= I am going to reflect on nature, the sky and our Goddesses as I empty my bowels.
+Chat_Happening_OUTHOUSE[P] |= Worship on hold as I need to use the outhouse.
+
+Chat_Happening_OUTHOUSE[J] |= I am just going to help Mr Log be reunited with his family.
+Chat_Happening_OUTHOUSE[J] |= I love sitting on the loo. An outhouse is a great place to think of genius ideas and great games.
+Chat_Happening_OUTHOUSE[J] |= I am bursting for a number 5! That's two number 2's and a 1.
+Chat_Happening_OUTHOUSE[J] |= I often laugh so hard I need to piss. So it's off to the outhouse for me!
+
+Chat_Happening_OUTHOUSE[B] |= My toilet has a brown velvet seat, although I do regret that extravagance as it used to be purple.
+Chat_Happening_OUTHOUSE[B] |= I plan to build a toilet bigger than most people's houses.
+Chat_Happening_OUTHOUSE[B] |= You can't skimp on toilet luxury, you know? I use only the very best leaves.
+Chat_Happening_OUTHOUSE[B] |= I have probably eaten too much amazing food and now need to give my quality bowels some respite.
+
+Chat_Happening_OUTHOUSE[Q] |= I am busting for a whizz. In fact, I am whizzing for a whizz.
+Chat_Happening_OUTHOUSE[Q] |= Just going to the loo to practice my scales.
+Chat_Happening_OUTHOUSE[Q] |= If you hear a loud noise shortly, it was definitely an Ogyr snorting.
+Chat_Happening_OUTHOUSE[Q] |= I once saw a Brounie in the outhouse. Not that kind! The faery folk!
+
+Chat_Happening_OUTHOUSE[C] |= Stomach is upset again. I suppose I will be in the outhouse for hours.
+Chat_Happening_OUTHOUSE[C] |= I hope the toilet seat isn't cold.
+Chat_Happening_OUTHOUSE[C] |= I hate going to the outhouse, especially if it has nettle loo paper.
+Chat_Happening_OUTHOUSE[C] |= I am just going to go take a shit if that's alright with you?
+
+Chat_Happening_FNFWORKER |= Busy! Busy! I can't talk right now!
+Chat_Happening_FNFWORKER |= Hammering this. Nailing that.
+Chat_Happening_FNFWORKER |= Just beavering away on this project. 
+Chat_Happening_FNFWORKER |= The smell of sawdust and the sound of hard work.
+Chat_Happening_FNFWORKER |= A good deal of building things.
+Chat_Happening_FNFWORKER |= Making good progress on this task you set.
+Chat_Happening_FNFWORKER |= Just busy with this interesting project.
+
+Chat_Happening_FNFWORKER[P] |= Just having a stretch and a sip of water. It's hard work, and it's thirsty work.
+Chat_Happening_FNFWORKER[P] |= I need to get some nails; otherwise, it's nose to the grindstone.
+Chat_Happening_FNFWORKER[P] |= The magnificence of creation is what is happening!
+Chat_Happening_FNFWORKER[P] |= I can tell you what's going on in rhyme: Wood and stone, skin and bone, makes a structure, makes a home. Isn't that nice?
+Chat_Happening_FNFWORKER[P] |= I am humming thankful tunes in honour of the Goddesses as I work.
+Chat_Happening_FNFWORKER[P] |= Another construction is being made in honour of our Goddesses.
+Chat_Happening_FNFWORKER[P] |= Doing Blessed work.
+
+Chat_Happening_FNFWORKER[Q] |= I just had a slight snooze to reinvigorate myself for this hard work.
+Chat_Happening_FNFWORKER[Q] |= Working 9 to 6. What a way to make a living.
+Chat_Happening_FNFWORKER[Q] |= Just making sure this structure is conforming to Elf & Safety requirements.
+Chat_Happening_FNFWORKER[Q] |= Hibblepips keep stealing the nails! They must be short of iron!
+Chat_Happening_FNFWORKER[Q] |= I am re-adjusting the wedging on this doobie-dah. I have no idea, either.
+Chat_Happening_FNFWORKER[Q] |= I am looking for my saw. I can't recall where I last erm, what's the word? 
+Chat_Happening_FNFWORKER[Q] |= I was just discussing with myself if it was sandwich time or not. I decided it was.
+Chat_Happening_FNFWORKER[Q] |= I am just going to sharpen my hammer.
+
+Chat_Happening_FNFWORKER[J] |= I'm making good progress with this build.
+Chat_Happening_FNFWORKER[J] |= Well, I was considering a sneaky break until you showed up asking questions *wink*.
+Chat_Happening_FNFWORKER[J] |= Just varnished something, and now I'm going to varnish the varnish.
+Chat_Happening_FNFWORKER[J] |= Building for my good pal. 
+Chat_Happening_FNFWORKER[J] |= I have a bit more to do yet, but going well!
+Chat_Happening_FNFWORKER[J] |= I am enjoying knocking up this structure!
+Chat_Happening_FNFWORKER[J] |= The joys of creation!
+
+Chat_Happening_FNFWORKER[C] |= I'm working on the project you asked me to help out on...
+Chat_Happening_FNFWORKER[C] |= I'm currently straining my back to help you out. Good thing I like you!
+Chat_Happening_FNFWORKER[C] |= I am pulling splinters out of my thumb.
+Chat_Happening_FNFWORKER[C] |= I was just humming a work tune or two. Someone shouted at me to shut up.
+Chat_Happening_FNFWORKER[C] |= What's happening?! WHAT'S HAPPENING?! I'll tell you what is happening! Erm, I forgot.
+Chat_Happening_FNFWORKER[C] |= Artistic differences. I want to paint it red, and everyone else wants to flatten it.
+
+Chat_Happening_FNFWORKER[B] |= Great work is happening, that's what.
+Chat_Happening_FNFWORKER[B] |= It's going up pretty well. You will be pleased with the final results.
+Chat_Happening_FNFWORKER[B] |= I am working hard so I can play hard later. That's how us mossy stones roll.
+Chat_Happening_FNFWORKER[B] |= Not much is happening if you keep distracting the talent.
+Chat_Happening_FNFWORKER[B] |= Not much longer, and you can cut the ribbon on this beauty.
+Chat_Happening_FNFWORKER[B] |= I am doing brilliant building.
+Chat_Happening_FNFWORKER[B] |= I am just showing off my amazing construction skills.
+
+Chat_Happening_Totem |= I was in <VAR1> and saw Hobs in the bushes! They are roaming beyond the dark forests!
+Chat_Happening_Totem |= There's one of them Totem things in <VAR1>. I think you can handle those!
+Chat_Happening_Totem |= Hobs are afoot in <VAR1>. Little buggers are draining places of all resources!
+Chat_Happening_Totem |= I saw a Hag in <VAR1>. Made me shiver! I could hear her casting a spell as I ran away.
+Chat_Happening_Totem |= I heard there was a strange structure in <VAR1>. You should be careful if you go gathering in that place. Apparently, nothing was growing, and the atmosphere was bad. 
+Chat_Happening_Totem |= There's a dark Totem in <VAR1>! The Hobs are taking everything! I hope they don't come here!
+Chat_Happening_Totem |= You might want to get rid of that evil thing in <VAR1>. It's causing trouble and upsetting the pigeons.
+Chat_Happening_Totem |= Have you heard about the Hobs over in <VAR1>? These are worrying times.
+Chat_Happening_Totem |= Bad stuff brewing these days. There's a sense of dread in all corners of the world. I heard that something is going down in <VAR1>. If I had a pipe, I would tap it and shake my head disapprovingly.
+Chat_Happening_Totem |= You are a good monster fighter, aren't you? Either way, get yourself to <VAR1> and sort those damned Hobs out! 
+Chat_Happening_Totem |= Hobs are on the loose, coming through portals and stealing our veg! They even pooped in my water bucket. Now I hear they are looting <VAR1>. Someone needs to damn their eyes, strip the britches from their backsides and warm their heels to Pineshade Bridge! Hurrah!
+Chat_Happening_Totem |= Trouble up <VAR1> way. Thieving Hobs and dreadful curses. Bad juju...
+Chat_Happening_Totem |= Things are stirring in the land. Stirring up bad! You can feel it in the air. A trader told me there are monsters running around <VAR1> causing all sorts of bother.
+
+
+Chat_Event_PIG_RACING |= It's Pig Racing soon. It is good fun and healthy for the pigs.
+Chat_Event_PIG_RACING |= Going to Festival Green for the Pig Racing when it is on. 
+Chat_Event_PIG_RACING |= I am looking forward to when the Pig Racing is on. 
+
+Chat_Event_PIG_RACING[P] |= It's nearly time for the Pig Racing on Festival Green. I am not totally keen on such frivolous practices.
+Chat_Event_PIG_RACING[P] |= I wonder if the Goddesses watch Pig Racing?
+Chat_Event_PIG_RACING[P] |= Pig Racing is almost upon us. Druida blesses us with such fine sport!
+
+Chat_Event_PIG_RACING[J] |= Pig Racing soon! I just love watching their little bums waggle as they run!
+Chat_Event_PIG_RACING[J] |= Oooh! It's Pig Racing soon. Got to try to win some snacks!
+Chat_Event_PIG_RACING[J] |= There is nothing funnier than watching pigs racing each other. I always try to go along!
+
+Chat_Event_PIG_RACING[B] |= Did you know it is Pig Racing at Festival Green soon? I sometimes go along and watch those hogs run.
+Chat_Event_PIG_RACING[B] |= If I bred pigs, they would undoubtedly win any race I put them in. The competition doesn't cut much bacon.
+Chat_Event_PIG_RACING[B] |= I once won a gorgeous apple pie at the Pig Racing. You should try it when it is on.
+
+Chat_Event_PIG_RACING[Q] |= Ever been pig racing? I always lose. I just can't run as fast as them.
+Chat_Event_PIG_RACING[Q] |= Will be Pig Racing soon. I like to pretend I picked the winner.
+Chat_Event_PIG_RACING[Q] |= Are you going to the Pig Racing when it is on next? You should dress in pink and participate, as you look pretty fast.
+
+Chat_Event_PIG_RACING[C] |= Oh, I was just thinking about Pig Racing. I never win a prize, even if there is just one pig.
+Chat_Event_PIG_RACING[C] |= I hate the smell of Pig Racing in the morning.
+Chat_Event_PIG_RACING[C] |= Word of advice. Do not go to the upcoming Pig Racing event on Festival Green. Not only do you lose your voice shouting, but you can also often step in something. So, if you do go, don't wear sandals.
+
+Chat_Event_PIG_AUCTION |= It's nearly time for the Pig Auction. Head to the local market when it is on, and make sure to grab an empty crate to sit on!
+Chat_Event_PIG_AUCTION |= Am thinking of buying a pig at the auction this week. If I don't win, then at least I had fun pretending to know what I was doing.
+Chat_Event_PIG_AUCTION |= Are you going to the upcoming Pig Auction? Check your calendar for when it is on.
+
+Chat_Event_PIG_AUCTION[P] |= It will soon be time for the Pig Auction. The pig is one of nature's many beautiful creatures.
+Chat_Event_PIG_AUCTION[P] |= I am thinking about going to the Pig Auction when it is on in Festival Green. We should celebrate all events that we are blessed to have.
+Chat_Event_PIG_AUCTION[P] |= Are you going to buy a pig at the upcoming auction? We stopped using animals as offerings many years ago as they just aren't as acceptable as the right kind of offering.
+
+Chat_Event_PIG_AUCTION[J] |= Oh, it is the Pig Auction soon! I can't wait! I never buy any, but I love the thrill of the bid!
+Chat_Event_PIG_AUCTION[J] |= Going to the Pig Auction soon? It takes place at Festival Green. What a great smell!
+Chat_Event_PIG_AUCTION[J] |= Am thinking of buying a piggy-wiggy in the upcoming Pig Auction. I would need to learn how to ride, though.
+
+Chat_Event_PIG_AUCTION[B] |= I once bought all the pigs in the Pig Auction. I sometimes go to the weekly one to watch how cheap everyone else is.
+Chat_Event_PIG_AUCTION[B] |= I am considering going to the Pig Auction. I like to imagine buying them all just to prove how wealthy I am, but where to store them is the trouble.
+Chat_Event_PIG_AUCTION[B] |= It's nearly time for the Pig Auctions. I should just go and bid 1000 Brass just to see their shocked faces. 
+
+Chat_Event_PIG_AUCTION[Q] |= It's the Pig Auction soon. I once dressed as a pig, and someone bought me for 3 Brass. They got a surprise when they tried sitting on me!
+Chat_Event_PIG_AUCTION[Q] |= Am thinking of going to the Pig Auctions on Festival Green when they are on. I was going to take a tall stool so I could be the highest bidder.
+Chat_Event_PIG_AUCTION[Q] |= Be careful if you go to the Pig Auction. I once bid 20 Brass on what turned out to be a balloon with a face drawn on it.
+
+Chat_Event_PIG_AUCTION[C] |= Ugh. It's the Pig Auction soon. Seeing your face reminded me. No disrespect to the pigs.
+Chat_Event_PIG_AUCTION[C] |= It's nearly that wonderful time of the week when the Pig Auction happens. I just wish that auctioneer wouldn't bang his gavel so hard.
+Chat_Event_PIG_AUCTION[C] |= I never win on bids at the Pig Auction. If you go, please show mercy on me if I am there.
+
+Chat_Event_GOODS_MARKET |= It is the Goods Market soon. It has limited variety but good prices if you need to stock up.
+Chat_Event_GOODS_MARKET |= It is the Goods market soon. You can sell anything anytime if you hire that Lemonade Stand.
+Chat_Event_GOODS_MARKET |= Are you low on seeds and such? Keep your eyes peeled for the Goods Market. 
+
+Chat_Event_GOODS_MARKET[P] |= Market Day soon. A chance to buy offerings and gaze in wonder at our Woodfellow.
+Chat_Event_GOODS_MARKET[P] |= Don't forget to buy some cheap offerings at the upcoming Goods Market. 
+Chat_Event_GOODS_MARKET[P] |= It is Market Day soon. It is a chance to stock up on the simple things in life.
+
+Chat_Event_GOODS_MARKET[J] |= Oh, I am all excited about the upcoming Market Day! I love to snatch a bargain. I love it when things are cheap, like the budgie. It's all I can A. Ford. Yes, that is probably a reference.
+Chat_Event_GOODS_MARKET[J] |= Going to the Goods Market soon? I love the hustle and bustle and rustle and fustle and er, grustle?
+Chat_Event_GOODS_MARKET[J] |= I have one eye on my calendar for the upcoming Goods Market. The other eye I use to watch where I am going! Wahey!
+
+Chat_Event_GOODS_MARKET[B] |= Goods Market? I never buy cheap. Buy cheap, buy twice, they say.
+Chat_Event_GOODS_MARKET[B] |= As a rich person, I like to go to the Goods Market to see how the other half live.
+Chat_Event_GOODS_MARKET[B] |= It is the Goods market soon. It's fine if you want seeds, but I only buy the finest seeds.
+
+Chat_Event_GOODS_MARKET[Q] |= Oh yes! It's the Goods Market coming up! Seeing you reminded me I need to buy oddly-shaped carrots.
+Chat_Event_GOODS_MARKET[Q] |= What's happening? I'll tell you what's happening! The Goods Market is happening. Not right now. I mean, it's a happening place to be, especially if you like seeds and apples.
+Chat_Event_GOODS_MARKET[Q] |= Give me a G! Give me an O. Give me another O. Give me a D! Now an S! Oh, forget that. Our word budget doesn't stretch to this sort of thing. Goods Market soon. That's all you need to know.
+
+Chat_Event_GOODS_MARKET[C] |= Oh no. It's the Goods Market soon. I will likely arrive late and be left with the worst stuff.
+Chat_Event_GOODS_MARKET[C] |= It's the Goods market soon. I wish they would actually sell decent stuff. I have cupboards stuffed with cheap seeds.
+Chat_Event_GOODS_MARKET[C] |= I was thinking of not going to the Goods market when it is on. Too much noise.
+
+Chat_Event_TRAVELLING_TRADER |= Have you seen the Travelling Trader? His boar is absolutely huge. They are a special breed from the deepest northern lands. It is said Morwenna bred them for riding.
+Chat_Event_TRAVELLING_TRADER |= Trader day tomorrow. Bring your Brass and plenty of it!
+Chat_Event_TRAVELLING_TRADER |= It's the Travelling Trader tomorrow. He always goes to the same two places in the haven, so be there or be a triangle.
+
+Chat_Event_TRAVELLING_TRADER[P] |= The Travelling Trader is around tomorrow. It's a good chance to get some unique offerings at inflated prices.
+Chat_Event_TRAVELLING_TRADER[P] |= I am anticipating the Travelling Trader arriving tomorrow. It must be a good life, wandering under the stars.
+Chat_Event_TRAVELLING_TRADER[P] |= Are you getting anything from the Travelling Trader when he arrives tomorrow? I once bought a collection of Effigies. They really capture our beloved Goddesses' essence.
+
+Chat_Event_TRAVELLING_TRADER[J] |= Well, I am excited to see what the Travelling Trader brings tomorrow!
+Chat_Event_TRAVELLING_TRADER[J] |= Don't forget the Travelling Trader comes tomorrow. I hope he has some great goods! I love a treat.
+Chat_Event_TRAVELLING_TRADER[J] |= I wonder what the Travelling Trader's boar eats? It must go through food like a... erm... massive pig.
+
+Chat_Event_TRAVELLING_TRADER[B] |= That Travelling Trader has a huge boar, they say. Call that huge? My slippers are bigger than that.
+Chat_Event_TRAVELLING_TRADER[B] |= The Travelling Trader wanders the land, but I still reckon I have been to more places.
+Chat_Event_TRAVELLING_TRADER[B] |= People get excited about the Travelling Trader. His goods aren't that great. I find better stuff behind my larder.
+
+Chat_Event_TRAVELLING_TRADER[Q] |= The Travelling Trader is due tomorrow. That boar is so well toilet trained. Although I bet it could fertilise your crops for a year in one go!
+Chat_Event_TRAVELLING_TRADER[Q] |= I was just singing the Travelling Trader song in my head. 'One potato, two potato, three potato, four. You can't buy potatoes from the giant boar!"
+Chat_Event_TRAVELLING_TRADER[Q] |= I wonder what the Travelling Trader will bring tomorrow. Apart from his gigantic boar. I once got 50% off a bucket. It was just the handle.
+
+Chat_Event_TRAVELLING_TRADER[C] |= I just discovered that the Travelling Traders who set up near the combat woods sell items to help with fighting! Smart business, that!
+Chat_Event_TRAVELLING_TRADER[C] |= I think the Travelling Trader over-prices his items on purpose to get more profit.
+Chat_Event_TRAVELLING_TRADER[C] |= I really hate it when the Travelling Trader comes. He leaves his boar parked in awkward places. Do you really need to ride something that big? I have a 4x4, which is perfectly sized plank of wood.
+
+Chat_Event_DRUIDA_DAY |= It's Goddess Day tomorrow so don't forget to bring offerings and get some blessings!
+Chat_Event_DRUIDA_DAY |= Remember it is Goddess Day in the morrow. Stock up on offerings and plan your blessings.
+Chat_Event_DRUIDA_DAY |= I am looking forward to our weekly celebration of Goddess love tomorrow.
+
+Chat_Event_DRUIDA_DAY[P] |= It's the best day of the week tomorrow! Goddess Day! I always dress in my very best, which due to pixel budgets, is exactly the same as my weekly wear.
+Chat_Event_DRUIDA_DAY[P] |= Goddess Day is nigh! The dancing, the offerings, the prayers, the tingle of fear and sense of dread that you might have upset them!
+Chat_Event_DRUIDA_DAY[P] |= I am preparing my offerings for Goddess Day tomorrow. I want a good blessing but can never decide which!
+
+Chat_Event_DRUIDA_DAY[J] |= Hurray! Goddess Day is nearly upon us. I love to do a bit of dancing or to the casual observer, shaking about a bit.
+Chat_Event_DRUIDA_DAY[J] |= Are you going to Goddess Day? I love the atmosphere, and it's an excuse to eat and drink more.
+Chat_Event_DRUIDA_DAY[J] |= Nearly Goddess Day! It's great to know our Goddesses are watching us and judging our dancing ability. I have the Eggs-Factor!
+
+Chat_Event_DRUIDA_DAY[B] |= Tomorrow is Goddess Day. As usual, I will be offering only the best.
+Chat_Event_DRUIDA_DAY[B] |= Goddess Day tomorrow. A chance for worship. I am sure many people secretly worship me too.
+Chat_Event_DRUIDA_DAY[B] |= If you do any dancing at Goddess Day tomorrow, just try not to be outshone by my brilliance.
+
+Chat_Event_DRUIDA_DAY[Q] |= I am thinking about what I can offer tomorrow for Goddess Day. Last week the apple I offered had a worm in it, so I saw that as a bonus.
+Chat_Event_DRUIDA_DAY[Q] |= Goddess Day tomorrow. What's the weirdest thing you ever offered? I once offered a toad-in-the-hole I had baked myself. Sadly, the toad ate the pudding in the offering bowl, and I spent the next week only able to ribbit. 
+Chat_Event_DRUIDA_DAY[Q] |= Goddess Day is nigh! Why aren't there 7 Goddesses? There are 7 days of the week. I suppose if there were 7, we would need an 8th day to celebrate them. Then you go down a big rabbit hole!
+
+Chat_Event_DRUIDA_DAY[C] |= Oh dear. Goddess Day tomorrow. I don't mind the offerings, but some people get too drunk, and their dancing is dreadful. 
+Chat_Event_DRUIDA_DAY[C] |= Having to make offerings every week is really expensive!
+Chat_Event_DRUIDA_DAY[C] |= Oh no. It's Goddess Day tomorrow. Some people just get too loud.
+
+Chat_Event_SHEEP_RACING |= I am going to the Sheep Racing tomorrow. Are you going? A good chance to meet folks and have fun.
+Chat_Event_SHEEP_RACING |= It's nearly time for the Sheep Racing. They never seem to be as fast as when you ride them.
+Chat_Event_SHEEP_RACING |= Are you going to go and watch the Sheep Racing tomorrow?
+
+Chat_Event_SHEEP_RACING[P] |= It is the Sheep Racing at FineFayre tomorrow. Goddesses bless those lovely woolly creatures.
+Chat_Event_SHEEP_RACING[P] |= I might attend the Sheep Racing at FineFayre, which is a bit frivolous, but the Goddesses seem to enjoy it.
+Chat_Event_SHEEP_RACING[P] |= It is the Sheep Racing event tomorrow. A chance to earn money for offerings.
+
+Chat_Event_SHEEP_RACING[J] |= It's Sheep Racing Day tomorrow! I just love watching those fluffy fellas frolicking to the flag!
+Chat_Event_SHEEP_RACING[J] |= Have you tried to win a prize on the Sheep Racing? I always pick the fastest. Not sure how that works, though.
+Chat_Event_SHEEP_RACING[J] |= Don't forget the Sheep Racing tomorrow. There are prizes for those who know their bacon!
+
+Chat_Event_SHEEP_RACING[B] |= Sheep Racing soon. I used to breed the champion. Well, she would have been had I actually raced her.
+Chat_Event_SHEEP_RACING[B] |= I find Sheep Racing doesn't pay out enough to be worth my time.
+Chat_Event_SHEEP_RACING[B] |= Sheep Racing tomorrow. Mellowbrook's finest contribution to culture.
+
+Chat_Event_SHEEP_RACING[Q] |= Are you going to the Sheep Racing tomorrow? I count sheep to get to sleep and even then they lose.
+Chat_Event_SHEEP_RACING[Q] |= I am thinking about wasting my time on Sheep Racing tomorrow. Am sure there must be SOME logic behind which one to pick!
+Chat_Event_SHEEP_RACING[Q] |= Are EWE going to the Sheep Racing in FineFayre tomorrow? I made what they call a pun. Did EWE get it? No? BAH!
+
+Chat_Event_SHEEP_RACING[C] |= Apparently, it is the Sheep Racing tomorrow. It's about as fun as watching paint dry, which is actually not as fun as it sounds.
+Chat_Event_SHEEP_RACING[C] |= I was considering wasting Brass on some prize-winning tomorrow at the Sheep Races. I may as well just toss the money into the river.
+Chat_Event_SHEEP_RACING[C] |= Have you been to the Sheep Racing in FineFayre? Mellowfield's worst kept secret because you can smell it from Pineshade.
+
+Chat_Event_SHEEP_AUCTION |= It's the Sheep Auction at FineFayre tomorrow if bidding on sheep is your thing.
+Chat_Event_SHEEP_AUCTION |= Ram, ewe and lamb. All are available at the upcoming Sheep Auction!
+Chat_Event_SHEEP_AUCTION |= It's nearly Sheep Auction time. Keep an eye on the date if you want to get involved.
+
+Chat_Event_SHEEP_AUCTION[P] |= It is the Sheep Auction soon. I don't have much time for such things. My mind is on our great Goddesses. 
+Chat_Event_SHEEP_AUCTION[P] |= Sheep Auction is on tomorrow. Not my cup of hot water poured on herbs.
+Chat_Event_SHEEP_AUCTION[P] |= As a fellow Quillian, it is my duty to remind you of the Sheep Auction tomorrow. I mean, the auction is tomorrow... I am not reminding you tomorrow.
+
+Chat_Event_SHEEP_AUCTION[J] |= Are you going to bid on some of our ovine friends tomorrow? They make great grass cutters and excellent nap pillows!
+Chat_Event_SHEEP_AUCTION[J] |= I love the Sheep Auction! You can get a proper BAAGAIN! Wahey!
+Chat_Event_SHEEP_AUCTION[J] |= Have you ever bought a sheep from the auction? It's on tomorrow if you want to try and understand what in Quill is going on!
+
+Chat_Event_SHEEP_AUCTION[B] |= I feel like going to the Sheep Auction tomorrow and just buying all the sheep because I like to win. I won't though as I am too busy to look after them.
+Chat_Event_SHEEP_AUCTION[B] |= I probably won't go to the upcoming Sheep Auction as it's unfair to the rest of you.
+Chat_Event_SHEEP_AUCTION[B] |= If I were to go to the Sheep Auction I would likely buy only the very best because that's how I ride.
+
+Chat_Event_SHEEP_AUCTION[Q] |= It's the Sheep Auction tomorrow in FineFayre. I once got over-excited and bid 30 Brass. Luckily, they were very supportive about my mistake.
+Chat_Event_SHEEP_AUCTION[Q] |= I once got so excited at the Sheep Auction I stood up to shout my bid, and my pants fell down. I nearly dropped the ball on that one!
+Chat_Event_SHEEP_AUCTION[Q] |= I once bought a sheep at the Sheep Auction. It was actually tiny when I sheared the wool off. It was lamb dressed as mutton!
+
+Chat_Event_SHEEP_AUCTION[C] |= I would not bother going to the Sheep Auction tomorrow if I were you. You will get fleeced.
+Chat_Event_SHEEP_AUCTION[C] |= Oh, it's that time of the week again. Sheep Auctions. I don't like them. Auctions, that is. Sheep are funny.
+Chat_Event_SHEEP_AUCTION[C] |= I am never bidding at the Sheep Auction again. I can't count past 10, so I made a number up, and bought a sheep called Ewegene for Floppity Ploppity Eight.
+
+Chat_Event_CHICKEN_RACING |= It's nearly time for the Chicken Racing. They never seem to be as fast as when you ride them.
+Chat_Event_CHICKEN_RACING |= Are you going to spend some hard-earned money on the Chicken Racing tomorrow?
+Chat_Event_CHICKEN_RACING |= Are you going to the Chicken Racing tomorrow? I love to suck on a Candy Hare and scream the name of my chosen clucker.
+
+Chat_Event_CHICKEN_RACING[P] |= It is the Chicken Racing at Festfield tomorrow. Goddesses bless those little cluckers.
+Chat_Event_CHICKEN_RACING[P] |= I might attend the Chicken Racing at FestField, which is surely our Goddesses' favourite sport.
+Chat_Event_CHICKEN_RACING[P] |= It is the Chicken Racing event tomorrow. A chance to win prizes for gifts to offer.
+
+Chat_Event_CHICKEN_RACING[J] |= It's Chicken Racing day tomorrow! Got to admire their determination!
+Chat_Event_CHICKEN_RACING[J] |= Have you tried Chicken Racing? I always choose the one with the longest legs.
+Chat_Event_CHICKEN_RACING[J] |= Don't forget the Chicken Racing tomorrow. There's a chance to get some pies and such!
+
+Chat_Event_CHICKEN_RACING[B] |= Chicken Racing soon. I nearly got into the breeding game, but the feathers made me sneeze.
+Chat_Event_CHICKEN_RACING[B] |= I find Chicken Racing doesn't have nice enough food prizes to be worth my time. I would say the same for pig and sheep racing.
+Chat_Event_CHICKEN_RACING[B] |= Chicken Racing tomorrow. Summerdown's finest contribution to entertainment since the unfortunate incident with the grease barrel.
+
+Chat_Event_CHICKEN_RACING[Q] |= I always watch the Chicken Racing when it is on. You should try it, especially as someone put effort into making it.
+Chat_Event_CHICKEN_RACING[Q] |= I am going to watch the Chicken Racing tomorrow. It's great to egg them on. I take eggs to throw at those who don't win.
+Chat_Event_CHICKEN_RACING[Q] |= I am going to the Chicken Racing tomorrow. Are you going? A good chance to meet money and lose folks.
+
+Chat_Event_CHICKEN_RACING[C] |= Apparently, it is the Chicken Racing tomorrow. It's about as fun as counting snowflakes in a blizzard.
+Chat_Event_CHICKEN_RACING[C] |= I was considering wasting Brass tomorrow at the Chicken Racing. I may as well just melt down my Brass and make a disc I can throw off a cliff.
+Chat_Event_CHICKEN_RACING[C] |= Have you been to the Chicken Racing in FestField? It's just an annoying cacophony of aggressive fowl and shouting villagers.
+
+Chat_Event_CHICKEN_AUCTION |= It's the Chicken Auction at FestField tomorrow. A good source of eggs.
+Chat_Event_CHICKEN_AUCTION |= Don't forget the Chicken Auction is tomorrow. It's egg-citing!
+Chat_Event_CHICKEN_AUCTION |= It's the Chicken Auction soon. FestField is a lovely place to visit.
+
+Chat_Event_CHICKEN_AUCTION[P] |= It is the Chicken Auction soon. I would much rather be worshipping like the pious NPC I am.
+Chat_Event_CHICKEN_AUCTION[P] |= Chicken Auction is on tomorrow. It's not my leather item holder.
+Chat_Event_CHICKEN_AUCTION[P] |= Just reminding you of the Chicken Auction tomorrow. 
+
+Chat_Event_CHICKEN_AUCTION[J] |= Are you going to bid on some of our clucking friends tomorrow? I buy them by the featherweight.
+Chat_Event_CHICKEN_AUCTION[J] |= I love the Chicken Auction! You can get a proper BAAGAIN! Oh, hang on, that's sheep.
+Chat_Event_CHICKEN_AUCTION[J] |= Have you ever bought a Chicken from the auction? It's on tomorrow if you want to try shouting numbers at a man who talks gibberish.
+
+Chat_Event_CHICKEN_AUCTION[B] |= I feel like going to the Chicken Auction tomorrow and just buying all the chickens so I can monopolise eggs and corner the market. 
+Chat_Event_CHICKEN_AUCTION[B] |= I probably won't go to the upcoming Chicken Auction as it's beneath me. Not geographically, of course!
+Chat_Event_CHICKEN_AUCTION[B] |= If I were to go to the Chicken Auction, I would easily outbid anyone due to my ability to count past 20.
+
+Chat_Event_CHICKEN_AUCTION[Q] |= It's the Chicken Auction tomorrow in FestField. I once won and paid in coins I had cleaned with soap. They refused to accept laundered money.
+Chat_Event_CHICKEN_AUCTION[Q] |= I once got so excited at the Chicken Auction that I threw my money pouch into the chicken pen, and they ate it all. The change did them good.
+Chat_Event_CHICKEN_AUCTION[Q] |= I once bought a sheep at the Chicken Auction. It was the same day I gave up drinking.
+
+Chat_Event_CHICKEN_AUCTION[C] |= I would not bother going to the Chicken Auction tomorrow. Mainly because I want to win for once.
+Chat_Event_CHICKEN_AUCTION[C] |= Chicken and chicks and cider bread. Tell me why I don't like auction days. 
+Chat_Event_CHICKEN_AUCTION[C] |= I am never bidding at the Chicken Auction again. Last time, I got a cockerel with a faulty alarm and got woken at 3am.
+
+
+
+Chat_HowAreYou |= I am good, thanks.
+Chat_HowAreYou |= I am ok today, thank you for asking.
+Chat_HowAreYou |= I am very well, thank you, considering.
+Chat_HowAreYou |= I am having a fine day so far.
+Chat_HowAreYou |= Things are ticking along.
+Chat_HowAreYou |= I am coping day to day, thank you.
+Chat_HowAreYou |= I am ok, thanks.
+Chat_HowAreYou |= I am well, thank you.
+
+Chat_HowAreYou[C] |= Can't complain. Life is like a box of candied squirrels.
+Chat_HowAreYou[C] |= Things could be better. Like everything.
+Chat_HowAreYou[C] |= I am okay, considering how tough I got it.
+Chat_HowAreYou[C] |= Uggh. Where do I start?
+Chat_HowAreYou[C] |= Problems, problems. The usual.
+Chat_HowAreYou[C] |= I could be better. I would complain, but who would listen?
+
+Chat_HowAreYou[P] |= I am full of love for our fair Goddesses.
+Chat_HowAreYou[P] |= I am as bright as Aurore's blue eyes.
+Chat_HowAreYou[P] |= I am as zesty as Druida's fruits.
+Chat_HowAreYou[P] |= I am feeling as perky as Naida in her glory.
+Chat_HowAreYou[P] |= I am feeling as energetic as Morwenna.
+Chat_HowAreYou[P] |= I am glad to be favoured by Hyalis and be alive another day.
+Chat_HowAreYou[P] |= I am feeling fine, bless you for asking.
+
+Chat_HowAreYou[J] |= I am feeling wonderful, thank you!
+Chat_HowAreYou[J] |= All's well that ends well, I say.
+Chat_HowAreYou[J] |= I am great. Cheers!
+Chat_HowAreYou[J] |= Couldn't be better! Well, I could, but I am the best I can be right now.
+Chat_HowAreYou[J] |= I am as happy as Larry. And he is a really happy bloke!
+Chat_HowAreYou[J] |= I feel as cheery as the sun and more satisfied than a pig in a pie shop.
+Chat_HowAreYou[J] |= I am as chirpy as a bird today.
+Chat_HowAreYou[J] |= I feel good, thanks! Don't let my exterior fool you, though!
+Chat_HowAreYou[J] |= I am a typical jolly person with the standard jolly reply.
+
+Chat_HowAreYou[Q] |= I am very well. 
+Chat_HowAreYou[Q] |= I am particularly average today, thank you.
+Chat_HowAreYou[Q] |= Not sure why you would want to know how okay I am. It's boring!
+Chat_HowAreYou[Q] |= I am feeling particularly quirky today, as is my nature.
+Chat_HowAreYou[Q] |= Thanks for asking, but I shan't tell you all my secrets!
+Chat_HowAreYou[Q] |= I am doing ok really. Life gives you apples and acid indigestion.
+
+Chat_HowAreYou[B] |= I am feeling the best, of course!
+Chat_HowAreYou[B] |= As champion of the world, I can pronounce I am doing well.
+Chat_HowAreYou[B] |= I am good, thanks, as always.
+Chat_HowAreYou[B] |= I am doing better than you for sure. I tell myself that to hide my insecurities.
+Chat_HowAreYou[B] |= I am well; cheers for asking.
+Chat_HowAreYou[B] |= Paying respect... I like it. I am good, thanks.
+Chat_HowAreYou[B] |= Doing well!
+
+Chat_Happening_FNFWORKER |= Busy! Busy! I can't talk right now!
+Chat_Happening_FNFWORKER |= Hammering this. Nailing that.
+Chat_Happening_FNFWORKER |= Just beavering away on this project. 
+Chat_Happening_FNFWORKER |= The smell of sawdust and the sound of hard work.
+Chat_Happening_FNFWORKER |= A good deal of building things.
+Chat_Happening_FNFWORKER |= Making good progress on this task you set.
+Chat_Happening_FNFWORKER |= Just busy with this interesting project.
+
+Chat_Happening_FNFWORKER[P] |= Just having a stretch and a sip of water. It's hard work, and it's thirsty work.
+Chat_Happening_FNFWORKER[P] |= I need to get some nails; otherwise, it's nose to the grindstone.
+Chat_Happening_FNFWORKER[P] |= The magnificence of creation is what is happening!
+Chat_Happening_FNFWORKER[P] |= I can tell you what's going on in rhyme - Wood and stone, skin and bone, makes a structure, makes a home. Isn't that nice?
+Chat_Happening_FNFWORKER[P] |= I am humming thankful tunes in honour of the Goddesses as I work.
+Chat_Happening_FNFWORKER[P] |= Another construction is being made in honour of our Goddesses.
+Chat_Happening_FNFWORKER[P] |= Doing Blessed work.
+
+Chat_Happening_FNFWORKER[Q] |= I just had a slight snooze to reinvigorate myself for this hard work.
+Chat_Happening_FNFWORKER[Q] |= Working 9 to 6. What a way to make a living.
+Chat_Happening_FNFWORKER[Q] |= Just making sure this structure is conforming to Elf & Safety requirements.
+Chat_Happening_FNFWORKER[Q] |= Hibblepips keep stealing the nails! They must be short of iron!
+Chat_Happening_FNFWORKER[Q] |= I am re-adjusting the wedging on this doobie-dah. I have no idea, either.
+Chat_Happening_FNFWORKER[Q] |= I am looking for my saw. I can't recall where I last erm, what's the word? 
+Chat_Happening_FNFWORKER[Q] |= I was just discussing with myself if it was sandwich time or not. I decided it was.
+Chat_Happening_FNFWORKER[Q] |= I am just going to sharpen my hammer.
+
+Chat_Happening_FNFWORKER[J] |= I'm making good progress with this build.
+Chat_Happening_FNFWORKER[J] |= Well, I was considering a sneaky break until you showed up asking questions *wink*.
+Chat_Happening_FNFWORKER[J] |= Just varnished something, and now I'm going to varnish the varnish.
+Chat_Happening_FNFWORKER[J] |= Building for my good pal. 
+Chat_Happening_FNFWORKER[J] |= I have a bit more to do yet, but going well!
+Chat_Happening_FNFWORKER[J] |= I am enjoying knocking up this structure!
+Chat_Happening_FNFWORKER[J] |= The joys of creation!
+
+Chat_Happening_FNFWORKER[C] |= I'm working on the project you asked me to help out on...
+Chat_Happening_FNFWORKER[C] |= I'm currently straining my back to help you out. Good thing I like you!
+Chat_Happening_FNFWORKER[C] |= I am pulling splinters out of my thumb.
+Chat_Happening_FNFWORKER[C] |= I was just humming a work tune or two. Someone shouted at me to shut up.
+Chat_Happening_FNFWORKER[C] |= What's happening?! WHAT'S HAPPENING?! I'll tell you what is happening! Erm, I forgot.
+Chat_Happening_FNFWORKER[C] |= Artistic differences. I want to paint it red, and everyone else wants to flatten it.
+
+Chat_Happening_FNFWORKER[B] |= Great work is happening, that's what.
+Chat_Happening_FNFWORKER[B] |= It's going up pretty well. You will be pleased with the final results.
+Chat_Happening_FNFWORKER[B] |= I am working hard so I can play hard later. That's how us mossy stones roll.
+Chat_Happening_FNFWORKER[B] |= Not much is happening if you keep distracting the talent.
+Chat_Happening_FNFWORKER[B] |= Not much longer, and you can cut the ribbon on this beauty.
+Chat_Happening_FNFWORKER[B] |= I am doing brilliant building.
+Chat_Happening_FNFWORKER[B] |= I am just showing off my amazing construction skills.
+
+Chat_Happening_HOMELESS |= I'm hoping you might be able to get some friends and family together to repair my house.
+Chat_Happening_HOMELESS |= I'm staying in the Emergency Shelter as Hobs have attacked and wrecked my house. Maybe you could help put it right?
+Chat_Happening_HOMELESS |= Being homeless, that's what's happening. I need someone to repair my Hob-damaged home.
+Chat_Happening_HOMELESS |= I'm wondering when I might get back into my destroyed home. The Shelter is fine, but I need to get back soon.
+Chat_Happening_HOMELESS |= The Hobs came out of the bushes and smashed my home up. I'm now living in the Emergency Shelter. When will these Hob attacks end?
+Chat_Happening_HOMELESS[P] |= The Goddesses must be looking the other way whilst these Hobs are smashing up our homes. What did I do wrong? When will it end?
+Chat_Happening_HOMELESS[P] |= Blessed will be the one who helps repair my damaged home. I wish I could move back in.
+Chat_Happening_HOMELESS[P] |= The Emergency Shelter is fine, but it certainly wasn't based on Opal. My house is much closer to the Goddesses, but I can't live there now.
+Chat_Happening_HOMELESS[P] |= I went for a stroll past my destroyed house earlier. It broke my heart to see it like that. Maybe the Goddesses will find someone to help fix it up again.
+Chat_Happening_HOMELESS[P] |= I should have given better offerings. That must be why the Hobs smashed up my house and made me homeless.
+Chat_Happening_HOMELESS[Q] |= I'm pretending that I'm back in my house, Hobs didn't smash up, and I'm reading a book by the fire.
+Chat_Happening_HOMELESS[Q] |= Everything is happening, if everything is being homeless and living in the Emergency Shelter with Cyril, that is.
+Chat_Happening_HOMELESS[Q] |= I'm wondering what I need to do to get someone to fix my Hob-damaged house. Beg, plead, dress up as a Jabberwock?
+Chat_Happening_HOMELESS[Q] |= It's one of those days where I wish I had more friends with hammers and wood. To fix up my home, you see?
+Chat_Happening_HOMELESS[Q] |= Ssshhh! Hear that? Exactly. The sound of nobody rushing to fix my house up!
+Chat_Happening_HOMELESS[J] |= I'm keeping my spirits up despite being homeless and living in Cyril's Emergency Shelter. The Hobs, you see. They smashed the place up, and now I'm homeless.
+Chat_Happening_HOMELESS[J] |= It's so dull having to live in the Emergency Shelter. At least it is close to the Tavern, though!
+Chat_Happening_HOMELESS[J] |= I am having a break from joviality. How can I be jovial when the Hobs chose to smash my house up? They have no sense of humour, that lot.
+Chat_Happening_HOMELESS[J] |= I'm trying to keep my spirits up despite being the victim of a Hob attack. They are happening more and more regularly, and I was just unlucky, I guess. I'm trying to keep my spirits up at the Emergency Shelter. I just wish I could get someone to repair my place.
+Chat_Happening_HOMELESS[J] |= All my joke books are back at my house. Yes, the house which is boarded up and not safe to enter following the Hob attack.
+Chat_Happening_HOMELESS[B] |= I may be homeless, but I'm welcome everywhere, including the Emergency Shelter. Cyril found me the comfiest bed, of course.
+Chat_Happening_HOMELESS[B] |= The Hobs attacked my house; of course, they did. It is the finest house in Quill. There's no point in them bothering with some of the other shacks around here, is there? I want to get back if you could help restore it to its former glory, <PlayerName>?
+Chat_Happening_HOMELESS[B] |= The Hobs know I'm important around here, so they smashed my place up while I was shopping. Little brutes. Can you help get me back by repairing my house?
+Chat_Happening_HOMELESS[B] |= The calm before the storm. The storm of villagers rushing to help me repair my house once they here that Hobs have attacked me.
+Chat_Happening_HOMELESS[B] |= I'm cheering everybody up around the Emergency Shelter with my presence, but I do wish someone would help me get back home. Just a few villagers could repair it in no time, if you asked them.
+Chat_Happening_HOMELESS[C] |= Why me? Why did they smash up my house? And why has nobody gone over there to fix it yet, eh <PlayerName>?
+Chat_Happening_HOMELESS[C] |= I wish I could get back to my house, but the Hobs have smashed it up. I'm tired of staying at the Emergency Shelter.
+Chat_Happening_HOMELESS[C] |= What's happening, <PlayerName>? I'll tell you what - my back can't stand another night of sleeping on Cyril's Emergency Shelter bed. Talk about lumpy! Can you go to my house and fix it up?
+Chat_Happening_HOMELESS[C] |= Nothing is happening, <PlayerName>. That's the problem. My house is uninhabitable, and I need someone to go fix it.
+Chat_Happening_HOMELESS[C] |= What's happening? I need someone to raise a group of friends to fix up my Hob damaged house. Someone like you, <PlayerName>!
+
+
+Chat_HowAreYou_Tip |= I was looking at the Thatterway in your hair. They are such amazing creatures. They can guide you to where you need to go.
+Chat_HowAreYou_Tip |= I am feeling happy and have just been checking my calendar. I like to keep abreast of whose birthdays are coming up.
+Chat_HowAreYou_Tip |= I am very well, thank you. I am trying to discover more Proverbs so that I can locate new ingredients.
+Chat_HowAreYou_Tip |= I am good, thanks. Always up for a 'Challenge'. I set myself little tasks and get a nice reward if I complete them. It is good to make progress.
+Chat_HowAreYou_Tip |= I tried to milk a cow earlier and forgot I needed a Jar or Bucket. Now, I've just got to use one when stood next to a cow.
+Chat_HowAreYou_Tip |= I was wishing I had the skills of the Masters. Gardening, fishing, combat - it would be amazing to master them all!
+Chat_HowAreYou_Tip |= I was thinking of growing more produce. Plant some seeds and water daily, and you are good to go. 
+Chat_HowAreYou_Tip |= I just hurt my back, chopping those wood trees down. At least I can now build something, though.
+Chat_HowAreYou_Tip |= Ahhhh! I pulled a muscle swinging my pickaxe at one of those little stone quarry holes. I can build something with the stone, but I'm not sure what. Maybe fix something up?
+Chat_HowAreYou_Tip |= I am aching from being thrown off a pig. It must have been in a bad mood. I should have fed it first!
+Chat_HowAreYou_Tip |= I am feeling better. Cheers for asking. I recently went to the Apothecary and cured some annoying Traits I had picked up. Each Trait has an opposite, so a positive will remove a negative - and vice versa.
+Chat_HowAreYou_Tip |= I was happy to win a recent auction. I paid just ☎3 for a chicken! It's a pity it then ran off and left me with egg on my face.
+Chat_HowAreYou_Tip |= I am stretching my legs, but maybe I should start considering using the Goddess Statues to get around.
+Chat_HowAreYou_Tip |= I feel better after a nice bowl of soup. Easy to make. Just stop the pointer on the hole and repeat for the other ingredients.
+Chat_HowAreYou_Tip |= I am full after eating a delicious stew. I know that the trick is to make sure you time the three hourglasses to finish at the same time. Choose the ingredient with the most sand first!
+Chat_HowAreYou_Tip |= Hmmm. I had a lovely pudding. Easy to make, too. Just got to time it right when it's in the kiln. Hit the green!
+Chat_HowAreYou_Tip |= I am satiated from a nice sandwich. Just time that kiln, and you are good to go!
+Chat_HowAreYou_Tip |= I am filled with the wonders of bread. I can hit the green zones on the kiln every time. Practice makes perfect, but the higher the Star Rating of the ingredients, the harder it is!
+Chat_HowAreYou_Tip |= I am thrilled with a pie I made earlier. I rolled out the pastry, covered the bowl perfectly, and then timed the kiln to perfection!
+Chat_HowAreYou_Tip |= I am sticky after eating jam. Jam is tricky to make. You need to use the lever to keep the heat in the centre. Then, watch for the temperature drop as you add new ingredients.
+Chat_HowAreYou_Tip |= I'm good, thanks, after a lovely nap at a campfire. When I woke up, it was hours later.
+Chat_HowAreYou_Tip |= When I wanted to take more control of my life, "You should try the Accessibility settings", is what my mother advised!
+Chat_HowAreYou_Tip |= I lack energy after doing some serious building. You need to make sure people working on construction have plenty of energy!
+Chat_HowAreYou_Tip |= I am feeling OK, thanks, but I wish I had one of those legendary 'Stat Nuts' to boost myself even more. 
+Chat_HowAreYou_Tip |= I feel good after eating some lovely Sweet Moss. You can get it by pouring honey on special tree stumps. Return the next day with a sickle, and sweetness is yours!
+Chat_HowAreYou_Tip |= I am feeling perky today. Speaking of Perks, did you know businesses can get Perks that improve them? Check the Ledger and raise your REP to unlock Perk Points to spend. Sorry! I misted over a minute there! Did I say anything weird?
+Chat_HowAreYou_Tip |= I am as grumpy as an underpaid and overworked shop worker today. Fair pay and high energy might help me out!
+Chat_HowAreYou_Tip |= I was just thinking about workers who get fired. They don't hold grudges for long. A few gifts can help raise their mood.
+Chat_HowAreYou_Tip |= I am feeling perky and virile. If I had a rabbit corndoll right now, I would fancy my chances of conception.
+Chat_HowAreYou_Tip |= I feel much wiser today. I was reading some books from my bookshelf, which was very beneficial. Anyone with a family should encourage them to study. Intelligence helps improve Experience, as they say.
+Chat_HowAreYou_Tip |= I was thinking of buying an Honesty Box to sell my spare goods. You should think about buying one, too.
+Chat_HowAreYou_Tip |= I was pondering Divorce. The High Priest of Loverwood offers a Divorce service for ☎500. That's not the most spiritual way to do things, but I hear it works.
+
+Chat_Happening_Tip |= I was checking my progress in life. You can always check how you are doing on your Progress Screen. It can be gratifying.
+Chat_Happening_Tip |= I'm trying to improve the Star Rating of items I gather via gossiping with other villagers. It's good to check the conditions required to get better things. Fellow villagers are an excellent source of tips.
+Chat_Happening_Tip |= I was making a map. They help you find your way around and see where folks you know live. You can even mark dating spots on them!
+Chat_Happening_Tip |= I was using my sickle earlier, and I suddenly got extra yield! Those tools can really get efficient with use!
+Chat_Happening_Tip |= I was considering all my friend's birthdays. It is always best to get them a gift for a huge friendship boost! They love it when you remember the date.
+Chat_Happening_Tip |= I was just looking at my various tools. They improve the more you use them and give all sorts of benefits. You should look at them in your backpack and see how good they are.
+Chat_Happening_Tip |= I was thinking about Talents. We all have them. It's worth discovering what Talents people have, especially if they are family, as it might help you one day.
+Chat_Happening_Tip |= I'm doing some tasks. It helps to pin them in your journal for ones you don't want to forget.
+Chat_Happening_Tip |= I am trying to build friendships with various folks. I want to gain access to their crop patches and berry bushes! Maybe I might want to date and marry them too!
+Chat_Happening_Tip |= I tried to get a dog to find me digspots, but it seemed to be in a bad mood.
+Chat_Happening_Tip |= I'm considering going to the Goods Store and selling some items there. Those Selling Units in the corner are great for bulk-selling.
+Chat_Happening_Tip |= I found some Zinc Ore. Did you know that different ores have different effects on the things you make from them?
+Chat_Happening_Tip |= I was looking at my reflection in a Well earlier. If I had a jar or bucket, I could have interacted and filled it with my face. I mean, filled it with water.
+Chat_Happening_Tip |= I was just looking at my Fishing Map! I got it from Twig, the Master Fisherman. He helps me progress my Skills. In the Fishing Map tab, I can open my local map and see what fish live in a locale. It's great!
+Chat_Happening_Tip |= Do you have a Pet whistle? Use <whistle> to summon or send your pets home. It's very handy!
+Chat_Happening_Tip |= I was thinking of going digging. I need a dog and a shovel. Thinking about it, shovels make me sneeze, so maybe not.
+Chat_Happening_Tip |= I was trying to recall what people said to me. If only I had a Chat History, perhaps on an NPC Status screen. Where did that come from?!
+Chat_Happening_Tip |= Broken bridges, shattered statues, ruined houses. It's great to fix things with friends.
+Chat_Happening_Tip |= I was considering which offerings to make next Goddess Day. Those blessings can be very useful!
+Chat_Happening_Tip |= You have a lot of land on that farm of yours. Are you making it pretty, or are you making it productive, you know, to make money?
+Chat_Happening_Tip |= I went for a walk earlier to see if any more ruined houses around needed repairing. 
+Chat_Happening_Tip |= I was considering changing the layout of my house. Maybe put in a new wall or move stuff around.
+Chat_Happening_Tip |= I've been practising my Parrying. With the right timing on a Block, you can deflect certain enemy attacks and even open them up for a counter-attack!
+Chat_Happening_Tip |= Not much is happening here. I don't have any building projects to check on. It's worth using the sign by the construction to check on your workers. Sorry, friends...
+Chat_Happening_Tip |= I was going to use a windmill to grind some flour, but there was no wind! Need wind to grind!
+Chat_Happening_Tip |= I'm considering painting my house. A dash of colour can brighten up the place. Painting works on many items, too! 
+Chat_Happening_Tip |= I just realised that all businesses have a stock cupboard in them. You can place your spare items in them and even order new stock. Miraculous!
+Chat_Happening_Tip |= I heard a low whisper near one of those henges. I heard they are Fae doorways that open if you shine a magical light onto them.
+Chat_Happening_Tip |= I dreamt I was getting married. I cooked the Pie of You and I and gave it to the High Priest in Loverwood. I was just about to give my love the Binding Band he gave me when I woke up.
+Chat_Happening_Tip |= I found a Corndoll. Gifting one to your spouse can trigger the Wheel of Delight. I will keep this one under my bed.
+Chat_Happening_Tip |= I was just walking along and spotted a strange bush. It was hard to notice at first, but I reckon Fae folk use such bushes to move around.
+Chat_Happening_Tip |= Someone just told me that businesses can order goods from their stock cupboard. Sounds handy for keeping the shelves full or gaining materials.
+Chat_Happening_Tip |= I was reading about the Village Shelter and how they can house people who have been displaced and need their homes to be repaired.
+Chat_Happening_Tip |= I dreamt I owned a huge shop and sold it by opening my Ledger, then viewing all Ledgers. Dull dream, huh?
+Chat_Happening_Tip |= I was chatting in the local shop about work schedules. People who work need a rest now and then. Even being underpaid can demoralise them.
+Chat_Happening_Tip |= I was thinking about a trip to Simplewood but am not yet fully prepared. It's best to take a Ward, Charm, maybe a second weapon - and some meal and combat items!
+Chat_Happening_Tip |= I heard that the deeper you go into a Dark Forest, the tougher the monsters you face. The rewards, though - ooooh, better quality loot!
+Chat_Happening_Tip |= I heard some fella had gone into Midwood and got badly hurt. He found a campfire and managed to heal himself. He then found he was deeper in the forest, though, and got badly hurt even more!
+Chat_Happening_Tip |= I heard that someone got rescued from Simplewood. They were in the very last area of that forest. Lucky to survive!
+Chat_Happening_Tip |= I recently went to The Shoe, north of Homesteads. I like to hear the sound of laughter from the children there. I hope they all get adopted.
+Chat_Happening_Tip |= I was just talking to a friend about the famous Witchhunter in Quill who gives good rewards for monster-slaying. He turns up during opening hours at Homestead's tavern at night. 
+Chat_Happening_Tip |= I was hoping that our local businesses might start to specialise a bit. A shop owner can make a robust business by focusing on specific items and getting new sets of Perks!
+Chat_Happening_Tip |= Did you know you can set your family to do different tasks with the Family Scheduler? They can help around the house, gather, and do many things. It's handy.
+Chat_Happening_Tip |= Earlier today, I found a Naming Nut and was thinking of funny pet names I could give an animal after feeding it the nut.
+Chat_Happening_Tip |= I'll tell you what's happening! I would love to own a shop called 'BOLD AS BRASS'. After all, you can easily change a business name by viewing All Ledgers on the shop's Ledger screen. Now I need to make some Brass!
+Chat_Happening_Tip |= The High Priest blessed my water, but I also heard you can get special water in the Faery fountains of Tir Na Nog.

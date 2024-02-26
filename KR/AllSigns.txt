@@ -1,0 +1,110 @@
+너트의 캐터리: 잃어버린 푹신한 영혼의 고향.
+ViewingStatus|<status> 를 사용하여 개체의 상태를 확인합니다.
+HoneyTip|올바른 용기가 있으면 꿀을 모을 수 있습니다.
+BucketTip|양철 양동이를 사용하여 물을 얻으세요.  똥통은 사용하지 마세요!
+BucketFuture|나무 양동이를 사용하여 똥을 퍼내세요.
+CropStatus|작물의 상태를 확인하여 물을 주어야 하는지, 잘 익었는지 확인하세요.
+돼지 트러플스가 이 문 열쇠를 먹었어요! 농장에 정착한 후에 열쇠를 꺼낼 방법을 찾고 넝쿨을 치우는 데 필요한 도구들을 확보하세요. 터질까요, 퐁당 떨어질까요?! 
+► 윌로우다운 농장\n▼ 캔들위치 마을\n▲ 베일 출입구
+이것은 표지판 #9 입니다
+이것은 표지판 #10 입니다
+▲ 윌로우다운 농장\n► 모스위스퍼 유적\n▼ 테스티 에이커\n◄ 캔들위치 마을
+▲ 윌로우다운 농장\n► 모스위스퍼\n▼ 테스티 에이커\n◄ 캔들위치 마을
+▼ 페스티벌 그린\n► 드루이다의 교차로\n◄ 캔들위치 서쪽
+▲ 북문
+◄ 캔들위치 서쪽\n► 드루이다의 교차로
+▼ 묘지\n◄ 캔들위치 헛간\n► 캔들위치 마을
+▲ 뻐꾸기 숲\n◄ 캔들위치 헛간\n► 캔들위치 마을
+► 페스티벌 그린
+▼ 페스티벌 그린\n▲ 캔들위치 서쪽
+► 뻐꾸기 숲\n▼ 캔들위치 헛간
+▲ 올드 마더 허바드\n▲ 카우팟 농장\n► 캔들위치 서쪽
+ActionOptionTip|Hold X, B or Y to access your radial menu for quick item selection|Place items in your hotbar for quick selection.\nDrag them them with the mouse from the inventory or press the matching key to quickly put them there!
+▲ 윌로우다운 농장
+ActionSelectTip|Interact with the pig and choose the Feed option (top), then an item to feed it|Interact with the pig and choose the Feed option (top), then an item to feed it.
+InventoryTip|Push UP on Dpad to access your Inventory|Push I to access your Inventory
+페스티벌 그린의 돼지 경주는\n여름의 4일과 11일에,\n돼지 시장은 여름의 6일과 13일에 열릴 예정입니다.
+◄ 캔들위치 서쪽\n▼ 페스티벌 그린
+▼ 페스티벌 그린
+매일 정오와 오후 7시에 공연을 관람하세요! ('드루이다 날'에는 공연이 없습니다).
+► 홈스테드\n► 포피힐\n◄ 멜로우필드\n▲ 심플우드
+▲ 심플우드\n◄ 멜로우필드
+▲ 나이다의 왕관\n► 페스트필드\n▼ 러버우드\n◄ 홈스테드
+▲ 드라운힐\n▼ 포피힐
+◄ 포피힐\n▼ 러버우드
+► 포피힐\n◄ 리버무어
+▲ 베일 출입구\n▲ 리버무어
+퀼리안 노트 #1\n퀼의 주민들이 전하는 메시지에 오신 것을 환영합니다. 이 표지판을 읽고 이 땅에서 살아가는 방법을 알아보세요!
+퀼리안 노트 #2\n인생에는 시간이 많다는 것을 기억하세요. 서두를 필요가 없습니다. 그리고 잠이 든다고 해서 벌을 받을 필요도 없습니다. 저는 항상 잠을 자거든요!
+퀼리안 노트 #3\n상점 카운터의 장부를 통해 재고 파악, 주문, 직원 채용, 평판 및 특전을 확인할 수 있습니다.
+퀼리안 노트 #4\n마을 주민의 생일에 선물을 주면 우정이 더욱 돈독해지므로 매일 달력을 확인하세요.
+퀼리안 노트 #5\n각 마을 중앙의 게시판을 확인하여 이벤트가 언제 열리는지 확인하고 마을 주민의 요청을 확인하세요.
+퀼리안 노트 #6\n아기를 만들려면 배우자에게 토끼 콘돌을 선물하세요. 멜로우브룩의 상품 상점에서 구입할 수 있습니다.
+퀼리안 노트 #7\n진행 중인 퀘스트가 막히면 쌔터웨이를 사용하는 것을 잊지 마세요.
+퀼리안 노트 #8\n어떤 가족은 가보일 수도 있고 실용적인 고대 지식일 수도 있는 '가족 비밀'을 간직하고 있습니다.
+퀼리안 노트 #9\n발견한 여신상 및 기타 방법을 통해 빠른 여행을 할 수 있습니다.
+퀼리안 노트 #10\n어둠의 숲은 전투 지역으로, 난이도에 따라 심플우드, 미드우드, 터프우드로 구분됩니다. 전투에 참여하기 전에 장비를 준비할 수 있습니다.
+퀼리안 노트 #11\n여신상 숭배에 대해 배운 후에는 여신의 날에 제물을 바치는 것을 잊지 마세요.
+퀼리안 노트 #12\n여러분의 사업은 평판이 높아지면 전 세계에 더 유명해질 것입니다.
+퀼리안 노트 #13\n원한다면 몇몇 NPC에게 구애를 시도한 다음 결혼할 수 있습니다. 마스터, 페이, 방랑자와 결혼할 수 없다고 실망하지 마세요. 선택할 수 있는 다른 종족도 많으니까요!
+퀼리안 노트 #14\n이 연못은 '장례식'을 위한 것이지만, 퀼에서 살아가는 사람들은 죽음을 축하하고 그들의 생명력이 자연의 일부로 돌아간다고 믿습니다.
+퀼리안 노트 #15\n여기저기 흩어져 있는 책을 모두 찾아서 읽어보세요. 언제든지 인벤토리에서 여유롭게 읽을 수 있습니다.
+퀼리안 노트 #16\n특히 방금 작업을 수행한 경우에는 항상 사람들에게 가십을 물어보세요.
+퀼리안 노트 #17\n허가 시스템을 사용하면 다른 사람의 집에서 아이템을 수집할 수 있습니다. 각 집의 홈스톤을 확인하여 우정 레벨을 확인하세요.
+퀼리안 노트 #18\n화장실에는 다른 용도가 있는 것 같습니다. 페어웨더 씨는 그들을 위한 아이템을 가지고 있습니다...
+퀼리안 노트 #19\n작업 중 길을 잃었을 때 도움을 받을 수 있도록 쌔터웨이를 설정하는 것을 잊지 마세요!
+퀼리안 노트 #26\n이 가판대에서 물건을 판매할 수 있습니다. 고객이 물물교환을 원할 수도 있으니, 물물교환을 원한다면 녹색 구역을 공략해 보세요!
+퀼리안 노트 #20\n결혼하고 싶다면 러버우드에서 대사제의 책을 찾아보세요.
+퀼리안 노트 #21\n티르 나 노그는 아직 개발 중이므로 버그(및 벌레)에 주의하세요.
+퀼리안 노트 #22\n이 지뢰는 결국 점점 더 깊게 내려갈 것이고, 이것이 현상 유지입니다. 그건 참고용입니다.
+퀼리안 노트 #23\n이빨 요정의 집. 현재 시저에서 휴가 중입니다.
+퀼리안 노트 #24\n와우! 당신은 확실히 탐험을 좋아합니다. 이 표지판으로 호기심에 대한 보상을 받습니다.
+퀼리안 노트 #25\n현재 출장 중입니다. 전단지가 없습니다.
+OpeningYourStore|대장간을 열고 닫으려면 외부 표지판과 상호작용하세요.\n 지역을 떠나고 고용한 일꾼이 없으면 대장간은 자동으로 닫힙니다.
+◄ 멜로우브룩\n► 리버무어
+퀼리안 노트 #26\n멜로우필드 지역 중 첫 번째 지역에 오신 것을 환영합니다. 이것은 여러분이 경험해 볼 수 있는 작은 샘플일 뿐입니다. 곧 추가될 예정입니다!
+► 교활한 땅\n▲ 아웃레인\n◄ 파인페어
+► 교활한 땅\n▲ 아웃레인\n◄ 파인페어\n▼ 프라일의 들판
+► 멜로우브룩\n▲ The Dancers\n▼ Twanging Gardens
+▲ 스톤크라운\n▼ 멜로우브룩
+▲ 멜로우브룩\n▼ 소프트우드
+퀼리안 노트 #27\n이 지역은 현재 꾸미고 있는 중입니다. 물감 냄비를 조심하세요.
+퀼리안 노트 #28\n이 너머에는 퀼의 북쪽 절반이 있습니다. 하지만 아직 갈 수 없습니다! 냐아 냐아!
+▲ 북쪽 출입구\n◄ 캔들위치 서쪽\n► 드루이다의 교차로\n▼ 페스티벌 그린
+◄ 카우팟 농장\n▲ 헛간\n▼ 캔들위치 서쪽
+► 페스티벌 그린\n▼ 페블리 방앗간
+▼ 프라일의 들판
+다가올 미래의 숲
+► 코퍼팟\n► 그레이마켓\n▲ 개구리 습지\n▲ 드레드워터
+▲ 개구리 습지\n▲ 드레드워터
+◄ 슁글스\n► 코퍼팟\n► 그레이마켓\n▲ 개구리 습지
+▲ 드레드워터\n► 그레이마켓\n▼ 위스트레일
+▲ 그레이마켓\n◄ 위스트레일
+◄ 개구리 습지\n◄ 드레드워터\n▼ 코퍼팟
+▲ 심플우드\n▲ 조곤의 무덤
+▲ 스톤크라운\n◄ 서클\n▼ 아웃레인
+▲ 터프우드\n► 서클\n◄ 스톤크라운\n▼ 아웃레인
+▲ 파인셰이드\n► 슁글스\n◄ 스톤크라운
+▲ 슈
+◄ 딥스톤\n▲ 스톤크라운 언덕\n► 아웃레인\n► 서클
+◄ 서클\n► 미드우드\n► 워마쉬\n▼ 드라운힐
+◄ 서클\n▲ 미드우드\n► 워마쉬\n▼ 드라운힐
+▲ 사냥꾼의 허풍\n► 슁글스\n► 워마쉬\n▼ 나이다의 영광 
+위험 - 물 페이가 익사할 수 있음
+위험 - 대디 롱 레그를 조심하세요! 그 사람의 눈에 띄지 않게 하세요! 밤에는 멀리 떨어지세요.
+위험 - 심각합니다! 그가 당신을 잡으면 당신을 죽일 것입니다. 도망쳐 숨으세요!
+무덤 개방 시간 오후 7시 - 오전 5시
+Tinker Shop: Specialisations a speciality!
+Pixie Lottery's Emporium
+Cabaret Du Fae - open Day 10 at 8pm. VIP Token Holders Only!
+Cleansing Fountain
+Witch Hunter - Here 6pm-5am
+Stockwood - Open Day 3 at 8pm. VIP Token Holders Only!
+Road closed due to ongoing neighbourhood dispute. Only someone with at least Novice level Renown can fix this mess up.
+Road closed due to ongoing neighbourhood dispute. Only someone with at least Novice level Renown can fix this mess up.
+Emergency Community Shelter\nA place of refuge for those left homeless by the terrible monster attacks.
+You need a frog for a key, and for day to become nighteee.
+Mag The MogHog was here seen by me.\nHe'd turn one star items to two for free!\nJacob Crackle
+Sheep Racing. Bring your own sheep if ewe want to enter it into the race too!
+Pig Racing. Bring your own pig if you want it to race too. Chop chop!
+
