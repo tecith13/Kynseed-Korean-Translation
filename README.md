@@ -3,7 +3,15 @@
 
 전체 파일 다운로드는 오른쪽 상단의 'Code' -> 'Download ZIP' 순으로 진행하시면 됩니다.
 
-다운받은 파일의 압축을 풀고 KR폴더의 내용을 Kynseed\Data\Text\EN 에 복사 붙여넣기 하여 게임을 실행하면 번역이 적용됩니다.
+다운받은 파일의 압축을 풀고 
+
+1. KR폴더의 내용은 "Kynseed\Data\Text\EN"에 복사 붙여넣기
+
+2. font.json, font.png는 "Kynseed\Graphics\SpriteSheets\HandMade"에 복사 붙여넣기
+
+하여 실행하시면 번역이 적용됩니다.
+
+
 
 ---
 ## 번역하기
