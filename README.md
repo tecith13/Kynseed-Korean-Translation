@@ -25,6 +25,8 @@
   
 ---
 ## 번역이 완료된 파일
+AllSigns.txt
+
 Letter_*.txt (총 42개 파일)
 
 Text_EN.txt
