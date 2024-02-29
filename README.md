@@ -39,6 +39,8 @@ Text_EN_Combat.txt
 
 Text_EN_EndOfYear.txt
 
+Text_EN_GiftRequests.txt
+
 Text_EN_Letters.txt
 
 Text_EN_NPCStoryCutsceneRelated.txt
@@ -46,3 +48,8 @@ Text_EN_NPCStoryCutsceneRelated.txt
 Text_EN_Sibling.txt
 
 * 문맥상의 오류나 오탈자에 의한 수정도 언제나 환영입니다.
+
+
+
+---
+#### Galmulii9으로 폰트 변
