@@ -52,4 +52,4 @@ Text_EN_Sibling.txt
 
 
 ---
-#### Galmulii9으로 폰트 변
+## Galmulii9으로 폰트 변경
