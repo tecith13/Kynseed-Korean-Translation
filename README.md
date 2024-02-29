@@ -52,4 +52,5 @@ Text_EN_Sibling.txt
 
 
 ---
-## Galmulii9으로 폰트 변경
+## 폰트
+둥근모꼴에서 기존 게임 글꼴과 비슷한 Galmulii9으로 변경
