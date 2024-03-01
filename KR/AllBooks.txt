@@ -166,8 +166,8 @@ ID:12
 
 많은 사람들이 책에 나오는 단어에 관심을 두지 않고 살아갑니다.
 그들은 실수를 알아차리지 못하거나 조언에 귀를 기울이지 않습니다.
-이런 사람들은 <run> 을 눌러 실행할 수 있다는 사실을 모릅니다.
-<status> 를 길게 눌러 이정표를 읽을 수 있다는 사실도 몰랐죠.
+이런 사람들은 <run>을 눌러 실행할 수 있다는 사실을 모릅니다.
+<status>를 길게 눌러 이정표를 읽을 수 있다는 사실도 몰랐죠.
 옵션에 기본 속도 설정이 있다는 것을 알고 있나요?!
 흙밭에 씨앗을 심을 수 있습니다.
 세계 지도와 지역 지도가 있으니 시간을 내서 살펴보세요.
@@ -700,7 +700,7 @@ ID:48
 
 스탯
 
-각 NPC는 10개의 능력치를 가지고 있으며, 이 중 4개는 상품 상점에서 일할 때 적용됩니다...
+각 NPC는 10개의 능력치를 가지고 있으며, 이 중 4개는 잡화점에서 일할 때 적용됩니다...
 속도: 서비스 속도에 영향을 줍니다. 고객의 인내심은 제한되어 있으므로 더 빨리 서비스를 제공할수록 좋습니다.
 물물교환: 물물교환 기술 수준입니다.
 매력: 느린 서비스나 바가지 요금으로 인한 부정적인 평판을 상쇄합니다.
@@ -787,7 +787,7 @@ Title:워티지트란 무엇인가요? 대체 무엇일까요? - 아모스 E 월
 ID:50
 
 일부 요정 생물들은 때로는 비밀의 흐름을 거스르고 필요에 의해 자신의 모습을 드러내기도 합니다.
-브루니는 길리위들, 샛터웨이, 프나티프나르처럼 때때로 자신을 드러내는 것으로 알려져 있지만, 여러분은 아마 말하기 힘들었을 거예요.
+브루니는 길리위들, 새터웨이, 프나티프나르처럼 때때로 자신을 드러내는 것으로 알려져 있지만, 여러분은 아마 말하기 힘들었을 거예요.
 하지만 이 작은 생명체 중 가장 흔한 것은 워티지트입니다.
 처음 방문한 지역에서는 이 반짝이는 작은 생명체가 관심 있는 지점 주변에서 펄럭이는 것을 볼 수 있습니다.
 쓸 만한 물건이 있으면 워티짓이 주의를 끌게 됩니다.
@@ -1239,7 +1239,7 @@ These were terms used by the ancients and found in battered and crusty tomes dep
 The art was also known as Hackathon, Chopchop, Hag and Slash and, somewhat bizarrely, Fencing.
 Yes, people used to hit each other with garden dividers and cattle stoppers.
 To become a master of the violent sports, one must really get to grips with the PARRY.
-As any good blade runner bean knows, pressing <combat_block> just as an enemy is striking will deflect the attack.
+As any good blade runner bean knows, pressing <combat_block>just as an enemy is striking will deflect the attack.
 This also leaves them open for a COUNTER. Simply mash the buttons like a madman to give the enemy's face a new look.
 A perfect Parry and a good Counter cost no stamina, so they are perfect for those of skill who want to watch their energy.
 Learn these methods well, and you too can become an elegant dancer in a disco of blood.
@@ -1625,9 +1625,9 @@ Title:Matey Bubbles - by Aida Numpty
 ID:119
 
 Hey friend! This is just a small note to remind you about the Help available to all.
-Pressing <bubblehelp> on the mystical thing they call, a keyboard, or the clicking-in of the Right Stick, will make any interactive objects be highlighted by a helpful bubble.
+Pressing <bubblehelp>on the mystical thing they call, a keyboard, or the clicking-in of the Right Stick, will make any interactive objects be highlighted by a helpful bubble.
 Simply select one for more information. Clever, eh?
-You can also use <help> or press the onscreen button for Help when it is displayed.
+You can also use <help>or press the onscreen button for Help when it is displayed.
 Additionally, there is a How To Play section in the Options Menu and links to a wonderful Wiki!
 So, friend, if you are ever in a stew, and don't know what to do, then help is but a button press away!
 

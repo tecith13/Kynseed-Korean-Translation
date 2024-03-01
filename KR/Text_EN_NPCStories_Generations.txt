@@ -183,7 +183,7 @@ GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_2_PIOUS |= If folk had more faith, in them
 
 GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_GENERIC |= We are getting closer aren't we? May I confide in you? I don't think I am actually very good at medicine. I do try my best, but I haven't got the knowledge or the eye for measuring up doses. One day I am sure I will turn somebody into a cake!
 GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_GENERIC |= Tell you what I would absolutely love... to create a cure for the most awful of maladies, and become famous for it. People would flock to my shop and throw their money at me. Well, not actually throw it. It might mean that lesser illnesses don't get attention, but that's the cost of excellence.
-GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_QUIRKY |= Oh! I have a story for you I wanted to share. It is about the Nymphs of Simplewood. An adventurer once found an injured Nymph and felt sorry for it. He helped it and nursed it back to health. The Nymph was soon able to fly again, but the adventurer charged it 1000 brass for the trouble. Looks like it was the Nymph who got stung! Haha! I almost feel like that story is a commentary on something.
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_QUIRKY |= 너에게 들려주고 싶은 이야기가 있어. 심플우드의 님프에 관한 이야기야. 한 모험가가 다친 님프를 발견하고 불쌍히 여긴 적이 있었어. 그는 님프를 도와주고 간호하여 건강을 되찾아 주었지. 님프는 곧 다시 날 수 있게 되었지만, 모험가는 그 수고로움에 대한 대가로 1000 브라스를 요구했어. 님프가 벌에 쏘인거지! 하하! 이 이야기는 마치 무언가에 대한 설명처럼 느껴져.
 GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_JOVIAL |= I would love to tell you about a flower that is said to grow in Evergreen. A trader once sold such a flower to a wanderer, and he slipped it behind his ear. He discovered that the ladies were suddenly much more interested in him. They would follow him, give him gifts and offer him rabbit corndolls. He grew so tired from all the attention he decided to start wearing clothes. The flower? Oh, that fell off his ear and got flattened.
 GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_BOASTFUL |= I should let you in on a little secret, seeing as we are getting on well. I am on first name terms with the Witchhunter, Matthew Hobkyns. He often gets me some good parts, exclusively, but I don't like to brag. Ok, I do like to brag.
 
@@ -243,7 +243,7 @@ GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_PIOUS_2 |= Buy the Apothecary owned by {F
 GEN_NPC_STORY_CHEMISTCOUNTER_END_PIOUS_2 |= Thank you. Ahhh, a life of worship and reflection. For you, my love, a life of mixing creams for spots. You could always sell up, though, I suppose!
 
 GEN_NPC_STORY_VALE_INTRO_1_GENERIC |= Hello, nice to meet you. Isn't it great here? So vibrant and colourful. There's a nice freshness to this air.
-GEN_NPC_STORY_VALE_INTRO_1_GENERIC |= It's grand to speak to you. Are you the owner of Willowdown Farm? I have heard a lot about you, sometimes via eavesdropping.
+GEN_NPC_STORY_VALE_INTRO_1_GENERIC |= 너와 대화하게 되어 영광이야. 네가 윌로우다운 농장의 주인이지? 나는 너에 대해 많은 이야기를 들어왔고, 가끔 너에 대해 엿듣기도 했어.
 GEN_NPC_STORY_VALE_INTRO_1_PIOUS |= Welcome. Always happy to see a new face. May Druida smile on you and yours.
 
 GEN_NPC_STORY_VALE_INTRO_2_GENERIC |= Ever since I was little, I've always wanted to move to the Vale, and here I am.
@@ -276,7 +276,7 @@ GEN_NPC_STORY_VALE_LIKE_2_JOVIAL |= I hear there is a big get-together in Autumn
 GEN_NPC_STORY_VALE_START_COMPLAINER_1 |= Do you think like I do, that the Knockers are selfish? Why do they have to have all the ore? What do they do with it?! Stops me going to get myself some. All I need is a brave and *cough* gullible *cough* soul to help me get my hands on some ore.
 GEN_NPC_STORY_VALE_TASK_NAME_COMPLAINER_1 |= Gift 5 pieces of any ore
 GEN_NPC_STORY_VALE_TASK_DESC_COMPLAINER_1 |= Collect 5 pieces of any ore type and gift it to the task giver.
-GEN_NPC_STORY_VALE_END_COMPLAINER_1 |= Oh! You got them? These will do, I suppose. It's funny how such an ugly thing can be made into something beautiful.
+GEN_NPC_STORY_VALE_END_COMPLAINER_1 |= 찾았어? 이거면 될 것 같네. 이렇게 못생긴 것이 어떻게 아름다운 것으로 만들어질 수 있는지 재미있어.
 
 GEN_NPC_STORY_VALE_START_COMPLAINER_2 |= You know what. I'm just not going in the mines with those Knockers. I'm not taking any chances. I'll have to find some other way to craft the tools I need. I Don't suppose you could give me a hand to get some stock started?
 GEN_NPC_STORY_VALE_TASK_NAME_COMPLAINER_2 |= Gift {FULLNAME} 3 Shovels

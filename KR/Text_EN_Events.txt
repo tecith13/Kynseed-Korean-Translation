@@ -2,7 +2,7 @@ SiblingHouse |= Meet your sibling
 SiblingHouseNamed |= Meet your sibling, <VAR1>
 SiblingHouseDescription |= Head to Stonecrown, north of Outlane in Mellowfields and find your sibling's house.
 
-AnnualCompetition_ThemePopup |= This year's <VAR1> theme is <VAR2>.
+AnnualCompetition_ThemePopup |= This year's <VAR1>theme is <VAR2>.
 AnnualCompetition_Theme_MADE_BREAD |= Bread
 AnnualCompetition_Theme_MADE_JAM |= Jam
 AnnualCompetition_Theme_MADE_PIES |= Pies

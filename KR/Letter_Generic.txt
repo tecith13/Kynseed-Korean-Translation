@@ -1,4 +1,4 @@
-<Salutation> <PlayerName>,
+<Salutation><PlayerName>,
 
 <LetterText>
 

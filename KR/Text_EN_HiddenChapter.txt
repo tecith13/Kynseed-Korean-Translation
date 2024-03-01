@@ -126,20 +126,20 @@ DDLSafePassageT1 |= No need to fear me. Not now. No, no, no.\nFairweather told m
 PottINTROShort |= First, you have the Kynseed gotten,\nPlant it now lest it be rotten.
 PottINTROShort |= Grow the tree and roots so deep,\nA legacy that will f'rever keep.
 
-ThatterwayTutIntro |= Oh! You are so lucky! A THATTERWAY has found you! They are little fairies that can guide the way. Let's look in your Journal...
-ThatterwayTutPress |= Great! Now press <thatterway> and it will lead you to your destination. It's very handy! Thatterways will take you to most destinations for tasks, and even the mailboxes of people you need to find. Follow it to Icabod's store!
+ThatterwayTutIntro |= 오! 너는 정말 행운아구나! 새터웨이가 너를 찾았어. 길을 안해하는 작은 요정이란다. 일기를 살펴보자...
+ThatterwayTutPress |= 훌륭해! 이제 <thatterway>를 누르면 목적지를 알려준단다. 매우 편리하지! 새터웨이는 과제를 수행을 위한 대부분의 목적지는 물론, 찾아야 할 사람들의 우편함까지 안내해 준단다. 이카보드의 상점으로 따라가보렴!
 IcabodInStore |= 문 앤 선즈에 오신 것을 환영합니다! 판매할 멋진 물건이 있다면 왼쪽 상단에 있는 해당 유닛을 사용하세요. 물건을 구매하려면 받침대에 있는 아이템과 상호작용하면 됩니다. 이 정도 가격이면 누가 경쟁자가 필요하겠어? 이 표어를 위해 노력해야겠어.
-UncleBillGotSickle_KBM |= 아! 하나 얻었구나! 멋지단다. 인벤토리를 열고 사용하고 싶은 아이템을 핫바에 드래그한 다음 해당 키를 눌러 장착하고 <action> 를 눌러 사용하렴.
-UncleBillGotSickle_Gamepad |= 아! 하나 얻었구나! 멋지단다. <hotbar1> <hotbar2> 또는 <hotbar3>을 길게 눌러 방사형 메뉴에 할당해 보렴. 다른 카테고리를 선택하려면 왼쪽 스틱 위 또는 아래를 사용하고, 해당 카테고리 내에서 선택하려면 왼쪽 또는 오른쪽을 사용해보렴. 장비를 장착해보자꾸나. 각 버튼에 아이템을 할당하고 해당 버튼을 탭하여 장착한 다음 <action> 를 눌러 사용하렴.
+UncleBillGotSickle_KBM |= 아! 하나 얻었구나! 멋지단다. 인벤토리를 열고 사용하고 싶은 아이템을 핫바에 드래그한 다음 해당 키를 눌러 장착하고 <action>를 눌러 사용하렴.
+UncleBillGotSickle_Gamepad |= 아! 하나 얻었구나! 멋지단다. <hotbar1><hotbar2>또는 <hotbar3>을 길게 눌러 방사형 메뉴에 할당해 보렴. 다른 카테고리를 선택하려면 왼쪽 스틱 위 또는 아래를 사용하고, 해당 카테고리 내에서 선택하려면 왼쪽 또는 오른쪽을 사용해보렴. 장비를 장착해보자꾸나. 각 버튼에 아이템을 할당하고 해당 버튼을 탭하여 장착한 다음 <action>를 눌러 사용하렴.
 
 UncleBillWeedsCleared |= 멋지게 잘랐구나, <PlayerName>! 이제 보상을 받으렴!
-UncleBillWeedsCleared |= 집 안에 커스터마이징 테이블이 보이니? 상호작용을 하면 농장을 포함해 농장에서 커스터마이징할 수 있는 모든 영역이 표시됩니다. 집 왼쪽에 있는 부지를 네가 꾸밀수 있게 주마!
-UncleBillWeedsCleared |= Select that plot, and you will enter Edit Mode.
-UncleBillWeedsCleared |= You can move stuff around and even remove items completely. Just follow the onscreen controls, and if you get stuck, then Help is available in the top left.
-UncleBillWeedsCleared |= Flick through the Catalogue to browse unlocked items.
-UncleBillWeedsCleared |= More items can be unlocked from Challenges, given as gifts and rewards, or just bought from traders.
-UncleBillWeedsCleared |= You can also access Customisation from the Map button when you are on the farm.
-UncleBillWeedsCleared |= Have fun with your little garden! You'll have loads more space to play with one day soon!
+UncleBillWeedsCleared |= 집 안에 커스터마이징 테이블이 보이니? 상호작용을 하면 농장을 포함해 농장에서 커스터마이징할 수 있는 모든 영역이 표시된단다. 집 왼쪽에 있는 부지를 네가 꾸밀수 있게 주마!
+UncleBillWeedsCleared |= 해당 플롯을 선택하면 편집 모드로 전환된단다.
+UncleBillWeedsCleared |= 물건을 옮기거나 완전히 제거할 수도 있어. 화면 컨트롤을 따라하고. 문제가 발생하면 왼쪽 상단에서 도움말을 이용할 수 있단다.
+UncleBillWeedsCleared |= 카탈로그를 넘기면 잠금 해제된 항목을 찾아볼 수 있어.
+UncleBillWeedsCleared |= 더 많은 아이템은 도전에서 잠금 해제하거나 선물 및 보상으로 받거나 상인에게서 구매하렴.
+UncleBillWeedsCleared |= 농장에 있을 때 지도 버튼을 눌러 커스터마이징에 액세스할 수도 있단다.
+UncleBillWeedsCleared |= 작은 정원에서 즐거운 시간을 보내렴! 언젠가 더 많은 공간을 확보할 수 있을 거야!
 
 
 UncleBillAfterTwigLetter |= Sounds like a new friend, potentially. He lives across the river at the top of the farm. Sadly that rotten old wooden bridge collapsed, so if you do want to go and say hello, then it needs repairing. Why don't you have a go at doing that? Could be fun!
@@ -148,11 +148,11 @@ UncleBillAfterTwigLetter |= Before you go, we do need some seeds from the market
 UncleBillAfterTwigLetter |= Busy day for you, so get cracking!
 SiblingBridgeFinished |= Quality craftsmanship on that bridge! That should last another thousand years, for sure. Or until an Ogyr jumps on it.
 
-SiblingWhistle |= <PlayerName>! Look what I found! Isn't it fun?! It's a Pet Whistle. Here, you can have it. Just press <whistle> to bring up a list of all your pets. You can summon them or send them home, and see their status. Why don't you go and get Truffles ready to ride? You can try to beat my best time in Druida's Cross!
-SiblingRaceWon |= Sooo, you managed to beat my time, eh? That's some impressive pig rallying skill. There's tracks all over Quill, apparently. Keep an eye on the village Noticeboard for challenges. Well done.
+SiblingWhistle |= <PlayerName>! 내가 뭘 찾았는지 봐! 재미있지 않아?! 애완동물 호루라기야. 여기, 가져가. <whistle>을 누르면 모든 애완동물 목록을 불러올 수 있어. 소환하거나 집으로 보내거나 상태를 확인할 수 있지. 가서 트러플을 탈 준비를 해보는 건 어때? 드루이다의 교차로에서 내 최고 기록을 깨봐!
+SiblingRaceWon |= 오오오, 내 기록을 깼구나? 돼지 몰이 실력이 대단한걸. 퀼 곳곳에 트랙이 있나 보더라. 마을 게시판에서 도전 과제가 있는지 잘 살펴봐. 잘했어.
 
-MotherHubbardMilk |= Yes? Who is it? Oh! You have my milk? Then you may enter!
-HousePaintingFinished |= Oh, that's better! Feels much nicer in here now. I am sure Druida will appreciate your efforts. If you ever inherit this farm one day, then you will be able to decorate it just how you want it!
+MotherHubbardMilk |= 네? 누구세요? 오! 내 우유를 가지고 있니? 그렇다면 들어오렴!
+HousePaintingFinished |= 훨씬 낫네! 여기가 훨씬 좋아졌어. 드루이다는 너의 노고에 고마워하실거야. 언젠가 이 농장을 물려받게 된다면 원하는 대로 꾸밀 수 있을 거야!
 Day11Intro |= Hello there! Up and at it and ready for the day?
 Day11Intro |= There's an event you might like to try today down at Festival Green.
 Day11Intro |= Some of the villagers have organised a Summertide Jam-making contest.
@@ -177,25 +177,25 @@ JogonCOMBAT_TUTORIAL_NEED_WEAPON |= What?! I told ye to bring a sword. Go get on
 JogonCOMBAT_TUTORIAL_BEGIN |= Ready to learn the fine art of clobberin'? Then let's get cracking... some ribs!
 JogonDefeatedJW |= You slew the beastie! I always knew ye had it in yer! I bow to yer skills! As a token of my reverence, take this sword. It is some legendary thing I pulled from a big beasties belly way back. Cost me this scar, but was worth it to find that in its guts. I hope ye can make good use of it, legend.
 
-PoppyhillGuardIntro |= What's all this then? A strange-looking troublemaker if I ever saw one!
-PoppyhillGuardIntro |= Well, you ain't getting into Poppyhill without some sort of endorsement. You need someone of good standing to vouch for you; then you can get a pass and travel in and out at will.
-PoppyhillGuardIntro |= We can't be having all sorts of unknowns wandering around, especially with monsters coming out of the forest and weird happenings in the north.
-PoppyhillGuardIntro |= Go talk to the Old Woman Who Lives in a Shoe. If she can vouch for you, that's good enough for me. Plus, she's really near, which will save you some shoe leather. Just head through the cave at the northeastern part of Homesteads.
-PoppyhillGuardRepeat |= Oi! No entry til you have the endorsement!
-PoppyhillGuardHasPass |= Oh! That's just the ticket! Oh, that joke was already done, eh? Well, I suppose you can pass then. I hope you don't mind the inconvenience. I have one job, and by Naida's Naming Nut I'm going to do it properly. Off you go, then. Zzzzzz.
+PoppyhillGuardIntro |= 그런데 이게 다 뭐야? 이상하게 생긴 말썽꾸러기네!
+PoppyhillGuardIntro |= 특별한 보증 없이는 포피힐에 들어갈 수 없어. 신분이 확실한 사람이 보증을 서야만 출입증을 발급받아 마음대로 드나들 수 있어.
+PoppyhillGuardIntro |= 온갖 종류의 미지의 것들이 돌아다니는 일이 있어서는 안 돼. 특히 숲에서 괴물이 나오고 북쪽에서 이상한 일이 일어나는 경우에는 더욱 그렇지.
+PoppyhillGuardIntro |= 슈에 사는 할머니에게 가서 얘기해 봐. 그녀가 당신을 보증할 수 있다면 충분해. 게다가 아주 가까운 곳에 있으니 구두 가죽을 구할 수 있을 거야. 홈스테드 북동쪽에 있는 동굴로 가봐.
+PoppyhillGuardRepeat |= 어이! 승인을 받기 전까지는 입장불가야!
+PoppyhillGuardHasPass |= 오! 그게 바로 티켓이야! 아, 이 농담은 이미 한 거지? 그럼 통과해도 되겠네. 불편하게 해서 미안해. 나이다의 네이밍 너트를 제대로 써봐야 하거든. 그럼 가봐. Zzzzz.
 GuardRandom |= Zzzzzz
 GuardRandom |= Hmmmwassatzzzzzz
 GuardRandom |= Grumblemumble
 GuardRandom |= Snore
 GuardRandom |= Mindhowyougohmmmzzzz
 
-MrsFoster_Locked |= I'm sorry, but it seems you can't afford to adopt right now. You need to be worth at least 500 Brass to show you have the means to support a child's future well-being.
-MrsFoster_Intro |= Oh! Hello you! It has been a long time, but I'd recognise those mischievous eyes anywhere. It's lovely to see you <PlayerName>, back at The Shoe. I was so sorry to hear about your Uncle Bill; he was a good soul. 
+MrsFoster_Locked |= 미안하지만 지금은 입양할 여유가 없는 것 같네. 자녀의 미래 복지를 지원할 수 있는 수단이 있음을 보여주기 위해서는 최소한 500 브라스를 소지해야해.
+MrsFoster_Intro |= 오! 안녕! 오랜 시간이 흘렀지만 그 장난꾸러기 눈빛은 어디서든 알아볼 수 있겠네. <PlayerName>을(를) 슈에서 다시 만나서 반가워. 빌 삼촌 소식을 듣고 너무 안타까웠어. 그는 좋은 영혼이었지.
 MrsFoster_Intro |= Are you looking for a child of your own? If you ever feel like giving one of my charges a happy home, then all you need is proof you have the means to properly support their future wellbeing. 500 Brass is the right amount. Come talk to me again when you want to take the jump into parenthood. I'm sure you would make a great job of it.
 MrsFoster_Endorsement |= An endorsement, eh? Well, I would love to give you one, but I need to see some proof of a good deed. As it happens, I have been struggling for milk lately to feed the bairns. If you can build me a cow shed to make my cow, Rose, happier, then I shall gladly endorse you. I appreciate the help. It's all about giving back, don't you agree?
 MrsFoster_AlreadyCompletedShed |= An endorsement? You've certainly shown your community spirit by making Rose happy with her new shed!
 MrsFoster_CompletedShed |= Oh, that's wonderful! Rose will be so happy. A happy cow makes good milk.
-MrsFoster_CompletedShed |= As promised, here's a pass to get you into Poppyhill. Be careful in there, though. The people of Poppyhill do have some terrible habits and like a bit of fun. And be careful when travelling! There's odd stuff about lately. Farewell, and say hello to <SiblingName> for me when you see them.
+MrsFoster_CompletedShed |= As promised, here's a pass to get you into Poppyhill. Be careful in there, though. The people of Poppyhill do have some terrible habits and like a bit of fun. And be careful when travelling! There's odd stuff about lately. Farewell, and say hello to <SiblingName>for me when you see them.
 MrsFoster_Return |= Welcome back! Looking for a child to care for, and who will eventually look after you? Here are the ones I think are most suitable.
 MrsFoster_Full |= Oh, bless me! I think you are already at capacity. Our beloved Goddesses do not allow for four. Please feel free to return should you ever have space for one of our wonderful children.
 
@@ -298,11 +298,11 @@ LyricVoideIntro |= Yeah, he probably has what you need to fix that bridge... Jus
 LyricVoideIntro |= You will need the Cosmic Bell to get his attention. Go to the very top of Voide and ring it. He can hear it in any dimension, era or star system. Use it, and he will appear. He moves pretty fast when there's money to be made.
 LyricVoideIntro |= Just don't mention me AT ALL. He is such a complete pig trotter.
 LyricVoideIntro |= Now, excuse me, dude, I gotta go get rid of my Dad headache with extremely loud music!
-JackIntro |= You rang the bell, and here I am! 
-JackIntro |= Oh! A new customer! Not the usual clientele I get in these parts, but my goods judge nobody.
-JackIntro |= My name is Jack... Jack-of-All-Trades.
-JackIntro |= Trading is my business, and business is good! 
-JackIntro |= I offer an intergalactic and interdimensional trading service for the discerning customer.\nYou want it; I can get it by literal hook or by literal crook. 
+JackIntro |= 벨을 누르셨고 제가 왔습니다!
+JackIntro |= 오! 새 손님이 왔군! 이런 곳에서 흔히 볼 수 있는 고객은 아니지만, 내 상품은 아무도 판단하지 않지.
+JackIntro |= 내 이름은 잭... 만물상 잭이야.
+JackIntro |= 거래는 내 사업이고 사업은 좋지!
+JackIntro |= 나는 안목 있는 고객을 위해 은하계 및 차원간 거래 서비스를 제공하지.\n너는 그것을 원해; 문자 그대로의 갈고리나 문자 그대로의 도둑질을 통해 얻을 수 있지.
 JackIntro |= I have a retail store on Peckham IV and various warehouses from Saturn to the 5th dimension.\nI've been in business since the dawning of the Age of Aquarius.\nMy clients include Gods and Demons, amoebas and timedukes, titans and thimblefolk.
 JackIntro |= I take cash, credit card, Nebuline or souls. Pan-galactic Express? That'll do nicely. That always triggers a nice response from me.
 JackIntro |= In your case, Brass is acceptable, mainly because it is in high demand by the Brasseaters of IBS Major. 
@@ -336,8 +336,8 @@ UncleDay12 |= Summertide is nearly here. It's very exciting! It is when all the 
 UncleDay12 |= I was thinking that we should do more for the community. There are some derelict houses around, in Cuckoo Wood and Cowpat Farm.
 UncleDay12 |= Why don't you and some friends start to make them liveable again? New people might then appear, and with new faces comes new opportunities. Friendships, maybe even romance *wink*. No marrying 'til after you are 18, though! Ha ha! 
 
-ProgressScreen_Gamepad |= <progress> 로 진행 상황 화면을 엽니다.
-ProgressScreen_KBM |= <progress> 로 진행 상황 화면을 열거나 화면 왼쪽 하단의 나무 아이콘을 클릭합니다.
+ProgressScreen_Gamepad |= <progress>로 진행 상황 화면을 엽니다.
+ProgressScreen_KBM |= <progress>로 진행 상황 화면을 열거나 화면 왼쪽 하단의 나무 아이콘을 클릭합니다.
 
 NedDay2 |= 안녕, 이웃주민! 만나서 반가워요. 난 네드예요. 네드 스크럼피. 당신 집 바로 남쪽에 있는 농장에 살아요. 새로 쌍둥이가 왔다고 들었어요. 나도 쌍둥이가 있는데 재밌지 않아요? 당신이나 당신 가족이 마을에 들러서 인사하길 바랐어요.
 NedDay2 |= 친구를 사귀는 것은 매우 중요하죠, 그렇죠?

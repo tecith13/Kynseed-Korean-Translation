@@ -1,4 +1,4 @@
-친애하는 <PlayerName> 에게,
+친애하는 <PlayerName>에게,
 
 <LetterText>
 

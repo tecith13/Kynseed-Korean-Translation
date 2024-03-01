@@ -11,39 +11,39 @@ There are two types of Blacksmith customers: Walk-ins and Commissioners.
 
 Walk-in customers want to buy off-the-shelf items for a set purpose. They will describe what they want to do with the item, and then it is up to you to sell them something suitable - someone wanting to chop down weeds in the garden is more likely to want a sickle than a sword.
 
-You gain Brass ☎ and REP <repsymbol> for fulfilling the request: these can be increased by selling a more valuable or better quality item from the appropriate category, e.g. a <item:Tin_Sickle:☆>, <item:Iron_Sickle:☆>, and <item:Iron_Sickle:☉> will all please the customer, but the latter two get you more Brass ☎ and REP <repUp>.
+You gain Brass ☎ and REP <repsymbol>for fulfilling the request: these can be increased by selling a more valuable or better quality item from the appropriate category, e.g. a <item:Tin_Sickle:☆>, <item:Iron_Sickle:☆>, and <item:Iron_Sickle:☉>will all please the customer, but the latter two get you more Brass ☎ and REP <repUp>.
 
-If you have nothing strictly suitable, you can try substituting another type of item. The customer will either accept the item and pay as usual <repUp> or reject it, and you'll lose REP <repDown>. Either way, you get the Brass ☎ for your sold item.
+If you have nothing strictly suitable, you can try substituting another type of item. The customer will either accept the item and pay as usual <repUp>or reject it, and you'll lose REP <repDown>. Either way, you get the Brass ☎ for your sold item.
 
-Commissioners want to order a particular item and will give you a few days to create it for them. You can decline a custom order if you don't have the ore or inclination to make it, but this comes with a small REP <repDown> penalty. However, accepting an order and not fulfilling it carries a much higher penalty <repDown>: customers are more disappointed when returning after several days to find that you've let them down.
+Commissioners want to order a particular item and will give you a few days to create it for them. You can decline a custom order if you don't have the ore or inclination to make it, but this comes with a small REP <repDown>penalty. However, accepting an order and not fulfilling it carries a much higher penalty <repDown>: customers are more disappointed when returning after several days to find that you've let them down.
 
-Commissioners will return after the agreed number of days to say they want to collect their order. The Stock Cupboard will open at Orders: you can only select that customer's item. If the customer's order is not ready, you must cancel <ui_cancel> the transaction.
+Commissioners will return after the agreed number of days to say they want to collect their order. The Stock Cupboard will open at Orders: you can only select that customer's item. If the customer's order is not ready, you must cancel <ui_cancel>the transaction.
 ID|serving
 
 Name|Crafting Items
 Text|You can craft items whether the shop is open or closed. If you are running the shop yourself, you must keep an eye on the counter while crafting. Use the Hang on! button to ask customers to wait a bit longer before walking out.
 
-Use <ui_accept_or_click> the iron ring on the forge to begin crafting. You can use the View Orders button to check for Commissions without returning to the Ledger.
+Use <ui_accept_or_click>the iron ring on the forge to begin crafting. You can use the View Orders button to check for Commissions without returning to the Ledger.
 ID|crafting
 
 Name|Selecting Moulds and Ore
 Text| Select the mould for the item you wish to craft, then select your chosen <link:ore>ore<link>. Re-select either to update your selection.
 
-The Batch Crafting option will appear if you have crafted successfully with the selected mould at least three times. This allows you to produce multiple items at once. Scroll to choose the amount of ore to use - limited by the number in stock or up to 10. Note that the number of items to be crafted might be higher than this; Mr Fairweather's items and shop <link:perks>Perks<link> can be used to help boost the yield.
+The Batch Crafting option will appear if you have crafted successfully with the selected mould at least three times. This allows you to produce multiple items at once. Scroll to choose the amount of ore to use - limited by the number in stock or up to 10. Note that the number of items to be crafted might be higher than this; Mr Fairweather's items and shop <link:perks>Perks<link>can be used to help boost the yield.
 ID|mould
 
 Name|Smelting
-Text|Melt the ore by holding and releasing <ui_accept_or_click> to operate the bellows until the mould is full.
+Text|Melt the ore by holding and releasing <ui_accept_or_click>to operate the bellows until the mould is full.
 ID|smelt
 
 Name|Heating
-Text| Lower the moulded item onto the forge and heat it with <ui_accept_or_click>. Use <ui_accept_or_click> again to stop the triangular marker in the green zone.
+Text| Lower the moulded item onto the forge and heat it with <ui_accept_or_click>. Use <ui_accept_or_click>again to stop the triangular marker in the green zone.
 
 You'll get a gold results banner if you get it right, silver if not. Mistakes at this stage mean that later stages will be less forgiving.
 ID|heat
 
 Name|Shaping
-Text| Hit <ui_accept_or_click> to shape the item when your moving hammer perfectly covers one of the circular targets. Targets get smaller and move faster with the rarest ores.
+Text| Hit <ui_accept_or_click>to shape the item when your moving hammer perfectly covers one of the circular targets. Targets get smaller and move faster with the rarest ores.
 
 Hitting the targets perfectly increases the item's durability, which helps to raise its overall Star Rating. Partially hitting a target will slightly increase durability, but missing altogether will lower the item's Star Rating, and missing too many times can even break it, wasting the ore.
 
@@ -51,14 +51,14 @@ Increasing your Strength Stat helps to reduce the difficulty of this phase.
 ID|shape
 
 Name|Cooling
-Text|Lower the moulded item onto the forge and start cooling it with <ui_accept_or_click>. Use <ui_accept_or_click> again to stop the triangular marker in the green zone.
+Text|Lower the moulded item onto the forge and start cooling it with <ui_accept_or_click>. Use <ui_accept_or_click>again to stop the triangular marker in the green zone.
 
 You'll get a gold results banner if you get it right, silver if not. Breaking the item at this point is still possible, so be careful!
 ID|cool
 
 
 Name|Sharpening
-Text|Hold <blacksmith_grind_left> or <blacksmith_grind_right> while a triangular marker is over the green area of the grindstone. You can only sharpen one side of the item at a time! Wait until the green area spins into view again before sharpening the other side.
+Text|Hold <blacksmith_grind_left>or <blacksmith_grind_right>while a triangular marker is over the green area of the grindstone. You can only sharpen one side of the item at a time! Wait until the green area spins into view again before sharpening the other side.
 
 Sharpening the green target areas will improve the item's durability and Star Rating, whereas sharpening grey areas will damage both.
 ID|sharp
@@ -83,53 +83,53 @@ Crafting staff will not serve customers, but note that the shop is always open w
 ID|craftingStaff
 
 Name|Accounts Page
-Text|Blacksmith prices are based upon their Star Rating and the value of the <link:ore>ore<link> used to produce them. Customers will not try to haggle, and you cannot adjust the <link:pricing>prices<link>.
+Text|Blacksmith prices are based upon their Star Rating and the value of the <link:ore>ore<link>used to produce them. Customers will not try to haggle, and you cannot adjust the <link:pricing>prices<link>.
 
 If you give a substitute item to a walk-in customer and it is not accepted, you will still receive the full Brass ☎ price but will suffer a REP loss <repDown>).
 
-Some items may show as losses - negative numbers displayed in red. <link:mwe>Staff wages<link> are always displayed this way, as they cost you Brass ☎. The price of <link:restock>buying stock<link> - either over the counter from customers or via the <link:cupboard>Stock Cupboard<link> - is also subtracted from your daily profits for an item.
+Some items may show as losses - negative numbers displayed in red. <link:mwe>Staff wages<link>are always displayed this way, as they cost you Brass ☎. The price of <link:restock>buying stock<link>- either over the counter from customers or via the <link:cupboard>Stock Cupboard<link>- is also subtracted from your daily profits for an item.
 
-<ui_accept_or_click> on the appropriate heading to sort your accounts by the number Sold, the amount of Profit ☎ made, REP <repUp> gained, or by the default, which is in alphabetical order by Item name.
+<ui_accept_or_click>on the appropriate heading to sort your accounts by the number Sold, the amount of Profit ☎ made, REP <repUp>gained, or by the default, which is in alphabetical order by Item name.
 
-<ui_accept_or_click> on an Item's name to get more detailed information on sales of that particular item. <ui_accept_or_click> again to return to the main Accounts page.
+<ui_accept_or_click>on an Item's name to get more detailed information on sales of that particular item. <ui_accept_or_click>again to return to the main Accounts page.
 
 Use the Timescale filter to choose between a big-picture view of your shop's success over time or zero in on daily transactions to see if you are trading at a loss.
 ID|accounts
 
 Name|Pricing and REP
-Text|Quillian blacksmiths have a fixed price structure for off-the-shelf items: customers will pay the going rate based on the rarity of its <link:ore>metal<link> and its Star Rating.
+Text|Quillian blacksmiths have a fixed price structure for off-the-shelf items: customers will pay the going rate based on the rarity of its <link:ore>metal<link>and its Star Rating.
 
-Custom orders bring a significant profit in both Brass ☎ and REP <repUp> but damage your reputation <repDown> if not fulfilled in time. Forcing customers to collect their order when the shop is closed comes with a smaller REP penalty <repDown>.
+Custom orders bring a significant profit in both Brass ☎ and REP <repUp>but damage your reputation <repDown>if not fulfilled in time. Forcing customers to collect their order when the shop is closed comes with a smaller REP penalty <repDown>.
 ID|pricing
 
 Name|Metals and Ores
-Text| From least to most valuable: Tin, Zinc, Copper, Iron, Luminium, Shadderwryth, Hyalite. You can offer the more valuable ores for sale as soon as you open the shop, but you won't start getting orders for items made with them until your <link:pricing>Reputation<link> <repUp> grows enough.
+Text| From least to most valuable: Tin, Zinc, Copper, Iron, Luminium, Shadderwryth, Hyalite. You can offer the more valuable ores for sale as soon as you open the shop, but you won't start getting orders for items made with them until your <link:pricing>Reputation<link><repUp>grows enough.
 ID|ore
 
 Name|Stock Cupboard
 Text|This cupboard holds all of the items owned by the shop. It has three sections: Shelf, For Orders, and Materials - all of which can be accessed by you and your staff.
 
 Shelf
-Items placed here can be sold to any <link:serving>customer<link> whenever requested.
+Items placed here can be sold to any <link:serving>customer<link>whenever requested.
 
 For Orders
-These items are made to fulfil a specific request by a <link:serving>customer<link> and are reserved to be kept until the agreed collection time. Your staff will not sell these items to walk-in customers: you can - but make sure you replace them before the commissioning customer arrives!
+These items are made to fulfil a specific request by a <link:serving>customer<link>and are reserved to be kept until the agreed collection time. Your staff will not sell these items to walk-in customers: you can - but make sure you replace them before the commissioning customer arrives!
 
 Materials
 The ore that your staff can use to make off-the-shelf items or custom orders. Staff will always use the lowest-quality ore first.
 
 Managing Stock
-Move whole stacks of items - e.g. all <item:Tin_Ore> - between the Cupboard and your Inventory by selecting the item and <ui_alt_or_rightclick>. To select only those of a certain Star Rating, select the item, then select the required Star Rating and <ui_alt_or_rightclick>. Items can be moved singly with <ui_accept_or_click>.
+Move whole stacks of items - e.g. all <item:Tin_Ore>- between the Cupboard and your Inventory by selecting the item and <ui_alt_or_rightclick>. To select only those of a certain Star Rating, select the item, then select the required Star Rating and <ui_alt_or_rightclick>. Items can be moved singly with <ui_accept_or_click>.
 
-Stock can be <link:restock>ordered<link> from the supplier and will take three days to arrive in the Cupboard. You can speed this up and expand the available range by spending <link:perks>Perk Points<link>. <orderscreen> to access the ordering screen.
+Stock can be <link:restock>ordered<link>from the supplier and will take three days to arrive in the Cupboard. You can speed this up and expand the available range by spending <link:perks>Perk Points<link>. <orderscreen>to access the ordering screen.
 ID|cupboard
 
 Name|Restocking with Orders
 Text|This page shows all of the items that can currently be ordered from your supplier. It is used to replenish your stocks of ore and off-the-shelf items, NOT to fulfil custom orders.
 
-You will need to spend <link:perks>Perk Points<link> to unlock a broader range of items.
+You will need to spend <link:perks>Perk Points<link>to unlock a broader range of items.
 
-Select <ui_accept_or_click> the Stock heading to order the items by the number you have in stock. Similarly, select the Item heading to return to the default list, which is alphabetically ordered by item name.
+Select <ui_accept_or_click>the Stock heading to order the items by the number you have in stock. Similarly, select the Item heading to return to the default list, which is alphabetically ordered by item name.
 
 Select an item to order more. At first, you can only order a Budget box - this is a set of 10 low-quality items at a low cost. Use Perk Points to unlock the Normal and Premium Box options to order better-quality items at a higher price.
 
@@ -141,13 +141,13 @@ Text|You can hire up to four people to work in your shop. Only people from the s
 
 Use the Hire button in the middle of a Staff Space to see the available workers.
 
-Each potential worker has an <link:mwe>hourly rate<link>. This will be multiplied by the number of hours that you assign them to work (using the <link:rota>Rota<link> page) and will be automatically taken from your Brass ☎ when they leave for the day. Ensure you can cover this cost, as staff will leave and refuse to return if you cannot pay their whole wage!
+Each potential worker has an <link:mwe>hourly rate<link>. This will be multiplied by the number of hours that you assign them to work (using the <link:rota>Rota<link>page) and will be automatically taken from your Brass ☎ when they leave for the day. Ensure you can cover this cost, as staff will leave and refuse to return if you cannot pay their whole wage!
 
-Employees with a higher hourly rate tend to have <link:stats>Stats<link> that will make them good at working in the shop. However, you can temporarily boost your employees' poorer stats with gifts of food with relevant Traits. You can improve their <link:mwe>Mood<link> this way, too, as well as encouraging them to improve their <link:mwe>Blacksmith Level<link>.
+Employees with a higher hourly rate tend to have <link:stats>Stats<link>that will make them good at working in the shop. However, you can temporarily boost your employees' poorer stats with gifts of food with relevant Traits. You can improve their <link:mwe>Mood<link>this way, too, as well as encouraging them to improve their <link:mwe>Blacksmith Level<link>.
 
 Note that you can have two staff working simultaneously: one on the counter and one crafting items at the forge. Counter and Crafting staff require different <link:stats>stats<link>.
 
-Select a person's name from the list to confirm that you want to hire them. Be aware that people can only be employed in one shop at a time! At this point, you can adjust the employee's <link:mwe>wages<link> - up or down.
+Select a person's name from the list to confirm that you want to hire them. Be aware that people can only be employed in one shop at a time! At this point, you can adjust the employee's <link:mwe>wages<link>- up or down.
 
 Use the Change Pay button to adjust the employee's hourly rate. You can do this at any time.
 
@@ -161,7 +161,7 @@ Accuracy
 Makes Crafting staff more likely to produce high-quality items.
 
 Charm
-Counter staff can reduce REP <repDown> lost by giving substitute items to walk-in customers.
+Counter staff can reduce REP <repDown>lost by giving substitute items to walk-in customers.
 
 Speed
 Affects the speed of counter service and time taken when crafting items.
@@ -184,21 +184,21 @@ Employee's Mood can be checked anytime by looking at their record on the <link:h
 
 A good Mood means an employee will serve customers quickly, and you'll see them making cheerful and polite comments. Unhappy employees are rude and inefficient.
 
-Blacksmith Level indicates an employee's experience working in the shop - it is collected over time. Gaining levels boosts employee <link:stats>Stats<link> while working, improving their efficiency and reducing the need for gifts. Employees will not gain experience if their Mood is bad.
+Blacksmith Level indicates an employee's experience working in the shop - it is collected over time. Gaining levels boosts employee <link:stats>Stats<link>while working, improving their efficiency and reducing the need for gifts. Employees will not gain experience if their Mood is bad.
 ID|mwe
 
 Name|Perk Points
 Text|Improving your shop's reputation attracts customers from further afield. At first, customers will only visit shops within their own Haven, but with time, people may arrive from other havens - even other realms!
 
-Perk Points are earned as your REP <repUp> increases. You can use this page to spend them on Perks designed to help you run your shop more efficiently. The Reputation meter on the left page shows your progress towards your next Perk Point. Gain enough REP <repUp>, and the magical Tinker will give you access to even more powerful <link:special>Specialist Perks<link>!
+Perk Points are earned as your REP <repUp>increases. You can use this page to spend them on Perks designed to help you run your shop more efficiently. The Reputation meter on the left page shows your progress towards your next Perk Point. Gain enough REP <repUp>, and the magical Tinker will give you access to even more powerful <link:special>Specialist Perks<link>!
 
-Perk Points are shared among ALL the shops that you own, so, for example, you can use REP <repsymbol> earned in your Blacksmith to help unlock something in your Apothecary.
+Perk Points are shared among ALL the shops that you own, so, for example, you can use REP <repsymbol>earned in your Blacksmith to help unlock something in your Apothecary.
 
 Spend Perk Points carefully, as there are no refunds!
 ID|perks
 
 Name|Specialist Perks
-Text|You will be contacted by the mysterious Tinker once your shop reaches the required level of success, based on REP <repsymbol> and Brass ☎ earned. He will sell you access to Specialisations for your shop: Jewellery, Tools and Weapons.
+Text|You will be contacted by the mysterious Tinker once your shop reaches the required level of success, based on REP <repsymbol>and Brass ☎ earned. He will sell you access to Specialisations for your shop: Jewellery, Tools and Weapons.
 
 Specialising your shop is about a lot more than just appearance. It will also grant bonuses to acquiring and selling items associated with the specialisation and will grant bonuses to your staff's performance - though there may sometimes be a penalty, too.
 
@@ -206,15 +206,15 @@ Specialist Perks are unlocked with Points in the same way as ordinary <link:perk
 ID|special
 
 Name|Rota
-Text|You must recruit staff using the <link:hiring>Hiring Page<link> before you can set up a rota.
+Text|You must recruit staff using the <link:hiring>Hiring Page<link>before you can set up a rota.
 
-Select <ui_accept_or_click> a staff member's picture, then choose a rectangle on the Rota and <ui_accept_or_click> to assign them to that timeslot. The Left space in each rectangle is for Counter staff: the right, Crafters.
+Select <ui_accept_or_click>a staff member's picture, then choose a rectangle on the Rota and <ui_accept_or_click>to assign them to that timeslot. The Left space in each rectangle is for Counter staff: the right, Crafters.
 
 You don't need to have two staff members on each shift: e.g. you can assign someone to the counter and run the forge yourself. Crafting staff will not serve customers, though.
 
 You can drag portraits over multiple rectangles. Select the same squares again to remove the person from that slot.
 
-Note that each square on the rota represents three hours of work, so remember to check what your <link:mwe>wage bill<link> is likely to be!
+Note that each square on the rota represents three hours of work, so remember to check what your <link:mwe>wage bill<link>is likely to be!
 
 Staff will get tired if assigned too many hours without a break. This will make them work more slowly, and they may be rude to customers, so give them time to recover energy between shifts or boost their <link:stats>Stamina<link>.
 ID|rota

@@ -1,19 +1,19 @@
 Title|Goods Store
 Name|What Makes a Successful Goods Store?
-Text| Your main aim in the Goods Store is to find the <link:pricing>market value<link> of each item you stock. Selling at or below this value will earn you more REP <repUp>, while selling above it will damage your reputation but bring in more <link:accounts>Brass ☎<link>.
+Text| Your main aim in the Goods Store is to find the <link:pricing>market value<link>of each item you stock. Selling at or below this value will earn you more REP <repUp>, while selling above it will damage your reputation but bring in more <link:accounts>Brass ☎<link>.
 
 Name|Accounts Page
-Text|Select an item in the Accounts List with <ui_accept_or_click> to see the minimum and maximum Reputation (REP <repsymbol>) that you gained at various price points.
+Text|Select an item in the Accounts List with <ui_accept_or_click>to see the minimum and maximum Reputation (REP <repsymbol>) that you gained at various price points.
 You can also watch out for customers' comments - they will be keen to tell you if they are unhappy with your pricing strategy!
-Selling items at or below their <link:pricing>market value<link> earns you REP <repsymbol>. The lower the price vs market value, the more REP <repUp> is gained.
-Gaining REP <repUp> encourages more customers to visit your shop as your fame spreads and impresses the Grand Masters. REP <repsymbol> can be used to unlock <link:pricing>Perk Points<link>, which can help you to improve <link:stats>staff performance<link>, <link:restock>stock ordering<link> or profits.
-You can focus on profits via high prices instead: this will bring in Brass ☎ more quickly but will damage your REP <repsymbol> over time. Some customers will walk out if prices are too high.
+Selling items at or below their <link:pricing>market value<link>earns you REP <repsymbol>. The lower the price vs market value, the more REP <repUp>is gained.
+Gaining REP <repUp>encourages more customers to visit your shop as your fame spreads and impresses the Grand Masters. REP <repsymbol>can be used to unlock <link:pricing>Perk Points<link>, which can help you to improve <link:stats>staff performance<link>, <link:restock>stock ordering<link>or profits.
+You can focus on profits via high prices instead: this will bring in Brass ☎ more quickly but will damage your REP <repsymbol>over time. Some customers will walk out if prices are too high.
 
 Selling high-quality items means you can set high prices without losing REP <repsymbol>.
 
-Some items may show as losses - negative numbers displayed in red. <link:mwe>Staff wages<link> are always displayed this way, as they cost you Brass ☎.
+Some items may show as losses - negative numbers displayed in red. <link:mwe>Staff wages<link>are always displayed this way, as they cost you Brass ☎.
 
-The price of <link:restock>buying stock<link> - either over the counter from customers or via the <link:cupboard>Stock Cupboard<link> - is also subtracted from your daily profits for an item.
+The price of <link:restock>buying stock<link>- either over the counter from customers or via the <link:cupboard>Stock Cupboard<link>- is also subtracted from your daily profits for an item.
 
 Use the Timescale filter to choose between a big-picture view of your shop's success over time or zero in on daily transactions to see if you are trading at a loss.
 ID|accounts
@@ -22,10 +22,10 @@ Name|Pricing and REP
 Text|Your main aim when setting prices in the Goods Store is to find the market value of each item. Selling at or below this value will earn you more REP <repUp>, while trading above it will damage your reputation but bring in more Brass ☎.
 Items with higher Star Quality have a higher market value, so selling high-quality items means that you can set high prices without losing REP <repsymbol>.
 
-It is worth asking your friends for information on improving the quality of your items, as well as checking the shop's Perks for any that reduce REP <repDown> loss.
+It is worth asking your friends for information on improving the quality of your items, as well as checking the shop's Perks for any that reduce REP <repDown>loss.
 Place an item onto one of the shop's plinths (red cushioned shelves) and scroll to set its price. You can also choose the quantity to be sold up to the maximum number in your Inventory.
 Prices only apply to an item at a given Star Quality. For example:
-1. Set the price of <item:Apple:☇> to ☎6
+1. Set the price of <item:Apple:☇>to ☎6
 
 2. Put more <item:Apple:☇>s on another plinth. The price will automatically be set to ☎6
 3. Use any plinth - including the ones already used - for <item:Apple:☈>s. The price will be ☎7: ☎1 higher because of the extra quality star. You can manually adjust this if you wish.
@@ -44,19 +44,19 @@ Items can be moved singly with <ui_accept_or_click>.
 
 Your employees sometimes buy in stock from visitors, subtracting the price from your profits. Those items will go straight into this cupboard. Note that if you buy things while working behind the counter, the items will go into your Inventory instead.
 
-Stock can be <link:restock>ordered<link> from the supplier, and will take three days to arrive in the Cupboard. You can speed this up, and expand the available range, by spending <link:perks>Perk Points<link>. <ui_alt2> to access the ordering screen.
+Stock can be <link:restock>ordered<link>from the supplier, and will take three days to arrive in the Cupboard. You can speed this up, and expand the available range, by spending <link:perks>Perk Points<link>. <ui_alt2>to access the ordering screen.
 ID|cupboard
 
 Name|Hiring Staff
 Text|You can hire up to four people to work in your shop. Use the Hire button in the middle of a Staff Space to see the available workers. Only people from the shop's Haven will be available - for example, people from Mellowbrook are not happy to walk to the Vale for work every day. However, your family can be sent to work in any shop.
 
-Each potential worker has an <link:mwe>hourly rate<link>. This will be multiplied by the number of hours that you assign them to work (using the <link: Rota>Rota<link> page) and will be automatically taken from your Brass ☎ when they leave for the day. Make sure that you can cover this cost, as staff will leave and refuse to return if you cannot pay their whole wage!
+Each potential worker has an <link:mwe>hourly rate<link>. This will be multiplied by the number of hours that you assign them to work (using the <link: Rota>Rota<link>page) and will be automatically taken from your Brass ☎ when they leave for the day. Make sure that you can cover this cost, as staff will leave and refuse to return if you cannot pay their whole wage!
 
-Employees with a higher hourly rate tend to have <link:stats>Stats<link> that will make them good at working in the shop.
+Employees with a higher hourly rate tend to have <link:stats>Stats<link>that will make them good at working in the shop.
 
-You can temporarily boost your employee's poorer stats with gifts of food that have the relevant Traits. You can improve their <link:mwe>Mood<link> this way, too, as well as encouraging them to improve their <link:mwe>Goods Store Level<link>.
+You can temporarily boost your employee's poorer stats with gifts of food that have the relevant Traits. You can improve their <link:mwe>Mood<link>this way, too, as well as encouraging them to improve their <link:mwe>Goods Store Level<link>.
 
-Select a person's name from the list to confirm that you want to hire them. Be aware that people can only be employed in one shop at a time! You can adjust the employee's <link:mwe>wages<link> - up or down.
+Select a person's name from the list to confirm that you want to hire them. Be aware that people can only be employed in one shop at a time! You can adjust the employee's <link:mwe>wages<link>- up or down.
 
 Use the Change Pay button to adjust the employee's hourly rate. You can do this at any time.
 
@@ -66,17 +66,17 @@ ID|hiring
 Name|Perk Points
 Text|Improving your shop's reputation attracts customers from further afield. At first, customers will only visit shops within their own Haven, but with time, people may arrive from other havens - even other realms!
 
-Perk Points are earned as your REP <repUp> increases. You can use this page to spend them on Perks designed to help you run your shop more efficiently.
+Perk Points are earned as your REP <repUp>increases. You can use this page to spend them on Perks designed to help you run your shop more efficiently.
 
 The Reputation Meter on the left page shows your progress towards your next Perk Point. Gain enough REP <repsymbol>, and the magical Tinker will give you access to even more powerful <link:special>Specialist Perks<link>!
 
-Perk Points are shared among ALL the shops that you own, so, for example, you can use REP <repsymbol> earned in your Goods Store to help unlock something in your Blacksmith.
+Perk Points are shared among ALL the shops that you own, so, for example, you can use REP <repsymbol>earned in your Goods Store to help unlock something in your Blacksmith.
 
 Spend Perk Points carefully, as there are no refunds!
 ID|perks
 
 Name|Restocking with Orders
-Text|This page shows all of the items that can currently be ordered from your supplier. You will need to spend <link:perks>Perk Points<link> to unlock more.
+Text|This page shows all of the items that can currently be ordered from your supplier. You will need to spend <link:perks>Perk Points<link>to unlock more.
 
 Select the Stock heading to order the items by your stock number. Select Item to return to the default list, which is alphabetically ordered by item name.
 
@@ -84,18 +84,18 @@ Select an item to order more. At first, you can only order a Budget box - this i
 
 Once an order is confirmed, items will usually take three days to be delivered, so plan ahead! You cannot order more of that item until your first order arrives.
 
-Arrival dates will be listed on the Ordering page to help you keep track. Spending <link:perks>Perk Points<link> can reduce delivery times significantly.
+Arrival dates will be listed on the Ordering page to help you keep track. Spending <link:perks>Perk Points<link>can reduce delivery times significantly.
 ID|restock
 
 Name|Stats
-Text|Stats indicate how well an employee is likely to do the job. They can be affected in the short term by gifts and improved over time by boosting the employee's <link:mwe> Mood <link>.
+Text|Stats indicate how well an employee is likely to do the job. They can be affected in the short term by gifts and improved over time by boosting the employee's <link:mwe>Mood <link>.
 
 
 Barter:
-The higher this number, the more likely the employee will win when haggling with a customer. This means a bit more profit and REP <repUp> for you. Lost barter mini-games mean an item will be sold below its marked price, and you'll take a small hit to your REP <repDown>.
+The higher this number, the more likely the employee will win when haggling with a customer. This means a bit more profit and REP <repUp>for you. Lost barter mini-games mean an item will be sold below its marked price, and you'll take a small hit to your REP <repDown>.
 
 Charm:
-Employees with high Charm can reduce the amount of REP <repDown> lost by selling overpriced items.
+Employees with high Charm can reduce the amount of REP <repDown>lost by selling overpriced items.
 
 Speed:
 High Speed means that customers will be served more quickly. More customers will be served per hour, and they will be less likely to leave due to long queues.
@@ -118,11 +118,11 @@ Employee's Mood can be checked anytime by looking at their record on the <link:h
 
 A good Mood means an employee will serve customers quickly, and you'll see them making cheerful and polite comments. Unhappy employees are rude and inefficient.
 
-Goods Store Level indicates an employee's experience working in the shop - it is collected over time. Gaining levels boosts employee <link:stats>Stats<link> while working, improving their efficiency and reducing the need for gifts. Employees will not gain experience if their Mood is bad.
+Goods Store Level indicates an employee's experience working in the shop - it is collected over time. Gaining levels boosts employee <link:stats>Stats<link>while working, improving their efficiency and reducing the need for gifts. Employees will not gain experience if their Mood is bad.
 ID|mwe
 
 Name|Specialist Perks
-Text|You will be contacted by the mysterious Tinker once your shop reaches the required level of success, based on REP <repsymbol> and Brass ☎ earned. He will sell you access to Specialisations for your shop: Bakery, Fishmonger and Greengrocer.
+Text|You will be contacted by the mysterious Tinker once your shop reaches the required level of success, based on REP <repsymbol>and Brass ☎ earned. He will sell you access to Specialisations for your shop: Bakery, Fishmonger and Greengrocer.
 
 Specialising your shop will change its appearance, grant bonuses to acquiring and selling items associated with the specialisation, and will grant bonuses to your staff's performance - though there may sometimes be a penalty, too.
 
@@ -130,12 +130,12 @@ Specialist Perks are unlocked with Points in the same way as ordinary <link:perk
 ID|special
 
 Name|Rota
-Text|You must recruit staff using the <link:hiring>Hiring Page<link> before you can set up a rota.
+Text|You must recruit staff using the <link:hiring>Hiring Page<link>before you can set up a rota.
 
-Select a staff member's picture, then choose a square on the Rota and <ui_accept_or_click> to assign them to that timeslot.
+Select a staff member's picture, then choose a square on the Rota and <ui_accept_or_click>to assign them to that timeslot.
 You can drag over multiple squares, too. Select the same squares again to remove the person from that slot.
 
-Note that each square on the Rota represents three hours of work, so remember to check what your <link:mwe>wage bill<link> is likely to be!
+Note that each square on the Rota represents three hours of work, so remember to check what your <link:mwe>wage bill<link>is likely to be!
 
 Staff will get tired if assigned too many hours without a break. This will make them work more slowly, and they may be rude to customers, so give them time to recover energy between shifts or boost their <link:stats>Stamina<link>.
 ID|rota

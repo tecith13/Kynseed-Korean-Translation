@@ -73,7 +73,7 @@ FAMILYVISIT_HOW_ARE_YOU |= I'm doing OK. You know, it is nice being able to come
 FAMILYVISIT_HOW_ARE_YOU |= I'm enjoying this little stroll down memory lane, coming back to the farm. I notice that Pott is still not doing much, is he? Is he bugged?
 FAMILYVISIT_HOW_ARE_YOU |= I'm a little teary eyed wondering where time has gone since I used to live here.
 FAMILYVISIT_HOW_ARE_YOU |= I was OK until I saw the Kynseed Tree and remembered days, friends and pets passed. I'm having a little wobble but am fine!
-FAMILYVISIT_HOW_ARE_YOU |= I'm really enjoying heading back to Willowdown Farm. Happy memories, for the most part.
+FAMILYVISIT_HOW_ARE_YOU |= 윌로우다운 농장으로 돌아가는 게 너무 즐거워. 행복한 추억이 가득하길 바라.
 FAMILYVISIT_HOW_ARE_YOU |= I'm a bit sad. I miss living here. But, life moves on. We grow up, grow apart but this place will always connect us. We are family, after all.
 
 FAMILYVISIT_WHATS_HAPPENING |= I am just taking in the sights and smells of your beautiful farm. I always wondered where the actual Willow tree is, though.

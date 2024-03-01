@@ -1,117 +1,167 @@
 Name|What Makes a Successful Apothecary?
 Text| Curing your patients - or at least not making them worse!
 
-Patients enter the apothecary with various illnesses. Listen to their symptoms to discover the unwanted <link:traits>traits<link> that they'd like you to remove, then <link:crafting>craft cures<link>. The more successful cures you produce, the more Brass ☎ and REP <repsymbol> you will collect.
+Patients enter the apothecary with various illnesses. Listen to their symptoms to discover the unwanted traits that they'd like you to remove, then <link:recipes>craft cures<link>. The more successful cures you produce, the more Brass ☎ and REP <repsymbol>you will collect.
 
-You will need to discover the <link:traits>traits<link> of a lot of Quillian herbs and monster parts. It can be a good idea to spend time doing this, and experimenting with crafting cures, before <link:opening>opening your apothecary for business<link>.
+You will need to discover the traits of a lot of Quillian herbs and monster parts. It can be a good idea to spend time doing this, and experimenting with crafting cures, before <link:opening>opening your apothecary for business<link>.
 ID|main
 
-Name|Serving and Treating Patients
-Text|Stand behind the consultation counter on the left side of the shop, and interact <ui_accept_or_click> with the first patient in the queue to hear their symptoms.
+Name|Opening and Closing the Shop
+Text|Interact with the colourful sign near the shop's door: it will show an X if the shop is closed.
 
-1.	Decide which symptoms (undesirable <link:traits>Traits<link>) the patient is experiencing. E.g. someone complaining of sickness might have the Emetic <trait:15> trait. The patient will keep repeating the symptoms if you don't get them the first time.
-2.	If you know that you have a pre-made cure in the <link:storage>Stock Cupboard<link> that will treat the patient's symptoms, then you can choose to give it directly to the patient. If not, you can give a <link:placebos>placebo<link>; or try to <link:crafting>craft a cure<link>.
-3.	Interact with one of the crafting stations on the right side of the room to display the <link:recipes>Recipe Book<link>.
-4.	Flick through the Recipe Book to find an illness with <link:traits>symptoms<link>
-matching those of the patient.
-5.	Select the recipe to start crafting a cure that can be given directly to the patient.
-6.	If you don't have the ingredients required to make a cure, then you can exit the book and give a <link:placebos>Placebo<link> instead.
-7.	The patient will tell you if they feel better or not - sometimes you'll even be able to see a difference! They'll hand over their Brass ☎ and you'll gain <repUp> (or lose! <repDown>) some REP.
+Closing a shop sends all staff home until you reopen it, regardless of their schedule. The shop will automatically open and close according to the <link:rota>Rota<link>.
+ID|opening
+
+Name|Serving and Treating Patients
+Text|Stand behind the consultation counter on the left side of the shop, and interact <ui_accept_or_click>with the first patient in the queue to hear their symptoms.
+
+1. Decide which symptoms (undesirable Traits) the patient is experiencing. E.g. someone complaining of sickness might have the <trait:14>trait. The patient will keep repeating the symptoms if you don't get them the first time.
+2. If you know that you have a pre-made cure in the <link:storage>Stock Cupboard<link>that will treat the patient's symptoms, then you can choose to give it directly to the patient. If not, you can give a <link:placebos>placebo<link>; or try to <link:recipes>craft a cure<link>.
+3. Interact with one of the crafting stations on the right side of the room to display the <link:recipes>Recipe Book<link>.
+4. Flick through the Recipe Book to find an illness with symptoms matching those of the patient.
+5. Select the recipe to start crafting a cure that can be given directly to the patient.
+6. If you don't have the ingredients required to make a cure, then you can exit the book and give a <link:placebos>Placebo<link>instead.
+7. The patient will tell you if they feel better or not - sometimes you'll even be able to see a difference! They'll hand over their Brass ☎ and you'll gain <repUp>(or lose! <repDown>) some REP.
 ID|serving
+
+Name|Crafting Cures
+Text|You cannot craft cures whilst your staff are working. <link:opening>Close<link>the shop; or <link:combat>replenish your combat items<link>and <link:storage>stored cures<link>outside of scheduled hours.
+
+Interact with one of the crafting stations on the right side of the room to display the Recipe Book, and then flick through the Recipe Book to find an illness with symptoms matching those of the patient. Select <ui_accept_or_click>the recipe to start crafting.
+
+The Ingredient Selection screen shows the name of the selected cure and its required traits in a note to the left. Ideally you are aiming to tick off all of the required traits without adding any negative ones (<trait:55>s).
+
+Using the Filter Traits button allows you to narrow the selection of ingredients down to those with at least one of the required traits.
+
+You can view an ingredient's traits - if you've discovered them via harvesting the item or collecting proverbs - by hovering over it.
+
+Select <ui_accept_or_click>an item to move it into the crafting tray. You can only include one of each kind of ingredient, i.e. you cannot add two <item:Grave_Lilac>flowers to the same potion.
+
+However, one ingredient might tick off two traits on the requirement list if, for example, it had both <trait:23>and <trait:36>traits then you would be able to craft <item:Poppy_Perkup>with only one ingredient.
+
+Filter Traits can still be very helpful if you have not yet uncovered all ingredient traits. You will still see a selection of ingredients, each of which will have at least one of the required traits, but it will be up to you to experiment to find the best combinations.
+
+For example, you need to craft a cure for Burns.
+• <trait:22>and <trait:20>traits are needed, so you use Filter Traits.
+• You know that <item:Cuckoo_Dew>has the <trait:22>trait, and add it to the crafting tray.
+• The <trait:22>trait is checked off the Requirements list.
+• The remaining ingredients are <item:Ancient_Cloth>, <item:Sunflower>, and <item:Parsley>. You know that they all have the <trait:20>OR <trait:22>traits (or both!), but not WHICH they have.
+
+At this point you can:
+1. Craft the cure with only one ingredient. This will give you a Partial Cure as you are only providing <trait:22>.
+2. Add another ingredient. This could:
+ • Add the <trait:20>trait, giving you a full Cure.
+ • Add the <trait:22>trait again, resulting in a Partial Cure but wasting the ingredient.
+ • Add either <trait:20>or <trait:22>with a <trait:55>, such as <trait:25>. You'd still get the full or Partial Cure, but it will sell for less Brass ☎ and REP <repDown>.
+3. Add a third ingredient. This doubles the chances of any of the benefits and drawbacks listed in option 2.
+4. Back out and sell a <link:placebos>Placebo<link>instead.
+
+If you choose to continue crafting, the <trait:20>trait is not checked off on the Requirements List at this point, because you do not have the proverbs for the second or third ingredients. You will need to craft the <link:potion>Potion<link>, <link:cream>Cream<link>or <link:powder>Powder<link>and then check the <link:results>Results<link>screen to find out if your experiment was successful. Note taking is advisable!
+ID|recipes
+
+Name|Placebos, or, I can't cure that!
+Text|Placebos can sometimes help a patient through the power of suggestion, but otherwise have no effect beyond bringing in a little Brass ☎ and sometimes preventing REP <repDown>being lost by turning patients away.
+
+Your staff will automatically sell placebos in the absence of a <link:storage>stored Full or Partial Cure<link>, or the ingredients required to <link:recipes>craft<link>one.
+
+You may choose to <link:serving>serve<link>a patient with a placebo at any time: sometimes this can be cheaper than wasting ingredients on an experimental cure. You may choose to Dismiss the patient instead.
+ID|placebos
+
+Name|Crafting for Combat
+Text|You can craft combat items, such as Healing Creams and Flame Phials for your own use. These cannot be sold in the shop, and your staff will not craft them for you.
+
+Combat items can only be created from monster parts, not herbs or flowers. Some monster parts can be ordered via the <link:storage>Stock Cupboard<link>, but you'll need to collect most of them by fighting in the woods.
+
+Interact with one of the crafting stations on the right side of the room to display the <link:recipes>Recipe Book<link>, and then <ui_secondaryTabNext_or_click>switch to the red combat tab. Flick through the combat recipes, then <ui_accept_or_click>to select one.
+
+Ingredient selection works in the same way as when <link:recipes>crafting cures<link>, except that only monster parts are shown: you can further filter these with <ui_alt>. After choosing a recipe, make your <link:potion>Potion<link>, <link:powder>Powder<link>or <link:cream>Cream<link>as usual. <link:results>Results<link>will go straight into your personal Inventory, rather than to the Store Cupboard.
+ID|combat
+
 
 Name|Accounts Page
 Text|Appothecary prices are based upon their efficacy (Full, Partial or Failed), and Star Rating. Patients will not try to haggle, and you cannot adjust the <link:pricing>prices<link>.
 
-If you give a placebo item to a walk-in customer and it is not accepted, you will still some Brass ☎ but will suffer a REP loss <repDown>).
+If you give a placebo item to a walk-in customer and it is not accepted, you will still gain some Brass ☎ but will suffer a REP loss <repDown>).
 
-Some items may show as losses - negative numbers displayed in red. <link:mwe>Staff wages<link> are always displayed this way, as they cost you Brass ☎. The price of <link:restock>buying stock<link> - either over the counter from patients or via the <link:storage>Stock Cupboard<link> - is also subtracted from your daily profits for an item.
+Some items may show as losses - negative numbers displayed in red. <link:mwe>Staff wages<link>are always displayed this way, as they cost you Brass ☎. The price of <link:restock>buying stock<link>- either over the counter from patients or via the <link:storage>Stock Cupboard<link>- is also subtracted from your daily profits for an item.
 
-Sales are listed by the name of the illness that was to be cured, not by the name of the cure. E.g. Food Poisoning can be Cured with <item:Abdo_mend> Abdo-mend; Partially Cured with <item:Gulliver_Travel> Gulliver Travel; treated with either but with **side** Side Effects; or 'treated' with a Placebo.
+Sales are listed by the name of the illness that was to be cured, not by the name of the cure. E.g. Food Poisoning can be Cured with <item:Abdo_mend>; Partially Cured with <item:Gulliver_Travel>; treated with either but with <trait:55>s; or 'treated' with a Placebo.
 
-<ui_accept_or_click> on an illness' name to get more detailed information on sales relating to it. This can be really helpful with stock management. E.g. if Food Poisoning was being consistently cured yesterday, but only partially cured today, then you know that you are missing an ingredient with one of its required traits. Checking the <link:recipes>recipe book<link> would let you know that <trait:4> Anti-sickness and <trait:23> Healing are needed; you can then check the <link:stock>Stock Cupboard<link> to find out which is missing, and then order or collect more of the relevant ingredient.
+<ui_accept_or_click>on an illness' name to get more detailed information on sales relating to it. This can be really helpful with stock management.
 
-<ui_accept_or_click> again to return to the main Accounts page.
+E.g. if Food Poisoning was being consistently cured yesterday, but only partially cured today, then you know that you are missing an ingredient with one of its required traits. Checking the <link:recipes>recipe book<link>would let you know that <trait:3>and <trait:22>are needed; you can then check the <link:storage>Stock Cupboard<link>to find out which is missing, and then order or collect more of the relevant ingredient.
 
-<ui_accept_or_click> on the appropriate heading to sort your accounts by the number Sold, the amount of Profit ☎ made, REP <repUp> gained, or by the default, which is in alphabetical order by illness (Item) name.
+<ui_accept_or_click>on the appropriate heading to sort your accounts by the number Sold, the amount of Profit ☎ made, REP <repUp>gained, or by the default, which is in alphabetical order by illness (Item) name.
 ID|accounts
 
 Name|Pricing and REP
-Text|Prices in the Apothecary are fixed. Patients will pay the market value for a <link:crafting>Full cure<link>, with or preferably without side effects; a bit less for a Partial cure, or considerably less for a <link:placebos>Placebo<link>. Placebos always bring in a little Brass, but bring in very little REP, and can actually damage your reputation if unsuccessful.
+Text|Prices in the Apothecary are fixed. Patients will pay the market value for a <link:recipes>Full cure<link>, with or preferably without side effects; a bit less for a Partial cure, or considerably less for a <link:placebos>Placebo<link>.
+
+Placebos always bring in a little Brass ☎, but bring in very little REP <repsymbol>, and can actually damage your reputation if unsuccessful.
 ID|pricing
 
 Name|Stock Cupboard
 Text|This cupboard holds all of the items to be used in the shop. Your staff can use any ingredient or pre-prepared cure that you leave in here.
 
-There are two sections within the cupboard: Cures and Ingredients. Use <changeTab> to swap between them. The lower half of each section shows the items from that category that are in your personal Inventory.
+There are two sections within the cupboard: Cures and Ingredients. Use the coloured tabs to swap between them. The lower half of each section shows the items from that category that are in your personal Inventory.
 
-Hovering over a cure will display its details in the Information Panel to the right of the cupboard. These are: the Cure's Name; the illness that it cures; the traits used in crafting it and a warning about <link:crafting>side-effects<link> (if applicable).
+Hovering over a cure will display its details in the Information Panel to the right of the cupboard. These are: the cure's name; the illness that it cures; the traits used in crafting it and a warning about <trait:55>s (if applicable).
 
-Move whole stacks of items - e.g. all Bloodfew flowers <item:Bloodfew> - between the Cupboard and your Inventory by selecting the item and <ui_alt_or_rightclick>. To select only those of a certain star quality, select <ui_accept_or_click>, the item, then select the required quality and <ui_alt_or_rightclick>. Items can be moved singly with <ui_accept_or_click>
+Move whole stacks of items - e.g. all <item:Bloodfew>- between the Cupboard and your Inventory by selecting the item and <ui_alt_or_rightclick>. To select only those of a certain star rating, select <ui_accept_or_click>, the item, then select the required quality and <ui_alt_or_rightclick>. Items can be moved singly with <ui_accept_or_click>.
 
 Note that if you buy ingredients from customers while working behind the counter, the items will go into your Inventory rather than the cupboard.
 
-Stock can be <link:restock>ordered<link> from the supplier, and will take three days to arrive in the Cupboard. You can speed this up, and expand the available range, by spending <link:perks>Perk Points<link>. <ui_alt2> to access the ordering screen.
-ID|cupboard
+Stock can be <link:restock>ordered<link>from the supplier, and will take three days to arrive in the Cupboard. You can speed this up, and expand the available range, by spending <link:perks>Perk Points<link>. <ui_alt2>to access the ordering screen.
+ID|storage
+
+Name|Restocking with Orders
+Text|This page shows all of the items that can currently be ordered from your supplier. You will need to spend <link:perks>Perk Points<link>to unlock more.
+
+Select <ui_accept_or_click>the Stock heading to order the items by number stored. Select <ui_accept_or_click>Item to return to the default list, which is alphabetically ordered by item name.
+
+Select <ui_accept_or_click>an item to order more. At first, you can only order a Budget box - this is a set of 10 low-quality items at a low cost. Use Perk Points to unlock the Normal and Premium Box options to order better-quality items at a higher price.
+
+Once an order is confirmed, items will usually take three days to be delivered, so plan ahead! You cannot order more of that item until your first order arrives.
+
+Arrival dates will be listed on the Ordering page to help you keep track. Spending <link:perks>Perk Points<link>can reduce delivery times significantly.
+ID|restock
 
 Name|Hiring Staff
 Text|You can hire up to four people to work in your shop, though only one can work at a time. Only people from the shop's Haven will be available - for example, people from Mellowbrook are not happy to walk to the Vale for work every day. Your family can be sent to work in any shop though.
 
-All staff have as least as much knowledge about ingredients and their <link:traits>Traits<link> as you do.
+All staff have as least as much knowledge about ingredients and their traits as you do.
 
 Use the Hire button in the middle of a Staff Space to see the available workers.
 
-Each potential worker has an <link:mwe>hourly rate<link>. This will be multiplied by the number of hours that you assign them to
-work (using the <link:rota>Rota<link> page), and will be automatically taken from your Brass ☎ when they leave for the day. Make sure
-that you can cover this cost, as staff will leave and refuse to return if you cannot pay their whole wage!
+Each potential worker has an <link:mwe>hourly rate<link>. This will be multiplied by the number of hours that you assign them to work (using the <link:rota>Rota<link>page), and will be automatically taken from your Brass ☎ when they leave for the day. Make sure that you can cover this cost, as staff will leave and refuse to return if you cannot pay their whole wage!
 
-Employees with a higher hourly rate tend to have <link:stats>Stats<link> that will make them good at working in the shop. However,
-you can temporarily boost your employee's poorer stats with gifts of food that have the relevant Traits. You can improve their <link:mwe>Mood<link> this way too, as well as encouraging them to improve their <link:mwe>Goods Store Level<link>.
+Employees with a higher hourly rate tend to have <link:stats>Stats<link>that will make them good at working in the shop. However, you can temporarily boost your employee's poorer stats with gifts of food that have the relevant Traits. You can improve their <link:mwe>Mood<link>this way too, as well as encouraging them to improve their <link:mwe>Apothecary Level<link>.
 
-Select a person's name from the list to confirm that you want to hire them. Be aware that people can only be employed in one shop at a time! At this point you can adjust the employee's <link:mwe>wages<link> ' up or down.
+Select a person's name from the list to confirm that you want to hire them. Be aware that people can only be employed in one shop at a time! At this point you can adjust the employee's <link:mwe>wages<link>- up or down.
 
 Use the Change Pay button to adjust the employee's hourly rate, if you wish. You can do this at any time.
 
 Your new employee will not actually start work until you schedule them using the <link:rota>Rota page<link>. Don't forget to do this once you have finished recruiting!
 ID|hiring
 
-Name|Perk Points
-Text|Improving your shop's reputation attracts customers from further afield. At first, customers will only visit shops within their own Haven, but, with time, people may arrive from other havens or even other realms!
-
-Perk Points are earned as your REP <repUp> increases. You can use this page to spend them on Perks that are designed to help you run your shop more efficiently. The Reputation meter on the left page shows your progress towards your next Perk Point. Gain enough REP <repsymbol> and the magical Tinker will give you access to even more powerful <link:special>Specialist Perks<link>!
-
-Perk Points are shared among ALL the shops that you own, so, for example, you can use REP <repsymbol> earned in your Apothecary to help unlock something in your Goods Store.
-
-Spend Perk Points carefully, as there are no refunds!
-ID|perks
-
-Name|Restocking with Orders
-Text|This page shows all of the items that can currently be ordered from your supplier. You will need to spend <link:perks>Perk Points<link> to unlock more.
-
-Select the Stock heading to order the items by number stored. Select Item to return to the default list, which is alphabetically ordered by item name.
-
-Select an item to order more. At first, you can only order a Budget box - this is a set of 10 low-quality items at a low cost. Use Perk Points to unlock the Normal and Premium Box options to order better-quality items at a higher price.
-
-Once an order is confirmed, items will usually take three days to be delivered, so plan ahead! You cannot order more of that item until your first order arrives.
-
-Arrival dates will be listed on the Ordering page to help you keep track. Spending <link:perks>Perk Points<link> can reduce delivery times significantly.
-ID|restock
-
 Name|Stats
 Text|Stats indicate how well an employee is likely to do the job. They can be affected in the short term by gifts, and improved over time by boosting the employee's <link:mwe>mood<link>.
 
-<trait:8> Charm:
-Charming employees are more likely to sell <link:placebos>placebos<link> successfully.
+<trait:7>:
+Charming employees are more likely to sell <link:placebos>placebos<link>successfully.
 
-<trait:10>Constitution and <trait:27> Intelligence:
+<trait:9>and <trait:26>:
 Staff with high values for these stats have a chance to boost the quality of the cures that they craft: low stats can lead to lower quality results.
 
-<trait:43> Speed: High Speed means that patients will be served more quickly. More patients will be served per hour, and they will be less likely to leave due to long queues.
+<trait:42>:
+High Speed means that patients will be served more quickly. More patients will be served per hour, and they will be less likely to leave due to long queues.
 
-<trait:45> Stamina: Staff member's Energy drops over time while they are working. High Stamina will slow this down. Staff with low energy become much less efficient and need time at home to recover.
+<trait:44>:
+Staff member's Energy drops over time while they are working. High Stamina will slow this down. Staff with low energy become much less efficient and need time at home to recover.
 ID|stats
 
 Name|Wages, Mood and Experience
-Text|Text| Employee's wages are first set when <link:hiring>hiring<link>. Check an employee's wage versus their expected hourly rate by selecting the Change Pay button on the <link:hiring>Hiring Page<link>.
+Text| Employee's wages are first set when <link:hiring>hiring<link>. Check an employee's wage versus their expected hourly rate by selecting the Change Pay button on the <link:hiring>Hiring Page<link>.
 
 Scroll to raise or lower the wage and Confirm: or use Set Expected to meet the needs of someone you've been underpaying.
 
@@ -123,140 +173,135 @@ Employee's Mood can be checked anytime by looking at their record on the <link:h
 
 A good Mood means an employee will serve customers quickly, and you'll see them making cheerful and polite comments. Unhappy employees are rude and inefficient.
 
-Goods Store Level indicates an employee's experience working in the shop - it is collected over time. Gaining levels boosts employee <link:stats>Stats<link> while working, improving their efficiency and reducing the need for gifts. Employees will not gain experience if their Mood is bad.
+Apothecary Level indicates an employee's experience working in the shop - it is collected over time. Gaining levels boosts employee <link:stats>Stats<link>while working, improving their efficiency and reducing the need for gifts. Employees will not gain experience if their Mood is bad.
 ID|mwe
 
-Name|Specialist Perks
-Text|You will be contacted by the mysterious Tinker once your shop reaches the required level of success, based on REP <repsymbol> and Brass ☎ earned. He will sell you access to Specialisations for your shop: Exotic Cures, Potions or Herbalism.
-
-Specialising your shop will change its appearance; grant bonuses to acquiring and selling items associated with the specialisation; and will grant bonuses to your staff's performance - though there may sometimes be a penalty too.
-
-Specialist Perks are unlocked with Points, in the same way as ordinary <link:perks>Perks<link>. They help you to focus on your chosen specialism, for example by increasing the yield from collected herbs or reducing the amount of REP lost <rep down> to <link:pricing>Side Effects<link>.
-ID|special
-
 Name|Rota
-Text|You must recruit staff using the <link:hiring>Hiring Page<link> before you can set up a rota. Note that only one person can be scheduled for work at a time.
+Text|You must recruit staff using the <link:hiring>Hiring Page<link>before you can set up a rota. Note that only one person can be scheduled for work at a time.
 
-Select a staff member's picture, then choose a square on the Rota and <ui_accept_or_click> to assign them to that timeslot.
+Select <ui_accept_or_click>a staff member's picture, then choose a square on the Rota and <ui_accept_or_click>to assign them to that timeslot.
 You can drag over multiple squares, too. Select the same squares again to remove the person from that slot.
 
-Note that each square on the Rota represents three hours of work, so remember to check what your <link:mwe>wage bill<link> is likely to be!
+Note that each square on the Rota represents three hours of work, so remember to check what your <link:mwe>wage bill<link>is likely to be!
 
 Staff will get tired if assigned too many hours without a break. This will make them work more slowly, and they may be rude to customers, so give them time to recover energy between shifts or boost their <link:stats>Stamina<link>.
 ID|rota
 
-Name|Symptoms and Traits
-Text|
-ID|traits
-
-Name|Crafting Cures
-Text|You cannot craft cures whilst your staff are working. <link:opening>Close<link> the shop; or <link:combat>replenish your combat items<link> and <link:storage>stored cures<link> outside of scheduled hours.
-
-Interact with one of the crafting stations on the right side of the room to display the <link:recipes>Recipe Book<link>, and then flick <ui_tabNext_or_click> / <ui_tabPrev_or_click> through the Recipe Book to find an illness with <link:traits>symptoms<link> matching those of the patient. Select <ui_accept_or_click> the recipe to start crafting.
-
-The Ingredient Selection screen shows the name of the selected cure and its required traits in a note to the left. Ideally you are aiming to tick off all of the required traits without adding any negative ones (Side Effects).
-
-Using the Filter traits button allows you to narrow the selection of ingredients down to those with at least one of the required traits. You can view an ingredient's traits - if you've discovered them but harvesting the item or collecting proverbs - by hovering over it.
-
-Select an item to move it into the crafting tray. You can only include one of each kind of ingredient, i.e. you cannot add two <item:Grave_Lilac> flowers to the same potion. However, one ingredient might tick off two traits on the requirement list if, for example, it had both <trait:0> Illusion and <trait:37> Scent traits then you would be able to craft <item:Poppy_Perkup> Poppy Perkup with only one ingredient.
-
-Filter Traits can still be very helpful if you have not yet uncovered all ingredient traits. You will still see a selection of ingredients, each of which will have at least one of the required traits, but it will be up to you to experiment to find the best combinations.
-
-For example, you need to craft a cure for burns.
-- <trait:23> Healing and <trait:21>Growth traits are needed, so you use Filter Traits.
-- You know that <item:Cuckoo_Dew> has the <trait:23> Healing trait, and add it to the crafting tray.
-- The <trait:23> Healing trait is checked off the Requirements list.
-- The remaining ingredients are <item:Ancient_Cloth>, <item:Sunflower>, and <item:Parsley>. You know that they all have the <trait:21> Growth OR <trait:23> Healing traits (or both!), but not WHICH they have.
-
-At this point you can:
-1. Craft the cure with only one ingredient. This will give you a Partial Cure as you are only providing <trait:23> Healing.
-2. Add another ingredient. This could:
- - Add the <trait:21> Growth trait, giving you a full Cure.
- - Add the <trait:23> Healing trait again, resulting in a Partial Cure but wasting the ingredient.
- - Add either <trait:21> Growth or <trait:23> Healing with a Side Effect, such as <trait:26> Insomnia. You'd still get the full or Partial Cure, but it will sell for less Brass ☎ and REP <repdown>.
-3. Add a third ingredient. This doubles the chances of any of the benefits and drawbacks listed in option 2.
-4. Back out and sell a <link:placebo>Placebo<link> instead.
-
-The <trait:21> Growth trait is not checked off on the Requirements List at this point, because you do not have the proverbs for the second or third ingredients. You will need to craft the <link:potion>Potion<link>, <link:cream>Cream<link> or <link:powder>Powder<link> and then check the <link:results>Results<link> screen to find out if your experiment was successful. Note taking is advisable!
-ID|crafting
-
 Name|Crafting Powders
-Text|Powders are the simplest of the Apothecary's products.
+Text|Pad|Powders are the simplest of the Apothecary's products.
 
-Move your chopper over the ingredients on the chopping board and <ui_accept_or_click> to chop. You can also hold <ui_accept_or_click> while rocking the chopper left and right. Contiune with this until everything is sufficiently pulverised - the chopping block will then lift off the bench, ready for you to scrape the ingredients into the mortar with your chopper while holding <ui_accept_or_click>.
+Move your chopper over the ingredients on the chopping board with <ui_ls>and press <ui_accept_or_click>to chop. You can also hold <ui_accept_or_click>while rocking (<ui_ls>) the chopper left and right. Continue with this until everything is sufficiently pulverised - the chopping block will then lift off the bench, ready for you to scrape (<ui_ls>and  <ui_accept_or_click>) the ingredients into the mortar with your chopper.
 
-Use the pestle to crush <ui_accept_or_click> the ingredients, and hold <ui_accept_or_click> while moving the pestle to grind. Release the pestle whenever the dust stops forming. Then repeat crushing, grinding and releasing until the completed powder automatically tips into a packet. The <link:results>results screen<link> will show the success of your cure, as well as it's quality.
+Use the pestle to crush <ui_accept_or_click>the ingredients, and hold <ui_accept_or_click>while moving the pestle with <ui_ls>to grind. Release the pestle whenever the dust stops forming. Then repeat crushing, grinding and releasing until the completed powder automatically tips into a packet. The <link:results>Results screen<link>will show the success of your cure, as well as it's quality.
+
+Text|KBM|Powders are the simplest of the Apothecary's products.
+
+Move your chopper over the ingredients on the chopping board and click to chop. You can also hold <ui_accept_or_click>while rocking the chopper left and right. Continue with this until everything is sufficiently pulverised - the chopping block will then lift off the bench, ready for you to scrape  the ingredients into the mortar with your chopper by clicking and dragging.
+
+Use the pestle to crush <ui_accept_or_click>the ingredients, and hold <ui_accept_or_click>while moving the pestle to grind. Release the pestle whenever the dust stops forming. Then repeat crushing, grinding and releasing until the completed powder automatically tips into a packet. The <link:results>Results screen<link>will show the success of your cure, as well as it's quality.
 ID|powder
 
 Name|Crafting Potions
-Text|Potions require you to balance the traits of your ingredients - represented by colours and symbols - with their opposites from provided reagents, controlling their temperature as you do so.
+Text|Pad|Potions require you to balance the traits of your ingredients - represented by colours and symbols - with their opposites from provided reagents, controlling their temperature as you do so.
 
-Ingredients will start off on the shelf to the left of the screen. <ui_accept_or_click> one to move it into the Juicer in the middle. It doesn't matter in which order you do this.
+Ingredients will start off on the shelf to the left of the screen. Hold <ui_accept_or_click>and use <ui_ls>to move one into the Juicer in the middle. It doesn't matter in which order you do this.
 
-<ui_accept_or_click> the Juicer's handle and pull it down to extract the juice from the ingredient. Note the colour of the juice as it flows into the green test-tube.
+Hold <ui_accept_or_click>and use <ui_ls>to pull the Juicer's handle down and extract the juice from the ingredient. Note the colour of the juice as it flows into the green test-tube.
 
-Look at the Colour Wheel underneath the Ingredients Shelf, and find the colour opposite to the colour of your current ingredient's juice. There are alternative ways to do this later should you struggle to match the colour.
+Look at the Colour Wheel underneath the Ingredients Shelf, and find the colour opposite to the colour of your current ingredient's juice (there are alternative ways to do this later should you struggle to match the colour).
 
- **** Rotate the Carousel above the Cauldron until the reagent container matching the opposite of your ingredient is directly above the Cauldron, e.g. if your ingredient was white then you need the black reagent to balance it.
+Move <ui_rs>to rotate the Carousel above the Cauldron until the reagent container matching the opposite of your ingredient is directly above the Cauldron, e.g. if your ingredient was white then you need the black reagent to balance it.
 
-**** the test-tube to pour its contents into the Cauldron either before or after setting the Carousel.
+Press <ui_accept_or_click>on the test-tube to pour its contents into the Cauldron - either before or after setting the Carousel.
 
-If ice forms on the side of the Cauldron then adjust the heat upwards by moving **** the lever on its base to the right: adjust the heat downwards if the potion starts bubbling. Leaving the potion at unsuitable temperatures damages its Star Quality over time.
+If ice forms on the side of the Cauldron then adjust the heat upwards by moving <ui_tabNext_or_click>the lever on its base to the right: adjust the heat downwards with <ui_tabPrev_or_click>if the potion starts bubbling. Leaving the potion at unsuitable temperatures damages its star rating over time.
 
-Vapour matching the colour of the ingredient will rise from the Cauldron, forming itself into handy symbols. If you are having trouble matching the colour with its opposite on the Carousel containers, <ui_accept_or_click> on the Colour Wheel under the Ingredients Shelf. The symbols shown match those on the containers.
+Vapour matching the colour of the ingredient will rise from the Cauldron, forming itself into handy symbols. If you are having trouble matching the colour with its opposite on the Carousel containers, press <ui_accept_or_click>on the Colour Wheel under the Ingredients Shelf. The symbols shown match those on the containers.
 
-Add **** the contents of your chosen container (for containers with dangling bags, use ****) until the Cauldron stops producing vapour. If you add too much, then the colour of the vapour will change. Find the container with it's opposite again and add carefully until the vapour vanishes. Your ingredient is now balanced.
+Add the contents of your chosen container to the cauldron with <ui_secondaryTabNext_or_click>(for containers with dangling bags, use <ui_secondaryTabNext_or_click>and pull <ui_rs>down) until the Cauldron stops producing vapour. If you add too much, then the colour of the vapour will change. Find the container with it's opposite again and add carefully until the vapour vanishes. Your ingredient is now balanced.
 
-Repeat the whole process with the second and third ingredients, starting with the Juicer. You cannot start working with an new ingredient until the previous one has been completely balanced in the Cauldron. You'll see the <link:results>results<link> of your crafting as soon as you've balanced the last ingredient.
+Repeat the whole process with the second and third ingredients, starting with the Juicer. You cannot start working with an new ingredient until the previous one has been completely balanced in the Cauldron. You'll see the <link:results>results<link>of your crafting as soon as you've balanced the last ingredient.
+
+Text|KBM|Potions require you to balance the traits of your ingredients - represented by colours and symbols - with their opposites from provided reagents, controlling their temperature as you do so.
+
+Ingredients will start off on the shelf to the left of the screen. Click and drag an ingredient to the Juicer in the middle. It doesn't matter in which order you do this.
+
+Click and drag to pull the Juicer's handle down and extract the juice from the ingredient. Note the colour of the juice as it flows into the green test-tube.
+
+Look at the Colour Wheel underneath the Ingredients Shelf, and find the colour opposite to the colour of your current ingredient's juice (there are alternative ways to do this later should you struggle to match the colour).
+
+Click and drag to rotate the Carousel above the Cauldron until the reagent container matching the opposite of your ingredient is directly above the Cauldron, e.g. if your ingredient was white then you need the black reagent to balance it.
+
+<ui_accept_or_click>on the test-tube to pour its contents into the Cauldron - either before or after setting the Carousel.
+
+If ice forms on the side of the Cauldron then adjust the heat upwards by moving clicking and dragging the lever on its base to the right: adjust the heat downwards by dragging the lever left, if the potion starts bubbling. Leaving the potion at unsuitable temperatures damages its star rating over time.
+
+Vapour matching the colour of the ingredient will rise from the Cauldron, forming itself into handy symbols. If you are having trouble matching the colour with its opposite on the Carousel containers, <ui_accept_or_click>on the Colour Wheel under the Ingredients Shelf. The symbols shown match those on the containers.
+
+<ui_accept_or_click>to add the contents of your chosen container to the cauldron (for containers with dangling bags, click and drag downwards) until the Cauldron stops producing vapour. If you add too much, then the colour of the vapour will change. Find the container with it's opposite again and add carefully until the vapour vanishes. Your ingredient is now balanced.
+
+Repeat the whole process with the second and third ingredients, starting with the Juicer. You cannot start working with an new ingredient until the previous one has been completely balanced in the Cauldron. You'll see the <link:results>results<link>of your crafting as soon as you've balanced the last ingredient.
 ID|potion
 
 Name|Crafting Creams
-Text|Creams are all about balancing a thickening agent with distilled ingredients. You're aiming from a cream that won't run off skin - but is soft enough to come out of its pot.
+Text|Pad|Creams are all about balancing a thickening agent with distilled ingredients. You're aiming from a cream that won't run off skin - but is soft enough to come out of its pot.
 
-Drag the pot onto either of the trivet stands. The left stand is for adding distilled ingredients: the right, thickening wax. Aim to fill the pot up to its lighter fill line with a mixture of both. You can swap between the two at any time by dragging the pot to the other trivet: liquid not caught by the pot will disappear down the drain.
+Hold the pot with <ui_accept_or_click>and use <ui_ls>to drag it onto either of the trivet stands. The left stand is for adding distilled ingredients: the right, thickening wax. Aim to fill the pot up to its lighter fill line with a mixture of both. You can swap between the two at any time by dragging the pot (<ui_accept_or_click>and <ui_ls>) to the other trivet: liquid not caught by the pot will disappear down the drain.
 
 Adding distilled ingredients or wax:
-Turn on the Bunsen Burner under the tank with ****. The higher the temperature, the faster the distilled ingredients or wax will flow into the pot, but making the flow too high can make your cream difficult to balance.
+• Keep stirring the pot with <ui_rs>at all times until the pot is full.
+• Turn on the Bunsen Burner under the ingredient tank with <ui_secondaryTabPrev_or_click>. The higher the temperature, the faster the distilled ingredients or wax will flow into the pot, but making the flow too high can make your cream difficult to balance.
+• Reduce the speed of the ingredient flow with <ui_tabPrev_or_click>, if necessary.
+• Look out for warning messages at the top of the screen. If your cream is too runny then you need to add more wax: too thick, more distilled ingredients.
+• Add thickening wax by dragging the pot to the right trivet stand (<ui_accept_or_click>and <ui_ls>).
+• Turn on the Bunsen Burner under the wax tank with <ui_secondaryTabNext_or_click>. The higher the temperature, the faster the distilled ingredients or wax will flow into the pot, but making the flow too high can make your cream difficult to balance.
+• Reduce the speed of the ingredient flow with <ui_tabNext_or_click>, if necessary.
 
-Keep stirring the pot with **** at all times until the pot is full.
+You'll see the <link:results>results<link>of your crafting as soon as the pot is filled sufficiently.
 
-Look out for warning messages at the top of the screen. If your cream is too runny then you need to add more wax: too thick, more distilled ingredients.
+Text|KBM|Creams are all about balancing a thickening agent with distilled ingredients. You're aiming from a cream that won't run off skin - but is soft enough to come out of its pot.
 
-You'll see the <link:results>results<link> of your crafting as soon as the pot is filled sufficiently.
+Click and drag the pot onto either of the trivet stands. The left stand is for adding distilled ingredients: the right, thickening wax. Aim to fill the pot up to its lighter fill line with a mixture of both. You can swap between the two at any time by dragging the pot to the other trivet: liquid not caught by the pot will disappear down the drain.
+
+Adding distilled ingredients or wax:
+• Keep stirring the pot by moving your mouse at all times until the pot is full.
+• Turn on the Bunsen Burner under either tank by clicking and dragging its lever to the right. The higher the temperature, the faster the distilled ingredients or wax will flow into the pot, but making the flow too high can make your cream difficult to balance.
+• Reduce the heat and rate of flow by clicking and dragging the lever left, if necessary.
+• Look out for warning messages at the top of the screen. If your cream is too runny then you need to add more wax: too thick, more distilled ingredients.
+
+You'll see the <link:results>results<link>of your crafting as soon as the pot is filled sufficiently.
 ID|cream
 
 Name|Results
-Text|This screen shows the item that you crafted. It's name will vary, depending on whether you created a full Cure or only a Partial one. You'll see the sad remains being poured away as waste instead, if you really messed up.
+Text|This screen shows the item that you crafted. Its name will vary, depending on whether you created a full Cure or only a Partial one. if you really messed up you'll see the sad remains being poured away as waste instead.
 
-The banner to the left of the cure shows whether the Cure is full or Partial. Any banners to the right show any included traits that were additional to the recipe's requirements. Red banners denote negative Side Effects that will reduce the Brass ☎ and REP <repdown> gained from selling the cure; whereas green banners show additional positive effects. You can use these in a process of elimination if you are still trying to discover the traits of some of your ingredients.
+The banner to the left of the item shows whether the Cure is Full or Partial.
 
-The centre rosette shows the icon of the created cure (to help you identify it in storage); the <link:batch>number created<link>; and its Star Quality. The Calculation button will provide more information on quality: in the case of Powders this all comes from the quality of the original ingredients and from the crafter's <trait:27> Intelligence and <trait:10> Constitution stats; Potions and Creams also take into account the skill shown during crafting.
+Any banners to the right show any included traits that were additional to the recipe's requirements.
+
+Red banners denote negative <trait:55>s that will reduce the Brass ☎ and REP <repDown>gained from selling the cure; whereas green banners show additional positive effects. You can use these in a process of elimination if you are still trying to discover the traits of some of your ingredients.
+
+The centre rosette shows the icon of the created cure (to help you identify it in storage); the number created; and its star rating.
+
+The Calculation button will provide more information on star rating: in the case of Powders this all comes from the star rating of the original ingredients and from the crafter's <trait:26>and <trait:9>stats; Potions and Creams also take into account the skill shown during crafting.
 ID|results
 
-Name|Opening and Closing the Shop
-Text|Interact with the colourful sign near the shop's door: it will show an X if the shop is closed.
+Name|Perk Points
+Text|Improving your shop's reputation attracts customers from further afield. At first, customers will only visit shops within their own Haven, but, with time, people may arrive from other havens or even other realms!
 
-Closing a shop sends all staff home until you reopen it, regardless of their schedule. The shop will automatically open and close according to the <link:rota>Rota<link>.
-ID|opening
+Perk Points are earned as your REP <repUp>increases. You can use this page to spend them on Perks that are designed to help you run your shop more efficiently.
 
-Name|Placebos, or, I can't cure that!
-Text|Placebos can sometimes help a patient through the power of suggestion, but otherwise have no effect beyond bringing in a little Brass ☎ and sometimes preventing REP <repdown> being lost by turning patients away.
+The Reputation meter on the left page shows your progress towards your next Perk Point. Gain enough REP <repsymbol>and the magical Tinker will give you access to even more powerful <link:special>Specialist Perks<link>!
 
-You staff will automatically sell placebos in the absence of a <link:storage>stored Full or Partial Cure<link>, or the ingredients required to <link:crafting>craft<link> one.
+Perk Points are shared among ALL the shops that you own, so, for example, you can use REP <repsymbol>earned in your Apothecary to help unlock something in your Goods Store.
 
-You may choose to <link:serving>serve<link> a patient with a placebo at any time: sometimes this can be cheaper than wasting ingredients on an experimental cure. You may choose to Dismiss the patient instead.
-ID|placebos
+Spend Perk Points carefully, as there are no refunds!
+ID|perks
 
-Name|Recipe Book
-Text|
-ID|recipes
+Name|Specialist Perks
+Text|You will be contacted by the mysterious Tinker once your shop reaches the required level of success, based on REP <repUp>and Brass ☎ earned. He will sell you access to Specialisations for your shop: Exotic Cures, Potions or Herbalism.
 
-Name|Crafting for Combat
-Text|You can craft combat items, such as Healing Creams and Flame Phials for your own use. These cannot be sold in the shop, and your staff will not craft them for you.
+Specialising your shop will change its appearance; grant bonuses to acquiring and selling items associated with the specialisation; and will grant bonuses to your staff's performance - though there may sometimes be a penalty too.
 
-Combat items can only be created from monster parts, not herbs or flowers. Some monster parts can be ordered via the <link:storage>Stock Cupboard<link>, but you'll need to collect most of them by fighting in the woods.
-
-Interact with one of the crafting stations on the right side of the room to display the <link:recipes>Recipe Book<link>, and then <ui_secondaryTabNext_or_click> switch to the red combat tab. Flick <ui_tabNext_or_click> / <ui_tabPrev_or_click> through the combat recipes, then <ui_accept_or_click> to select it.
-
-Ingredient selection works in the same way as when crafting cures, except that only monster parts are shown: you can further filter these with <ui_alt>. After choosing a recipe, make your <link:potion>Potion<link>, <link:powder>Powder<link> or <link:cream>Cream<link> as usual. <link:results>Results<link> will go straight into your personal Inventory, rather than to the Store Cupboard.
-ID|combat
+Specialist Perks are unlocked with Points, in the same way as ordinary <link:perks>Perks<link>. They help you to focus on your chosen specialism, for example by increasing the yield from collected herbs or reducing the amount of REP lost <repDown>to <trait:55><link:pricing>Side Effects<link>.
+ID|special
