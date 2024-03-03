@@ -136,7 +136,7 @@ UncleBillWeedsCleared |= 멋지게 잘랐구나, <PlayerName>! 이제 보상을 
 UncleBillWeedsCleared |= 집 안에 커스터마이징 테이블이 보이니? 상호작용을 하면 농장을 포함해 농장에서 커스터마이징할 수 있는 모든 영역이 표시된단다. 집 왼쪽에 있는 부지를 네가 꾸밀수 있게 주마!
 UncleBillWeedsCleared |= 해당 플롯을 선택하면 편집 모드로 전환된단다.
 UncleBillWeedsCleared |= 물건을 옮기거나 완전히 제거할 수도 있어. 화면 컨트롤을 따라하고. 문제가 발생하면 왼쪽 상단에서 도움말을 이용할 수 있단다.
-UncleBillWeedsCleared |= 카탈로그를 넘기면 잠금 해제된 항목을 찾아볼 수 있어.
+UncleBillWeedsCleared |= 카탈로그를 넘기면 잠금 해제된 아이템을 찾아볼 수 있어.
 UncleBillWeedsCleared |= 더 많은 아이템은 도전에서 잠금 해제하거나 선물 및 보상으로 받거나 상인에게서 구매하렴.
 UncleBillWeedsCleared |= 농장에 있을 때 지도 버튼을 눌러 커스터마이징에 액세스할 수도 있단다.
 UncleBillWeedsCleared |= 작은 정원에서 즐거운 시간을 보내렴! 언젠가 더 많은 공간을 확보할 수 있을 거야!
@@ -160,7 +160,7 @@ Day11Intro |= Go find the Events Master on Festival Green for details.
 Day11Intro |= You can use the stove in the farmhouse to make some jams. There are Strawberries, Blueberries and even Nightberries to pick around the farm. And the honey is in the hive.
 Day11Intro |= Whatever you decide to cook, good luck! Don't worry if you don't win first time out. Some of Vale's adults do get very competitive! But, heh, you never know!
 
-UncleDay13 |= Summertide is nigh! 
+UncleDay13 |= 서머타이드가 가까워졌구나! 
 UncleDay13 |= I've got a lovely idea for something for you to build today. Did you know you can collect animal poo in a wooden bucket and pour it onto crop patches?
 UncleDay13 |= You can use a Composter to store excess poops for when you need it. I've added a Pig Composter to your Customisation Catalogue if you want to build one. You'll need a little wood and a friend to help out. They don't take long to build. Just don't build it too near the house, eh? *wink*
 UncleDay13 |= Oh, and this came for you. It's from that stickboy across the river. 
@@ -287,11 +287,11 @@ BrambleRepeatKing |= There is a shop to the north and a glade of Shadderwryth to
 BrambleRepeatQueen |= You should also go and see the Rootmother. She is to the east, in the directions that you humans use. To us, she is rootward, but then again, every direction is rootward.
 
 RootMotherSleeping |= Zzzzzzzz.
-FoundGreenChild |= Aha, you found me!
+FoundGreenChild |= 아하, 네가 날 찾았어!
 
-LyricVoideIntro |= Woooahh! Welcome back, dude.
+LyricVoideIntro |= 우우우와아! 돌아온 걸 환영해, 친구.
 LyricVoideIntro |= How's it been hanging since we last spoke? I have been hanging some stellar tunes!
-LyricVoideIntro |= Metoryt eh?
+LyricVoideIntro |= 메테오리트 에?
 LyricVoideIntro |= I used to have a load, but I traded them in for my amps. Sorry dude!
 LyricVoideIntro |= I know where you can get more, but you will have to travel pretty far and face off with the worst monster ever... my Dad.
 LyricVoideIntro |= Yeah, he probably has what you need to fix that bridge... Just be warned, he is a TOTALLY TOTAL TWERPILICIOUS TWERP.
@@ -327,10 +327,10 @@ SiblingMissedPicnic |= Where were you? You missed it! You couldn't find your bot
 
 
 Uncle BillINTRO |= 아! <PlayerName>. 거기있었구나! 잘 적응하고 있니? 집안일이 귀찮지 않길 바란다. 나는 예전만큼 젊지 않아서 모든 것을 스스로 할 수 없어. 곧 여름이 다가오니 축제를 준비해야 할 것 같아.
-Uncle BillINTRO |= 진행 상황 화면에서 모든 진행 상황을 확인할 수 있단다. 지금 살펴보는 건 어떨까?
+Uncle BillINTRO |= 진행 상황 화면에서 모든 진행 상황을 확인할 수 있단다. 지금 살펴보는 건 어떠니?
 
 BillAfterProgress |= 받아들여야 할 것이 많다는 것을 안다. 서두를 필요는 없다는 것만 기억해. 인생을 마음대로 누리렴. 시간은 우리 모두를 따라잡을 수는 있지만 아주 느리게 흘러가는 것이니 스트레스 받지 말고 마음껏 인생을 살아보거라. 이모가 매일 그렇게 말하곤했지. 자, 이제 시작하자. 막히면 일시 정지 메뉴의 힌트 및 팁과 많은 화면의 왼쪽 상단에 도움말 버튼이 있단다.
-HubbardCabbageSeed |= 양배추가 필요하다면 이 씨앗을 사용해 양배추를 재배해보세요. 원한다면 내 작물 밭을 자유롭게 사용해. 짜잔!
+HubbardCabbageSeed |= 양배추가 필요하다면 이 씨앗을 사용해 양배추를 재배해보렴. 원한다면 내 작물 밭을 자유롭게 사용해. 짜잔!
 
 UncleDay12 |= Summertide is nearly here. It's very exciting! It is when all the Vale community gather to celebrate our beloved Goddesses, especially our patron, Druida.
 UncleDay12 |= I was thinking that we should do more for the community. There are some derelict houses around, in Cuckoo Wood and Cowpat Farm.
@@ -349,7 +349,7 @@ NedDay2 |= 있잖아요, <PlayerName>. 테스티 에이커스의 비참한 우�
 NedDay2 |= 또 만나요.
 
 
-PriestIntro |= Ah! Welcome, welcome!
+PriestIntro |= 아! 어서 오세요! 어서 오세요!
 PriestIntro |= Have you come to seek my services? I am the High Priest of Quill. I bless everything - marriages, water and even divorces!
 PriestIntro |= If the spirit of love has entwined you with another, then you will need to offer your beloved a White Rose, which grows just there, except in Winter.
 PriestIntro |= To marry, gift that to the one you love, and they will ask you to bake a fresh new Pie of You and I, which you must return to me in exchange for a Binding Band. Once you give your loved one the band, you can arrange the wedding, which takes place right here!

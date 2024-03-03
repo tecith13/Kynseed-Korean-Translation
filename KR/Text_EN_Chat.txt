@@ -1156,17 +1156,17 @@ Chat_Event_PIG_RACING[C] |= 아, 방금 돼지 경주에 대해 생각하고 있
 Chat_Event_PIG_RACING[C] |= 아침에 돼지 경주 냄새가 너무 싫어.
 Chat_Event_PIG_RACING[C] |= 충고 한마디. 다가오는 페스티벌 그린의 돼지 경주 이벤트에 가지 마. 소리를 지르는 것뿐만 아니라 종종 무언가를 밟을 수도 있어. 그러니 갈거라면 샌들은 신지마.
 
-Chat_Event_PIG_AUCTION |= It's nearly time for the Pig Auction. Head to the local market when it is on, and make sure to grab an empty crate to sit on!
-Chat_Event_PIG_AUCTION |= Am thinking of buying a pig at the auction this week. If I don't win, then at least I had fun pretending to know what I was doing.
-Chat_Event_PIG_AUCTION |= Are you going to the upcoming Pig Auction? Check your calendar for when it is on.
+Chat_Event_PIG_AUCTION |= 돼지 경매 시간이 다가왔어. 경매가 시작되면 현지 시장으로 가서 앉을 빈 상자를 꼭 챙겨!
+Chat_Event_PIG_AUCTION |= 이번 주 경매에서 돼지를 살까 생각 중이야. 낙찰이 안 되더라도 적어도 아는 척하는 재미는 있겠지.
+Chat_Event_PIG_AUCTION |= 다가오는 돼지 경매에 참석할거야? 언제 열리는지 달력에서 확인해.
 
 Chat_Event_PIG_AUCTION[P] |= It will soon be time for the Pig Auction. The pig is one of nature's many beautiful creatures.
 Chat_Event_PIG_AUCTION[P] |= I am thinking about going to the Pig Auction when it is on in Festival Green. We should celebrate all events that we are blessed to have.
 Chat_Event_PIG_AUCTION[P] |= Are you going to buy a pig at the upcoming auction? We stopped using animals as offerings many years ago as they just aren't as acceptable as the right kind of offering.
 
-Chat_Event_PIG_AUCTION[J] |= Oh, it is the Pig Auction soon! I can't wait! I never buy any, but I love the thrill of the bid!
-Chat_Event_PIG_AUCTION[J] |= Going to the Pig Auction soon? It takes place at Festival Green. What a great smell!
-Chat_Event_PIG_AUCTION[J] |= Am thinking of buying a piggy-wiggy in the upcoming Pig Auction. I would need to learn how to ride, though.
+Chat_Event_PIG_AUCTION[J] |= 곧 돼지 경매가 시작될거야! 너무 기대되! 나는 구매를 한 적은 없지만, 입찰의 짜릿함이 너무 좋아!
+Chat_Event_PIG_AUCTION[J] |= 돼지 경매에 갈거야? 페스티벌 그린에서 열려. 냄새가 정말 좋네!
+Chat_Event_PIG_AUCTION[J] |= 다가오는 돼지 경매에서 돼지 가발을 살까 생각 중이야. 하지만 타는 법을 배워야 할 것 같아.
 
 Chat_Event_PIG_AUCTION[B] |= I once bought all the pigs in the Pig Auction. I sometimes go to the weekly one to watch how cheap everyone else is.
 Chat_Event_PIG_AUCTION[B] |= I am considering going to the Pig Auction. I like to imagine buying them all just to prove how wealthy I am, but where to store them is the trouble.
@@ -1482,7 +1482,7 @@ Chat_Happening_HOMELESS[C] |= What's happening? I need someone to raise a group 
 Chat_HowAreYou_Tip |= 너의 머리 속에 있는 새터웨이를 보고 있었어. 정말 놀라운 생물이야. 네가 가야 할 곳을 안내주지.
 Chat_HowAreYou_Tip |= 기분이 좋아서 방금 달력을 확인했어. 누구의 생일이 다가오는지 확인하고 싶어서.
 Chat_HowAreYou_Tip |= 아주 잘 지내고 있어, 고마워. 새로운 재료를 찾을 수 있도록 더 많은 속담을 발견하려고 노력하고 있어.
-Chat_HowAreYou_Tip |= I am good, thanks. Always up for a 'Challenge'. I set myself little tasks and get a nice reward if I complete them. It is good to make progress.
+Chat_HowAreYou_Tip |= 난 괜찮아. 고마워. 늘 '도전'을 하고 있dj. 나는 작은 일을 스스로 설정하고, 그것을 완수하면 좋은 보상을 받지. 발전하는 것이 좋아.
 Chat_HowAreYou_Tip |= I tried to milk a cow earlier and forgot I needed a Jar or Bucket. Now, I've just got to use one when stood next to a cow.
 Chat_HowAreYou_Tip |= I was wishing I had the skills of the Masters. Gardening, fishing, combat - it would be amazing to master them all!
 Chat_HowAreYou_Tip |= I was thinking of growing more produce. Plant some seeds and water daily, and you are good to go. 
