@@ -588,7 +588,7 @@ ChatOptionHowAreYouGreat_Negative |= 덕분에 기분이 좋아졌어.
 ChatOptionHowAreYouBetterNow_Positive |= 이제 기분이 나아졌어, 고마워!
 ChatOptionHowAreYouBetterNow_Neutral |= 이제 기분이 나아졌어, 고마워!
 ChatOptionHowAreYouBetterNow_Negative |= 이제 기분이 나아진 것 같아.
-ChatOptionFavour |= 부탁 하나만 들어주실 수 있어?
+ChatOptionFavour |= 부탁 하나만 들어줄 수 있어?
 
 GiftForTask |= 고마워, 내가 말한 대로네.
 GiftForTask |= 고마워, <PlayerName>. 그게 바로 티켓이야.
@@ -1207,7 +1207,7 @@ LOSTITEM_HEADER |= 뭔가를 잃어버렸어!
 LOSTITEM_HEADER |= 잃어버렸어!
 LOSTITEM_HEADER |= 잃어버린 물건.
 LOSTITEM_HEADER |= 찾는 데 도움이 필요해.
-LOSTITEM_HEADER |= 물건을 잃어버렸어. 도와주실 수 있어?
+LOSTITEM_HEADER |= 물건을 잃어버렸어. 도와줄 수 있어?
 WANTED_ITEM_TASK |= {0} 이(가) {1} 을(를) 원해요.
 LOST_ITEM_TASK |= {0} 이(가) {2} 에서 {1} 을(를) 잃어버렸어요.
 LOST_ITEM_TASK |= {0} 이(가) {2} 에서 분실한 {1} 을 찾고 있어요.

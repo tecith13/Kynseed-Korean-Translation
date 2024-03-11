@@ -1,7 +1,7 @@
 LETTER_DEFAULT_SALUTATION |= 친애하는
 
 LETTER_TITLE_FAVOUR |= 부탁이있어.
-LETTER_TEXT_FAVOUR |= 잘 지내으면 좋겠어! 부탁이 하나 있는데, 시간 있어?
+LETTER_TEXT_FAVOUR |= 잘 지냈으면 좋겠어! 부탁이 하나 있는데, 시간 있어?
 LETTER_TEXT_FAVOUR |= <FavourRequest>
 
 LETTER_TITLE_FNFTHANKYOU1 |= 고마워!

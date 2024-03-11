@@ -2,5 +2,5 @@
 
 <LetterText>
 
-당신이 도움이되기를 바랍니다.
+네가 도움이되기를 바라.
 <SenderName>

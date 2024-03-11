@@ -1,148 +1,148 @@
-UI_Chat_WhatsHappening_Spouse_GARDEN |= I am just getting some of those weeds pulled up in our garden.
-UI_Chat_WhatsHappening_Spouse_GARDEN |= I am doing a nice bit of gardening to help keep it looking nice for us.
-UI_Chat_WhatsHappening_Spouse_GARDEN |= Got to sort the garden out. Apparently, our house Brounie thinks the garden is beneath him. Which it is.
-UI_Chat_WhatsHappening_Spouse_GARDEN |= Nice day for some gardening. A marital home is nothing without a neat garden.
+UI_Chat_WhatsHappening_Spouse_GARDEN |= 그냥 잡초를 조금 뽑는 중이야.
+UI_Chat_WhatsHappening_Spouse_GARDEN |= 보기 좋아지라고 정원을 조금 가꾸고 있어.
+UI_Chat_WhatsHappening_Spouse_GARDEN |= 정원 정리 좀 해야겠어. 우리 집 브라우니는 정원을 별로 중요하게 생각하지 않는 모양이야. 사실 그렇긴 하지.
+UI_Chat_WhatsHappening_Spouse_GARDEN |= 정원 관리하기 좋은 날씨야, 깔끔한 정원 없는 우리 부부의 집은 아무것도 아니라고 할 수 있지.
 
-UI_Chat_WhatsHappening_Spouse_FARMING |= You set the order for me to tend to the crops, so I feel compelled to do so.
-UI_Chat_WhatsHappening_Spouse_FARMING |= I am doing a bit of farming. The soil needs tending to as a lover would tend to their love.
-UI_Chat_WhatsHappening_Spouse_FARMING |= Am going to toil in the soil. Need to keep our crop squares tiptop.
-UI_Chat_WhatsHappening_Spouse_FARMING |= There's farm work that needs doing. Crops and soil, work and toil. Those plots are our dinner plates.
+UI_Chat_WhatsHappening_Spouse_FARMING |= 네가 작물을 돌보라고 해서, 책임감을 조금 느끼고 있는 중이야.
+UI_Chat_WhatsHappening_Spouse_FARMING |= 농사를 짓는 중이야. 사랑하는 사람을 대하는 것처럼, 흙에도 관심이 필요해.
+UI_Chat_WhatsHappening_Spouse_FARMING |= 흙 속에서 일하고 있어. 작물 밭을 훌륭하게 유지해야하거든.
+UI_Chat_WhatsHappening_Spouse_FARMING |= 열심히 작물을 수확하고 토지를 가꾸기. 그게 바로 농장에서 하는 일이야. 그 과정들이 바로 우리의 저녁상이 되는 거지.
 
-UI_Chat_WhatsHappening_Spouse_COOK |= I do enjoy a bit of cooking. I love the smells. Makes this home feel even more homely.
-UI_Chat_WhatsHappening_Spouse_COOK |= I am just preparing dishes for rumbly tummies.
-UI_Chat_WhatsHappening_Spouse_COOK |= I am making some tasty treats.
-UI_Chat_WhatsHappening_Spouse_COOK |= I am trying not to burn the food or my fingers.
+UI_Chat_WhatsHappening_Spouse_COOK |= 나는 요리를 조금 즐기는 편이야. 냄새를 좋아해. 집이 아늑하게 느껴지잖아.
+UI_Chat_WhatsHappening_Spouse_COOK |= 꾸르륵거리는 배를 위해 요리를 준비하고있어.
+UI_Chat_WhatsHappening_Spouse_COOK |= 맛있는 간식을 만들고 있어.
+UI_Chat_WhatsHappening_Spouse_COOK |= 음식이나 손가락을 태우지 않으려고 노력중이야.
 
-UI_Chat_WhatsHappening_Spouse_PETS |= I am just sorting out the animals. Someone has to!
-UI_Chat_WhatsHappening_Spouse_PETS |= I am just tending to the pets. Got to love them!
-UI_Chat_WhatsHappening_Spouse_PETS |= I need to tend to the animals. They can't feed themselves! Well, they sort of can and do.
-UI_Chat_WhatsHappening_Spouse_PETS |= Just going to groom and pamper the pets. Lucky things.
+UI_Chat_WhatsHappening_Spouse_PETS |= 동물들을 분류하고 있어. 누군가는 해야지!
+UI_Chat_WhatsHappening_Spouse_PETS |= 애완동물을 돌보고 있어. 사랑스러워!
+UI_Chat_WhatsHappening_Spouse_PETS |= 동물을 돌봐야해. 동물들은 스스에게 먹이 줄 수가 없어! 그치만, 동물들은 먹을 수 있고 먹히기도 하지.
+UI_Chat_WhatsHappening_Spouse_PETS |= 그냥 애완동물을 손질하고 사랑해주는 중이야. 운이 좋은 녀석들이지.
 
-UI_Chat_WhatsHappening_Spouse_OFFERING |= I am making offerings so that our home can remain safe and blessed.
-UI_Chat_WhatsHappening_Spouse_OFFERING |= Worship time. I want to meditate and embrace the spirit of our beloved Goddesses.
-UI_Chat_WhatsHappening_Spouse_OFFERING |= I am worshipping now. Please do not disturb my transcendental harmonising.
-UI_Chat_WhatsHappening_Spouse_OFFERING |= I am just filling up this bowl with goodies so the house Brounie stops putting ants in my slippers.
+UI_Chat_WhatsHappening_Spouse_OFFERING |= 우리 집이 평안하고 복되게 지낼 수 있도록 제물을 바치는 중이야.
+UI_Chat_WhatsHappening_Spouse_OFFERING |= 예배시간. 우리가 사랑하는 여신들의 정신을 묵상하고 포용하고 싶어.
+UI_Chat_WhatsHappening_Spouse_OFFERING |= 지금 예배를 드리고 있어. 초월적 조화를 방해하지 말아줘.
+UI_Chat_WhatsHappening_Spouse_OFFERING |= 브라우니가 내 슬리퍼에 개미를 넣지 못하도록 이 그릇에 좋은 것을 채우고 있었어.
 
-UI_Chat_WhatsHappening_Spouse_EAT |= I am eating, if you do not mind? It's rude to talk with your face stuffed.
-UI_Chat_WhatsHappening_Spouse_EAT |= I am just grabbing some grub as I am famished.
-UI_Chat_WhatsHappening_Spouse_EAT |= I am just eating this delicious meal provided for us by your good self and the Goddesses.
-UI_Chat_WhatsHappening_Spouse_EAT |= Just getting some well-earned nourishment, O love of my life.
+UI_Chat_WhatsHappening_Spouse_EAT |= 식사중인데 당신이 괜찮다면 기다려줘. 입 안에 잔뜩 넣은 채 말하는 건 실례잖아.
+UI_Chat_WhatsHappening_Spouse_EAT |= 그냥 배가 고파서 밥 좀 먹고 있어.
+UI_Chat_WhatsHappening_Spouse_EAT |= 나는 그저 당신의 선한 자아와 여신께서 우리에게 주신 이 맛있는 음식을 먹고 있는 중이야.
+UI_Chat_WhatsHappening_Spouse_EAT |= 오, 내 인생의 사랑이여, 그저 잘 얻은 영양분을 섭취하는 중이야.
 
-UI_Chat_WhatsHappening_Spouse_RELAX |= Ahhh, some mind and body cleansing relaxation.
-UI_Chat_WhatsHappening_Spouse_RELAX |= I am having a break, dear, from the hustle and bustle of daily life on our farm.
-UI_Chat_WhatsHappening_Spouse_RELAX |= I am giving my aching muscles some respite. Go easy on that scheduling, dearest
-UI_Chat_WhatsHappening_Spouse_RELAX |= A well-deserved break from the every day, if you don't mind, my sweet honeypot.
+UI_Chat_WhatsHappening_Spouse_RELAX |= 아아, 마음과 몸을 정화하는 휴식이야.
+UI_Chat_WhatsHappening_Spouse_RELAX |= 우리 농장의 분주한 일상에서 잠시 휴식을 취하고 있어.
+UI_Chat_WhatsHappening_Spouse_RELAX |= 아픈 근육에게 잠시 휴식을 주고 있어. 일정을 여유롭게 잡아봐, 자기.
+UI_Chat_WhatsHappening_Spouse_RELAX |= 일상에서 벗어나 달콤한 휴식을 취해봐, 나의 달콤한 꿀단지.
 
-UI_Chat_WhatsHappening_Spouse_MILKCOW |= I am getting us some milk from our lovely cow.
-UI_Chat_WhatsHappening_Spouse_MILKCOW |= Just going to exercise some udders.
-UI_Chat_WhatsHappening_Spouse_MILKCOW |= I have a bucket with my name on it. Well, if I was called Milk.
-UI_Chat_WhatsHappening_Spouse_MILKCOW |= Someone needs to milk the family cow, so I am going to do it.
+UI_Chat_WhatsHappening_Spouse_MILKCOW |= 나는 우리의 사랑스러운 소에게서 우유를 얻고있어.
+UI_Chat_WhatsHappening_Spouse_MILKCOW |= 젖소 운동 시키려고.
+UI_Chat_WhatsHappening_Spouse_MILKCOW |= 내 이름이 적힌 양동이가 있어. 우유, 내가 우유라고 불렸다면 말이야.
+UI_Chat_WhatsHappening_Spouse_MILKCOW |= 누군가는 가족 젖소의 젖을 짜줘야 하니까 내가 해야지.
 
-UI_Chat_WhatsHappening_Spouse_GET_HONEY |= I am collecting honey, honey.
-UI_Chat_WhatsHappening_Spouse_GET_HONEY |= I am going to talk to the bees and see what I can trade with them.
-UI_Chat_WhatsHappening_Spouse_GET_HONEY |= I am going to go likely get stung. Honey prices these days!
-UI_Chat_WhatsHappening_Spouse_GET_HONEY |= There is some nectar that needs harvesting from the hive, so I am going to do it.
+UI_Chat_WhatsHappening_Spouse_GET_HONEY |= 허니, 나는 꿀을 모으고 있어.
+UI_Chat_WhatsHappening_Spouse_GET_HONEY |= 벌들과 이야기를 나누고 무엇을 교환할 수 있는지 알아볼 거야.
+UI_Chat_WhatsHappening_Spouse_GET_HONEY |= 벌에 쏘일 것 같아. 요즘 꿀 가격이란!
+UI_Chat_WhatsHappening_Spouse_GET_HONEY |= 벌통에서 채취해야 할 꿀이 좀 있어서.
 
-UI_Chat_WhatsHappening_Spouse_SLEEP |= Time for beddy bye-byes! 
-UI_Chat_WhatsHappening_Spouse_SLEEP |= I need a good sleep. Goodnight dear.
-UI_Chat_WhatsHappening_Spouse_SLEEP |= I am heading to bed for a well-deserved slumber.
-UI_Chat_WhatsHappening_Spouse_SLEEP |= It's bedtime. Don't stay up too late, your eyes are redder than our tomatoes.
+UI_Chat_WhatsHappening_Spouse_SLEEP |= 잘 자야 할 시간이야!
+UI_Chat_WhatsHappening_Spouse_SLEEP |= 숙면이 필요해요. 잘자, 여보.
+UI_Chat_WhatsHappening_Spouse_SLEEP |= 충분한 수면을 위해 잠자리에 들려고.
+UI_Chat_WhatsHappening_Spouse_SLEEP |= 취침 시간이야. 너무 늦게까지 깨어있지마, 눈이 토마토보다 더 빨개졌어.
 
-UI_Chat_WhatsHappening_AdultChild_GARDEN |= I am helping you out by doing the gardening. Your appreciation is noted.
-UI_Chat_WhatsHappening_AdultChild_GARDEN |= Do I have to do this, at my age? Gardening is for really old people.
-UI_Chat_WhatsHappening_AdultChild_GARDEN |= Getting my fingers green in the garden.
-UI_Chat_WhatsHappening_AdultChild_GARDEN |= Doing my chores. Do I still get pocket money at my age?
+UI_Chat_WhatsHappening_AdultChild_GARDEN |= 정원을 가꾸는 일을 도와드리고 있어요. 고마워요.
+UI_Chat_WhatsHappening_AdultChild_GARDEN |= 이 나이에 꼭 이걸 해야 하나요? 정원 가꾸기는 정말 나이 드신 분들을 위한 거예요.
+UI_Chat_WhatsHappening_AdultChild_GARDEN |= 정원에서 내 손가락을 초록색으로 물들이는 중이에요.
+UI_Chat_WhatsHappening_AdultChild_GARDEN |= 집안일하기. 제 나이에도 여전히 용돈을 받을 수 있나요?
 
-UI_Chat_WhatsHappening_AdultChild_COOK |= I am just making some delicacies. It's one life skill I am glad I have.
-UI_Chat_WhatsHappening_AdultChild_COOK |= Can't you smell what I am doing? I bet they can smell this in Pineshade!
-UI_Chat_WhatsHappening_AdultChild_COOK |= I am making something to eat, as instructed. Fancy taking over?
-UI_Chat_WhatsHappening_AdultChild_COOK |= You can't beat some lovely cooking to take your mind off everyday problems.
+UI_Chat_WhatsHappening_AdultChild_COOK |= 저는 지금 맛있는 음식을 만들고 있어요. 제가 가진 인생 기술 중 하나죠.
+UI_Chat_WhatsHappening_AdultChild_COOK |= 제가 하는 일 냄새 안 나세요? 파인쉐이드에서는 분명 냄새를 맡을 수 있을 거예요!
+UI_Chat_WhatsHappening_AdultChild_COOK |= 지시에 따라 먹을 것을 만들고 있어요. 한 번 해볼래요?
+UI_Chat_WhatsHappening_AdultChild_COOK |= 일상의 고민을 잊는 데는 멋진 요리만큼 좋은 것이 없죠.
 
-UI_Chat_WhatsHappening_AdultChild_PETS |= I am going to sort the pets out. 
-UI_Chat_WhatsHappening_AdultChild_PETS |= Time to feed the pets as commanded. Would rather be doing something less smelly.
-UI_Chat_WhatsHappening_AdultChild_PETS |= It's feeding time at the zoo. I learned that a zoo was a kind of crazy animal house, a bit like our home.
-UI_Chat_WhatsHappening_AdultChild_PETS |= I am just going to see if the pets are okay, as you asked. 
+UI_Chat_WhatsHappening_AdultChild_PETS |= 동물을 분류하려고 해요.
+UI_Chat_WhatsHappening_AdultChild_PETS |= 명령에 따라 애완동물에게 먹이를 줄 시간이네요. 차라리 냄새가 덜 나는 일을 하고 싶어요.
+UI_Chat_WhatsHappening_AdultChild_PETS |= 동물들 먹이 주기 시간이에요. 동물원은 우리 집과 비슷한 일종의 미친 동물 집이라는 것을 알게 되었죠.
+UI_Chat_WhatsHappening_AdultChild_PETS |= 질문하신 대로 애완 동물이 괜찮은지 확인하려고요.
 
-UI_Chat_WhatsHappening_AdultChild_OFFERING |= I am going to pay my respects to our Guardians.
-UI_Chat_WhatsHappening_AdultChild_OFFERING |= I am going to make the offerings that keep us alive and in human form.
-UI_Chat_WhatsHappening_AdultChild_OFFERING |= I'm Just going to put some food in the big bowl.
-UI_Chat_WhatsHappening_AdultChild_OFFERING |= I am going to meditate by the bowl and pay our dues to the Fae folk.
+UI_Chat_WhatsHappening_AdultChild_OFFERING |= 수호자에게 경의를 표할거에요.
+UI_Chat_WhatsHappening_AdultChild_OFFERING |= 우리를 살아있게 하고 인간의 형태로 유지하게 하는 제물을 바치려고 해요.
+UI_Chat_WhatsHappening_AdultChild_OFFERING |= 그냥 큰 그릇에 음식 좀 넣을게요.
+UI_Chat_WhatsHappening_AdultChild_OFFERING |= 저는 그릇 옆에서 명상하고 페이족에게 회비를 지불하러 갈 거예요.
 
-UI_Chat_WhatsHappening_AdultChild_EAT |= Do you have to talk to me while I am eating?
-UI_Chat_WhatsHappening_AdultChild_EAT |= I am hungry, so I am just filling my belly up.
-UI_Chat_WhatsHappening_AdultChild_EAT |= It's my favourite time of day... gorging time.
-UI_Chat_WhatsHappening_AdultChild_EAT |= Just having some nourishment. Being your child is draining.
+UI_Chat_WhatsHappening_AdultChild_EAT |= 식사 중에 말을 걸어야 해요?
+UI_Chat_WhatsHappening_AdultChild_EAT |= 배가 고파서 배를 채우고 있어요.
+UI_Chat_WhatsHappening_AdultChild_EAT |= 하루 중 제가 가장 좋아하는 시간대... 먹는 시간이죠.
+UI_Chat_WhatsHappening_AdultChild_EAT |= 그냥 영양분을 섭취하는 것뿐이죠. 자식 노릇을 하다 보면 힘이 들어요.
 
-UI_Chat_WhatsHappening_AdultChild_RELAX |= It's nice to know you care what I am doing. Or are you just checking up on me?
-UI_Chat_WhatsHappening_AdultChild_RELAX |= I am having a little break from the endless grind.
-UI_Chat_WhatsHappening_AdultChild_RELAX |= Just unwinding and thinking of how lucky we are to be here.
-UI_Chat_WhatsHappening_AdultChild_RELAX |= I need a rest. Being your child is exhausting, even though I am grown up.
+UI_Chat_WhatsHappening_AdultChild_RELAX |= 내가 하는 일에 관심을 가져주니 좋아요. 아니면 그냥 저를 확인하려는 건가요?
+UI_Chat_WhatsHappening_AdultChild_RELAX |= 끝없는 업무에서 잠시 휴식을 취하고 있죠.
+UI_Chat_WhatsHappening_AdultChild_RELAX |= 긴장을 풀고 우리가 여기 있는 것이 얼마나 행운인지 생각해봐요.
+UI_Chat_WhatsHappening_AdultChild_RELAX |= 휴식이 필요해요. 다 컸는데도 자식 노릇을 하느라 지쳐요.
 
-UI_Chat_WhatsHappening_AdultChild_MILKCOW |= Have I got to milk that cow? Its udders make me shudder.
-UI_Chat_WhatsHappening_AdultChild_MILKCOW |= Going to milk the cow. Need milk if I am to stay healthy and strong.
-UI_Chat_WhatsHappening_AdultChild_MILKCOW |= The cow is calling my name. Well, I am not called moo, but it is suggesting I milk it.
-UI_Chat_WhatsHappening_AdultChild_MILKCOW |= Going to do some milking, just because.
+UI_Chat_WhatsHappening_AdultChild_MILKCOW |= 저 젖소에게 젖을 짜줘야 하나요? 젖소 젖을 보면 몸서리쳐져요.
+UI_Chat_WhatsHappening_AdultChild_MILKCOW |= 젖소 젖을 짜러 가요. 건강하고 튼튼하게 살려면 우유가 필요해요.
+UI_Chat_WhatsHappening_AdultChild_MILKCOW |= 소가 내 이름을 부르고 있어요. 음, 나는 젖소라고 부르지는 않지만 젖을 짜달라고 말하는 것 같네요.
+UI_Chat_WhatsHappening_AdultChild_MILKCOW |= 젖을 짜러 가려고요.
 
-UI_Chat_WhatsHappening_AdultChild_GET_HONEY |= It's my favourite time. Dodge bees and grab their honey time.
-UI_Chat_WhatsHappening_AdultChild_GET_HONEY |= I am collecting honey to meet my needs. Our needs.
-UI_Chat_WhatsHappening_AdultChild_GET_HONEY |= Going to get me some sweeeeet honey!
-UI_Chat_WhatsHappening_AdultChild_GET_HONEY |= I am going to fill up on the amber nectar. No, not beer, yet.
+UI_Chat_WhatsHappening_AdultChild_GET_HONEY |= 제가 가장 좋아하는 시간이에요. 벌을 피하고 꿀맛 같은 시간을 보낼거에요.
+UI_Chat_WhatsHappening_AdultChild_GET_HONEY |= 나는 필요에 따라 꿀을 모으고 있어요. 우리의 필요죠.
+UI_Chat_WhatsHappening_AdultChild_GET_HONEY |= 달콤한 꿀 좀 가져올게요!
+UI_Chat_WhatsHappening_AdultChild_GET_HONEY |= 호박즙을 마시고 올게요. 아니, 아직 맥주는 안 돼요.
 
-UI_Chat_WhatsHappening_AdultChild_SLEEP |= I am going to do what any son or daughter would do for their parents... sleep.
-UI_Chat_WhatsHappening_AdultChild_SLEEP |= It's my bedtime. I need at least 25 hours per day.
-UI_Chat_WhatsHappening_AdultChild_SLEEP |= Going to bed. Goodnight parent of mine.
-UI_Chat_WhatsHappening_AdultChild_SLEEP |= It's my bedtime. I have an appointment with Mr. Snooze.
+UI_Chat_WhatsHappening_AdultChild_SLEEP |= 부모님을 위해 아들이나 딸이라면 누구나 할 수 있는 일, 즉 잠을 자려고요.
+UI_Chat_WhatsHappening_AdultChild_SLEEP |= 취침 시간이에요. 하루에 최소 25시간은 자야죠.
+UI_Chat_WhatsHappening_AdultChild_SLEEP |= 자러 갈게요. 안녕히 주무세요, 부모님.
+UI_Chat_WhatsHappening_AdultChild_SLEEP |= 취침 시간이에요. 스누즈 씨와 약속이 있어요.
 
-UI_Chat_WhatsHappening_Child_GARDEN |= Do I have to do the gardening? It's hard work!
-UI_Chat_WhatsHappening_Child_GARDEN |= I keep finding worms. They have smiley faces.
-UI_Chat_WhatsHappening_Child_GARDEN |= You told me to help in the garden. It's not fair.
-UI_Chat_WhatsHappening_Child_GARDEN |= I am playing in the garden. I mean working hard.
+UI_Chat_WhatsHappening_Child_GARDEN |= 정원 가꾸기를 해야 해요? 힘든 일이잖아요!
+UI_Chat_WhatsHappening_Child_GARDEN |= 벌레가 계속 나와요. 벌레는 웃는 얼굴을 하고 있어요.
+UI_Chat_WhatsHappening_Child_GARDEN |= 정원에서 일하라고 하셨잖아요. 불공평해요.
+UI_Chat_WhatsHappening_Child_GARDEN |= 나는 정원에서 놀고 있어요. 그러니까 열심히 일한다는 뜻이었어요.
 
-UI_Chat_WhatsHappening_Child_COOK |= Should I be doing this? Seems dangerous!
-UI_Chat_WhatsHappening_Child_COOK |= I like playing with knives and chopping stuff up.
-UI_Chat_WhatsHappening_Child_COOK |= I want to do cooking!
-UI_Chat_WhatsHappening_Child_COOK |= I am cooking! I promise not to burn anything again.
+UI_Chat_WhatsHappening_Child_COOK |= 이걸 해야 해요? 위험해 보여요!
+UI_Chat_WhatsHappening_Child_COOK |= 저는 칼을 가지고 놀고 물건을 자르는 걸 좋아해요.
+UI_Chat_WhatsHappening_Child_COOK |= 요리를 하고 싶어요!
+UI_Chat_WhatsHappening_Child_COOK |= 요리 중이에요! 다시는 아무것도 태우지 않겠다고 약속할게요.
 
-UI_Chat_WhatsHappening_Child_PETS |= I want to stroke the pets! Unless I have the animal hater trait, in which case I don't.
-UI_Chat_WhatsHappening_Child_PETS |= I am going to feed the animals.
-UI_Chat_WhatsHappening_Child_PETS |= Going to feed our pets, as you said.
-UI_Chat_WhatsHappening_Child_PETS |= Pet time!
+UI_Chat_WhatsHappening_Child_PETS |= 애완동물을 쓰다듬고 싶어요! 제가 동물 혐오증이 있다면 모를까, 그렇지 않다면요.
+UI_Chat_WhatsHappening_Child_PETS |= 동물에게 먹이를 주려고요.
+UI_Chat_WhatsHappening_Child_PETS |= 말씀하신 대로 애완동물에게 먹이를 주러 가려고요.
+UI_Chat_WhatsHappening_Child_PETS |= 애완동물 시간!
 
-UI_Chat_WhatsHappening_Child_OFFERING |= I am going to put things in Mr Pott's big bowl.
-UI_Chat_WhatsHappening_Child_OFFERING |= You said I should make an offering to Mr. Pott.
-UI_Chat_WhatsHappening_Child_OFFERING |= I am putting things in that bowl for lovely Mr. Pott.
-UI_Chat_WhatsHappening_Child_OFFERING |= Offering time! Hurray!
+UI_Chat_WhatsHappening_Child_OFFERING |= 저는 포트 아저씨의 큰 그릇에 물건을 넣을 거예요.
+UI_Chat_WhatsHappening_Child_OFFERING |= 포트 아저씨에게 제물을 바치라고 했죠?
+UI_Chat_WhatsHappening_Child_OFFERING |= 사랑스러운 포트 아저씨를 위해 저 그릇에 물건을 넣고 있어요.
+UI_Chat_WhatsHappening_Child_OFFERING |= 제물 시간! 만세!
 
-UI_Chat_WhatsHappening_Child_EAT |= I am eating my food.
-UI_Chat_WhatsHappening_Child_EAT |= I am hungry. Food time!
-UI_Chat_WhatsHappening_Child_EAT |= Mmfffmmm I am grmmpphh eatin'.
-UI_Chat_WhatsHappening_Child_EAT |= Yay! Foody time!
+UI_Chat_WhatsHappening_Child_EAT |= 나는 음식을 먹고 있어요.
+UI_Chat_WhatsHappening_Child_EAT |= 배고파요. 식사 시간!
+UI_Chat_WhatsHappening_Child_EAT |= 음..음..음..음..음..음..음..음.. 먹고 있어요.
+UI_Chat_WhatsHappening_Child_EAT |= 야호! 식사 시간!
 
-UI_Chat_WhatsHappening_Child_RELAX |= Playtime!
-UI_Chat_WhatsHappening_Child_RELAX |= I am playing.
-UI_Chat_WhatsHappening_Child_RELAX |= It's time to play!
-UI_Chat_WhatsHappening_Child_RELAX |= It's my playtime. Zoooom!
+UI_Chat_WhatsHappening_Child_RELAX |= 놀이시간!
+UI_Chat_WhatsHappening_Child_RELAX |= 놀고있어요.
+UI_Chat_WhatsHappening_Child_RELAX |= 놀이시간이에요!
+UI_Chat_WhatsHappening_Child_RELAX |= 내 놀이 시간이에요. 줌!
 
-UI_Chat_WhatsHappening_Child_SOCIALISE |= I want to see my invisible friends.
-UI_Chat_WhatsHappening_Child_SOCIALISE |= I am going to talk to my pals.
-UI_Chat_WhatsHappening_Child_SOCIALISE |= I am searching for deep meaningful human interactions that will fulfil my soul and expand my intellect.
+UI_Chat_WhatsHappening_Child_SOCIALISE |= 보이지 않는 친구들을 보고 싶어요.
+UI_Chat_WhatsHappening_Child_SOCIALISE |= 친구들에게 이야기하러 갈거에요.
+UI_Chat_WhatsHappening_Child_SOCIALISE |= 제 영혼을 채우고 지성을 확장할 수 있는 의미 있는 인간관계를 찾고 있어요.
 
-UI_Chat_WhatsHappening_Child_STUDY |= Ssshh, I am studying.
-UI_Chat_WhatsHappening_Child_STUDY |= I am doing my homework as you asked.
-UI_Chat_WhatsHappening_Child_STUDY |= I am expanding my mind through the usage of literary works, both fact, fictional and nonsense.
-UI_Chat_WhatsHappening_Child_STUDY |= I am trying to raise my INT stat through study.
+UI_Chat_WhatsHappening_Child_STUDY |= 쉬이잇, 공부 중이에요.
+UI_Chat_WhatsHappening_Child_STUDY |= 말하신 대로 숙제를 하고 있어요.
+UI_Chat_WhatsHappening_Child_STUDY |= 사실, 허구, 말도 안 되는 문학 작품을 통해 생각을 확장하고 있죠.
+UI_Chat_WhatsHappening_Child_STUDY |= 공부를 통해 INT 능력치를 올리려고 노력중이에요.
 
-UI_Chat_WhatsHappening_Child_EXPLORE |= I am just off out for a wander and to find fun things.
-UI_Chat_WhatsHappening_Child_EXPLORE |= Am going exploring!
-UI_Chat_WhatsHappening_Child_EXPLORE |= Exploring time!
-UI_Chat_WhatsHappening_Child_EXPLORE |= Is it OK if I go exploring? I like finding things hidden away, like those little doors.
+UI_Chat_WhatsHappening_Child_EXPLORE |= 방랑하며 재미있는 것을 찾으러 나가려고요.
+UI_Chat_WhatsHappening_Child_EXPLORE |= 탐험하러 갈거에요!
+UI_Chat_WhatsHappening_Child_EXPLORE |= 탐험 시간!
+UI_Chat_WhatsHappening_Child_EXPLORE |= 탐험하러 가도 괜찮나요? 저는 작은 문처럼 숨어 있는 것을 찾는 걸 좋아해요.
 
-UI_Chat_WhatsHappening_Child_GET_HONEY |= Honey time! Yum!
-UI_Chat_WhatsHappening_Child_GET_HONEY |= I have to go get some honey for us all. Yay!
-UI_Chat_WhatsHappening_Child_GET_HONEY |= Those bees stung me! It's not fair!
-UI_Chat_WhatsHappening_Child_GET_HONEY |= Mrs Queen Bee said I could take some honey if I trade her some cakes. Honest.
+UI_Chat_WhatsHappening_Child_GET_HONEY |= 꿀 시간! 냠!
+UI_Chat_WhatsHappening_Child_GET_HONEY |= 우리 모두를 위해 꿀을 좀 가져와야겠어요. 이야!
+UI_Chat_WhatsHappening_Child_GET_HONEY |= 벌이 저를 쏘았어요! 이건 불공평해요!
+UI_Chat_WhatsHappening_Child_GET_HONEY |= 여왕벌 부인이 케이크를 주면 꿀을 가져가도 된다고 했어요. 정직하네요.
 
-UI_Chat_WhatsHappening_Child_SLEEP |= Awww, do I have to go to bed?
-UI_Chat_WhatsHappening_Child_SLEEP |= Oh, is it really bedtime?
-UI_Chat_WhatsHappening_Child_SLEEP |= I am going to sleep. Goodnight, Dad, Mum, whatever your preference.
-UI_Chat_WhatsHappening_Child_SLEEP |= Night night! Don't let the bed witch bite!
+UI_Chat_WhatsHappening_Child_SLEEP |= 아, 저 꼭 자야 돼요?
+UI_Chat_WhatsHappening_Child_SLEEP |= 아, 진짜 잘 시간이에요?
+UI_Chat_WhatsHappening_Child_SLEEP |= 자러 갈게요. 잘 자요, 아빠, 엄마, 원하는 대로 하세요.
+UI_Chat_WhatsHappening_Child_SLEEP |= 잘 자요! 침대 마녀에게 물리지 마세요!
