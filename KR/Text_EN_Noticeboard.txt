@@ -172,6 +172,7 @@ Noticeboard_GiveTraitRequest1_Pinned |= {TRAITNAME} 특성이 있는 아이템�
 Noticeboard_GiveTraitRequest1_ShortDesc |= {TRAITNAME} 아이템을 선물하기
 Noticeboard_GiveTraitRequest1_Desc |= {TRAITNAME} 특성이 있는 아이템을 {FULLNAME}에게 선물하기.
 Noticeboard_GiveTraitRequest1_Favour |= 누군가에게 약간 짜증이 나. 그 사람에게 {TRAITNAME}이(가) 있으면 정말 좋을 것 같아. 하지만 나는 너무 겁이 많아서 할 수 없을 것 같아.
+
 Noticeboard_GiveTraitRequest3_Name |= {TRAITNAME} 주기
 Noticeboard_GiveTraitRequest3_Pinned |= 세 명에게 {TRAITNAME} 주기
 Noticeboard_GiveTraitRequest3_ShortDesc |= 세 명에게 {TRAITNAME} 주기.

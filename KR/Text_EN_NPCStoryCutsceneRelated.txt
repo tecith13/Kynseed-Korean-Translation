@@ -79,7 +79,7 @@ NPCStory_Love_RakeGrassbeardOutro |= '죽기 아니면 까무러치기'라는 �
 NPCStory_Love_RakeGrassbeardOutro |= 친구를 위해 그런 행동을 하는 것은 자네에게 필요한 능력이 있다는 것을 증명하는 것이겠지. 숲 할망을 쉽게 쓰러뜨릴 수 있을 거야.
 
 
-NPCStory_Like_BettyScrumpyIntro |= 내가 퀼에서 최고의 페이스트리 셰프였다는 사실을 알고 있었니? 당연히 몰랐겠ㅈ지! 왜 알았겠어? 내가 다른 사람한테 자랑하러 다니는 것도 아니고. 어쨌든 베이크 오프에 파이를 출품한 적이 있어.
+NPCStory_Like_BettyScrumpyIntro |= 내가 퀼에서 최고의 페이스트리 셰프였다는 사실을 알고 있었니? 당연히 몰랐겠지! 왜 알았겠어? 내가 다른 사람한테 자랑하러 다니는 것도 아니고. 어쨌든 베이크 오프에 파이를 출품한 적이 있어.
 NPCStory_Like_BettyScrumpyOutro |= 그 후 페스트필드에 있는 뒷간을 철거해야 했어.
 
 NPCStory_Intro_LucyArrowsIntro |= 안녕! 얼마 전부터 빌이랑 같이 살게 되었지? 친척이라고 하던데.

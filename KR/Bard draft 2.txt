@@ -1,12 +1,12 @@
 MusicStart=0;Bard music
-Lyric=3;Oh lady fair
-Lyric=3;With orangest hair
-Lyric=3;Let me take you
-Lyric=3;To the fayre
-Lyric=3;I will buy you 
-Lyric=3;a band of gold
-Lyric=3;to join our souls
-Lyric=3;Til we are old
+Lyric=3;아 주황빛 머리의
+Lyric=3;레이디 페어
+Lyric=3;당신을 파예르로
+Lyric=3;데려다줄게요
+Lyric=3;금빛의 밴드를
+Lyric=3;당신께 바칠게요
+Lyric=3;우리의 영혼을 연결하기 위해 
+Lyric=3;우리가 늙을 때 까지
 MusicEnd=34;Bard music
 
 MusicStart=36;Bard music

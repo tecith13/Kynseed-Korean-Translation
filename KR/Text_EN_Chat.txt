@@ -1,5 +1,5 @@
-Chat_Greeting_WORK_Blacksmith[P][Dislike] |= I thank <Goddess>for my work at the forge, but not for being distracted by people I barely know.
-Chat_Greeting_WORK_Blacksmith[P][Neutral] |= <Greeting>. I thank <Goddess>for all this steady work at the forge.
+Chat_Greeting_WORK_Blacksmith[P][Dislike] |= I thank <Goddess> for my work at the forge, but not for being distracted by people I barely know.
+Chat_Greeting_WORK_Blacksmith[P][Neutral] |= <Greeting>. I thank <Goddess> for all this steady work at the forge.
 Chat_Greeting_WORK_Blacksmith[P][Friendly] |= <Greeting>. Let us work hard and honour the divine <Goddess>with our toil.
 Chat_Greeting_WORK_Blacksmith[P][Like] |= <Greeting>. I am grateful for your visit to my forge today, <PlayerName>.
 Chat_Greeting_WORK_Blacksmith[P][Love] |= <Greeting>. I pray for your safety and happiness, <PlayerName>. as we craft these tools.
