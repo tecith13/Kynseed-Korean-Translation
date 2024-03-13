@@ -1,0 +1,484 @@
+GEN_NPC_STORY_TRADER_INTRO_1_GENERIC |= 안녕하세요! 만나서 반갑습니다. 제 이름은 {FULLNAME}입니다. 최근에 지역 잡화점을 인수했으니 많은 성원 부탁드립니다!
+GEN_NPC_STORY_TRADER_INTRO_1_GENERIC |= 안녕하세요. 처음 뵙는 것 같네요. 마을 잡화점을 자주 방문하신다면 새로운 관리인이 운영 중인 것을 눈치채셨을 겁니다. 최근에 이곳으로 이사 왔는데 사업하기 좋은 곳인 것 같아요.
+GEN_NPC_STORY_TRADER_INTRO_1_PIOUS |= 좋은 기분으로 만나길 바랍니다. 여신들이 우리의 첫 만남을 위해 멋진 날을 축복해 주신 것 같군요. 제 이름은 {FULLNAME}이고, 이 멋진 지역 상점의 새 주인이에요.
+
+GEN_NPC_STORY_TRADER_INTRO_2_GENERIC |= 여기 사람이 너무 많아서 누가 누구인지 파악하기가 조금 어렵지만, 곧 알아낼 수 있을 거예요.
+GEN_NPC_STORY_TRADER_INTRO_2_GENERIC |= 이곳에서 일을 시작하고 운영하는 데 약간의 스트레스가 있었지만, 이보다 더 좋은 장소를 선택할 수는 없었어요. 그리고 제 코에 있는 것을 말하는 게 아닙니다.
+GEN_NPC_STORY_TRADER_INTRO_2_COMPLAINER |= 첫 주에 보급품을 수집하다가 홉 몇 마리에게 대부분의 보급품을 잃었습니다. 그 더러운 작은 해충들은 잘 숨을테지만, 찾을 가치가 있는지 잘 모르겠고, 나는 최고의 전사도 아닙니다.
+GEN_NPC_STORY_TRADER_INTRO_2_JOVIAL |= 이 마을 사람들은 제가 가게를 차린 후로 항상 친절하게 대해주었습니다. 이보다 더 좋은 환영은 바랄 수 없었어요. 그럴 수도 있었지만 지금 다이어트 중이라서요.
+
+GEN_NPC_STORY_TRADER_FRIENDLY_1_GENERIC |= 안식처의 모든 분들을 알게 되어 정말 좋았습니다. 매일 상점에서 일하면서 사교 활동에 큰 도움이 되었어요. 이곳에서 좋은 사람들을 만나기도 하고 그렇지 않은 사람들도 만났어요.
+GEN_NPC_STORY_TRADER_FRIENDLY_1_GENERIC |= 상황이 좋아지고 있습니다. 손님이 꽤 많이 들어오고 있습니다.
+GEN_NPC_STORY_TRADER_FRIENDLY_1_COMPLAINER |= 상점에 좋은 아이템을 모으기가 왜 이렇게 어려운가요? 심플우드에 있는 생명체들이 저 안에 있는 물건들을 질투심에 가득 차서 지키고 있어요. 신체 부위와 전리품에 집착하는 어리석은 괴물들 없이도 충분히 살기 힘들어요.
+GEN_NPC_STORY_TRADER_FRIENDLY_1_PIOUS |= 이 노력이 성공하기 위해 필요한 것은 약간의 믿음뿐이었습니다. 독립적으로 사업을 운영할 자신이 없었지만 여신이 지켜봐 주신다면 무엇이든 이룰 수 있을 것 같았어요.
+GEN_NPC_STORY_TRADER_FRIENDLY_1_JOVIAL |= 항상 만나서 반갑습니다. 이 가게를 운영하는 것은 저에게 큰 기쁨을 가져다줍니다. 왜 사람들이 지금 이 일을 매장 운영이라고 부르는지 알겠어요. 항상 뛰어다니고 있으니까요! 제가 듣는 이야기, 제가 사귀는 친구들, 이 모든 것이 끝없이 영감을 줍니다. 농산물뿐만 아니라 매일 새롭고 신선한 것을 만날 수 있어요.
+
+GEN_NPC_STORY_TRADER_FRIENDLY_2_GENERIC |= 몇 계절만 더 지나면 이곳을 특별한 곳으로 만들 수 있을 것 같아요. 성공적인 잡화점를 운영하는 것이 제 꿈이었어요. 퀼리언의 꿈, 자본주의죠. 가게 위에 큰 글씨로 자신의 이름을 새겨 넣는 거죠.
+GEN_NPC_STORY_TRADER_FRIENDLY_2_GENERIC |= 커뮤니티에 좀 더 많이 참여해야겠어요. 단순히 매출에 도움이 되기 때문만이 아니라 주변 사람들이 저를 정말 좋아하고 있어요. 말 그대로요.
+GEN_NPC_STORY_TRADER_FRIENDLY_2_BOASTFUL |= 제가 여기서 판매하는 상품이 품질이 좋기 때문이죠. 상품을 매장으로 가져오는 데는 조금 더 많은 노력이 필요하지만 그만한 가치가 있다고 생각합니다. 판매량이 그 자체로 말해주죠. 글쎄요, 그들이 말할 수 있다면 말하겠죠.
+GEN_NPC_STORY_TRADER_FRIENDLY_2_QUIRKY |= 그뿐만이 아닙니다. 저는 '보이지 않는 친구'라고 부르는 분들의 도움을 조금씩 받고 있습니다. 가끔은 예측할 수 없을 때도 있지만, 아침에 매장에 와서 밤에 해놓은 집안일을 발견하면 반갑습니다.
+
+GEN_NPC_STORY_TRADER_LIKE_1_GENERIC |= 처음 이 안식처에 왔을 때 한두 계절만 머물 생각이었는데 누가 알았겠어요? 당신 같은 친절한 사람들이 곁에 있으니 떠나기가 훨씬 더 힘들어졌어요.
+GEN_NPC_STORY_TRADER_LIKE_1_GENERIC |= 이제 이곳에 내 집을 마련한 것 같아요. 떠돌이 상인으로 살던 시절은 이미 오래전에 지나갔어요. 이 작은 마을의 소중한 일원으로서 이곳 사람들에게 서비스를 제공할 수 있다는 사실이 정말 좋아요. 물론 대가를 치러야 하지만요.
+GEN_NPC_STORY_TRADER_LIKE_1_JOVIAL |= 누가 뭐라든, 좋은 친구와의 또 다른 의미 있는 만남으로 영광스러운 하루를 보냈습니다. 하지만 매장에서 일하면서 소문을 엿듣다 보면 친절한 미소를 유지하기가 어려울 때가 있습니다. 어떤 사람들은 다른 사람들의 뒤에서 하는 말을 들어야 합니다. 때때로 사소하게 느껴질 때도 있지만 진심으로 제 하루를 밝게 해주는 여러분 같은 사람들이 있다는 것을 알기 때문에 참을 수 있습니다. 의료용 양동이를 사고 싶으신가요?
+GEN_NPC_STORY_TRADER_LIKE_1_QUIRKY |= 저는 항상 이방인처럼 느껴졌어요. 어떤 이들은 제가 페이와 떨어져 있다고 말하죠. 페이들도 그렇게 생각하죠! 이제 저는 진짜 사람들 사이에서 의미 있는 서비스를 제공하고 있습니다. 제 생각에서 벗어나고 싶지는 않지만, 다른 4분의 3이 어떻게 사는지 다른 분야를 방문하는 것을 좋아합니다.
+
+GEN_NPC_STORY_TRADER_LIKE_2_GENERIC |= 여러분 같은 분들 덕분에 제가 여기 남을 수 있었어요. 저는 항상 방랑자의 마음을 가지고 있었지만, 가끔은 나무를 충분히 보고 나면 뿌리를 갈망하게 되죠.
+GEN_NPC_STORY_TRADER_LIKE_2_GENERIC |= 이제 뿌리를 내리고 더 오래 머무를 준비가 된 것 같아요. 여러분께 감사드리고 싶네요.
+GEN_NPC_STORY_TRADER_LIKE_2_COMPLAINER |= 저 홉들이 날 좀 내버려뒀으면 좋겠어요. 난 그저 아이템을 모으고 싶을 뿐이에요. 사람들에게는 잘 말하지 않지만 얼마 전에 이 사악한 생명체 중 하나에게 삼촌을 잃었어요. 솔직히 말하자면 그게 제가 여기로 이사 온 이유 중 하나예요. 잃어버린 가족을 떠올리게 하는 것, 특히 그것들이 저를 벽으로 몰아붙이는 것에서 벗어나기 위해서요.
+GEN_NPC_STORY_TRADER_LIKE_2_BOASTFUL |= 잠시 솔직하게 말씀드릴게요. 제가 상점에 공급하는 대부분의 아이템은 제가 직접 고른 것이 아닙니다. 저는 커뮤니티에서 지식이 풍부한 점주로서 존재감을 드러내고 있지만, 절반은 제가 무슨 말을 하는지 모르겠어요. 저는 잘난 척하는 것을 좋아합니다. 저는 잘하지만 그렇게 잘하지는 못합니다.
+GEN_NPC_STORY_TRADER_LIKE_2_PIOUS |= 여신이 저를 보호하고 있다는 건 알지만, 가끔은 조상님들이 제가 이룬 모든 것을 보실 수 있으면 좋겠어요. 자랑스러워하실지 아닐지는 모르겠지만 제가 목표한 바를 이뤘다는 걸 알면 기분이 나아질 것 같아요.
+
+GEN_NPC_STORY_TRADER_START_COMPLAINER_1 |= 마무리 좀 해주시겠어요? 저 홉 몇 놈을 쓰러뜨려주면 좋은 보상을 주겠소. 칼을 잘 다룬다면서요. 목표를 알려드리기 위해 홉 20 마리를 처치해 주시겠어요?
+GEN_NPC_STORY_TRADER_TASK_NAME_COMPLAINER_1 |= 홉 20 마리를 처치하고 돌아옵니다.
+GEN_NPC_STORY_TRADER_TASK_DESC_COMPLAINER_1 |= 심플우드에서 홉 총 20마리 처치. 전투 중 화면 카운터로 진행 상황을 확인할 수 있습니다.
+GEN_NPC_STORY_TRADER_END_COMPLAINER_1 |= 시간을 내어 도와주셔서 감사합니다. 당신이 그들에게 무엇을 주었기를 바랍니다!
+
+GEN_NPC_STORY_TRADER_START_COMPLAINER_2 |= 가서 홉을 죽이고 평화롭게 지내고 싶어요. 하지만 구입할 수 있는 무기의 품질이 그다지 좋지 않아요. 괜찮은 검을 만들어 주실 수 있나요? 그리고 저를 도와줄 부적도요? 당신의 장인정신을 믿어요.
+GEN_NPC_STORY_TRADER_TASK_NAME_COMPLAINER_2 |= {FULLNAME} 검 + 부적 선물하기
+GEN_NPC_STORY_TRADER_TASK_DESC_COMPLAINER_2 |= 의뢰한 NPC에게 검과 부적을 선물합니다. 검과 부적은 대장간에서 구입, 획득, 선물 또는 제작할 수 있습니다.
+GEN_NPC_STORY_TRADER_END_COMPLAINER_2 |= 정말 재미있었어요! 그 장비는 최고급이었고, 제 칼날에 흠이 조금 생겼어요. 건배!
+
+GEN_NPC_STORY_TRADER_START_JOVIAL_1 |= 저는 젤리보다 더 유쾌하지만, 계속되는 험담과 뒷담화가 저를 우울하게 만들고 있어요! 저는 활기찬 사람이고 찡그리지 않고 웃는 것을 좋아해요. 제 잡화점을 저한테서 사면 어떨까요? 반값에 드릴 수 있어요! 이 모든 불행을 조장하는 사람들로부터 제 정신을 지키기 위해 기꺼이 그렇게 할게요.
+GEN_NPC_STORY_TRADER_TASK_NAME_JOVIAL_1 |= 잡화점 구매
+GEN_NPC_STORY_TRADER_TASK_DESC_JOVIAL_1 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하면 NPC가 소유한 상품 상점을 구매할 수 있습니다.
+GEN_NPC_STORY_TRADER_END_JOVIAL_1 |= 당신은 스타이며 실수하지 않습니다. 당신은 훌륭한 사업가가 될 것입니다! 소문은 듣지 마세요!
+
+GEN_NPC_STORY_TRADER_START_JOVIAL_2 |= 더 나은 고객을 유치하기 위해 새로운 마케팅 기법을 시도해야 할까요? 누군가에게 최고 품질의 샘플을 주면서 이 샘플을 어디서 구했는지 알려줄 수 있을까요?
+GEN_NPC_STORY_TRADER_TASK_NAME_JOVIAL_2 |= 모든 NPC에게 5별 아이템 선물하기
+GEN_NPC_STORY_TRADER_TASK_DESC_JOVIAL_2 |= 채팅 선물 또는 상호작용 휠을 통해 보유한 모든 5별 아이템을 선물합니다.
+GEN_NPC_STORY_TRADER_END_JOVIAL_2 |= 실제로 도움이 되지 않았습니다. 이제 험담의 질이 더 좋아졌을 뿐입니다! 그래도 시도해줘서 고마워요.
+
+GEN_NPC_STORY_TRADER_START_BOASTFUL_1 |= 제 상점을 위해 고급 물고기를 구할 수 있도록 도와주시겠습니까? 그런 경품 아이템이 관심을 끌고 구매자를 끌어들일 수 있을 것 같네요.
+GEN_NPC_STORY_TRADER_TASK_NAME_BOASTFUL_1 |= {FULLNAME}에게 5 별 물고기를 선물합니다.
+GEN_NPC_STORY_TRADER_TASK_DESC_BOASTFUL_1 |= 어떤 종류의 5 별 물고기를 잡거나, 구매하거나, 획득하거나, 선물받아 필요한 NPC에게 선물하세요. 퀼 주변에는 바다가 없으므로 불가사리 5마리가 아닙니다.
+GEN_NPC_STORY_TRADER_END_BOASTFUL_1 |= 생선 장수가 주문한 그대로! 당신은 훌륭한 발바닥을 가지고 있습니다. 와헤이! 전에는 그런 말을 들어본 적이 없나요?
+
+GEN_NPC_STORY_TRADER_START_BOASTFUL_2 |= 제 상점을 더욱 돋보이게 하는 것은 최고급 음식이라고 생각해요. 제가 직접 조리해서 최고의 식탁에 아름답게 진열하는 것이죠. 그러면 지나가는 사람들의 코 끝을 자극하고 사람들을 끌어들이는 데 큰 도움이 될 거예요.
+GEN_NPC_STORY_TRADER_TASK_NAME_BOASTFUL_2 |= {FULLNAME} 5별 음식 선물
+GEN_NPC_STORY_TRADER_TASK_DESC_BOASTFUL_2 |= 5 별 음식 아이템을 요리하고, 구매하고, 선물 받거나 획득하여 선물하세요.
+GEN_NPC_STORY_TRADER_END_BOASTFUL_2 |= 훌륭한 선택입니다! 감사와 경의를 표합니다.
+
+GEN_NPC_STORY_TRADER_START_QUIRKY_1 |= 사실, 많은 책에서 언급된, 공정한 사람들이 사는 곳을 알고 있습니다. 티르 나 노그라는 곳이에요. 분홍색 폭포와 이상한 나무와 이상한 과일이 있는 곳이에요. 거기에는 거미 버섯이라는 것이 있다고 해요. 제 상 받침대에 올려놓고 싶어요. 혹시 그런 걸 발견하시면 좋은 물건으로 바꿔드릴게요!
+GEN_NPC_STORY_TRADER_TASK_NAME_QUIRKY_1 |= {FULLNAME}에게 구미 버섯을 전달하세요.
+GEN_NPC_STORY_TRADER_TASK_DESC_QUIRKY_1 |= 티르 나 노그에게서 구미 버섯을 획득하여 부탁한 NPC에게 선물하세요.
+GEN_NPC_STORY_TRADER_END_QUIRKY_1 |= 멋지네요! 당신은 사람이 일을 맡길 수 있는 가장 손쉬운 사람입니다.
+
+GEN_NPC_STORY_TRADER_START_QUIRKY_2 |= 꿈속의 장소들을 방문하고 싶어요. 이 벽 너머를 볼 수 있게 해줄 수 있는 물건이 있나요? 그거면 더더욱 좋겠어요.
+GEN_NPC_STORY_TRADER_TASK_NAME_QUIRKY_2 |= {FULLNAME}에 환상을 적용하기
+GEN_NPC_STORY_TRADER_TASK_DESC_QUIRKY_2 |= 환영 특성이 있는 아이템을 {FULLNAME}에게 선물합니다.
+GEN_NPC_STORY_TRADER_END_QUIRKY_2 |= 우와! 염소가 된 지 얼마나 됐어요? 글쎄요, 무지개 염소 씨, 반짝반짝 빛나는 경험을 해줘서 고마워요.
+
+GEN_NPC_STORY_TRADER_START_PIOUS_1 |= 제 약점은 가끔 너무 경건해서 물물교환을 제대로 하지 못한다는 거예요. 그 부분이 좀 더 강해지면 더 많은 매출을 올리고 좀 더 제대로 된 사업가가 될 수 있을 것 같아요.
+GEN_NPC_STORY_TRADER_TASK_NAME_PIOUS_1 |= {FULLNAME}에 거래 적용하기
+GEN_NPC_STORY_TRADER_TASK_DESC_PIOUS_1 |= 거래 특성이 있는 아이템을 요청한 NPC에게 선물합니다.
+GEN_NPC_STORY_TRADER_END_PIOUS_1 |= 도와주셔서 감사합니다. 덕분에 수익이 증가했으니 공유할 자격이 있다고 생각합니다.
+
+GEN_NPC_STORY_TRADER_START_PIOUS_2 |= 이상한 요청처럼 들리겠지만, 제 상점에서 모든 것을 구매해 주시면 제 수치와 자존심 마사지를 도와주실 수 있습니다. 나중에 다시 뵙겠습니다.
+GEN_NPC_STORY_TRADER_TASK_NAME_PIOUS_2 |= 상품 상점의 모든 아이템 구매
+GEN_NPC_STORY_TRADER_TASK_DESC_PIOUS_2 |= 임무 부여 NPC가 소유한 상품 상점의 모든 아이템을 구매합니다.
+GEN_NPC_STORY_TRADER_END_PIOUS_2 |= 도와주셔서 감사합니다. 수익이 증가했으니 커미션은 여기 있습니다.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_1_GENERIC |= 안녕하세요! 저는 새로운 지역 대장장이입니다. 농사를 짓거나 외양간을 꾸미는 데 필요한 것이 있으면 무엇이든 도와드리겠습니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_1_GENERIC |= 잘 만났습니다! 저는 대장장이입니다. 아니, 내 성이 아니에요. 저는 쇠 냄새를 좋아하고 때로는 뜨거운 집게에 몸을 태우는 것을 좋아해요. 금속이 필요하다면 제가 도와드릴게요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_1_QUIRKY |= 오, 안녕하세요! 미안, 아까는 당신 존재에 정신이 팔려서 좀 산만했어요. 뭔가 기운이 있는 것 같네요. 난 이 동네에 새로 온 대장장이인데, 언젠가 당신을 알게 되면 좋은 일이 생길 것 같은 느낌이 들어요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_1_PIOUS |= 인사합니다. 저는 여러분을 아담으로부터 알지는 못하지만, 저처럼 여신들도 여러분에게 미소를 지었으면 좋겠습니다. 저는 이 지역의 대장장이로, 뜨거운 대장간에서 일하면 나쁜 생각이 사라지죠.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_2_GENERIC |= 우리 모두 배울 것이 많다고 생각하기 때문에 시간이 지나면 제 기술을 향상시켜 더 나은 서비스를 제공할 수 있기를 바랍니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_2_GENERIC |= 저는 상품 거래에 대한 지식을 대장간 사업에 적용하고 싶습니다. 한 쪽의 기술이 다른 쪽에 전수되어 사업에 도움이 될 수 있다고 생각합니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_2_COMPLAINER |= 솔직히 말해서, 제가 작업해야 하는 광석의 품질이 매우 좋지 않아서 이미 힘들다는 것을 느끼고 있습니다. 보급품이 일정하지 않고 상품들은 보통 노커에 의해 보호됩니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_INTRO_2_JOVIAL |= 커뮤니티에서 다시 일하게 되어 정말 행복합니다. 상점 종소리와 각자의 작은 특성과 관습을 가진 지역 주민들의 행복한 얼굴이 그리웠어요.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_1_GENERIC |= 농장은 어떻게 되가고 있나요? 땅을 일구며 고생할 때 친구가 있으면 좋죠.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_1_GENERIC |= 안녕하세요, 좋은 친구. 최근에 모험을 해본 적 있나요? 미드우드에서 놀고 있나요? 유령 사냥개처럼 황야를 배회했나요? 한가로운 숲속에서 국자로 레모네이드를 게으르게 마시며 게으름을 피우나요?
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_1_QUIRKY |= 만나서 반가워요, 친구. 사람들을 더 많이 알아가는 것은 좋은 일입니다. 친구가 많을수록 더 안전하다고 느끼죠. 또한 다른 방법으로는 판매할 수 없는 물건을 팔고 싶을 때 정말 편리합니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_1_PIOUS |= 앞서 소개해 드린 것에 대해 사과드립니다. 저는 새로운 사람에 대해 조금 의심이 많거든요. 여신을 너무 좋아해서 낯선 사람은 조금 당황스러워요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_1_BOASTFUL |= 제가 만든 경이로운 작품들을 언제 한번 보고 싶으신가요? 제 목표는 제 대장간을 양질의 철기, 구리 및 아연 제품, 그리고 궁극적으로는 금과 은의 경이로움을 만드는 곳으로 만드는 것입니다.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_2_GENERIC |= 매일 아침 무엇이 저를 일어나게 하는지 아세요? 차가운 물 한 통을 얼굴에 대는 것 말고요? 사람들에게 유용한 물건을 만든다는 생각입니다. 합리적인 가격으로 사람들의 삶을 향상시킬 수 있는 물건을 선물했을 때 사람들의 표정을 보는 것이 정말 좋아요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_2_GENERIC |= 초보 모험가나 노련한 모험가를 위한 최고급 무기를 만드는 데 정말 빠져들 수 있을 것 같아요. 하지만 때로는 말 그대로 일곱 가지 비밀 허브와 향신료가 담긴 할망의 냄비에 양념이 되어 있기도 하죠.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_2_COMPLAINER |= 제가 최근에 불평을 많이 했나요? 글쎄요, 제가 가진 한 가지 불만은 광산을 너무 깊게 파헤치지 않고는 좋은 광석을 찾기가 정말 어렵다는 것입니다. 상인에게서 주문한 재고와 이상한 조각은 일반적으로 품질에 비해 너무 비쌉니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_FRIENDLY_2_JOVIAL |= 저는 제가 좋아하는 일을 할 수 있어서 정말 행복하고, 그것은 바로 손으로 작업하는 것입니다. 저는 원시적인 원석으로 아름다움을 만들어내는 과정에서 손을 더럽히는 것을 좋아합니다. 수천 년 동안 깊은 어둠 속에 잠겨 있던 것을 빛과 생명을 불어넣는 일이죠.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_1_GENERIC |= 제가 만든 아이템으로 사람들이 무엇을 하고 있는지 궁금할 때가 많아요. 아마도 정원에서 허리를 굽혀 낫으로 채소를 뿌리째 뽑고 있을지도 모르죠. 아니면 내가 땀을 흘리며 갈고 닦은 칼에서 님프의 피를 닦아내고 있을지도 모르죠.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_1_GENERIC |= 난 당신을 정말 좋아해요. 제 일에 대한 자신감이 생겼어요. 제가 만드는 물건이 정말 잘 만들어졌으면 좋겠어요. 언젠가 멋진 작품을 만들고 싶어요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_1_QUIRKY |= 나 너 정말 좋아해, 알지? 넌 노력하잖아. 저도 그렇게 하려고 노력해요. 언젠가 제가 작업한 것을 보여드리고 싶어요. 당신의 의견을 믿어요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_1_JOVIAL |= 내 노래 듣고 싶어요? 혼자 작업할 때마다 부르는 노래예요. '내 가장 깊고 어두운 곳, 내 가장 깊고 어두운 마음속에는 잿빛 장작불처럼 타들어가는, 희미한 불의 대장간이 잠들어 있네. 그리고 그 숯 속에서, 내가 너무 사랑했던 사람의 목소리가 들려오네. 더 강한 사슬을 만들어서 다시 그녀의 손을 잡을 수 있었어야 했어요. 그러나 이제 불은 꺼지고, 내가 잃어버린 사랑은 오래 전에 포기했다'.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_2_GENERIC |= 공상은 그만... 다시 계획과 배움으로 돌아가야 합니다. 개선은 우리 자신뿐만 아니라 다른 사람들의 삶을 개선할 수 있는 방법입니다. 이 모든 것이 작은 바위에서 시작됩니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_2_GENERIC |= 주문 계획에 착수할 시간이야. 백업이 시작되고 있어. 직접 찾고 계신 게 있나요?
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_2_COMPLAINER |= 고급 광석을 어디서 찾을 수 있는지 아세요? 여기 사람들은 대부분 그런 지식에 관해서는 쓸모없어. 지붕이 무너지지 않기를 바라면서 어두운 구덩이를 내려가 이상한 생물과 유령을 피하는 게 뭐가 그렇게 어렵겠어요?
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_2_BOASTFUL |= 저는 그 꿈을 이룰 수 있는 재능이 있다고 확신합니다. 저처럼 전설적인 무언가를 만들 때까지 계속 노력하면 돼요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_LIKE_2_PIOUS |= 여기 있는 동안 조곤을 위해 몇 가지 아이템을 제작했지만, 그가 제 무기로 위업을 달성했다는 이야기는 아직 듣지 못했습니다. 그냥 부러뜨리기만 하고 제 기분을 상하게 하고 싶지 않은 것 같아요.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_COMPLAINER_1 |= 허리가 아프고 신발 가죽이 점점 얇아지고 있어요. 예전처럼 신발이 만들어지지 않아요. 제 친구가 되어서 재고 좀 도와주실 수 있나요? 정말 하기 싫어요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_COMPLAINER_1 |= {FULLNAME}에게 오전 중에 3 별 이상의 광석을 선물하기
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_COMPLAINER_1 |= 오전 6시부터 정오 사이에 필요한 NPC에게 3, 4 또는 5 별 광석을 선물하세요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_COMPLAINER_1 |= 도와줘서 고마워요. 보상을 위해 당나귀 일을 해줄 사람이 있다는 건 큰 의미가 있죠.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_COMPLAINER_2 |= 어깨가 아프고 무릎이 시큰거려요. 동료가 되어서 재입고를 도와주실 수 있나요? 정말 감사하겠습니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_COMPLAINER_2 |= {FULLNAME}에게 저녁에 3 별 이상의 광석 선물하기
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_COMPLAINER_2 |= 오후 6시부터 자정 사이에 필요한 NPC에게 3, 4 또는 5 별 광석을 선물하세요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_COMPLAINER_2 |= 도움을 주셔서 감사합니다. 안아주고 싶지만 뭔가 걸릴 수도 있습니다.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_JOVIAL_1 |= 저는 명랑한 타입이지만 마음속으로는 여전히 슬퍼하고 있어요. 실연당한 경험이 있고 대장간에서 일하면서 희망을 잃지 않는 것 같아요. 하지만 그녀를 되찾을 수 없다는 건 알아요. 어쩌면 당신의 우정이 다시 사랑할 수 있다는 것을 깨닫게 해준 것 같아요. 저한테서 대장간을 사주시겠어요? 좋은 가격을 제시할게요. 그럼 난 과거를 잊고 미래를 찾을 수 있겠지.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_JOVIAL_1 |= 대장간을 반값에 구입하세요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_JOVIAL_1 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}이 소유한 대장장이를 구입합니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_JOVIAL_1 |= 정말 감사합니다! 저에게 큰 의미가 있어요. 당신은 최고예요.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_JOVIAL_2 |= 처음부터 대장장이가 되고 싶었던 건 아니었어요. 단지 옛 연인이 그녀의 풀무질을 도와주길 원해서 대장장이가 되었을 뿐이에요. 배 같은 다른 좋아하는 것도 있어요. 지금 당장 사랑스러운 배를 가득 담은 사랑스러운 쟁기통이 있다면 뭐든지 줄 수 있을 것 같아요. 내 사랑은 과즙이 많은 배를 좋아했죠? 그녀의 과수원에서요. 그녀는 게 사과도 먹었죠.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_JOVIAL_2 |= {FULLNAME}에게 쟁기꾼 빵 선물하기
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_JOVIAL_2 |= {FULLNAME}에게 쟁기꾼 빵 식사를 선물하세요. 직접 요리하거나, 선물 받거나, 해당 아이템을 획득할 수 있습니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_JOVIAL_2 |= 정말 대단하네요! 정말, 정말 맛있었어요! 입에 넣는 것만으로도 기분이 좋아져요. 감사합니다!
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_BOASTFUL_1 |= 재고를 옮기기가 힘들어요. 사람들이 당신을 존경하기 때문에 내 아이템을 가지고 있는 당신을 보면 상점을 방문할지도 모르죠. 새로운 광고 방법이 될 수도 있겠네요... 유명인 지지도요. 큰 인기를 끌지는 못하겠지만 시도해 볼 수는 있겠네요!
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_BOASTFUL_1 |= 대장장이에게서 아이템 5개 구매
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_BOASTFUL_1 |= {FULLNAME}에서 아이템 5개를 구입합니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_BOASTFUL_1 |= 정말 고마워요. 이제 사람들은 제가 얼마나 훌륭한 대장장이인지 알게 되었고, 모두 여러분의 도움과 저의 놀라운 아이디어 덕분입니다.
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_BOASTFUL_2 |= 당신은 모험가이고, 꽤 괜찮은 모험가인 것 같군요. 몬스터와 싸워서 제 무기를 더 많이 만들어 주시겠어요? 사람들이 이 무기의 놀라운 성능을 알게 된다면 분명 구매할 거예요. '오늘 한 조각의 품질을 얻으십시오' 또는 '나머지보다 한 발 앞서십시오'와 같은 일종의 슬로건도 가질 수 있습니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_BOASTFUL_2 |= 몬스터 20 마리 처치하기
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_BOASTFUL_2 |= 모든 전투 구역에서 모든 유형의 몬스터 20 마리 처치. 전투 중 맨 오른쪽에 있는 카운터에 진행 상황이 표시됩니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_BOASTFUL_2 |= 돌아온 것을 환영합니다, 슬레이어! 당신은 진정한 친구이고 나는 당신의 반대편에 서고 싶지 않습니다!
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_QUIRKY_1 |= 여러 종류의 광석을 시도해봤지만 성공할 수 없어요. 계속 시도해봐야겠어요. 고무 망치를 사용하지 않으면 도움이 될 것 같아요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_QUIRKY_1 |= {FULLNAME}에게 섀더리스 광석 3개 선물하기
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_QUIRKY_1 |= 채팅 또는 대화창을 통해 모든 품질의 셰더브리스 광석 3개를 선물하세요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_QUIRKY_1 |= 완벽하게 작동했습니다, 고마워요. 여기 이 여분의 광석을 가져가세요, 이걸로 만들 수 없으니 그냥 가져가세요. 저 광석을 잘 보세요, 모양이 바뀌지 않도록 하는 속성이 있는 것 같아요!
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_QUIRKY_2 |= 여러 종류의 광석을 시도해봤지만 성공할 수 없어요. 계속 시도해봐야겠어요. 고무 망치를 사용하지 않으면 도움이 될 것 같아요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_QUIRKY_2 |= {FULLNAME}에게 섀더리스 광석 3개 선물하기
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_QUIRKY_2 |= 채팅 또는 대화창을 통해 모든 품질의 셰더브리스 광석 3개를 선물하세요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_QUIRKY_2 |= 완벽하게 작동했습니다, 고마워요. 여기 이 여분의 광석을 가져가세요, 이걸로 만들 수가 없어서 그냥 가져가세요. 저 광석을 잘 보세요, 모양이 바뀌지 않도록 하는 속성이 있는 것 같아요!
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_PIOUS_1 |= 당신과 조곤 스승님 같은 분들의 모험 이야기를 들으니, 이제 그만 듣고만 있지 않고 제가 직접 이야기를 들려드리고 싶어요. 저는 청중을 매료시킬 수 있고, 수천 년 동안 모닥불 주위에서 이야기를 들려주는 사람이 되고 싶어요. 그러니 이제 그만 팔겠습니다. 대장간을 반값에 살 수 있을까요? 이렇게 밀어주시면 정말 감사하겠습니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_PIOUS_1 |= 대장간을 반값에 구입하세요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_PIOUS_1 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}이(가) 소유한 대장장이를 구입합니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_PIOUS_1 |= 감사합니다! 이제 역사의 페이지와 언어에 제 이름을 남기고 모험을 향해 앞으로 나아가세요!
+
+GEN_NPC_STORY_BLACKSMITHCOUNTER_START_PIOUS_2 |= 당신과 조곤 스승님 같은 분들의 모험 이야기를 들으니, 이제 그만 듣고만 있지 않고 제가 직접 이야기를 들려드리고 싶어요. 저는 청중을 매료시킬 수 있고, 수천 년 동안 모닥불 주위에서 이야기를 들려주는 사람이 되고 싶어요. 그러니 이제 그만 팔겠습니다. 대장간을 반값에 살 수 있을까요? 이렇게 밀어주시면 정말 감사하겠습니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_PIOUS_2 |= 대장간을 반값에 구입하세요.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_PIOUS_2 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}이(가) 소유한 대장장이를 구입합니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_END_PIOUS_2 |= 감사합니다! 이제 역사의 페이지와 언어에 제 이름을 남기고 모험을 향해 앞으로 나아가세요!
+
+GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_1_GENERIC |= 안녕하세요. 만나서 반가워요. 저는 약재상 주인입니다. 양조는 제 사업이고 물약은 제 열정입니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_1_GENERIC |= 잘 만났습니다. 저는 약재상 주인입니다. 상처를 봉합하거나 기침을 치료하고 싶다면 제가 너클베리를 찾아주세요.
+GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_1_COMPLAINER |= 안녕하세요. 이 근처에서 오셨나요? 아니요, 이미 이곳이 마음에 들지 않아요. 잔디는 조금 덜 '잔디'이고 물은 덜 '물'이죠.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_2_GENERIC |= 저는 다른 사람을 돕고 지식을 전수하는 데 관심이 있습니다. 한 땀의 시간이 아홉을 구한다고 합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_2_GENERIC |= 솔직히 말해서 저는 이 일을 처음 시작했지만 항상 배우고 기술을 향상시키려고 노력합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_2_BOASTFUL |= 나는 바보가 아니며 터프우드를 제외하고는 어두운 숲에서 몬스터 부품을 기꺼이 얻을 수 있습니다. 저 같은 전문 몬스터 슬레이어에게도 그곳은 너무 무서운 곳이에요.
+GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_2_PIOUS |= 저는 의학의 경이로움을 정말 좋아하지만, 신앙의 치유를 굳게 믿습니다. 여신이 모든 허브와 꽃에 자신의 일부를 넣었고, 증류된 믿음이 치유의 힘으로 치료제를 채운다고 생각해요.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_1_GENERIC |= 현지인들의 개인 건강과 복지에 대한 안일한 태도에 대해 우려를 표하지 않을 수 없습니다. 같은 질병을 앓고 있는 사람들을 계속 만나게 되죠. 그래도 바쁘긴 하죠!
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_1_GENERIC |= 제가 작업할 수 있는 현지 재료에 대해 더 많이 알게 되어 정말 기대가 됩니다. 특정 질병이 증가하고 있다는 것을 알았으니 제가 도울 수 있을 것 같아요.
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_1_JOVIAL |= 꽃에 대해 이야기하게 되어 정말 흥분됩니다. 꽃의 색깔, 향기, 맛을 사랑하면 돼요. 하! 아니요! 실제로는 냄새를 맡지 않고 그냥 먹기만 해요. 하하!
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_1_QUIRKY |= 그나저나 괴물에 대한 정보가 많아요. 파첸이 눈, 팔, 다리가 하나라는 사실을 알고 계셨나요? 두 개의 인격을 가진 생명체였기 때문에 끊임없이 다투다가 스스로 둘로 나뉘었기 때문이죠! 그리고 워터 해그가 있습니다. 오래전에 익사한 마녀였다가 지금은 물속 은신처에서 복수를 노린다는 설이 있어요.
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_1_BOASTFUL |= 반갑습니다. 사냥에서 돌아온 지 얼마 안 됐어. 여느 때처럼 몬스터 몇 마리를 쓰러뜨리고 좋은 부속물을 얻었죠. 보여드리고 싶지만 스포일러하고 싶지 않네요. 그래도 충분히 볼 만한 가치가 있는 것들이니 오해하지 마세요.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_2_GENERIC |= 당신을 더 알아가게 되어 기쁩니다. 저는 친구를 사귀고 사람들을 도울 때 가장 행복하지만, 환자는 약재상을 떠날 때까지만 친구일 뿐입니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_2_GENERIC |= 몬스터 부품 등을 얻어야 하지만 솔직히 말해서 조금 조심스러워요. 소수의 작은 괴물은 다룰 수 있지만 가끔씩 나타나는 더 크고 끔찍한 괴물은 싫거든요. 그럼 못을 박아야겠네요!
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_2_COMPLAINER |= 내가 왜 이곳에서 일해야 하는지 모르겠어요. 현지인들이 그렇게 친절하지 않아요. 제가 그들에게 욕을 하고 심술을 부리는 건 알지만, 제가 아닌 다른 사람을 탓해야 해요.
+GEN_NPC_STORY_CHEMISTCOUNTER_FRIENDLY_2_PIOUS |= 사람들이 자신과 우리가 사랑하는 여신에 대해 더 많은 믿음을 가졌다면, 그들을 괴롭히는 질병과 저주에 덜 취약할 것입니다.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_GENERIC |= 점점 가까워지고 있지 않나요? 뭐 하나 털어놔도 될까요? 저는 사실 의학을 잘하는 편은 아닌 것 같아요. 최선을 다하긴 하지만 복용량을 측정할 수 있는 지식이나 안목이 부족하죠. 언젠가는 누군가를 케이크로 만들 수 있을 거라고 확신합니다!
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_GENERIC |= 가장 끔찍한 질병의 치료제를 만들어서 유명해지면 정말 좋겠어요. 사람들이 제 가게로 몰려와서 돈을 던져줄 거예요. 글쎄요, 실제로 던지진 않겠지만요. 덜 심각한 질병은 주목을 받지 못할 수도 있지만 그것은 탁월함의 대가입니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_QUIRKY |= 아! 여러분께 들려드리고 싶은 이야기가 있어요. 심플우드의 님프들에 관한 이야기입니다. 한 모험가가 다친 님프를 발견하고 불쌍히 여긴 적이 있었어요. 그는 요정을 도와주고 간호하여 건강을 되찾아 주었죠. 요정은 곧 다시 날 수 있게 되었지만 모험가는 그 수고로움에 대한 대가로 놋쇠 1000냥을 청구했습니다. 요정이 벌에 쏘인 것 같네요! 하하! 이 이야기는 마치 무언가에 대한 해설처럼 느껴지네요.
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_JOVIAL |= 상록수에서 자란다는 꽃에 대해 말씀드리고 싶어요. 한 상인이 한 방랑자에게 그런 꽃을 팔았는데, 그는 그 꽃을 귀 뒤로 슬쩍 넣었습니다. 그는 숙녀들이 갑자기 그에게 훨씬 더 관심이 있다는 것을 발견했습니다. 그들은 그를 따라다니며 선물을 주고 토끼 인형도 주었죠. 그는 모든 관심에 너무 지쳐서 옷을 입기로 결심했습니다. 꽃은요? 아, 귀에서 떨어져서 납작해졌어요.
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_1_BOASTFUL |= 우리가 잘 지내고 있으니 비밀 하나 알려줄게요. 저는 마녀사냥꾼인 매튜 홉킨스와 친분이 있어요. 그는 종종 저에게 독점적으로 좋은 배역을 주기도 하지만 자랑하고 싶지는 않아요. 좋아요, 전 자랑하고 싶어요.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_2_GENERIC |= 이제 일상으로 돌아갈 시간이지만, 친구가 되어줘서 고마워요. 마치 노래처럼 들리네요. 순금입니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_2_GENERIC |= 저는 사람들을 도울 때 무언가를 성취하는 기분이 들어요. 여러분도 그런 기분을 느껴보신 적이 있나요?
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_2_COMPLAINER |= 이곳 주민들은 건강을 유지하기 위한 모범 사례를 노골적으로 무시하기 때문에 제 도움을 받을 자격이 없습니다. 사람들은 미스테리한 구멍에 손가락을 집어넣거나, 창고 뒤에서 발견한 음식을 먹거나, 서투른 걸음걸이로 작은 페이족 오두막을 짓밟는 것을 더 좋아합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_LIKE_2_PIOUS |= 헌금 의식에 커뮤니티가 더 많이 참여했으면 좋겠어요. 시주할 수 있는 만큼 시주를 하지 않거나 올바른 시주를 하지 않는 사람들이 있을 거예요. 교육은 깨달음으로 이어지고 새사람으로 거듭나는 데 부족함이 없습니다.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_COMPLAINER_1 |= 생각해 보니, 이 주변 사람들에게 교훈이 필요하다는 결론에 도달했습니다. 비열해 보일 수도 있지만, 그들에게 '문제'를 일으킨다면 그들은 스스로를 더 잘 돌볼지도 모릅니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_COMPLAINER_1 |= {TARGETNAME}에 구토 특성 부여 + NPC에게 돌아가기
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_COMPLAINER_1 |= 구토 특성이 있는 아이템을 {TARGETNAME}에게 선물하고 보상을 받으러 돌아옵니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_COMPLAINER_1 |= 제 과잉 반응에 대해 미안하게 생각합니다. 동생인 괜찮아 윌의 호의를 되찾기 위해 가격을 조금 낮춰야겠어요.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_COMPLAINER_2 |= 여기 사람들이 정말 건강해졌으면 좋겠어요. 항병 효과가 있는 아이템을 주실 수 있을까요? 그러면 빛을 보고 기분이 좋아질 거예요!
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_COMPLAINER_2 |= {TARGETNAME}에 역병 방지 특성 적용 + 반환
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_COMPLAINER_2 |= 질병 방지 특성이 있는 아이템을 {TARGETNAME}에게 선물합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_COMPLAINER_2 |= 언젠가는 모두 혜택을 받게 될 것입니다! 감사합니다.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_JOVIAL_1 |= 다른 영역에 놀랍고 마법 같은 꽃이 있다고 들었어요. 그곳은 에버그린이라고 불리는 곳이에요. 그곳에는 드라이아드와 이상한 식물들이 가득하다고 해요. 그런 곳에서 아름다운 꽃을 가져온다면 꿈만 같을 거예요.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_JOVIAL_1 |= {FULLNAME}에게 5 별 율리시스 선물하기
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_JOVIAL_1 |= 의뢰한 NPC에게 5 별 율리시스를 선물합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_JOVIAL_1 |= 선물해줘서 고마워요. 정말 아름다워요! 보상으로 저희가 직접 만든 꽃을 가져왔어요.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_JOVIAL_2 |= 저는 아까 큰 깨달음을 얻었습니다. 저는 꽃을 너무나도 사랑하지만 평생 꽃을 자르고 부수며 살아왔어요. 어떻게 그럴 수 있을까요? 이제는 꽃을 파괴하는 대신 꽃을 가꾸기 시작해야 할 때입니다. 제 약초를 사주시면 정말 도움이 될 거예요. 50% 할인된 가격에 구매하실 수 있습니다. 어떠세요?
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_JOVIAL_2 |= 약재상 반값에 구입하세요.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_JOVIAL_2 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}이(가) 소유한 약재상을 구입합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_JOVIAL_2 |= 진정한 친구. 새로운 기업을 즐겨보세요. 스타 상점 기업! 이제 과감히 도전하여 성공으로 이끄세요!
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_BOASTFUL_1 |= 제 친구인 마녀사냥꾼을 만나서 몇 가지 일을 해보셔야 합니다. 보통 홈스테드 선술집에서 그를 만날 수 있어요. 그는 약간 무뚝뚝하지만 확실히 자신의 일에 대해 잘 알고 있어요. 그와 조곤이 한판 붙는다고 상상해 보세요! 어쨌든, 그를 만나러 갔다가 다시 오세요.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_BOASTFUL_1 |= 마녀사냥꾼 현상금 2개 클리어 + 복귀
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_BOASTFUL_1 |= 농가 선술집의 마녀 사냥꾼과 대화하여 그가 선택한 현상금 2개를 받으십시오. 성공적으로 완료한 후 {FULLNAME}에게 돌아갑니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_BOASTFUL_1 |= 아, 잘했어. 옛날에는 몬스터를 쉽게 때려잡을 수 있었지. 요즘은 몬스터가 더 강해져서 다치는 사람이 점점 더 많아졌어요. 그런 사람들을 치료하는 데 집중해야 할 것 같아요. 여기 내 옛날 사냥 장비 가져가서 다치면 날 찾아와요.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_BOASTFUL_2 |= 내 사랑을 원한다면, 네가 쟁취해야 할 거야. 네가 나만큼 몬스터 처치에 능숙한지 알고 싶어. 최고급 몬스터를 잡아오면 기꺼이 내 빵을 나눠줄게요. 은유적인 의미에서 말이죠.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_BOASTFUL_2 |= {FULLNAME}에게 5 별 몬스터 부속물을 선물합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_BOASTFUL_2 |= 어떤 품질의 몬스터 부위든 {FULLNAME}에게 선물하세요.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_BOASTFUL_2 |= 잘했어요! 감사드리며 추가 텍스트는 필요하지 않습니다.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_QUIRKY_1 |= 부탁이 있어요. 제가 진행 중인 실험을 위해 최고급 님프 윙이 필요해요. 좀 구해줄 수 있을까요? 심플우드에 깊숙이 들어가야 할지도 모르지만, 많이 구해주시면 좋겠어요. 게다가 넌 완벽주의자니까 해낼 거라 믿어.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_QUIRKY_1 |= {FULLNAME}에게 5 별 님프 날개 선물하기
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_QUIRKY_1 |= 완료자에게 5 별 님프 날개를 선물하세요. 더 높은 별 등급을 받으려면 심플우드의 가장 깊은 곳으로 가세요.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_QUIRKY_1 |= 고마워요! 의사가 주문한 대로입니다. 감사의 뜻으로 여분의 부품을 가져가세요.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_QUIRKY_2 |= 이상한 꽃을 계속 꿈꿔요. 그리고 그 꿈에서 당신이 꽃을 따는 모습이 보여요. 덤불로 만든 키 큰 남자들이 보여요. 가장 순수한 물의 분수도 보여요. 그리고 당신이 꽃을 가져다 주면 내 마음이 녹아요. 제 꿈을 이뤄줄 수 있을까요?
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_QUIRKY_2 |= {FULLNAME}에게  별 페이의 꽃을 선물합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_QUIRKY_2 |= 모든 페이 왕국에서 획득한 5 별 페이 꽃 {FULLNAME}을 선물합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_QUIRKY_2 |= 당신은 꿈을 꾸는 사람입니다. 밤에 눈을 감으면 고개를 끄덕이며 당신을 생각하겠소.
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_PIOUS_1 |= 약 가방을 싸서 더 경건한 삶을 살아야 할 때가 왔다고 느낍니다. 자연 속에서 더 많은 시간을 보내며 우리 인생의 멋진 부지에 대해 생각해야겠어요. 원하신다면 반값에 사업을 넘겨드릴 수도 있어요. 안타깝게도 저에게서 구입하는 것이 당신의 할 일 목록에서 이것을 체크 할 수있는 유일한 방법이므로 어떻게 생각하십니까, 친애하는 친구?
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_PIOUS_1 |= 약재상을 반값에 구매합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_PIOUS_1 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}이(가) 소유한 약재상을 구입합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_PIOUS_1 |= 감사합니다. 아, 경배와 성찰의 삶이군. 내 사랑, 당신에겐 기미 크림을 섞어 바르는 삶이죠. 그래도 언제든 팔 수 있겠지!
+
+GEN_NPC_STORY_CHEMISTCOUNTER_START_PIOUS_2 |= 약 가방을 싸서 더 경건한 삶을 살아야 할 때가 왔다고 느낍니다. 자연 속에서 더 많은 시간을 보내며 우리 인생의 멋진 부지에 대해 생각해야겠어요. 원하신다면 이 사업을 반값에 넘겨드릴 수도 있어요. 안타깝게도 저에게서 구입하는 것이 당신의 할 일 목록에서 이것을 체크 할 수있는 유일한 방법이므로 어떻게 생각하십니까, 친애하는 친구?
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_PIOUS_2 |= 약재상을 반값에 구입하세요.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_PIOUS_2 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}이(가) 소유한 약재상을 구입합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_END_PIOUS_2 |= 감사합니다. 아, 경배와 성찰의 삶이군. 내 사랑, 당신에겐 기미 크림을 섞어 바르는 삶이죠. 그래도 언제든 팔 수 있겠지!
+
+GEN_NPC_STORY_VALE_INTRO_1_GENERIC |= 안녕하세요, 만나서 반가워요. 여기 멋지지 않나요? 활기차고 다채롭네요. 공기가 상쾌하네요.
+GEN_NPC_STORY_VALE_INTRO_1_GENERIC |= 만나서 반갑습니다. 윌로우다운 농장의 주인이신가요? 가끔 엿듣는 걸로 당신에 대해 많이 들었습니다.
+GEN_NPC_STORY_VALE_INTRO_1_PIOUS |= 환영합니다. 새로운 얼굴은 언제나 반갑습니다. 드루이다가 당신과 당신의 가족에게 미소를 짓길 바랍니다.
+
+GEN_NPC_STORY_VALE_INTRO_2_GENERIC |= 어렸을 때부터 항상 베일로 이사하고 싶었는데, 드디어 이곳에 오게 되었습니다.
+GEN_NPC_STORY_VALE_INTRO_2_GENERIC |= 이곳의 구석구석을 이미 다 알고 있는 것 같습니다. 카우팟 농장부터 크럼블초크 광산까지. 이곳은 모든 것을 갖춘 안식처예요.
+GEN_NPC_STORY_VALE_INTRO_2_JOVIAL |= 계곡은 정말 광활하고 아름답습니다. 모든 곳을 탐험하고 싶어요. 오래된 떡갈나무 아래 라벤더 사이에서 피크닉을 즐기고 싶어요.
+GEN_NPC_STORY_VALE_INTRO_2_COMPLAINER |= 베일이 제가 들은 소문에 걸맞은 모습을 보여주길 바랍니다. 어딘가의 매력에 대한 과장된 이야기보다 더 실망스러운 것은 없으니까요.
+
+GEN_NPC_STORY_VALE_FRIENDLY_1_GENERIC |= 베일은 너무 넓어서 벅찰 수 있습니다. 가끔은 마을의 번잡함이 너무 버거워서 한적한 곳을 찾아야 할 때가 있어요.
+GEN_NPC_STORY_VALE_FRIENDLY_1_GENERIC |= 안녕, 친구. 나보다 이 지역에 더 오래 있었군. 내가 어디를 방문해야 할 것 같아? 숨겨진 보석이나 비밀의 숲이 있나요?
+GEN_NPC_STORY_VALE_FRIENDLY_1_BOASTFUL |= 저는 베일 주변을 하이킹하며 이곳의 랜드마크 몇 곳을 방문하기 시작했죠. 허바드 할머니의 정원은 정말 볼만한 곳이에요. 저도 할머니처럼 농작물을 키우고 싶어요. 그리고 그녀의 집에서 나는 냄새는 정말 꿈만 같아요. 그 여자는 요리를 할 수 있습니다! 하지만 그녀가 키우는 개는 저를 방해합니다.
+GEN_NPC_STORY_VALE_FRIENDLY_1_COMPLAINER |= 북문에 있는 커다란 나무 울타리는 뭐죠? 다른 마을에 비해 너무 크고 위압적으로 보이는데요. 무언가를 막기 위한 건가요, 아니면 무언가를 막기 위한 건가요? 눈에 거슬려요.
+GEN_NPC_STORY_VALE_FRIENDLY_1_QUIRKY |= 최근에 몇 가지를 봤어요. 아직 확실한 것은 아니지만, 분명 어떤 종류의 유령 활동을 봤어요. 어두워진 후에 용기를 내서 묘지를 방문해야겠어요. 초자연적인 것을 좋아하지만 고대 신앙에 나오는 고대 죽은 사람들은 저를 소름 끼치게 하거든요. 농담이 아니죠!
+
+GEN_NPC_STORY_VALE_FRIENDLY_2_GENERIC |= 아직 제대로 가보지 못한 곳이 몇 군데 있습니다.
+GEN_NPC_STORY_VALE_FRIENDLY_2_GENERIC |= 제가 아직 발견하지 못한 또 어떤 이상한 것들이 있는지 궁금하네요.
+GEN_NPC_STORY_VALE_FRIENDLY_2_JOVIAL |= 모스위스퍼 유적의 웅덩이는 정말 고요합니다. 나무 아래 앉아 하루 종일 물을 바라보며 깊은 생각에 잠긴 나무 보초병들과 함께 시간을 보낼 수 있을 것 같았어요. 지나간 시대를 그리워하게 되죠. 더 많은 사람들과 그 느낌을 공유할 수 있었으면 좋겠어요.
+GEN_NPC_STORY_VALE_FRIENDLY_2_PIOUS |= 페스티벌 그린은 우드펠로우의 영광을 만끽하며 시간을 보내기에 멋진 장소입니다. 맑은 날에는 카우팟 농장 건너편에서 하늘로 솟아오른 우드펠로우를 볼 수 있습니다. 이곳에 사는 사람들에게 이곳이 아름다운 신들의 관문이라는 것을 상기시켜 줍니다.
+
+GEN_NPC_STORY_VALE_LIKE_1_GENERIC |= 베일을 더 많이 탐험해봤는데, 정말 흥미진진한 곳입니다. 당신만큼이나 흥미진진하군요!
+GEN_NPC_STORY_VALE_LIKE_1_GENERIC |= 페스티벌 그린에서 돼지 경주를 하는 걸 봤어요. 정말 특이한 일이에요! 사람들이 힘들게 번 돈을 걸고 누가 가장 빠른지 겨루는 거죠. 재미있어 보이지만 식사를 잃을 수 있는 확실한 방법이에요.
+GEN_NPC_STORY_VALE_LIKE_1_BOASTFUL |= 안녕하세요, 새 친구! 매년 열리는  꽃 전시회가 있다고 들었어요. 제 방대한 식물 지식을 시험해 볼 수 있는 좋은 기회라고 생각해요. 저는 항상 퀼의 식물에 관심이 많았어요. 히아신스라는 방랑 소녀를 좋아했기 때문인 것 같아요.
+GEN_NPC_STORY_VALE_LIKE_1_COMPLAINER |= 광산 안에서 쾅하고 두드리는 소리가 많이 들려요. 조용한 밤에 공기가 고요하면 제 침대에서도 노크 소리가 들립니다. 미치겠어요. 하지만 이웃이 콘돌을 다 써버려서 그런 것일 수도 있습니다.
+GEN_NPC_STORY_VALE_LIKE_1_PIOUS |= 저는 매주 여신의 제물을 바치는 것을 좋아하며, 다른 분들도 그렇게 하셔야 한다고 생각합니다. 모범을 보이면 양떼가 따라올 것입니다. 그리고 보라, 물을 흘리는 자는 딸꾹질을 할 것이다. 그리고 흠뻑 젖은 사람은 수건을 부러운 눈으로 바라볼 것이다. 그리고 마지막 돌을 던지는 사람이 첫 번째 펀치를 던지게하십시오. 이제 말도 안 되는 이야기는 끝났습니다.
+
+GEN_NPC_STORY_VALE_LIKE_2_GENERIC |= 당신을 위해 노래를 만들었습니다. '끝없는 아름다움의 골짜기에서 나는 걷다가 내 친구를 만나네. 기쁜 마음으로 거기 서 있다가 방귀를 뀌네. 그때 나는 내가 진정으로 집에 있다는 것을 알게 되네, 내가 돌아다니는 골짜기에서'.
+GEN_NPC_STORY_VALE_LIKE_2_GENERIC |= 베일에는 흥미로운 이벤트, 축제, 랜드마크가 정말 많습니다. 다른 안식처보다 훨씬 더 크고 훨씬 더 다양해요. 여기로 이사 오길 잘했어요!
+GEN_NPC_STORY_VALE_LIKE_2_QUIRKY |= 영혼의 산책에 대해 들어본 적 있나요? 글을 읽은 적도 있고 현지인들도 그런 일이 일어난다던데, 진짜 같지는 않네요. 분명 보기 싫은 광경일 거예요.
+GEN_NPC_STORY_VALE_LIKE_2_JOVIAL |= 가을이 되면 마을 전체가 나와서 함께 춤을 추는 큰 모임이 있다고 들었어요. 정말 재미있을 것 같네요. 춤추고 싶으면 친구들을 두고 나와도 돼요. 친구들이 춤을 안 추면 내 친구가 아니니까요. 안전 수칙을 준수하고 모자는 쓰지 말아야 하지만요.
+
+GEN_NPC_STORY_VALE_START_COMPLAINER_1 |= 너도 나처럼 노커들이 이기적이라고 생각하니? 왜 그들이 모든 광석을 가져야 하는 거지? 그걸로 뭘 하려고?! 내가 직접 가져가야겠어. 내가 필요한 건 광석을 손에 넣을 수 있도록 도와줄 용감하고 (콜록) 속기 쉬운 (콜록) 영혼뿐이야.
+GEN_NPC_STORY_VALE_TASK_NAME_COMPLAINER_1 |= 광석 5개를 선물합니다.
+GEN_NPC_STORY_VALE_TASK_DESC_COMPLAINER_1 |= 모든 광석 종류를 5개 수집하여 임무 부여자에게 선물하세요.
+GEN_NPC_STORY_VALE_END_COMPLAINER_1 |= 오! 잡았어? 이거면 되겠네. 이렇게 못생긴 게 어떻게 아름다운 물건이 될 수 있는지 신기하네요.
+
+GEN_NPC_STORY_VALE_START_COMPLAINER_2 |= 있잖아요. 난 저 노커들과 함께 광산에 들어가지 않을 거야. 어떤 위험도 감수하지 않을 거야. 필요한 도구를 만들 다른 방법을 찾아야겠어. 재고를 확보할 수 있도록 도와주실 수 없나요?
+GEN_NPC_STORY_VALE_TASK_NAME_COMPLAINER_2 |= {FULLNAME}에게 삽 3개 선물하기
+GEN_NPC_STORY_VALE_TASK_DESC_COMPLAINER_2 |= {FULLNAME}에게 모든 삽 종류 3개를 선물합니다. 삽은 필요한 주형이 있다면 모든 대장간에서 구입하거나 제작할 수 있습니다.
+GEN_NPC_STORY_VALE_END_COMPLAINER_2 |= 건배! 저한테 큰 도움이 될 거예요. 하하!
+
+GEN_NPC_STORY_VALE_START_JOVIAL_1 |= 저는 즐거운 사람들만 가장 가깝고 소중한 사람으로 삼기로 결심했습니다. 가을의 8일 뻐꾸기 숲에서 열리는 삼하인 무도회에 참석하면 확실히 증명할 수 있을 것 같아요. 참여해서 제 마음을 얻으세요.
+GEN_NPC_STORY_VALE_TASK_NAME_JOVIAL_1 |= 삼하인 춤에 참여하기
+GEN_NPC_STORY_VALE_TASK_DESC_JOVIAL_1 |= 삼하인 춤이 활성화되면 해당 춤으로 이동합니다. 언제 어디서 열리는지 알아내야 합니다. 정보를 발견하면 달력을 확인하세요.
+GEN_NPC_STORY_VALE_END_JOVIAL_1 |= 춤이었어요, 알았어요! 내 발에 물집이 너무 많아요. 넌 어때? 넌 내 춤 파트너가 될 자격이 충분해.
+
+GEN_NPC_STORY_VALE_START_JOVIAL_2 |= 함께 즐거운 일을 해봅시다! 돼지 경주가 열리면 같이 보러 가는 건 어때요? 난 돼지들의 박진감 넘치는 경주를 좋아하거든.
+GEN_NPC_STORY_VALE_TASK_NAME_JOVIAL_2 |= {FULLNAME}을 데리고 돼지 경주를 관람하세요.
+GEN_NPC_STORY_VALE_TASK_DESC_JOVIAL_2 |= {FULLNAME}을 팔로우한 다음 돼지 경주 이벤트가 열리면 페스티벌 그린으로 이동합니다.
+GEN_NPC_STORY_VALE_END_JOVIAL_2 |= 정말 웃겼어요! 주머니를 가득 채울 만큼의 황동을 얻었네요. 하지만 구멍은 꿰매는 걸 잊지 마세요! 웃겨줘서 고마워요, 친구.
+
+GEN_NPC_STORY_VALE_START_BOASTFUL_1 |= 다음 꽃 전시회에 참가할 것 같아요. 우리 둘이 도전해보는 건 어때요? 돈은 돈대로 쓰자고요. 네가 이기면 내 존경과 찬사를 받을 거야. 하지만 기회는 없어요!
+GEN_NPC_STORY_VALE_TASK_NAME_BOASTFUL_1 |= 계곡의 꽃 전시회에서 {FULLNAME}을 이겼습니다.
+GEN_NPC_STORY_VALE_TASK_DESC_BOASTFUL_1 |= 꽃 전시회에 참가하여 승리하세요.
+GEN_NPC_STORY_VALE_END_BOASTFUL_1 |= 속임수를 쓴 것 같지만, 승리는 승리입니다. 어떻게 그런 짓을 했는지 정말 존경스럽고 당황스러워요! 네가 이겼다고 발표할 때 거의 오물을 뒤집어쓸 뻔했어!
+
+GEN_NPC_STORY_VALE_START_BOASTFUL_2 |= 러브 레벨의 임무가 있어요. 매년 열리는 꽃 전시회를 위해 연습이 필요해요. 제 매력을 높여주실 수 있나요?
+GEN_NPC_STORY_VALE_TASK_NAME_BOASTFUL_2 |= {FULLNAME}에게 매력 적용
+GEN_NPC_STORY_VALE_TASK_DESC_BOASTFUL_2 |= 매력 특성이 있는 아이템을 {FULLNAME}에게 선물하세요.
+GEN_NPC_STORY_VALE_END_BOASTFUL_2 |= 잘생기지 않았나요? 퍽의 발굽에 매료된 내 모습이 느껴져. 자, 내 거울은 어디 있지? 자기애가 좀 필요해요.
+
+GEN_NPC_STORY_VALE_START_QUIRKY_1 |= 진짜예요. 모든 것이 진짜예요. 시간도 알고, 날짜도 알고, 장소도 알아요. 민들레 시계처럼 매년 일어나는 일이죠. 겨울의 8일, 오후 8시 이후에 묘지에 가서 옵스큐라를 가져와야 해요.
+GEN_NPC_STORY_VALE_TASK_NAME_QUIRKY_1 |= 정령의 산책 이벤트 중 {FULLNAME}을 무덤으로 데려가세요.
+GEN_NPC_STORY_VALE_TASK_DESC_QUIRKY_1 |= 영혼의 산책 이벤트 중에 {FULLNAME}을 데려가서 무덤으로 데려가세요. 달력에서 겨울의 8일을 확인하고 오후 8시 이후에 해당 장소로 가세요.
+GEN_NPC_STORY_VALE_END_QUIRKY_1 |= 그 어떤 것과도 비교할 수 없는 경험이었어요. 등골이 오싹할 정도였어요! 멋진 저녁을 보내 주셔서 정말 감사합니다! 지금 제 기분이 정말 최고조에 달했어요!
+
+GEN_NPC_STORY_VALE_START_QUIRKY_2 |= 정령의 산책이 진짜일지도 몰라요. 매년 겨울 8일에 열린다고 들었거든요. 영혼들은 묘지를 떠나 슬픈 행렬을 따라 북쪽으로 향한다고 하네요. 그렇게 많은 유령을 한꺼번에 볼 수 있을지 모르겠어요. 저 대신 가서 정말 사실인지 알아봐 주실 수 있나요?
+GEN_NPC_STORY_VALE_TASK_NAME_QUIRKY_2 |= 정령 5종족과 상호작용하기
+GEN_NPC_STORY_VALE_TASK_DESC_QUIRKY_2 |= 정령의 산책로를 찾아 5명의 정령과 상호작용하세요.
+GEN_NPC_STORY_VALE_END_QUIRKY_2 |= 정령과 함께 걸었다고요? 정령들과 대화를 나눴다고요? 점프하고 삐걱거리고 끽끽거리며 오, 잠깐만요, 그건 틀렸어요. 그래도 정말 멋졌을 거예요!
+
+GEN_NPC_STORY_VALE_START_PIOUS_1 |= 드루이다에게 성대한 제물을 바칠 수 있을까요? 그러면 당신이 여신들과 얼마나 친밀한지 증명할 수 있을 것 같군요.
+GEN_NPC_STORY_VALE_TASK_NAME_PIOUS_1 |= 드루이다에게 5 별 제물 바치기
+GEN_NPC_STORY_VALE_TASK_DESC_PIOUS_1 |= 여신의 날에 드루이다에게 5 별 아이템 중 하나를 제물로 바치세요.
+GEN_NPC_STORY_VALE_END_PIOUS_1 |= 예배와 헌신의 혜택을 진정으로 옹호하는 사람입니다. 이제 저의 헌신은 여러분에게로 향합니다.
+
+GEN_NPC_STORY_VALE_START_PIOUS_2 |= 프라일에게 최상급 제물을 바칠 수 있나요? 그렇게 하면 예배를 위해 더 많은 노력을 기울일 준비가 되어 있다는 것을 보여줄 수 있습니다.
+GEN_NPC_STORY_VALE_TASK_NAME_PIOUS_2 |= 프라일에게 5 별 제물 바치기
+GEN_NPC_STORY_VALE_TASK_DESC_PIOUS_2 |= 여신의 날에 프라일에게 5 별 아이템 중 하나를 제물로 바치세요.
+GEN_NPC_STORY_VALE_END_PIOUS_2 |= 넌 정말 필요한 것을 가지고 있고 명령을 받는 것을 좋아해! 경험치 몇 개와 보상이라면 뭐든 안 할 수 없겠어? 말하지 마세요! 어쨌든, 그 점은 존중합니다.
+
+GEN_NPC_STORY_SUMMERDOWN_INTRO_1_GENERIC |= 반갑습니다! 베일에서 오셨나요? 거기가 아주 아름답다고 들었어요. 서머다운은 양귀비꽃이 필 때, 특히 커다란 양귀비꽃이 피면 정말 예뻐요!
+GEN_NPC_STORY_SUMMERDOWN_INTRO_1_GENERIC |= 안녕하세요! 멀리서나마 만나서 반갑습니다. 파티하기 좋은 곳이라는 소문을 듣고 최근에 이사왔어요!
+GEN_NPC_STORY_SUMMERDOWN_INTRO_1_QUIRKY |= 안녕, 동료 인간 동료여... 네가 인간이라면? 이 많은 장난꾸러기 페이들을 보면 확신할 수 없지. 변신술사들, 그 많은 녀석들!
+GEN_NPC_STORY_SUMMERDOWN_INTRO_1_PIOUS |= 나이다를 찬양합니다. 만나서 반가워요. 당신에게 축복이 있기를.
+
+GEN_NPC_STORY_SUMMERDOWN_INTRO_2_GENERIC |= 이 부분에는 분명 과잉의 분위기가 있습니다. 양귀비, 파이, 음주, 쾌락 추구. 꽤 거칠어요.
+GEN_NPC_STORY_SUMMERDOWN_INTRO_2_GENERIC |= 음식으로 허리둘레에 살을 조금 더 찌웠다가 춤과 다른 여가 활동으로 다시 빼는 곳처럼 보입니다.
+GEN_NPC_STORY_SUMMERDOWN_INTRO_2_COMPLAINER |= 저는 이곳에 처음 왔어요. 괜찮은 곳인가요? 주변에 몬스터가 너무 많지 않았으면 좋겠네요.
+
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_1_GENERIC |= 서머다운은 꽤나 즐거운 곳입니다. 나무와 덤불, 벽돌과 대들보마다 유쾌함이 가득합니다. 평화로운 것을 좋아한다면 가끔은 조금 과할 수도 있습니다.
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_1_GENERIC |= 안녕 친구. 세상 사람으로서 제가 어디를 방문해야 할까요? 사색하기에 좋은 조용한 숲이나 조용한 수영장이 있나요?
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_1_QUIRKY |= 페이에 대해 들어봤어요. 하지만 어디를 찾아야 할지 안다면 지역 숲을 거닐며 찾을 수 있는 것은 그것만이 아닙니다. 구석구석 비밀스러운 구석에 낯선 것들이 가득합니다. 얼마 전 홈스테드 북쪽을 걷다가 거인의 신발 조각 근처에서 함께 기어 다니는 이상한 살덩어리 생명체로 가득한 공터를 발견했어요. 정말 신기했어요!
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_1_BOASTFUL |= 제 빵 굽기가 현지인들에게 잘 먹히고 있는 것 같네요. 생산물 중 일부를 페스트필드에 가져가야겠어요. 맛있는 황동을 만들 수 있을 거예요.
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_1_COMPLAINER |= 저는 전에 살던 집에서 무서운 것들 때문에 고생이 많았어요. 황야를 가로질러 멜로우필드로 갈 때는 심플우드를 피하려고 노력하지만 여전히 소름이 돋고, 가끔씩 괴물이 숲에서 나와 장난을 친다고 해요.
+
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_2_GENERIC |= 아직 제대로 가보지 못한 곳이 몇 군데 있습니다.
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_2_GENERIC |= 맥주, 파이, 축제에 대한 이야기에서 벗어날 수 있는 조용한 장소가 서머다운에 있는지 궁금해요.
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_2_JOVIAL |= 주변 사람들은 모두 친절하지만 저는 여전히 친구를 사귀는 것이 어렵습니다. 다들 이미 서로를 다 알고 있거든요. 저는 금붕어 파티를 구경하는 고양이처럼 겉돌고 있어요. 문과 함께 드라운힐에서 캠핑을 해야 할 것 같아요. 텐트 안에서요 게딧?!
+GEN_NPC_STORY_SUMMERDOWN_FRIENDLY_2_PIOUS |= 저는 러버우드에서 커플들이 오고가는 모습을 지켜보며 시간을 보내고 있습니다. 가끔은 이런 신이 아니라 사랑 그 자체와 그 사랑이 가져다주는 모든 것을 숭배해야 한다고 생각해요. 하지만 입 밖으로 내지는 않았어요.
+
+GEN_NPC_STORY_SUMMERDOWN_LIKE_1_GENERIC |= 포피힐과 그 주변 지역을 더 많이 탐험해봤어요. 당신처럼 좋은 기운이 느껴져요!
+GEN_NPC_STORY_SUMMERDOWN_LIKE_1_GENERIC |= 페스트필드에서 치킨 경주를 하는 걸 봤어요. 정말 특이한 일이죠! 사람들이 힘들게 번 돈을 걸고 누가 가장 빠른지 겨루는 거예요. 미치겠네!
+GEN_NPC_STORY_SUMMERDOWN_LIKE_1_BOASTFUL |= 서머다운에서 제빵 대회가 열린다고요? 저도 참가할 수 있어요. 여름이 다가오면 이곳 주민들이 가장 많이 하는 이야기예요. 현지인들이 먹는 파이와 케이크의 양을 보면 알 수 있죠. 가족 레시피를 조금 더 다듬어야겠지만 언젠가 우승하는 모습을 보게 될 거예요.
+GEN_NPC_STORY_SUMMERDOWN_LIKE_1_JOVIAL |= 매년 열리는 댄스파티가 있어요. 친구를 사귀는 기회로 삼아야 할 것 같아요. 생각해보니 제 춤 실력은 좀 더 연습해야 할 것 같아요.
+
+GEN_NPC_STORY_SUMMERDOWN_LIKE_2_GENERIC |= 시간을 보내기 위해 노래를 만들었습니다. '장미는 붉고 양귀비도 붉어. 내 마음은 붉고 너를 위해 뛰고 있어'. 약간 촌스럽긴 하지만 언젠가 이 모든 것을 담은 책을 써서 큰돈을 벌 수 있을 거라고 확신합니다.
+GEN_NPC_STORY_SUMMERDOWN_LIKE_2_GENERIC |= 베일에는 흥미로운 이벤트, 축제, 랜드마크가 정말 많습니다. 다른 피난처보다 훨씬 더 크고 훨씬 더 다양해요. 이곳으로 이사 오길 잘했어요!
+GEN_NPC_STORY_SUMMERDOWN_LIKE_2_QUIRKY |= 이 이상한 생명체들이 어디서 왔는지 궁금해요. 허수아비도 가끔씩 일어나서 튀어다닌다고 현지인한테 들었어요. 늙은 프레드 바리콘이라고 하더군요. 한 번 보면 믿음이 가네요.
+GEN_NPC_STORY_SUMMERDOWN_LIKE_2_COMPLAINER |= 그만하면 충분합니다. 이 괴물들에 대해 뭔가 조치가 필요해. 마녀사냥꾼의 도움을 받을 수 있을까요? 홈스테드 선술집에서 그를 본 적이 있어요. 내가 본 중에 가장 못된 놈이었어.
+GEN_NPC_STORY_SUMMERDOWN_LIKE_2_PIOUS |= 또 다시 여신의 날이 다가오는데, 제가 무엇을 선물하고 싶은지 정말 모르겠어요. 이런 말 하면 안 되는 건 알지만, 점점 귀찮은 일처럼 느껴지기 시작했어요. 정말 영원히 이걸 해야 할까요?
+
+GEN_NPC_STORY_SUMMERDOWN_START_COMPLAINER_1 |= 내 사랑을 원한다고? 내 등을 긁어주면 나도 네 등을 긁어줄게. 마녀사냥꾼 현상금 몇 개만 해결하면 난 더 쉽게 잠들 수 있고, 우린 절친이 될 수 있어.
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_COMPLAINER_1 |= 마녀사냥꾼 현상금 5회 클리어
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_COMPLAINER_1 |= 농가의 선술집에서 마녀 사냥꾼과 대화하여 현상금 5개를 클리어하세요.
+GEN_NPC_STORY_SUMMERDOWN_END_COMPLAINER_1 |= 몬스터의 살인자, 정말 존경스럽군! 더 빨리 끝낼 수도 있었지만 괜찮아.
+
+GEN_NPC_STORY_SUMMERDOWN_START_COMPLAINER_2 |= 마녀 사냥꾼을 찾으세요. 농가의 선술집에서 그를 찾을 수 있습니다. 하지만 너무 많은 관심을 끌고 싶지 않으니, 불면증 환자를 제외한 모든 사람이 잠자리에 든 자정 이후에 찾아가는 것이 좋겠습니다.
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_COMPLAINER_2 |= 마녀사냥꾼 현상금 5회 클리어
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_COMPLAINER_2 |= 농가의 선술집에서 마녀 사냥꾼과 대화하여 현상금 5개를 클리어하세요.
+GEN_NPC_STORY_SUMMERDOWN_END_COMPLAINER_2 |= 그를 찾았어요? 키가 좀 크고 무섭게 생겼어요. 그래도 거래는 거래야.
+
+GEN_NPC_STORY_SUMMERDOWN_START_JOVIAL_1 |= 그거 알아요? 자네는 훌륭하다고 생각하지만 조금 더 긴장을 풀고 여유를 가져야겠어. 여름의 첫날, 페스트필드에서 열리는 메이폴 댄스에 참여해보는 건 어떨까요? 사랑을 느슨하게 흔들어 보세요!
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_JOVIAL_1 |= 메이폴 댄스 참여하기
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_JOVIAL_1 |= 여름 1일차에 축제 필드로 가서 표시된 구역으로 들어가 메이폴 댄스에 참여하세요.
+GEN_NPC_STORY_SUMMERDOWN_END_JOVIAL_1 |= 폭동 아니었어?! 아뇨, 그냥 춤이었어요. 그래도 좋은 춤이었어요. 춤으로 자신을 진동하는 닭처럼 보이게 해줘서 고마워요.
+
+GEN_NPC_STORY_SUMMERDOWN_START_JOVIAL_2 |= 함께 즐거운 일을 해봅시다! 닭 경주가 열리면 같이 보러 가는 건 어때요? 난 닭 울음소리가 들리는 걸 좋아하거든.
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_JOVIAL_2 |= {FULLNAME}과 함께 닭 경주를 관람하세요.
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_JOVIAL_2 |= {FULLNAME}을 받아 치킨 레이싱 당일 페스트필드에 있는 표시된 지역으로 데려가세요.
+GEN_NPC_STORY_SUMMERDOWN_END_JOVIAL_2 |= 고마워요. 알을 품은 것처럼 작은 깃털이 달린 바닥이 트랙을 따라 흔들리는 모습을 보는 것은 정말 즐거웠습니다.
+
+GEN_NPC_STORY_SUMMERDOWN_START_BOASTFUL_1 |= 다음 그레이트 퀼리쉬 베이크 오프에 참가해서 우승할 것 같아요. 우리 둘의 작은 도전에 대해 어떻게 생각하세요? 여름의 12일 FestField에서요. 거기서 만나거나 네모난 샌드위치가 되어보세요.
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_BOASTFUL_1 |= 썸머다운 대 퀼리쉬 베이크 오프에서 {FULLNAME}을 쓰러뜨리세요.
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_BOASTFUL_1 |= 페스트필드에서 12일 여름에 열리는 베이크 오프에 참가해 우승하세요. 시상대에 오르려면 별 5개의 창작물이 필요할 것입니다!
+GEN_NPC_STORY_SUMMERDOWN_END_BOASTFUL_1 |= 당신은 제빵의 달인이고, 실수하지 않았어요! 정말 멋진 빵을 뽑아주셨어요. 언젠가 다시 와서 또 해봐야겠어요!
+
+GEN_NPC_STORY_SUMMERDOWN_START_BOASTFUL_2 |= 제빵 대회 연습 때문에 너무 피곤해요. 체력을 올려주실 수 있나요?
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_BOASTFUL_2 |= {FULLNAME}에게 체력 적용
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_BOASTFUL_2 |= 체력 특성이 있는 아이템을 {FULLNAME}에게 선물합니다.
+GEN_NPC_STORY_SUMMERDOWN_END_BOASTFUL_2 |= 아, 이제 훨씬 더 힘이 났어요, 감사합니다!
+
+GEN_NPC_STORY_SUMMERDOWN_START_QUIRKY_1 |= 안녕! 날 사랑한다면 프레드 바리콘의 놀라운 광경을 보러 데려가야지. 사람들이 말하길, 프레드가 페스트필드에서 여름이 시작되는 4일에 깨어나 사탕을 나눠주며 뛰어다닌다고 하더라고요. 꼭 봐야겠어요.
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_QUIRKY_1 |= 프레드 바리콘이 깨어나는 오후 8시 동안 {FULLNAME}을 데리고 페스트필드로 가세요.
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_QUIRKY_1 |= 여름 4일 오후 8시에 {FULLNAME}을 팔로우하여 페스트필드로 데려가세요.
+GEN_NPC_STORY_SUMMERDOWN_END_QUIRKY_1 |= 내 버터 요리에 축복을! 정말 대단하네요. 튀어오르는 허수아비가 사탕을 토해내다니. 그런 광경을 본 적이 있나요? 글쎄요, 네, 거기 있었기 때문에 보셨겠지만 무슨 말인지 아시겠죠?
+
+GEN_NPC_STORY_SUMMERDOWN_START_QUIRKY_2 |= 최근 페스트필드에 있는 허수아비가 매년 여름 4일에 살아난다고 들었어요. 허수아비를 돌로 치면 사탕을 뿌려준다는 이야기가 있어요. 그렇게 하면 영웅이 될 수 있을 것 같아요!
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_QUIRKY_2 |= 새총으로 프레드 바리콘을 두 번 공격합니다.
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_QUIRKY_2 |= 4일 여름 오후 8시 이후 프레드 바리콘이 튀어나오기를 기다렸다가 새총으로 그를 두 번 명중시키세요.
+GEN_NPC_STORY_SUMMERDOWN_END_QUIRKY_2 |= 넌 정말 용감해. 넌 내가 존경할 만한 사람이야. 특히 네가 테이블 위에 서 있었다면. 사탕 맛이 좋았으면 좋겠어요... 어디에 보관하는지 모르겠어요!
+
+GEN_NPC_STORY_SUMMERDOWN_START_PIOUS_1 |= 나이다에게 성대한 제물을 바칠 수 있을까요? 정말, 정말 좋은 거요.
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_PIOUS_1 |= 나이다에게 5 별 제물 바치기
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_PIOUS_1 |= 여신의 날에 모든 여신상에서 나이다에게 5 별 제물을 바치세요.
+GEN_NPC_STORY_SUMMERDOWN_END_PIOUS_1 |= 위대하신 분의 성대한 제물입니다. 여신들이 당신의 머리에 꿀을 붓고 소나기를 내리시길. 당신은 인간의 모습을 한 대접입니다.
+
+GEN_NPC_STORY_SUMMERDOWN_START_PIOUS_2 |= 히알리스에게 최고급 제물을 바치시겠습니까?
+GEN_NPC_STORY_SUMMERDOWN_TASK_NAME_PIOUS_2 |= 히알리스에게 5 별 제물 바치기
+GEN_NPC_STORY_SUMMERDOWN_TASK_DESC_PIOUS_2 |= 여신의 날에 모든 여신상에서 히알리스에게 5 별 제물을 바치세요.
+GEN_NPC_STORY_SUMMERDOWN_END_PIOUS_2 |= 진정한 신봉자! 존경스럽군.
+
+GEN_NPC_STORY_MELLOWFIELDS_INTRO_1_GENERIC |= 잘 만났어요! 발품을 좀 팔아본 사람처럼 보이네요. 임무를 수행하고 작은 보상을 얻는 것을 좋아하시죠?
+GEN_NPC_STORY_MELLOWFIELDS_INTRO_1_COMPLAINER |= 여기 주변 시장이 어떤지 아세요? 꽤 쓸모없고 재미없을 거예요.
+GEN_NPC_STORY_MELLOWFIELDS_INTRO_1_JOVIAL |= 좋은 하루 되세요. 막 산책을 나가려던 찰나에 저를 잡으셨군요. 아니면 머리 좀 식히러 나가려고요. 확실히 전자인 것 같아요!
+
+GEN_NPC_STORY_MELLOWFIELDS_INTRO_2_GENERIC |= 저는 구석구석에 어떤 것이 있는지 알아보기 위해 조금 탐험을 해보았습니다. 베일만큼 풍부하거나 다양하지는 않지만 여전히 흥미롭습니다.
+GEN_NPC_STORY_MELLOWFIELDS_INTRO_2_PIOUS |= 잘 만났습니다. 복된 하루 되시길 바랍니다.
+
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_1_GENERIC |= 이곳은 분명 매력적이지만, 가십과 뒷담화, 탐욕의 화약고라는 것을 알게 되었습니다. 경쟁이 너무 치열해요!
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_1_GENERIC |= 멜로우필즈의 시골 정원에는 얼마나 많은 꽃이 자라나요? 제가 아는 꽃을 보여주시면 알려드릴게요. 하! 그냥 놀리는 거야. 아직 당신의 피튜니아는 보고 싶지 않아요.
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_1_QUIRKY |= 제 가금류 파트너와 저는 현지인들과 시간을 보내며 새로운 친구를 사귀었습니다. 친구를 데리고 대상포진에 가려고 했는데 미드우드의 뒤틀린 나무를 볼 때마다 말 그대로 겁을 먹더라고요.
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_1_BOASTFUL |= 얼마 전 트윙잉 가든을 산책했습니다. 솔직히 말해서 제 자존심이 한 방 먹었죠. 그곳의 정원은 정말 멋졌어요. 마쉬티트가 양파와 다른 식물에 대해 잘 알고 있더군요.
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_1_PIOUS |= 댄서들에 있는 조각상들이 정말 신비로운 분위기를 풍기고 있네요, 아시죠? 저 땅에서 어떤 마법이 흘러나오는지는 모르겠지만 뭔가 특별한 느낌이 들어요. 분명 어떤 목적이 있을 거예요!
+
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_2_GENERIC |= 정원과 울타리에는 분명 많은 속삭임과 킥킥거리며 자라는 것들이 숨어 있습니다. 받아들이기에는 너무 많다고 대제사장이 생선장수에게 말했습니다.
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_2_GENERIC |= 멜로우필드 사람들은 전통적으로 키가 작았기 때문에 누구보다 더 크고 싶어했고, 정원 가꾸기 같은 재능을 통해 성장 부진을 만회하려고 했던 것 같아요.
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_2_COMPLAINER |= 얼마 전 파인페이어에서 시장을 둘러봤어요. 일상적인 기본 물품 외에는 관심 있는 물건이 하나도 없었어요. 매우 실망스러웠어요.
+GEN_NPC_STORY_MELLOWFIELDS_FRIENDLY_2_JOVIAL |= 이곳 멜로우필드에는 구석구석 발견할 곳이 정말 많아요. 얼마 전 멜로우브룩 북동쪽에서 숨겨진 작은 동굴을 발견했어요. 마법 같았죠. 글쎄요, '실제로' 마법 같은 건 아니었어요.
+
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_1_GENERIC |= 이곳의 공기는 정말 기분이 좋아지는군요. 저 꽃향기 속에 뭔가 있나 봐요. 정말 큰 키가 되어서 작은 주먹을 흔들며 저를 화나게 바라보는 모든 꼬마들에게 트로피를 흔드는 꿈을 계속 꿔요. 아이들의 얼굴은 부러움으로 가득 차 있고, 저는 너무 웃어서 재채기를 하며 그들을 날려버립니다.
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_1_GENERIC |= 당신은 좋은 정원사입니까? 당신은 풍자와 소스로 가득 차 있습니까? 씁쓸한가요? 이기적인가요? 이런 성격이라면 이 부분에 잘 어울리겠지만, 실제로는 정원 가꾸기를 잘 못하시는 것 같네요. 하! 농담이에요.
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_1_BOASTFUL |= 현지인들로부터 가을에 열리는 채소 전시회가 있다고 들었어요. 여행하면서 얻은 지식으로 수상 경력에 빛나는 채소를 재배할 수 있을 것 같아요. 자신감이 오만하게 들릴 수도 있겠네요.
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_1_COMPLAINER |= 이곳의 현지 상인들은 똑같은 물건만 팔고 있습니다. 여행하는 상인조차도 더 이상 흥미롭고 "이국적인" 물건은 거의 없습니다. 그저 똑같은 문신일 뿐이죠. 그래도 잘 팔리니 비난할 수는 없죠. 정신이 아니라 대중을 먹여 살리는 거죠?
+
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_2_GENERIC |= 이 동네 사람들은 가끔 말뚝을 한두 개 뽑거나 최소한 빨랫줄에 걸어 말려야 할 것 같아요! 프라일의 들판에 있는 풍차에 달아두면 좋겠어요!
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_2_GENERIC |= 스스로에 대해 부풀어 있는 자신을 발견했다면, 잠시 시간을 내어 장미 향기를 맡아보세요. 그 향기를 맡으면 사랑이 느껴질지도 모릅니다. 저도 스스로가 허무하게 느껴질 때마다 그렇게 하곤 했어요. 숨을 깊게 들이마시고 나면 다시 단단한 바닥으로 돌아왔어요.
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_2_QUIRKY |= 인사이트를 좀 공유해도 될까요? 제 비밀 취미가 닭인데, 특히 닭이 사회 집단으로서 어떻게 행동하는지에 관심이 많아요. 매년 닭의 대이동이 있다고 들었는데 정말 멋진 광경이 펼쳐진다고 들었어요! 그런 광경을 상상할 수 있나요? 이제 제 비밀 취미가 비밀이 아니라는 걸 깨달았어요. 부리는 꼭 닫아주세요.
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_2_JOVIAL |= 이 헤이븐이 제공하는 모든 것을 경험하고 싶어요. 매년 열리는 블러썸 댄스는 제가 가장 좋아하는 행사예요. 아름다울 뿐만 아니라 살이 조금 빠지는 데도 좋거든요!
+GEN_NPC_STORY_MELLOWFIELDS_LIKE_2_PIOUS |= 댄서 조각상에 매료된 제가 여신을 조금 화나게 한 건 아닌지 조금 걱정이 되네요. 하루가 끝날 무렵, 그들은 최고입니다. 제 영적 초점은 기괴한 랜드마크가 아니라 그들에 맞춰져야 해요.
+
+GEN_NPC_STORY_MELLOWFIELDS_START_COMPLAINER_1 |= 상인들이 제가 원하는 물건을 팔지 않아서 너무 짜증이 납니다. 거래 표준 위원회에 편지를 썼지만 당연히 그들은 5000년 전에 존재를 멈췄습니다. 그래서 좀 더 흥미로운 아이템을 구할 수 있는 곳을 알아보다가 유령 상인이 있다는 것을 알게 되었어요! 유령 상인이라고요! 말장난을 하려는 건 아니었지만, 정말 신기했습니다. 제가 아는 건 그가 밤에 황야를 자주 찾는다는 것뿐이었어요. 그 또는 그녀에게서 물건을 사면... 우리가 반드시 그들을 알 필요는 없지만, 나는 평생 친구가 될 것입니다. 아니면 우리의 우정 수준이 떨어질 때까지요.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_COMPLAINER_1 |= 유령 상인에게서 아이템 1개 구매
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_COMPLAINER_1 |= 유령 상인을 찾아 상호작용하고 상점 간판을 선택해 아이템 하나를 구입하세요. 유령 상인이 언제 어디서 나타나는지 알아내야 할 수도 있습니다.
+GEN_NPC_STORY_MELLOWFIELDS_END_COMPLAINER_1 |= 정말 불평할 수가 없네요. 시키는 대로 해줬으니 고마워요!
+
+GEN_NPC_STORY_MELLOWFIELDS_START_COMPLAINER_2 |= 상인들이 제가 원하는 물건을 팔지 않아서 너무 짜증이 납니다. 거래 표준 위원회에 편지를 썼지만 당연히 그들은 5000년 전에 존재를 멈췄습니다. 그래서 좀 더 흥미로운 아이템을 구할 수 있는 곳을 알아보다가 유령 상인이 있다는 것을 알게 되었어요! 유령 상인이라고요! 꼭 만나보고 싶어요! 이 정령에게 데려다 주면 지금까지 사랑받지 못한 것처럼 사랑해 줄게요!
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_COMPLAINER_2 |= {FULLNAME}을 유령 상인에게 데려가세요.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_COMPLAINER_2 |= 유령 상인이 표시한 지역으로 NPC를 데려가세요. 언제 어디서 나타나는지 알아내야 할 수도 있습니다.
+GEN_NPC_STORY_MELLOWFIELDS_END_COMPLAINER_2 |= 방금 사후 세계의 쇼핑을 경험했습니다. 제가 산 물건들이 상하지 않았으면 좋겠어요!
+
+GEN_NPC_STORY_MELLOWFIELDS_START_JOVIAL_1 |= 엉덩이를 좀 터트릴 수 있는 사람처럼 보이네요. 내 말은, 움직인다는 거죠. 봄의 둘째 날, 파인페어의 블라섬 댄스에 참여해보시는 건 어떨까요? 블러썸처럼 되세요!
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_JOVIAL_1 |= 블라섬 댄스에 참여하기
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_JOVIAL_1 |= 봄의 둘째 날에 파인페어로 이동하여 표시된 구역으로 들어가 꽃의 춤에 참여하세요.
+GEN_NPC_STORY_MELLOWFIELDS_END_JOVIAL_1 |= 확실히 댄서로서 꽃을 피우셨네요! 거의 대부분을 바닥에 누워 있었잖아. 그래도 와줘서 고마워요.
+
+GEN_NPC_STORY_MELLOWFIELDS_START_JOVIAL_2 |= 함께 즐거운 일을 해봅시다! 양 경주가 열리면 양 경주를 보러 가는 건 어때요? 난 양 내기를 좋아하거든요.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_JOVIAL_2 |= {FULLNAME}을 데리고 양 경주를 관람하세요.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_JOVIAL_2 |= {FULLNAME}을 받아 양 경주의 날에 파인페이어와 표시된 지역으로 데려가세요.
+GEN_NPC_STORY_MELLOWFIELDS_END_JOVIAL_2 |= 고마워요. 트랙을 따라 튀어 오르는 작은 털복숭이들을 보는 것은 정말 즐거웠습니다.
+
+GEN_NPC_STORY_MELLOWFIELDS_START_BOASTFUL_1 |= 다음 채소 전시회에 참가할 것 같아요. 우리 둘의 작은 도전에 어떻게 생각하세요? 다음에 또 뵙죠! 존경합니다!
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_BOASTFUL_1 |= 멜로우필드 채소 전시회에서 {FULLNAME}을 이겼습니다.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_BOASTFUL_1 |= 파인페이어의 채소 전시회에 참가하여 승리하세요. 시상대에 오르려면 5 별 채소가 필요할 것입니다!
+GEN_NPC_STORY_MELLOWFIELDS_END_BOASTFUL_1 |= 저는 제 호박이 정말 풍성해졌다고 생각했습니다. 내 당근이 최고라고, 내 무가 최고라고. 당신은 진정한 채소의 달인입니다.
+
+GEN_NPC_STORY_MELLOWFIELDS_START_BOASTFUL_2 |= 저는 매년 열리는 채소 전시회를 위해 더 나은 채소를 만들기 위한 새로운 기술을 시도하고 있습니다. 그 놀라운 재배자들을 들어 올리느라 지칠 대로 지쳤어요. 저에게 조금이라도 힘이 될 수 있는 방법이 있다면 알려주시면 정말 감사하겠습니다.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_BOASTFUL_2 |= {FULLNAME}에 힘 적용
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_BOASTFUL_2 |= 힘 특성이 있는 아이템을 {FULLNAME}에게 선물합니다.
+GEN_NPC_STORY_MELLOWFIELDS_END_BOASTFUL_2 |= 이제 거대한 채소를 들어 올릴 수 있을 뿐만 아니라 파리를 튕겨 다른 차원으로 떨어뜨릴 수도 있습니다. 정말 놀랍습니다! 당신은 저를 놀라운... 어.... H 단어인 것 같아요. 혹? 힐? 그 단어가 생각나지 않아서 웃기네. 복수할 거야!
+
+GEN_NPC_STORY_MELLOWFIELDS_START_QUIRKY_1 |= 저를 여행에 초대해 주시겠어요? 닭 이동의 끝을 보고 싶어요. 제 버킷리스트에 항상 적혀 있는 여행 계획이에요. 매년 봄 6일에 열리죠. 파인페이어에서 시작해서 페스트필드에서 끝나는데, 저희가 가고 싶은 곳입니다. 때가 되면 꼭 가자! 제발요!
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_QUIRKY_1 |= 닭 이주 중 {FULLNAME}을 페스트필드로 데려가세요.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_QUIRKY_1 |= {FULLNAME}을 팔로우하여 6번째 봄의 페스트필드로 데려가세요.
+GEN_NPC_STORY_MELLOWFIELDS_END_QUIRKY_1 |= 저 닭들 좀 보세요! 계란이 정말 맛있었어. 고마워, 친구.
+
+GEN_NPC_STORY_MELLOWFIELDS_START_QUIRKY_2 |= 닭의 이동이 어디까지 이어지는지 궁금해요. 매년 봄 6일에 시작된다고 하는데, 어디에서 시작되고 끝나는지 알아볼 수 있을까요? 저도 가고 싶지만 사랑을 위해 사소한 일을 하는 사람은 아니니까요.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_QUIRKY_2 |= 파인페이어와 페스트필드 방문하기
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_QUIRKY_2 |= 6번째 봄에 파인페이어와 페스트필드에서 표시된 지역에 도착했습니다.
+GEN_NPC_STORY_MELLOWFIELDS_END_QUIRKY_2 |= 저 경로를 다 통과했다고요? 놀라운 생명체들이군. 어디로 가는 걸까? 그건 아직 미스터리로 남아있을 겁니다. 그냥 사라질 수는 없잖아요!
+
+GEN_NPC_STORY_MELLOWFIELDS_START_PIOUS_1 |= 프라일에게 성대한 제물을 바치시겠습니까? 짧지만 달콤합니다.
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_PIOUS_1 |= 프라일에게 5 별 제물 바치기
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_PIOUS_1 |= 여신의 날에 모든 여신상에서 프라일에게 5 별 제물을 바치세요.
+GEN_NPC_STORY_MELLOWFIELDS_END_PIOUS_1 |= 단어 수를 줄이기 위해 짧게 작성하겠지만, 감사합니다.
+
+GEN_NPC_STORY_MELLOWFIELDS_START_PIOUS_2 |= 드루이다에게 성대한 제물을 바치시겠습니까?
+GEN_NPC_STORY_MELLOWFIELDS_TASK_NAME_PIOUS_2 |= 드루이다에게 5 별 제물 바치기
+GEN_NPC_STORY_MELLOWFIELDS_TASK_DESC_PIOUS_2 |= 여신의 날에 모든 여신상에서 드루이다에게 5 별 제물을 바치세요.
+GEN_NPC_STORY_MELLOWFIELDS_END_PIOUS_2 |= 제대로 된 숭배자이며 의심의 여지가 없습니다.
