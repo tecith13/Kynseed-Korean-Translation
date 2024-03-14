@@ -5,9 +5,7 @@
 
 다운받은 파일의 압축을 풀고 
 
-1. KR폴더의 내용은 "Kynseed\Data\Text\EN"에 복사 붙여넣기
-
-2. font.json, font.png는 "Kynseed\Graphics\SpriteSheets\HandMade"에 복사 붙여넣기
+"Kynseed\"에 복사 붙여넣기
 
 하여 실행하시면 번역이 적용됩니다.
 
