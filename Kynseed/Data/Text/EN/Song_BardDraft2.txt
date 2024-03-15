@@ -1,0 +1,50 @@
+MusicStart=0;Bard music
+Lyric=3;아 주황빛 머리의
+Lyric=3;레이디 페어
+Lyric=3;당신을 파예르로
+Lyric=3;데려다줄게요
+Lyric=3;금빛의 밴드를
+Lyric=3;당신께 바칠게요
+Lyric=3;우리의 영혼을 연결하기 위해 
+Lyric=3;우리가 늙을 때 까지
+MusicEnd=34;Bard music
+
+MusicStart=36;Bard music
+Lyric=3;I will buy you
+Lyric=3;A fresh-faced sow
+Lyric=3;And get our milk
+Lyric=3;From our own singing cow
+Lyric=3;I will buy you 
+Lyric=3;A dog and a cat
+Lyric=3;And a cockerel who dances
+Lyric=3;With a tip of his hat
+MusicEnd=70;Bard music
+
+MusicStart=72;Bard music
+Lyric=3;I will buy you
+Lyric=3;The moon on a stick
+Lyric=3;And buckets of custard
+Lyric=3;All yellow and thick
+Lyric=3;I will fetch you
+Lyric=3;A mouse with a spear
+Lyric=3;To guard you at night-time
+Lyric=3;When I am not near
+MusicEnd=106;Bard music
+
+MusicStart=108;Bard music
+Lyric=3;I will gather
+Lyric=3;All the berries of Fae
+Lyric=3;And make you a potion
+Lyric=3;To brighten your day
+Lyric=3;I will love you
+Lyric=3;Til we lay in our shrouds
+Lyric=3;Our dead eyes gazing
+Lyric=3;At wispy white clouds
+MusicEnd=142;Bard music
+
+MusicStart=144;Bard music
+Lyric=3;I will find you
+Lyric=3;As you leap through the corn
+Lyric=3;My tail twitches wanting
+Lyric=3;Our souls both reborn
+MusicEnd=178;Bard music

@@ -1,37 +1,250 @@
 Title|Cooking
 
-Name|Placeholder
-ID|main
-Text|Placeholder
+
 
 Name|Recipe Book
 ID|recipe_book
-Text|Placeholder
+Text|The coloured tabs at the side of the book represent the different kinds of food you can make: <link:soup>soups<link>, <link:jam>jams<link>, <link:stew>stews<link>, <link:pie>pies<link>, <link:pud>puddings<link>, <link:bread>bread<link> and <link:bread>sandwiches<link>. Use them to find particular recipes more quickly. Recipes are added to the book as you discover them.
 
-Name|Ingredient Selection
-ID|inventory
-Text|Placeholder
+Each recipe shows the three or five ingredients required to make it, and will be greyed out if you don't have them all in your inventory.  Select <ui_accept_or_click> a recipe to start crafting.
 
-Name|Chopping
-ID|chopping
-Text|Placeholder
+Cooked foods have traits that can affect the person eating them. At first, these are shown with '???' but will be revealed once you have made the recipe.
 
-Name|Chopping for Jam
-ID|chopping_jam
-Text|Placeholder
+You can use the Filter button to show only recipes that will be useful for a particular activity such as a date, combat, bartering, or for many other things.  The selected recipes will have traits that will help improve your performance in your chosen activity.
 
-Name|Chopping for Stew
-ID|chopping_stew
-Text|Placeholder
-
-Name|Baking
-ID|baking
-Text|Placeholder
-
-Name|Rolling Pin
-ID|rolling
-Text|Placeholder
-
-Name|Soup Making
+Name|Soups
 ID|soup
-Text|Placeholder
+Text|Soups have the simplest of all cooking processes: blend three ingredients and add each to the pot before the timer runs out.  Doing this perfectly on the first attempt will improve the Star Rating of your soup by one.
+
+Name|1 - Ingredient Selection
+ID|soupinv
+Text|The Ingredient Selection screen appears after you've selected a recipe from the <link:recipe_book>book<link>.
+
+Using <ui_accept_or_click> the Add Highest Rated button automatically selects each required ingredient from your inventory.  Each one will be at the highest available Star Rating. Add Lowest Rated does the opposite.
+
+Select <ui_accept_or_click> an ingredient to manually add it to the crafting box instead, selecting the desired Star Rating with <ui_alt_or_rightclick>.
+
+The completed recipe's Star Rating will be mainly based on the average rating of your ingredients.  <ui_alt_or_rightclick> on ingredients in the crafting box to remove them; you can then replace the ingredient with one of a different Star Rating.
+
+The Batch Crafting option will appear if you have successfully made soups at least three times. This allows you to produce multiple items at once. Scroll to choose the number of ingredients to use - limited to the number you have or up to 10. Note that the number of items to be crafted might be higher than this; Mr Fairweather's items, skills and shop Perks can be used to help boost the yield.
+
+Name|2 - Making
+ID|soupmake
+Text|• Select <ui_accept_or_click> an ingredient from the shelf on the left to put it into the grinder. It doesn't matter which one you choose first.
+• Press <ui_accept_or_click> the Hob's head to start the grinder rotating.
+• <ui_accept_or_click> again to stop once the arrows line up. If you miss, the grinder will shake and will rotate more slowly. You have three chances per ingredient.
+• Once the ingredient is ground, it is added to the pot. The cooking timer flips over and starts running.
+• Add and grind the other two ingredients before the sand runs to the bottom of the timer.
+
+Name|3 - Results
+ID|soupresult
+Text|This screen shows the item that you crafted, unless you failed to add all of the ingredients to the pot before the timer ran out - in which case you will get a message to say that the soup was ruined and the ingredients wasted.
+
+The centre rosette shows a picture of the completed soup; the number of portions created; and its Star Rating.  Banners to the left show the soup's traits.  These traits will be added to the soup's entry in the recipe book.
+
+The Calculation button will provide more information on the soup's Star Rating - this is initially based on the average Star Rating of the ingredients used.  An additional star may be gained by stopping the grinder at the correct point on the first attempt at grinding each ingredient.
+
+Name|Jams
+ID|jam
+Text|Jams are all about multi-tasking.  Chop all of the ingredients and get them into the pot before time runs out -  but don't let them get too hot or cold!  Keeping your jam at the perfect temperature at all times will improve its Star Rating by one.
+
+Name|1 - Ingredient Selection
+ID|jaminv
+Text|The Ingredient Selection screen appears after you've selected a recipe from the <link:recipe_book>book<link>.
+
+Using <ui_accept_or_click> the Add Highest Rated button automatically selects each required ingredient from your inventory.  Each one will be at the highest available Star Rating. Add Lowest Rated does the opposite.
+
+Select <ui_accept_or_click> an ingredient to manually add it to the crafting box instead, selecting the desired Star Rating with <ui_alt_or_rightclick>.
+
+The completed recipe's Star Rating will be mainly based on the average rating of your ingredients.  <ui_alt_or_rightclick> on ingredients in the crafting box to remove them; you can then replace the ingredient with one of a different Star Rating.
+
+The Batch Crafting option will appear if you have successfully made jams at least three times. This allows you to produce multiple items at once. Scroll to choose the number of ingredients to use - limited to the number you have or up to 10. Note that the number of items to be crafted might be higher than this; Mr Fairweather's items, skills and shop Perks can be used to help boost the yield.
+
+Name|2 - Chopping and Simmering
+ID|jammake
+Text|• Select <ui_accept_or_click> an ingredient from the shelf on the left to move it to the chopping board.  You will discover that chopping some ingredients takes more time or skill than others.  You may want to make note of these, so that you can decide the best order in which to select your ingredients.
+• The best knife for the job will appear. Use <ui_accept_or_click> it to chop the ingredients - finding the right rhythm can help you chop more efficiently. Once you've sliced sufficiently, the Chopping Board will tip up and allow you to scrape the ingredient into the pot, starting the timer.
+• The pot's temperature will drop each time an ingredient is added. Use the lever on the base of the pot to adjust the heat upwards <ui_tabNext_or_click> the lever on its base to the right and keep the temperature indicator in the simmering zone in the middle of the thermometer.
+• Adjust the heat downwards with <ui_tabPrev_or_click> if the jam starts bubbling really hard and the heat is in the red zone. If the temperature stays in the cold blue area or the red boiling area for too long, your jam-making attempt will fail!
+• Keep an eye on the temperature while chopping the other ingredients. You can switch between chopping and using the temperature lever at any time.
+• Make sure that you add all three ingredients before the timer runs out.
+
+Name|3 - Results
+ID|jamresult
+Text|This screen shows the item that you crafted, unless you failed to add all of the ingredients to the pot before the timer ran out - in which case you will get a message to say that the jam was ruined and the ingredients wasted.
+
+The centre rosette shows a picture of the completed jam; the number of jars created; and its Star Rating.  Banners to the left show the jams's traits.  These traits will be added to the jam's entry in the recipe book.
+
+The Calculation button will provide more information on the jam's Star Rating - this is initially based on the average Star Rating of the ingredients used.  An additional star may be gained by keeping the temperature out of the blue and red zones for the whole time that you are cooking.
+
+Name|Stews
+ID|stew
+Text|Stews are all about time management.  Chop three ingredients and add each to the pot before the timer runs out and without overcooking any of them.
+
+Name|1 - Ingredient Selection
+ID|stewinv
+Text|The Ingredient Selection screen appears after you've selected a recipe from the <link:recipe_book>book<link>.
+
+Using <ui_accept_or_click> the Add Highest Rated button automatically selects each required ingredient from your inventory.  Each one will be at the highest available Star Rating. Add Lowest Rated does the opposite.
+
+Select <ui_accept_or_click> an ingredient to manually add it to the crafting box instead, selecting the desired Star Rating with <ui_alt_or_rightclick>.
+
+The completed recipe's Star Rating will be mainly based on the average rating of your ingredients.  <ui_alt_or_rightclick> on ingredients in the crafting box to remove them; you can then replace the ingredient with one of a different Star Rating.
+
+Name|2 - Chopping and Simmering
+ID|stewmake
+Text|• Some ingredients take longer to cook than others, so each has its own timer. Choose the ingredient with the most sand in its timer first, and it will move to the chopping board.
+• The best knife for the job will appear. Use it to chop the ingredients - finding the right rhythm can help you chop more efficiently. Once you've sliced sufficiently, the Chopping Board will tip up and allow you to scrape the ingredient into the pot, and the ingredient's timer will flip over and start running.
+• Choose the ingredient with the next-longest cooking time and chop it. You can choose when to scrape it into the pot.
+• Aim to get all three timers to run out simultaneously, with all three ingredients simmering in the pot.
+
+Name|3 - Results
+ID|stewresult
+Text|This screen shows the item that you crafted, unless you failed to add all of the ingredients to the pot before the timer ran out - in which case you will get a message to say that the stew was ruined and the ingredients wasted.
+
+The centre rosette shows a picture of the completed stew; the number of portions created; and its Star Rating.  Banners to the left show the stew's traits.  These traits will be added to the stew's entry in the recipe book.
+
+The Calculation button will provide more information on the stew's Star Rating - this is initially based on the average Star Rating of the ingredients used.
+
+
+Name|Pies
+ID|pie
+Text|Of all cooked foods, pies require the most skillful cook.  Chop fillings, make and roll out just the right amount of pastry, then make sure that all ingredients are cooked evenly.  Though there is some effort involved, pies can be sold for higher prices than some of the more simple foods.
+
+Name|1 - Ingredient Selection
+ID|pieinv
+Text|The Ingredient Selection screen appears after you've selected a recipe from the <link:recipe_book>book<link>.  Pies require three ingredients for their fillings, but also need flour and eggs for their pastry.
+
+Using <ui_accept_or_click> the Add Highest Rated button automatically selects each required ingredient from your inventory.  Each one will be at the highest available Star Rating. Add Lowest Rated does the opposite.
+
+Select <ui_accept_or_click> an ingredient to manually add it to the crafting box instead, selecting the desired Star Rating with <ui_alt_or_rightclick>. Your selection will be ticked off the list and added to the food tray. It can be removed by selecting <ui_accept_or_click> it again.
+
+Higher quality ingredients (those with the most stars) will improve the quality of your pie, but they are more delicate and, therefore more difficult to cook to perfection. Choose wisely!
+
+Flour and eggs don't have rating variations, so just chuck 'em in.
+
+Once you're happy with the selection in the tray, click the pie button at its base to start baking.
+
+At this point, the eggs and flour will magically combine to make dough for the pie lining and lid.
+
+The Batch Crafting option will appear if you have successfully made pies at least three times. This allows you to produce multiple items at once. Scroll to choose the number of ingredients, eggs and flour to use - limited to the number you have or up to 10. Note that the number of items to be crafted might be higher than this; Mr Fairweather's items, skills and shop Perks can be used to help boost the yield.
+
+Name|2 - Chopping
+ID|piemake
+Text|The ingredients are on a shelf on the left of the screen. Select <ui_accept_or_click> one to move it to the Chopping Board. The order in which you select them doesn't matter.
+
+The best knife for the job will appear. Use <ui_accept_or_click> it to chop the ingredients - finding the right rhythm can help you chop more efficiently. Once you've sliced sufficiently, the Chopping Board will tip up and allow you to scrape <ui_accept_or_click> the ingredients into the Pie Dish. Repeat this until all ingredients are added.
+
+Name|3 - Rolling Pastry
+ID|pierolling
+Text|Keep changing the angle of the rolling pin and pushing it along with <ui_accept_or_click> to make the dough cover the darker target circle. Try not to overshoot too much and waste your pastry, or you may not have enough to cover your pie completely!
+
+A perfectly covered circle earns you a gold banner: otherwise, a hint on silver.
+
+Once you've finished rolling out, the pastry is automatically trimmed and used to top your pie.
+
+Name|4 - Baking
+ID|piebaking
+Text|Use <ui_accept_or_click> the paddle to slide your pie into the oven to begin baking it.
+
+Watch the Baking Meter on the right. As the pie cooks, orange and green bars appear on the meter. Aim to stop <ui_accept_or_click> the meter on each of the green bars. But don't wait too long - they'll shrink as the pie starts to overcook, and once they disappear, your pie will be burned! The more accurate you are here, the better the quality of your pie.  You'll see a gold banner after this stage if so: otherwise, a hint on silver.
+
+Once you've made your three marks on the Meter, use <ui_accept_or_click> the paddle to take your pie out of the oven and see its Star Rating and traits.
+
+Name|5 - Results
+ID|pieresult
+Text|This screen shows the pie that you crafted, unless you burned all of the ingredients - in which case you will get a message to say that the pie was ruined and the ingredients wasted.
+
+The centre rosette shows a picture of the completed pie; the number of pies created; and its Star Rating.  Banners to the left show the pie's traits.  These traits will be added to the pie's entry in the Recipe Book.
+
+The Calculation button will provide more information on the pie's Star Rating - this is initially based on the average Star Rating of the ingredients used.  Two additional stars are available: for completing <link:pierolling>pastry rolling<link> perfectly; and for hitting all three green targets on the <link:piebake>baking meter<link>.
+
+Name|Puddings
+ID|pud
+Text|Puddings are sweet treats that are quite easy to make.  Bake them perfectly to boost their Star Rating by one.
+
+Name|1 - Ingredient Selection
+ID|pudinv
+Text|The Ingredient Selection screen appears after you've selected a recipe from the <link:recipe_book>book<link>.
+
+Using <ui_accept_or_click> the Add Highest Rated button automatically selects each required ingredient from your inventory.  Each one will be at the highest available Star Rating. Add Lowest Rated does the opposite.
+
+Select <ui_accept_or_click> an ingredient to manually add it to the crafting box instead, selecting the desired Star Rating with <ui_alt_or_rightclick>.
+
+The completed recipe's Star Rating will be mainly based on the average rating of your ingredients.  <ui_alt_or_rightclick> on ingredients in the crafting box to remove them; you can then replace the ingredient with one of a different Star Rating.
+
+The Batch Crafting option will appear if you have successfully made puddings at least three times. This allows you to produce multiple items at once. Scroll to choose the number of ingredients to use - limited to the number you have or up to 10. Note that the number of items to be crafted might be higher than this; Mr Fairweather's items, skills and shop Perks can be used to help boost the yield.
+
+Name|2 - Chopping
+ID|pudmake
+Text|The ingredients are on a shelf on the left of the screen. Select <ui_accept_or_click> one to move it to the Chopping Board. The order in which you select them doesn't matter.
+
+The best knife for the job will appear. Use <ui_accept_or_click> it to chop the ingredients - finding the right rhythm can help you chop more efficiently. Once you've sliced sufficiently, the Chopping Board will tip up and allow you to scrape <ui_accept_or_click> the ingredients into the Pudding Dish. Repeat this until all ingredients are added.
+
+Name|4 - Baking
+ID|pudbaking
+Text|Use <ui_accept_or_click> the paddle to slide your pudding into the oven to begin baking it.
+
+Watch the Baking Meter on the right. As the pudding cooks, orange and green bars appear on the meter. Aim to stop <ui_accept_or_click> the meter on each of the green bars. But don't wait too long - they'll shrink as the pie starts to overcook, and once they disappear, your pie will be burned! The more accurate you are here, the better the rating of your pudding.  You'll see a gold banner after this stage if so: otherwise, a hint on silver.
+
+Once you've made your three marks on the Meter, use <ui_accept_or_click> the paddle to take your pudding out of the oven and see its Star Rating and traits.
+
+Name|5 - Results
+ID|pudresult
+Text|This screen shows the pudding that you crafted, unless you burned all of the ingredients - in which case you will get a message to say that the pudding was ruined and the ingredients wasted.
+
+The centre rosette shows a picture of the completed pudding; the number of puddings created; and its Star Rating.  Banners to the left show the pudding's traits.  These traits will be added to the pudding's entry in the Recipe Book.
+
+The Calculation button will provide more information on the pudding's Star Rating - this is initially based on the average Star Rating of the ingredients used.  An additional star is available for hitting all three green targets on the <link:pudbake>baking meter<link>.
+
+Name|Bread and Sandwiches
+ID|bread
+Text|Breads and sandwiches allow you to encase delicious ingredients in an easy-to-carry baked casing.  They are quite simple to make and you can boost their ratings by cooking them perfectly.
+
+Name|1 - Ingredient Selection
+ID|breadinv
+Text|The Ingredient Selection screen appears after you've selected a recipe from the <link:recipe_book>book<link>.  Bread-based meals require three ingredients for their toppings, but also need flour and eggs for their dough.
+
+Using <ui_accept_or_click> the Add Highest Rated button automatically selects each required ingredient from your inventory.  Each one will be at the highest available Star Rating. Add Lowest Rated does the opposite.
+
+Select <ui_accept_or_click> an ingredient to manually add it to the crafting box instead, selecting the desired Star Rating with <ui_alt_or_rightclick>. Your selection will be ticked off the list and added to the food tray. It can be removed by selecting <ui_accept_or_click> it again.
+
+Higher quality ingredients (those with the most stars) will improve the quality of your bread, but they are more delicate and, therefore more difficult to cook to perfection. Choose wisely!
+
+Flour and eggs don't have rating variations, so just chuck 'em in.
+
+Once you're happy with the selection in the tray, <ui_accept_or_click> the bread button at its base to start baking.
+
+The Batch Crafting option will appear if you have successfully made bread or sandwiches at least three times. This allows you to produce multiple items at once. Scroll to choose the number of ingredients, eggs and flour to use - limited to the number you have or up to 10. Note that the number of items to be crafted might be higher than this; Mr Fairweather's items, skills and shop Perks can be used to help boost the yield.
+
+At this point, the eggs and flour will magically combine to make dough.  You'll need to <link:breadbaking>bake the bread<link> first if making a sandwich - otherwise you'll <link:breadmake>chop toppings<link> first.
+
+Name|2 - Bread Baking
+ID|breadbaking
+Text|Use <ui_accept_or_click> the paddle to slide your bread into the oven to begin baking it.
+
+Watch the Baking Meter on the right. As the bread cooks, orange and green bars appear on the meter. Aim to stop <ui_accept_or_click> the meter on each of the green bars. But don't wait too long - they'll shrink as the bread starts to overcook, and once they disappear, your bread will be burned! The more accurate you are here, the better the rating of your bread.  You'll see a gold banner after this stage if so: otherwise, a hint on silver.
+
+Once you've made your three marks on the Meter, use <ui_accept_or_click> the paddle to take your bread out of the oven.
+
+Name|3 - Chopping
+ID|breadmake
+Text|The ingredients are on a shelf on the left of the screen. Select <ui_accept_or_click> one to move it to the Chopping Board. The order in which you select them doesn't matter.
+
+The best knife for the job will appear. Use <ui_accept_or_click> it to chop the ingredients - finding the right rhythm can help you chop more efficiently. Once you've sliced sufficiently, the Chopping Board will tip up and allow you to scrape <ui_accept_or_click> the ingredients into the Bread Tin. Repeat this until all ingredients are added.
+
+Name|5 - Baking
+ID|sandbaking
+Text|Use <ui_accept_or_click> the paddle to slide your loaf or sandwich into the oven to begin baking it.
+
+Watch the Baking Meter on the right. As the bread cooks, orange and green bars appear on the meter. Aim to stop <ui_accept_or_click> the meter on each of the green bars. But don't wait too long - they'll shrink as the ingredients starts to overcook, and once they disappear, your bread or sandwich will be burned! The more accurate you are here, the better the rating of your finished product.  You'll see a gold banner after this stage if so: otherwise, a hint on silver.
+
+Once you've made your three marks on the Meter, use <ui_accept_or_click> the paddle to take your food out of the oven and see its Star Rating and traits.
+
+Name|6 - Results
+ID|breadresult
+Text|This screen shows the food that you crafted, unless you burned all of the ingredients - in which case you will get a message to say that the food was ruined and the ingredients wasted.
+
+The centre rosette shows a picture of the completed item; the number of loaves or sandwiches created; and its Star Rating.  Banners to the left show the item's traits.  These traits will be added to the item's entry in the Recipe Book.
+
+The Calculation button will provide more information on the item's Star Rating - this is initially based on the average Star Rating of the ingredients used.  An additional star is available for hitting all three green targets on the <link:sandbaking>baking meter<link>.

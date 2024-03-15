@@ -1,347 +1,347 @@
-Brook_Corner |= Let's visit Brook Corner in Fest Field.
-Wildcat_Ruin |= Let's visit Wildcat Ruin in Homesteads.
-Forgotten_Hole |= Let's visit Forgotten Hole in Homesteads.
-The_Watcher |= Let's visit the Watcher in Loverwood.
-The_Watched |= Let's visit the Watched in Loverwood.
-Kings_Meadow |= Let's visit Kings Meadow in Loverwood.
-Lovers_Laugh |= Let's visit Lover's Laugh in Loverwood.
-Baker_Grove |= Let's visit Baker Grove in Poppyhill.
-Rhubarbs_Crumble |= Let's visit Rhubarbs Crumble in Rivermoor.
-Apples_Crumble |= Let's visit Apples Crumble in Rivermoor.
-Blackberries_Crumble |= Let's visit Blackberries Crumble in Rivermoor.
-Sweetmusic_Chin |= Let's visit Sweetmusic Chin in Naida's Glory.
-NookieNookNook |= Let's visit NookieNookNook in Naida's Glory.
-Testy_Falls |= Let's visit the waterfall in Testy Acres.
-Cuckoo_Tree |= Let's go to the tree circled by henge stones in Cuckoo Wood.
-The_Cuttings |= Let's visit the Cuttings in Cuckoo Wood.
-Lost_Man |= Let's visit the Lost Man in Cuckoo Wood.
-Abandoned_Hut |= Let's visit the Abandoned Hut in Cuckoo Wood.
-Sleepers_Jetty |= 윌로우다운 농장의 잠꾸러기의 부두를 방문해 봐.
-Jabbers_Jaw |= Let's visit Jabbers Jaw in Druida's Cross.
-Resting_Man |= Let's visit the Resting Man in Druida's Cross.
-Memory_Cape |= Let's go to Memory Cape in Burial Grounds.
-Feinters_Slab |= Let's go to Feinters Slab in Burial Grounds.
-Pool_Of_Passing |= Let's go to the Pool of Passing in Burial Grounds.
-Stone_Blossom |= Let's go to Stone Blossom in Candlewych Village.
-Dirty_Den |= Let's go to the Dirty Den in Candlewych West.
-Eyre_Pond |= Let's go to the Eyre Pond in Candlewych West.
-Wuthering_Pond |= Let's go to the Wuthering Pond in Candlewych West.
-Wildfell_Pond |= Let's go to the Wildfell Pond in Candlewych West.
-The_Necking_Stump |= Let's go to the Necking Stump in Mellowbrook.
-Longing_Garden |= Let's go to the Longing Garden in Mellowbrook.
-Glass_House |= Let's go to the Glass House in Mellowbrook.
-Carrot_Top |= Let's go to Carrot Top in the Twanging Gardens.
-Poppy_Cranny |= Let's go to the Poppy Cranny in the Twanging Gardens.
-Old_Lady_Falls |= Let's go to the Old Lady Falls in Outlane.
-Cuddlers_Corner |= Let's go to Cuddlers Corner in Outlane.
-The_Thoughtful_Man |= Let's go to the Thoughtful Man in Outlane.
-GoldenFields |= Let's go to the Golden Fields in Cunning Plots.
-Nine_Ball_Pool |= Let's go to the Nine Ball Pool in Cunning Plots.
-The_Herb_Garden |= Let's go to the Herb Garden in Cunning Plots.
-Willow_End |= Let's go to the Willow End in Freyl's Fields.
-The_Old_Windmill |= Let's go to the Old Windmill in Freyl's Fields.
-Lonely_Oak |= Let's go to the Lonely Oak in Freyl's Fields.
-Dumping_Ground |= Let's go to the Dumping Ground in Freyl's Fields.
-LonelyStump |= Let's go to the Lonely Stump in The Dancers.
-LavendarLay |= Let's go to the Lavendar Lay in The Dancers.
-Shroomhouses |= Let's go to the Shroomhouses in The Dancers.
-RapidPoint |= Let's go to the Rapid Point in The Circle.
-SecretCorner |= Let's go to the Secret Corner in The Circle.
-FlingBridge |= Let's go to the Fling Bridge in The Circle.
-RushingNook |= Let's go to the Rushing Nook in The Circle.
-LoveFalls |= Let's go to the Love Falls in The Shingles.
-WantedMan |= Let's go to the Wanted Man in The Shingles.
-Twins |= Let's go to the Twins in The Shingles.
-HugWall |= Let's go to the Hug Wall in Stonecrown.
-TwistedSisters |= Let's go to the Twisted Sisters in Stonecrown.
-DeepeyePonds |= Let's go to the Deepeye Ponds in Stonecrown.
-UnderwoodGrotto |= Let's go to the Underwood Grotto in Stonecrown.
-KissesSneak |= Let's go to the Kisses Sneak in Copperpot.
-OverTheBoardwalk |= Let's go to Over The Boardwalk in Copperpot.
-RoundBackOShoppe |= Let's go to Round Back O Shoppe in Copperpot.
-TreeOfMemories |= Let's go to the Tree Of Memories in Frogmarsh.
-MerryMaypole |= Let's go to the Merry Maypole in Greymarket.
-ThreeWitches |= Let's go to the Three Witches in Greymarket.
-BridgeOfSighs |= Let's go to the Bridge Of Sighs in Wisptrail.
-
-Date_Place_Resting_Man_0 |= This is an unusual place that gives me the chills, yet I find it strangely romantic.
-Date_Place_Resting_Man_1 |= I last came here a while ago. Do you think the Resting Man is watching us?
-Date_Place_Resting_Man_1 |= I can't do anything too romantic if that's the case!
-Date_Place_Resting_Man_2 |= I like it here, away from the hustle and bustle. The Resting Man makes me feel restful. Maybe even melancholic.
-
-Date_Place_Jabbers_Jaw_0 |= This is a perfect place for a picnic. Sat by these stones, overlooking the pond. I bet it is lovely at night, with the stars reflected in the water. 
-Date_Place_Jabbers_Jaw_1 |= Did you know this place was named because it looks like a jaw and bottom teeth? I always get the urge to chat, too, while here.
-Date_Place_Jabbers_Jaw_2 |= This is a nice date. I could hang around with you for hours, jabbering at Jabbers Jaw.
-
-Date_Place_Testy_Falls_0 |= How peaceful. It pays to know all the little romantic corners of the Vale.
-Date_Place_Testy_Falls_0 |= I heard that a young lady once saw the image of her lover in the water, but it turned out to be a goldfish.
-Date_Place_Testy_Falls_0 |= I later found out her lover did look like a goldfish.
-Date_Place_Testy_Falls_1 |= There is a softness about being in this place. The trickle of water, the gentle wind, your deep eyes.
-Date_Place_Testy_Falls_2 |= You know all the out-of-the-way places, but are you as thorough when it comes to knowing somebody well?
-
-Date_Place_Sleepers_Jetty_0 |= You bringing me here could be the start of something big between us.
-Date_Place_Sleepers_Jetty_1 |= Oh, that looks like a lovely place to sleep and dream. My dream is that you keep being so romantic.
-Date_Place_Sleepers_Jetty_2 |= Your farm has this hidden away? What a delightful secret. I want to show you a secret too, but we should save that for another time.
-
-Date_Place_Stone_Blossom_0 |= Did you know that this statue has been here since long before the village was built? They say it is the source of all Vale's energy.
-Date_Place_Stone_Blossom_1 |= Is this an effigy of Druida, do you think? I always imagine her to be in better shape, what with her fruity diet.
-Date_Place_Stone_Blossom_2 |= What a gorgeous spot. It's not very private but is fascinating. I would love to see more of the world and uncover its beautiful secrets with you.
-
-Date_Place_Pool_Of_Passing_0 |= It is nice that we get to come here and pay our respects to those who have passed.
-Date_Place_Pool_Of_Passing_0 |= One day, we will dip under the water and have nature take our bodies to renew them in some other form.
-Date_Place_Pool_Of_Passing_0 |= What would you want to be?
-
-Date_Place_Pool_Of_Passing_1 |= Let us gaze into the pool and into each other's eyes. We can gaze at death and then life and its promise.
-Date_Place_Pool_Of_Passing_2 |= A bit of a sombre place. Those dark waters lead to mysteries we will only know of once we pass.
-Date_Place_Pool_Of_Passing_2 |= Let us hope we can experience much more together before then.
-
-Date_Place_Feinters_Slab_0 |= What sort of a beast would bring their lover here? Maybe some hypnotic beast who would carry me away into the ferns, never to be seen again. Positively delicious!
-Date_Place_Feinters_Slab_1 |= Do you know why it is called Feinter's Slab?
-Date_Place_Feinters_Slab_1 |= It is because anyone who laid on it passed out, and the world around them had changed when they awoke.
-Date_Place_Feinters_Slab_1 |= Basically, it was a few hours later and probably nighttime.
-Date_Place_Feinters_Slab_2 |= I remember coming here long ago. I sat on the slab and had a vision of a white horse. Before you ask, I had seen pictures of horses in books, so I knew what they looked like.
-Date_Place_Feinters_Slab_2 |= I fainted and awoke to the sun warming me. It was quite a strange experience.
-
-Date_Place_Memory_Cape_0 |= That old tower has been here for thousands of years. Whatever weatherproofing they put on it worked wonders.
-Date_Place_Memory_Cape_0 |= Sorry, not the most romantic of chats!
-Date_Place_Memory_Cape_1 |= So you bring me to the furthest corner of the Vale, and there's a big tower. You can hear the ancient dead if you listen long enough.
-Date_Place_Memory_Cape_1 |= They are telling us to have a smooch, I bet!
-Date_Place_Memory_Cape_2 |= Oh, how wonderfully morbid! I was holding your hand just now and then realised you were standing over there. Romantic ghosts haunt this place.
-
-Date_Place_Eyre_Pond_0 |= This is a lovely pond. Shall we skim stones, have a quick smooch or watch the fish do their fishy thing?
-Date_Place_Eyre_Pond_1 |= A girl called Jane once drowned in this pool. She was so in love with her reflection that she fell in trying to kiss herself.
-Date_Place_Eyre_Pond_1 |= It is said her ghost still comes here to try and find her love but wails as she cannot see her reflection anymore.
-Date_Place_Eyre_Pond_2 |= This has to be the most perfect of moments. You, me, that creepy ghostly girl's face watching us from the reeds.
-
-Date_Place_Wildfell_Pond_0 |= This is the sort of place they write about in romance books, such as Romeo and Bob. And they also write about it in some of the more salubrious titles such as 'Mr Pinky Goes Swimming'.
-Date_Place_Wildfell_Pond_1 |= Water is so calming. Soothes the soul. I think you soothe my soul. 
-Date_Place_Wildfell_Pond_2 |= I suggested we stand here because if we close our eyes and listen to the world, we can hear it telling us that we make a lovely couple.
-
-Date_Place_Wuthering_Pond_0 |= Take me to the heights of passion! Being here with you has driven me as wild as the winds. My heart pounds like the drums of the universe. If you kissed me now, I think the Goddesses would cheer.
-Date_Place_Wuthering_Pond_1 |= I once had a date out on the wiley, windy moor. Her name was Kate. We kissed behind a bush. We split up because she had a temper. She was just too hot and greedy.
-Date_Place_Wuthering_Pond_2 |= We should write a book about our time here together. I could fill the pages with words describing how I feel and what you mean to me, but you need to bind it.
-
-
-Date_Place_Dirty_Den_0 |= I often wander around the east end of Candlewych and peek into this place. I just had to come here, but with someone I trust. And, to be truthful, have feelings for.
-Date_Place_Dirty_Den_1 |= Shall we have a little bit of fun? Nobody is here to see us. Come on, let's be naughty.
-Date_Place_Dirty_Den_1 |= OK, I'll keep watch while you chalk rude signs onto the wall.
-Date_Place_Dirty_Den_2 |= This is a great little place to come away from the bustle of the village. Someone used a lot of wood here.
-
-Date_Place_Lost_Man_0 |= Can I be candid for a moment? Great! Go grab the candy!
-Date_Place_Lost_Man_1 |= Look at him. Magnificent, yet so alone. So full of sorrow.
-Date_Place_Lost_Man_1 |= His sweetheart left him do you think?
-Date_Place_Lost_Man_1 |= Maybe he couldn't take the beauty of the world?
-Date_Place_Lost_Man_2 |= This Woodfellow gives me the creeps. That's why I brought you here.
-Date_Place_Lost_Man_2 |= Fear makes us do irrational things and makes us do exciting things. What are you thinking now?
-
-Date_Place_The_Cuttings_0 |= I'm stumped about why I brought you here, really. It might be because this place reminds me of my shoe cupboard.
-Date_Place_The_Cuttings_1 |= Did you know liquids poured on these stumps will form a tasty moss?
-Date_Place_The_Cuttings_1 |= We should pour our hearts onto them and create a love moss. Which, in hindsight, sounds revolting.
-Date_Place_The_Cuttings_2 |= This is a sacred place. I can feel an energy here that resonates between us. These moments together will be trapped here as echoes.
-
-Date_Place_Cuckoo_Tree_0 |= The Cuckoo Tree! It is said to be magical, but nobody knows why it is here and who used to use it.
-Date_Place_Cuckoo_Tree_0 |= I believe it brings good luck and enhances child-bearing. Some think it is some sort of clock.
-Date_Place_Cuckoo_Tree_0 |= I overheard a drunk wanderer claim that the trunk is filled with human fingers that were stolen by the Cuckoo Kerchew.
-Date_Place_Cuckoo_Tree_1 |= This is a magical spot. I know another magical spot we could explore, though maybe save that for another time.
-Date_Place_Cuckoo_Tree_2 |= It is said that 8 witches used to come here to cast spells on the humans. The stones were gateways that were used to bring Fae into the land.
-Date_Place_Cuckoo_Tree_2 |= The Healer used his powers to reverse the flow of energy and destroyed the hags. Their bleached remains are still visible to this day.
-Date_Place_Cuckoo_Tree_2 |= Anyway, shall we do something romantic?
-
-Date_Place_Apples_Crumble_0 |= What a desolate place. I have no idea why I suggested to come here.
-Date_Place_Apples_Crumble_1 |= Hmmm, Apples Crumble. My nan used to make crumbles.
-Date_Place_Apples_Crumble_1 |= She would fill the bowl with hot pudding and custard and I would sit on the stool holding my wooden spoon as she shuffled over with the steaming hot dish and my belly would be full for a least 5 minutes.
-Date_Place_Apples_Crumble_1 |= They were absolutely appalling.
-Date_Place_Apples_Crumble_2 |= Who lived in these ruins? Were they lovers, like we kind of are? We are, aren't we? I would hope so!
-
-Date_Place_Rhubarbs_Crumble_0 |= I love a good rhubarb crumble. I also like holding hands in windswept ruins on a moor. Everything is so wild out here. We could be, too?
-Date_Place_Rhubarbs_Crumble_1 |= Did you hear that? I thought I heard something. It was probably our souls colliding.
-Date_Place_Rhubarbs_Crumble_2 |= That's quite a trip! Puts some good in you. Can't beat a brisk walk.
-Date_Place_Rhubarbs_Crumble_2 |= You know what else can't be beat? Being here, in this rugged place, with you.
-
-Date_Place_Blackberries_Crumble_0 |= I have been here before in my dreams. It wasn't with you, though. Am sure we can make the most of it.
-Date_Place_Blackberries_Crumble_1 |= Thank you for taking me here. A bit presumptuous, isn't it? Me thanking you in advance. *wink*
-Date_Place_Blackberries_Crumble_2 |= Isn't it sad how blackberries sort of died out? They were as sweet as you are. But way smaller.
-Date_Place_Blackberries_Crumble_2 |= They say that Fairies ate them all as they couldn't get enough of them, and that is why this region is so empty.
-
-Date_Place_Wildcat_Ruin_0 |= I brought you here in the hope of seeing the cats. Do you like cats? You better had now I got you here, or that'd be embarrassing!
-
-Date_Place_Forgotten_Hole_0 |= I forgot all about this hole!
-
-Date_Place_Baker_Grove_0 |= Yuck! I got an ant on me. Deck it for me, would you?
-Date_Place_Baker_Grove_1 |= I like this spot. You can smell the baked goods. Nothing better than being with someone you care about whilst getting really hungry.
-
-Date_Place_The_Watcher_0 |= Nice view! And I mean you!
-
-Date_Place_The_Watched_0 |= This is where people used to bring their dogs. Must be a great place to swap stories and enjoy the sights.
-
-Date_Place_Lovers_Laugh_0 |= This glade is our secret glade. We must tell nobody, OK? Only close friends and family, the trader and his boar and a few select wanderers. But that's it! Agreed?
-
-Date_Place_Kings_Meadow_0 |= This is where they used to bring the 'King for a Day' and splay him on the ground.
-Date_Place_Kings_Meadow_0 |= Then he would have his limbs removed and his blood made into fertiliser.
-Date_Place_Kings_Meadow_0 |= His bones were wrapped in his gold and purple cloak, and that is what these plants represent.
-Date_Place_Kings_Meadow_0 |= Hang on, don't go just yet; I was only joking! They just cut his head off, not the limbs.
-
-
-Date_Place_Sweetmusic_Chin_0 |= Come and wrestle with me! I want to get to grips with you!
-Date_Place_Sweetmusic_Chin_0 |= This is a curious little spot. I think sampling such a place adds colour to the painting, don't you think?
-Date_Place_Sweetmusic_Chin_0 |= Maybe you and I can make sweet music here together? I'll play the fiddle, and you can be on the organ.
-
-Date_Place_NookieNookNook_0 |= Oh, this is so private! Don't you feel it in the air? Oooh, I am all tingly. I could make a thousand rabbit corndolls right now!
-Date_Place_NookieNookNook_1 |= When I was little, I had a dream I would marry the nicest person in Quill, and we would stand in a glade like this. My dream has come true. Let me just savour this moment.
-Date_Place_NookieNookNook_2 |= How do I know about this place? I have been here before. Let me tell you this: it was not even half as nice as being here with you. Do you like it here?
-
-Date_Place_The_Herb_Garden_0 |= What a smell! So fragrant and refreshing. Would you like to cook up some love with these herbs?
-Date_Place_The_Herb_Garden_1 |= What is your favourite herb? Do you put it in your ears at night?
-Date_Place_The_Herb_Garden_1 |= I used to put catnip between my toes to ward off Scallywagglers but ended up attracting hordes of cats.
-Date_Place_The_Herb_Garden_2 |= This is very pleasant. Will you be my herb? I want to crush you.
-
-Date_Place_Nine_Ball_Pool_0 |= Is it time for us to kiss yet? I think that's our cue.
-Date_Place_Nine_Ball_Pool_1 |= The warmth of your hand. The softness of your palm. The lightness of your fingers. These things I will never forget. At least until I forget them.
-Date_Place_Nine_Ball_Pool_2 |= Don't you just hate it? The awkward silences? Me too, so let's sing a song about hanging a witch.
-
-Date_Place_GoldenFields_0 |= Wheat. So much wheat. A tremendous amount of wheat. We are but the flour on the mill. Forever spinning as we are ground into flour. Then, we are renewed into the pastry of life. We are baked and consumed. We decay and enrich the soil. The wheat is grown.
-Date_Place_GoldenFields_0 |= Sorry! Got a bit deep there!
-Date_Place_GoldenFields_1 |= What a beautiful place. A sea of shimmering gold. Such treasures I am overjoyed to share with you.
-Date_Place_GoldenFields_2 |= Shall we walk together hand in hand through the whispering grass? Don't tell the trees, though; they don't need to know.
-
-Date_Place_Glass_House_0 |= This is cosy! A lovely smell in here, too, unless that's just you. Could I maybe have a closer sniff? Is it hot in here, or is it me?!
-Date_Place_Glass_House_1 |= Don't throw any stones! Just throw your arms around me and tell me your heart is mine!
-Date_Place_Glass_House_2 |= I have never had a date in a greenhouse before. Are you trying to get something to grow? Our love, I mean.
-
-Date_Place_Longing_Garden_0 |= This is beautiful and away from prying eyes. Only the Goddesses can see us here, in this moment.
-Date_Place_Longing_Garden_1 |= I dreamed a dream. That dream was holding hands under a grassy arch with the person of my dreams. Yet, here I am, wide awake.
-Date_Place_Longing_Garden_2 |= Longing Garden is aptly named. I longed for you since I first saw you running past my house, trying to collect stuff from my garden. And here you are, with my full permission to take my soul.
-
-Date_Place_The_Necking_Stump_0 |= Did you know that this stump was used to cut the head off a Changeling who had replaced a baby in that house over there many moons ago?
-Date_Place_The_Necking_Stump_0 |= The man who chopped it was punished by the Goddesses who made it so that whenever he swung an axe, his pants would fall down.
-Date_Place_The_Necking_Stump_0 |= It was later discovered that the Goddesses hadn't done that and that it was just his belt was broken.
-Date_Place_The_Necking_Stump_0 |= Now that's a dating story for the ages.
-Date_Place_The_Necking_Stump_1 |= Necking is what the ancients called kissing. This is why we are here, I hope. Or at least to give the impression that's what may happen.
-Date_Place_The_Necking_Stump_2 |= We could sit on this stump for a while and talk and talk and talk. I want to know everything about you that I already haven't learned from a very thorough investigation.
-
-Date_Place_Willow_End_0 |= Willows are my favourite tree. To chop, of course. It's a bit barbaric, but I find willow burns the warmest of all woods in the winter.
-Date_Place_Willow_End_1 |= This may be Willow End, but I hope for us, it might just be the beginning. What do you mean that was cringey? I'm pouring my heart out here! Like the willow, I am weeping!
-Date_Place_Willow_End_2 |= Willow you go out with me again? Ok... that sounded better in my head. But it's the thought that counts, right?
-
-Date_Place_Lonely_Oak_0 |= It's a sad name for a spot, really. I feel bad coming and flaunting to it that I have you in my life, but I guess in the end, it's only a tree.
-Date_Place_Lonely_Oak_0 |= A tree that was once a person.
-Date_Place_Lonely_Oak_1 |= I wonder why people named this tree as such. It looks peaceful, standing here. Its roots can spread, and it has the land to itself. Peace. Isn't that what we all hope for? To put down roots?
-Date_Place_Lonely_Oak_2 |= Lonely Oak, eh? Well, maybe spending a little bit of time here with it might cheer it up.
-Date_Place_Lonely_Oak_2 |= Look at us, lonely old oak! Share with us this moment. Let us touch your bark and share our energies. Let us, for a moment, take away your loneliness.
-
-Date_Place_Dumping_Ground_0 |= Just to be clear, me bringing you here isn't hinting towards anything! Thought if we had a rummage, we could find something to take home as a memento of our time together.
-Date_Place_Dumping_Ground_1 |= They say one person's trash is another person's treasure.
-Date_Place_Dumping_Ground_1 |= I'd hide in the pile for you to find me, but who knows what might be living in there?
-Date_Place_Dumping_Ground_2 |= I wonder to whom this wagon used to belong to? Seems like such a waste. I don't mean to dump my baggage on you, but having a wagon might be handy for moving it all.
-
-Date_Place_Cuddlers_Corner_0 |= Well, let's just do what the name of this place suggests and sit in the corner.
-Date_Place_Cuddlers_Corner_1 |= We should uphold the tradition of this place and have a cuddle. Apparently, if we don't do that, we get turned into newts. That might not be true, but any excuse, eh?
-Date_Place_Cuddlers_Corner_2 |= I wonder who named this place? Do you think they were lovers? Maybe they were just comforting each other?
-Date_Place_Cuddlers_Corner_2 |= It's nice to think we can all interpret the cuddle in our own way. Now c'mere and squeeze me like bagpipes!
-
-Date_Place_The_Thoughtful_Man_0 |= This is a sad place. I like the feeling it gives. Makes your soul fill with melancholy, and that, in turn, seeps longing. My soul is full right now.
-Date_Place_The_Thoughtful_Man_1 |= I think I brought you to the wrong place. Ah, well, let's make the most of it.
-Date_Place_The_Thoughtful_Man_2 |= Don't look up. He's got a split in his wood. Look into my eyes instead.
-
-Date_Place_Old_Lady_Falls_0 |= This is very pretty. Unfortunate name, but pretty. 
-Date_Place_Old_Lady_Falls_1 |= I always wanted to bring someone I liked here. There's something about this place that is beautiful but has a feeling of death. It's an intoxicating mix. I could easily be reborn here, in those waters.
-Date_Place_Old_Lady_Falls_2 |= My uncle Benny said he came here once and saw Fairies bathing in the pool. They saw him and chased him down the hill. It was quite a show, by all accounts.
-
-Date_Place_Poppy_Cranny_0 |= This is a cute little nook for lovers! Marshtyt is nearby and could catch us at any moment.
-Date_Place_Poppy_Cranny_0 |= It's the thrill of being caught!
-Date_Place_Poppy_Cranny_1 |= I love the red of these poppies. Do they match the colour of my blushing when I catch you looking at me?
-Date_Place_Poppy_Cranny_2 |= I went a bit dizzy there! I don't know if it was you being here with me or the poppies. Definitely you.
-
-Date_Place_Carrot_Top_0 |= Look at the size of those! What amazing carrots. Marshtyt certainly knows his veg. Shall we take a sneaky bite? And then the carrots.
-Date_Place_Carrot_Top_1 |= Imagine the look on a hare's face when it sees these. It's the same look I will give you when we turn the Wheel of Delight.
-Date_Place_Carrot_Top_2 |= There's nothing that says 'hot date' more than standing next to some massive carrots with the person you have a crush on.
-
-Date_Place_LoveFalls_0 |= Beautiful! I mean you! Not the waterfalls! The way the water reflects in your eyes gives them a brilliant sheen. Can I look a bit closer? Maybe even closer?
-Date_Place_LoveFalls_1 |= I am tired after the walk here. Let me rest a while in your arms.
-Date_Place_LoveFalls_2 |= A travelling man once rested here. As he drank from the water, he saw himself, but very young again.
-Date_Place_LoveFalls_2 |= He fell asleep that night and woke up the next day... and guess what?
-Date_Place_LoveFalls_2 |= Yeah, some Fae had nicked his backpack.
-
-Date_Place_Twins_0 |= I have no idea why we came here, but it is really nice, if a bit windy. I mean the weather, not me.
-
-Date_Place_WantedMan_0 |= They say the Wanted Man represents Desire. He stands here, hiding in the woods from the temptations of the world. I represent desire right now, too.
-
-
-Date_Place_RapidPoint_0 |= Wow, this date is going fast. I hope it was as good for you as it was for me!
-Date_Place_RapidPoint_1 |= I can see why they call it Rapid Point; my heart rate has definitely sped up being out here with you.
-Date_Place_RapidPoint_2 |= I know we should take things slowly, but something about this place makes it hard not to rush.
-
-Date_Place_SecretCorner_0 |= I wonder who came up with the name for this place? Perhaps we should share a secret?
-Date_Place_SecretCorner_0 |= How about... I'm really glad you invited me on this date. 
-Date_Place_SecretCorner_0 |= Maybe one day, I will reveal that I have a thing for bathing in frogspawn.
-Date_Place_SecretCorner_0 |= Oh, s***.
-Date_Place_SecretCorner_1 |= Secrets are dangerous things; you never know who might use them against you. Though I suppose I trust you more than anyone else.
-Date_Place_SecretCorner_2 |= I know I may have backed you into a corner by telling you this, but... it's no secret that I'm thrilled to be out here with you.
-
-Date_Place_RushingNook_0 |= Careful; it's a bit slippery. Don't worry; if you fall in, I'll definitely carry you out. But you better do the same for me!
-Date_Place_RushingNook_1 |= Honestly, I wish this date would never end. Something about this place tells me we shouldn't linger... but what's the rush?
-Date_Place_RushingNook_2 |= Why do I suddenly feel like I had Pep Powder for breakfast? I feel like I could go a million miles with you by my side. Well, at least three, as I don't know what a million is.
-
-Date_Place_FlingBridge_0 |= There are rumours about this bridge, you know. Does this mean this is only a one-time thing? Or are you looking for more? At least two times?
-Date_Place_FlingBridge_1 |= Quite an odd name for a location. I wouldn't mind if you decided to fling yourself into my arms, though.
-Date_Place_FlingBridge_2 |= We could fling sticks into the water and race them under the bridge if you wish? I always loved playing that as a child, and it's fun to share memories.
-Date_Place_FlingBridge_2 |= Don't try playing that with rocks, though. Race takes aaaages.
-
-Date_Place_HugWall_0 |= This spot has a certain forlornness about it. You can almost hear the whispers of those who once lived here. Their spirit is soaked into the stone. It gives me a shiver to think of it.
-Date_Place_HugWall_0 |= It also gives me a much nicer shiver to be here with you.
-Date_Place_HugWall_1 |= This looks like a nice private place for a bit of tickle and tickle. I hope you aren't Tom Hookfingers, though!
-Date_Place_HugWall_1 |= To be honest, he is strangely hot, but he can keep those hooks off me.
-Date_Place_HugWall_2 |= Hug Wall... I think we should hug and just soak in the atmosphere of this ancient place. If a hug lasts longer than 10 seconds, though, it's a cuddle.
-Date_Place_HugWall_2 |= Shall I start counting to 20?
-
-Date_Place_TwistedSisters_0 |= I like this place. It feels very ancient. Look at those trees entwined. That could be us. Entwined. Not old and twisted.
-Date_Place_TwistedSisters_1 |= Would you hold my hand for a while? I feel a bit nervous here. I can feel old eyes watching us. Ancient spirits are such voyeurs!
-Date_Place_TwistedSisters_2 |= Twisted Sisters sounds like a musical group that used to perform at festivals. They were actually brothers and actually quite polite and nice. 
-
-Date_Place_DeepeyePonds_0 |= What beautiful ponds. They remind me of your eyes. Did I ever tell you that your eyes are like deep pools? I could fall in and drown very easily.
-Date_Place_DeepeyePonds_0 |= My ghost would have to kiss you, though.
-Date_Place_DeepeyePonds_0 |= Could you imagine that? My dead spirit tasting your lips? I hope you like dark romance!
-
-Date_Place_BridgeOfSighs_0 |= It looks like an ancient civilisation once thrived here til the marshes enveloped them. It's eerie. Maybe you should hold me close to protect me from the evil that destroyed them?
-Date_Place_BridgeOfSighs_1 |= Over bridge of sighs, to rest my eyes in shades of green. Under dreaming spires. What did we touch there? We touched the sky.
-Date_Place_BridgeOfSighs_1 |= Oh, sorry! I seemed to hear spirits in my head, singing at me. I could see them when I shut my eyes. They had small faces.
-Date_Place_BridgeOfSighs_2 |= Look at me when I am fawning over you, please.
-
-Date_Place_TreeOfMemories_0 |= Being here has brought back so many memories. The bark of the tree feels soft under my palm. The roots are entwined like my first loving embrace. I want to create many more memories with you.
-Date_Place_TreeOfMemories_1 |= That's a big, weird tree. OK, let's go, ok, thanks bye.
-Date_Place_TreeOfMemories_2 |= Can you hear that? The giggling of distant folk. Distant dead folk. Distant, dead, faerie folk.
-Date_Place_TreeOfMemories_2 |= I am such a romantic bringing you here!
-
-
-Date_Place_KissesSneak_0 |= Oooh! I like this place. Kisses Sneak! Is that what you plan to do with me? Sneak a few kisses in? Well, I wouldn't object, as long as you have flossed and washed your mouth out with mint.
-Date_Place_KissesSneak_1 |= I like you so much. I like you so much I brought you here, to the first place I ever span the wheel.
-Date_Place_KissesSneak_1 |= Maybe in time, we will spin the wheel too.
-Date_Place_KissesSneak_2 |= I wanted to ask for a kiss when we got here, but I am suddenly very shy. Perhaps we could just stand here and look at that toilet.
-
-Date_Place_OverTheBoardwalk_0 |= Over the boardwalk. It's the kind of place people could sing about. You could be sitting here on a blanket with your baby, having such fun, where people are walking along. 
-Date_Place_OverTheBoardwalk_1 |= Do you like it here? Do you like me? Is this the start of a journey together? 
-Date_Place_OverTheBoardwalk_2 |= I like the buzz of the village here. It is literally the marsh flies.
-
-Date_Place_RoundBackOShoppe_0 |= I wanted to bring you here to get away from the noise of the world. It's just you, me, the Goddesses, those flies, some beetles, a snail, an invisible Fae and a frog that I shall call Frubert.
-Date_Place_RoundBackOShoppe_1 |= Isn't this naughty?! We are like youngsters sneaking away to munch on candies.
-Date_Place_RoundBackOShoppe_1 |= Apparently, the ancients rolled up paper and set fire to it. Not sure what they did with that, then. Oddballs.
-Date_Place_RoundBackOShoppe_2 |= How do I know about this place? Well, let's just say I had my first 37 dates here. I am convinced this one will be the best.
-
-Date_Place_ThreeWitches_0 |= I had a dream about this place. It was like a calling. I am here now and have the urge to lay amongst these twisted trunks forever with you, lost in fae magiks.
-Date_Place_ThreeWitches_1 |= It is said that the three sisters were women who lived alone in the marsh. They upset the Goddess Morwenna by offering her spoiled meat. They were cursed. At night, they would turn into trees.
-Date_Place_ThreeWitches_1 |= One day, there was an eclipse, and the sisters turned into trees. But when the sun reappeared, they remained that way.
-Date_Place_ThreeWitches_1 |= The sisters are still there... look! 
-Date_Place_ThreeWitches_2 |= I brought you to this dark corner for a reason. Unfortunately, the marsh gas has gone to my head, and I can't remember if it was for a kiss or a cuddle. Shall we toss a coin?
-
-Date_Place_MerryMaypole_0 |= That's a big pole, said the blacksmith to the innkeeper! I love innuendo! Can't you tell? It's everywhere!
-Date_Place_MerryMaypole_1 |= Maypoles represent fertility, and right now, I am ready to plough some furrows. I just hope I don't soil myself with excitement.
-Date_Place_MerryMaypole_2 |= We can dance if we want to! We can leave your friends behind. We can act like we come from out of this world. Leave the real one far behind.
-Date_Place_MerryMaypole_2 |= What do you think? Should we forego safety and head into danger together?
-
-Date_Place_Abandoned_Hut_0 |= This is a spooky place! You better stand closer! I wonder who lived here and what happened to them. I saw the grave outside.
-Date_Place_Abandoned_Hut_0 |= What are these strange markings on the walls?
-Date_Place_Abandoned_Hut_0 |= Were they driven mad with desire like I am, do you think?
-Date_Place_Abandoned_Hut_1 |= I always wanted to come here but was too scared to go alone.
-Date_Place_Abandoned_Hut_1 |= <anim_wave>EEEK!
-Date_Place_Abandoned_Hut_1 |= Sorry, I thought I saw a big scary face behind you. It was actually you.
-Date_Place_Abandoned_Hut_2 |= Don't ever say I never take you to exciting places. I am both terrified and wonderfully nervous.
+Brook_Corner |= 페스트 필드의 개울가 모퉁이로 가자.
+Wildcat_Ruin |= 홈스테드의 살쾡이 폐허로 가자.
+Forgotten_Hole |= 홈스테드의 잊혀진 구멍으로 가자.
+The_Watcher |= 러버무어의 감시자로 가자.
+The_Watched |= 러버무어의 감시받는 자로 가자.
+Kings_Meadow |= 러버무어의 왕의 초원으로 가자.
+Lovers_Laugh |= 러버무어의 연인의 웃음소리로 가자.
+Baker_Grove |= 포피힐의 제빵사의 작은 정원으로 가자.
+Rhubarbs_Crumble |= 리버무어의 대황 파편으로 가자.
+Apples_Crumble |= 리버무어의 사과 파편으로 가자.
+Blackberries_Crumble |= 리버무어의 블루베리 파편으로 가자.
+Sweetmusic_Chin |= 나이다의 영광에 있는 스위트뮤직 친으로 가자.
+NookieNookNook |= 나이다의 영광에 있는 누키 눅 눅으로 가자.
+Testy_Falls |= 테스티 에이커스의 폭포로 가자.
+Cuckoo_Tree |= 뻐꾸기 숲의 헨지 돌로 둘러싸인 나무로 가자.
+The_Cuttings |= 뻐꾸기 숲의 벌목지로 가자.
+Lost_Man |= 뻐꾸기 숲의 잃어버린 남자로 가자.
+Abandoned_Hut |= 뻐꾸기 숲의 버려진 오두막으로 가자.
+Sleepers_Jetty |= 윌로우다운 농장의 잠꾸러기의 부두로 가자.
+Jabbers_Jaw |= 드루이다의 교차로에 있는 재잘거리는 턱으로 가자.
+Resting_Man |= 드루이다의 교차로에 있는 휴식 중인 남자에 가자.
+Memory_Cape |= 묘지의 기억 곶으로 가자.
+Feinters_Slab |= 묘지의 페인터 석판으로 가자.
+Pool_Of_Passing |= 묘지의 통과의 웅덩이로 가자.
+Stone_Blossom |= 캔들위치 마을의 돌 꽃으로 가자.
+Dirty_Den |= 캔들위치 서쪽의 더러운 동굴로 가자.
+Eyre_Pond |= 캔들위치 서쪽의 아이어 연못으로 가자.
+Wuthering_Pond |= 캔들위치 서쪽의 폭풍의 연못으로 가자.
+Wildfell_Pond |= 캔들위치 서쪽의 와일드펠 연못으로 가자.
+The_Necking_Stump |= 멜로우브룩의 목을 매는 그루터기로 가자.
+Longing_Garden |= 멜로우브룩의 그리움의 정원으로 가자.
+Glass_House |= 멜로우브룩의 유리 주택으로 가자.
+Carrot_Top |= 윙윙 정원의 당근 최고로 가자.
+Poppy_Cranny |= 윙윙 정원의 양귀비 크래니로 가자.
+Old_Lady_Falls |= 아웃레인의 늙은 여인의 폭포로 가자.
+Cuddlers_Corner |= 아웃레인의 포옹꾼의 모퉁이로 가자.
+The_Thoughtful_Man |= 아웃레인의 사려 깊은 남자로 가자.
+GoldenFields |= 교활한 땅의 금빛들판으로 가자.
+Nine_Ball_Pool |= 교활한 땅의 아홉 공 웅덩이로 가자.
+The_Herb_Garden |= 교활한 땅의 허브 정원으로 가자.
+Willow_End |= 프라일의 들판에 있는 윌로우 끄트머리로 가자.
+The_Old_Windmill |= 프라일의 들판에 있는 오래된 풍차로 가자.
+Lonely_Oak |= 프라일의 들판에 있는 외로운 참나무로 가자.
+Dumping_Ground |= 프라일의 들판에 있는 버리는 땅으로 가자.
+LonelyStump |= 댄서스의 고독한 그루터기로 가자.
+LavendarLay |= 댄서스의 라벤더가 잠든 곳으로 가자.
+Shroomhouses |= 댄서스의 버섯집으로 가자.
+RapidPoint |= 서클의 래피드 포인트로 가자.
+SecretCorner |= 서클의 비밀 모퉁이로 가자.
+FlingBridge |= 서클의 플링 다리로 가자.
+RushingNook |= 서클의 러싱 구석으로 가자.
+LoveFalls |= 슁글스의 사랑의 폭포로 가자.
+WantedMan |= 슁글스의 수배된 남자로 가자.
+Twins |= 슁글스의 쌍둥이로 가자.
+HugWall |= 스톤크라운의 허그 월로 가자.
+TwistedSisters |= 스톤크라운의 비뚤어진 자매로 가자.
+DeepeyePonds |= 스톤크라운의 딥아이 연못으로 가자.
+UnderwoodGrotto |= 스톤크라운의 언더우드 동굴로 가자.
+KissesSneak |= 코퍼펫의 몰래하는 키스로 가자.
+OverTheBoardwalk |= 코퍼펫의 오버 더 보드워크로 가자.
+RoundBackOShoppe |= 코퍼펫의 라운드 백 오 샵으로 가자.
+TreeOfMemories |= 프로그마쉬의 추억의 나무로 가자.
+MerryMaypole |= 그레이마켓의 메리 메이폴로 가자.
+ThreeWitches |= 그레이마켓의 세 마녀로 가자.
+BridgeOfSighs |= 위스트레일의 탄식의 다리로 가자.
+
+Date_Place_Resting_Man_0 |= 소름이 돋는 특이한 장소지만 이상하게 낭만적인 곳이에요.
+Date_Place_Resting_Man_1 |= 얼마 전에 마지막으로 이곳에 왔어요. 쉬고 있는 남자가 우리를 보고 있을까요?
+Date_Place_Resting_Man_1 |= 그렇다면 너무 낭만적이지 않을 수 없죠!
+Date_Place_Resting_Man_2 |= 번잡함에서 벗어난 이곳이 좋아요. 휴식하는 남자는 저를 편안하게 해줘요. 어쩌면 우울할지도 모르죠.
+
+Date_Place_Jabbers_Jaw_0 |= 이곳은 피크닉을 즐기기에 완벽한 장소입니다. 연못을 내려다보며 이 돌 옆에 앉았어요. 밤에는 별이 물에 비치는 모습이 정말 아름다울 것 같아요.
+Date_Place_Jabbers_Jaw_1 |= 이 장소가 턱과 아랫니처럼 생겼다고 해서 이름이 붙여졌다는 사실을 알고 계셨나요? 이곳에 오면 항상 수다를 떨고 싶은 충동을 느낍니다.
+Date_Place_Jabbers_Jaw_2 |= 좋은 데이트 장소예요. 몇 시간이고 재잘거리는 턱에서 수다를 떨 수 있을 것 같아요.
+
+Date_Place_Testy_Falls_0 |= 얼마나 평화로운지. 베일의 낭만적인 구석구석을 다 알아두는 게 좋죠.
+Date_Place_Testy_Falls_0 |= 한 젊은 아가씨가 물속에서 연인의 모습을 봤다고 들었는데, 알고 보니 금붕어였다고 하더군요.
+Date_Place_Testy_Falls_0 |= 나중에 그녀의 연인이 금붕어처럼 생겼다는 사실을 알게 되었어요.
+Date_Place_Testy_Falls_1 |= 이 곳에는 부드러움이 있습니다. 물줄기, 부드러운 바람, 연인의 깊은 눈빛.
+Date_Place_Testy_Falls_2 |= 당신은 외딴 곳을 모두 알고 있지만 누군가에 대해 잘 아는 것에 관해서는 어떤가요?
+
+Date_Place_Sleepers_Jetty_0 |= 당신이 날 여기로 데려온 건 우리 사이에 큰 일이 시작될 수도 있어요.
+Date_Place_Sleepers_Jetty_1 |= 잠을 자고 꿈을 꾸기 좋은 곳 같네요. 내 꿈은 당신이 계속 로맨틱한 사람이 되는 거예요.
+Date_Place_Sleepers_Jetty_2 |= 당신 농장에 이런 게 숨겨져 있었어요? 정말 멋진 비밀이네요. 나도 당신에게 비밀을 하나 알려주고 싶지만 그건 다음 기회로 미루지요.
+
+Date_Place_Stone_Blossom_0 |= 이 동상이 마을이 건설되기 훨씬 전부터 이곳에 있었다는 사실을 알고 계셨나요? 베일의 모든 에너지의 원천이라고 하더군요.
+Date_Place_Stone_Blossom_1 |= 이게 드루이다의 조각상일까요? 과일을 많이 먹어서 더 건강해졌을 것 같은데요.
+Date_Place_Stone_Blossom_2 |= 정말 멋진 장소네요. 그다지 프라이빗하지는 않지만 매력적이네요. 더 많은 세상을 보고 싶고 아름다운 비밀을 당신과 함께 발견하고 싶어요.
+
+Date_Place_Pool_Of_Passing_0 |= 이곳에 와서 먼저 가신 분들께 경의를 표할 수 있어서 좋네요.
+Date_Place_Pool_Of_Passing_0 |= 언젠가 우리는 물속에 몸을 담그고 자연이 우리 몸을 다른 형태로 새롭게 만들어 주겠죠.
+Date_Place_Pool_Of_Passing_0 |= 당신은 무엇이 되고 싶나요?
+
+Date_Place_Pool_Of_Passing_1 |= 웅덩이에서 서로의 눈을 바라봐요. 우리는 죽음과 삶, 그리고 그 약속을 볼 수 있어요.
+Date_Place_Pool_Of_Passing_2 |= 약간 음침한 곳이죠. 그 어두운 물은 우리가 지나가야만 알 수 있는 신비로 이어집니다.
+Date_Place_Pool_Of_Passing_2 |= 그 전에 더 많은 것을 함께 경험할 수 있기를 바래보세요.
+
+Date_Place_Feinters_Slab_0 |= 어떤 짐승이 연인을 이곳으로 데려올까요? 아마 최면에 걸린 짐승이 저를 양치류 속으로 데려가 다시는 볼 수 없게 만들겠죠. 정말 맛있어요!
+Date_Place_Feinters_Slab_1 |= 왜 페인터의 석판이라고 불리는지 아세요?
+Date_Place_Feinters_Slab_1 |= 그 석판 위에 누운 사람은 기절했고, 깨어났을 때 주변 세상이 변해 있었기 때문이죠.
+Date_Place_Feinters_Slab_1 |= 기본적으로 몇 시간 후, 아마도 밤이었을 거예요.
+Date_Place_Feinters_Slab_2 |= 오래 전에 이곳에 왔던 기억이 납니다. 석판 위에 앉았는데 백마가 보이는 환상을 봤어요. 물어보기 전에 책에서 말 사진을 본 적이 있어서 어떻게 생겼는지 알고 있었어요.
+Date_Place_Feinters_Slab_2 |= 저는 기절했다가 햇볕이 따뜻하게 내리쬐는 것을 보고 깨어났어요. 꽤 이상한 경험이었어요.
+
+Date_Place_Memory_Cape_0 |= 저 오래된 탑은 수천 년 동안 이곳에 있었어요. 어떤 방수 처리를 했든 간에 놀라운 효과가 있었어요.
+Date_Place_Memory_Cape_0 |= 미안, 로맨틱한 수다는 아니네요!
+Date_Place_Memory_Cape_1 |= 그래서 저를 골짜기의 가장 먼 구석으로 데려가면 큰 탑이 있어요. 충분히 오래 귀를 기울이면 고대 망자들의 목소리를 들을 수 있어요.
+Date_Place_Memory_Cape_1 |= 저들이 우리에게 스무치 한 잔 하라고 하네요!
+Date_Place_Memory_Cape_2 |= 오, 정말 병적이에요! 방금 전 당신의 손을 잡고 있다가 당신이 저쪽에 서 있는 걸 깨달았어요. 로맨틱한 유령이 이곳에 출몰하는군요.
+
+Date_Place_Eyre_Pond_0 |= 아름다운 연못이네요. 돌을 훑어보거나, 가볍게 물을 마시거나, 물고기들의 물놀이를 구경할까요?
+Date_Place_Eyre_Pond_1 |= 제인이라는 소녀가 이 연못에서 익사한 적이 있어요. 그녀는 거울에 비친 자신의 모습이 너무 사랑스러워서 자신에게 키스를 하려다 빠져버렸어요.
+Date_Place_Eyre_Pond_1 |= 그녀의 유령이 지금도 이곳에 와서 사랑을 찾으려 하지만 더는 자신의 모습을 볼 수 없어 통곡한다고 합니다.
+Date_Place_Eyre_Pond_2 |= 지금이 가장 완벽한 순간일 거예요. 당신과 나, 갈대밭에서 우리를 지켜보는 소름 끼치는 유령 소녀의 얼굴까지.
+
+Date_Place_Wildfell_Pond_0 |= 로미오와 밥과 같은 로맨스 소설에 나오는 그런 장소입니다. 또한 '미스터 핑키가 수영하러 가다'와 같은 좀 더 유쾌한 제목의 책에서도 이곳에 대해 씁니다.
+Date_Place_Wildfell_Pond_1 |= 물은 정말 차분해요. 영혼을 진정시키죠. 제 영혼을 달래주는 것 같아요.
+Date_Place_Wildfell_Pond_2 |= 눈을 감고 세상의 소리에 귀를 기울이면 우리가 사랑스러운 커플이 될 거라고 말하는 소리가 들리니까 여기 서자고 했어요.
+
+Date_Place_Wuthering_Pond_0 |= 나를 열정의 정점으로 데려다줘요! 당신과 함께 있으니 바람처럼 거칠어졌어요. 내 심장이 우주의 북소리처럼 두근거려요. 지금 키스하면 여신들이 환호할 것 같아요.
+Date_Place_Wuthering_Pond_1 |= 바람이 거센 황무지에서 데이트를 한 적이 있었어요. 그녀의 이름은 케이트였어요. 우리는 덤불 뒤에서 키스를 했어요. 그녀가 성질을 부려서 헤어졌어요. 그녀는 너무 화끈하고 욕심이 많았어요.
+Date_Place_Wuthering_Pond_2 |= 이곳에서 함께 보낸 시간을 책으로 써야겠어요. 내 감정과 당신이 나에게 어떤 의미인지 설명하는 말로 페이지를 채울 수 있지만 제본이 필요해요.
+
+
+Date_Place_Dirty_Den_0 |= 저는 종종 캔들위치의 동쪽 끝을 돌아다니며 이곳을 들여다보곤 해요. 믿을 수 있는 사람과 함께 이곳에 와야만 했어요. 그리고 솔직히 말하자면 감정이 있는 사람이요.
+Date_Place_Dirty_Den_1 |= 우리 좀 즐길까요? 우릴 보러 온 사람은 아무도 없어요. 자, 야하게 놀아보자고요.
+Date_Place_Dirty_Den_1 |= 좋아요, 당신이 벽에 무례한 낙서를 하는 동안 난 계속 지켜볼게요.
+Date_Place_Dirty_Den_2 |= 이곳은 마을의 번잡함에서 벗어나기 좋은 작은 장소예요. 누군가 이곳에 나무를 많이 사용했어요.
+
+Date_Place_Lost_Man_0 |= 잠시만 솔직해도 될까요? 좋아요! 가서 사탕을 가져와요!
+Date_Place_Lost_Man_1 |= 저 사람 좀 봐. 웅장하지만 너무나 외롭군. 슬픔이 가득하군.
+Date_Place_Lost_Man_1 |= 연인이 떠난 것 같지 않아?
+Date_Place_Lost_Man_1 |= 세상의 아름다움을 견디지 못했을까요?
+Date_Place_Lost_Man_2 |= 이 나무꾼은 소름 끼치네. 그래서 널 여기로 데려온 거야.
+Date_Place_Lost_Man_2 |= 두려움은 우리를 비이성적인 일을 하게 만들고 흥미진진한 일을 하게 만들죠. 지금 무슨 생각을 하고 있나요?
+
+Date_Place_The_Cuts_0 |= 내가 왜 당신을 여기로 데려왔는지 정말 당황스러워요. 아마도 이곳이 제 신발장을 떠올리게 해서 그런 것 같아요.
+Date_Place_The_Cutings_1 |= 이 그루터기에 액체를 부으면 맛있는 이끼가 생긴다는 걸 알고 계셨나요?
+Date_Place_The_Cuttings_1 |= 그 위에 우리 마음을 부어 사랑의 이끼를 만들어야겠어요. 지금 생각해보면 좀 이상하게 들리지만요.
+Date_Place_The_Cuttings_2 |= 이곳은 신성한 장소예요. 우리 사이에 공명하는 에너지가 느껴져요. 우리가 함께한 이 순간들이 메아리가 되어 이곳에 갇혀 있을 거예요.
+
+Date_Place_Cuckoo_Tree_0 |= 뻐꾸기 나무! 마법의 나무라고 하지만 왜 이곳에 있는지, 누가 이곳을 사용했는지는 아무도 모릅니다.
+Date_Place_Cuckoo_Tree_0 |= 행운을 가져다주고 아이를 잘 낳게 해준다고 믿어요. 어떤 사람들은 시계의 일종이라고 생각하기도 합니다.
+Date_Place_Cuckoo_Tree_0 |= 술 취한 방랑자가 뻐꾸기가 훔쳐간 사람의 손가락으로 트렁크가 채워져 있다고 주장하는 것을 우연히 들었어요.
+Date_Place_Cuckoo_Tree_1 |= 이곳은 마법의 장소예요. 우리가 탐험할 수 있는 또 다른 마법의 장소를 알고 있지만, 그건 다음 기회로 미루기로 해요.
+Date_Place_Cuckoo_Tree_2 |= 8마녀가 이곳에 와서 인간에게 마법을 걸었다고 전해져요. 이 돌은 페이를 이 땅으로 데려오는 관문이었어요.
+Date_Place_Cuckoo_Tree_2 |= 힐러는 자신의 힘을 사용하여 에너지의 흐름을 역전시키고 마녀들을 파괴했습니다. 그들의 표백된 유해는 지금까지도 볼 수 있습니다.
+Date_Place_Cuckoo_Tree_2 |= 어쨌든, 우리 로맨틱한 걸 해볼까요?
+
+Date_Place_Apples_Crumble_0 |= 정말 황량한 곳이에요. 내가 왜 여기로 오자고 제안했는지 모르겠어요.
+Date_Place_Apples_Crumble_1 |= 흠, 사과가 부서지네요. 우리 할머니가 크럼블을 만들곤 했어요.
+Date_Place_Apples_Crumble_1 |= 할머니는 그릇에 뜨거운 푸딩과 커스터드를 가득 채우셨고, 저는 나무 숟가락을 들고 의자에 앉아 김이 모락모락 나는 뜨거운 요리를 먹으면 적어도 5분 동안은 배가 부를 정도였죠.
+Date_Place_Apples_Crumble_1 |= 정말 끔찍한 음식이었어요.
+Date_Place_Apples_Crumble_2 |= 이 폐허에는 누가 살았나요? 우리처럼 연인이었나요? 우리도 그렇죠? 그랬으면 좋겠네요!
+
+Date_Place_Rhubarbs_Crumble_0 |= 저는 대황 크럼블을 좋아해요. 바람에 휩쓸린 폐허의 황무지에서 손을 잡는 것도 좋아해요. 여긴 모든 것이 너무 거칠어요. 우리도 그럴 수 있을까요?
+Date_Place_Rhubarbs_Crumble_1 |= 저 소리 들었어요? 무슨 소리를 들은 것 같았어요. 아마 우리 영혼이 충돌하는 소리였을 거예요.
+Date_Place_Rhubarbs_Crumble_2 |= 대단한 여행이었어! 좋은 기운이 느껴져요. 활기차게 걷는 것만큼 좋은 게 없죠.
+Date_Place_Rhubarbs_Crumble_2 |= 이길 수 없는 또 다른 것이 뭔지 아세요? 이 험준한 곳에서 당신과 함께 있는 것입니다.
+
+Date_Place_Blackberries_Crumble_0 |= 꿈에서 이곳에 와본 적이 있어요. 하지만 당신과 함께는 아니었죠. 이곳을 최대한 활용할 수 있을 거예요.
+Date_Place_Blackberries_Crumble_1 |= 여기 데려다줘서 고마워요. 좀 주제넘지 않나요? 미리 감사드립니다. (윙크)
+Date_Place_Blackberries_Crumble_2 |= 블랙베리가 사라진 게 슬프지 않나요? 당신만큼 달콤했어요. 하지만 훨씬 작았죠.
+Date_Place_Blackberries_Crumble_2 |= 요정들이 블랙베리가 너무 많아서 다 먹어버려서 이 지역이 텅 비었다고 해요.
+
+Date_Place_Wildcat_Ruin_0 |= 고양이를 보고 싶어서 이곳으로 데려왔어요. 고양이를 좋아하세요? 지금 데려왔으면 좋았을 텐데, 안 그러면 창피할 테니까요!
+
+Date_Place_Forgotten_Hole_0 |= 이 구멍을 다 잊어버렸어요!
+
+Date_Place_Baker_Grove_0 |= 윽! 개미가 붙었어요. 좀 치워줄래요?
+Date_Place_Baker_Grove_1 |= 나 여기가 좋아요. 구운 빵 냄새가 나네요. 정말 배고플 때 소중한 사람과 함께 있는 것보다 더 좋은 건 없죠.
+
+Date_Place_The_Watcher_0 |= 경치 좋네요! 바로 당신!
+
+Date_Place_The_Watched_0 |= 이곳은 사람들이 개를 데리고 오던 곳이에요. 이야기를 나누고 경치를 즐기기에 좋은 장소겠네요.
+
+Date_Place_Lovers_Laugh_0 |= 이 숲은 우리의 비밀스러운 숲이에요. 아무에게도 말하지 말아야 해요, 알겠죠? 가까운 친구와 가족, 상인과 그의 멧돼지, 그리고 몇몇 방랑자만 알 수 있어요. 하지만 그게 다에요! 알겠죠?
+
+Date_Place_Kings_Meadow_0 |= 이곳은 '하루 동안의 왕'을 데려와 바닥에 눕히곤 했던 곳입니다.
+Date_Place_Kings_Meadow_0 |= 그런 다음 사지를 잘라내고 피를 거름으로 만들었죠.
+Date_Place_Kings_Meadow_0 |= 그의 뼈는 금색과 보라색 망토에 싸여 있었는데, 이 식물들이 바로 그 상징입니다.
+Date_Place_Kings_Meadow_0 |= 잠깐만, 아직 가지 마세요. 농담이었어요! 팔다리가 아니라 머리만 잘랐어요.
+
+
+Date_Place_Sweetmusic_Chin_0 |= 이리 와서 나랑 씨름해요! 너랑 한판 붙고 싶어요!
+Date_Place_Sweetmusic_Chin_0 |= 여긴 정말 신기한 곳이에요. 이런 곳을 샘플링하면 그림에 색이 더해진다고 생각하지 않나요?
+Date_Place_Sweetmusic_Chin_0 |= 당신과 내가 여기서 함께 달콤한 음악을 만들면 어떨까요? 내가 바이올린을 연주할 테니 당신은 오르간을 치면 되겠어요.
+
+Date_Place_NookieNook_0 |= 오, 이건 너무 사적인 공간이에요! 공기에서 느껴지지 않나요? 오, 온몸이 따끔거려요. 지금 당장 토끼 콘돌을 수천 개 만들 수 있을 것 같아요!
+Date_Place_NookieNookNook_1 |= 어렸을 때 퀼에서 가장 멋진 사람과 결혼해서 이렇게 숲속에 서는 게 꿈이었어요. 제 꿈이 이루어졌어요. 이 순간을 만끽할게요.
+Date_Place_NookieNookNook_2 |= 이곳을 어떻게 알았죠? 전에도 이곳에 와본 적이 있어요. 하지만 여기 당신과 함께 있는 것의 절반도 되지 않았어요. 여기가 마음에 드세요?
+
+Date_Place_The_Herb_Garden_0 |= 냄새가 정말 좋네요! 향긋하고 상쾌하네요. 이 허브로 사랑을 요리해 보시겠어요?
+Date_Place_The_Herb_Garden_1 |= 가장 좋아하는 허브는 무엇인가요? 밤에 귀에 넣으시나요?
+Date_Place_The_Herb_Garden_1 |= 스캘리와글러를 쫓기 위해 발가락 사이에 캣닙을 넣었는데 고양이 떼를 불러들였어요.
+Date_Place_The_Herb_Garden_2 |= 아주 기분 좋네요. 내 허브가 되어줄래요? 당신을 부숴버리고 싶어요.
+
+Date_Place_Nine_Ball_Pool_0 |= 우리 지금 키스할 시간인가요? 저게 우리의 신호인 것 같아요.
+Date_Place_Nine_Ball_Pool_1 |= 당신의 손의 온기. 손바닥의 부드러움. 손가락의 가벼움. 이런 것들은 절대 잊지 못할 거예요. 적어도 내가 잊을 때까지는요.
+Date_Place_Nine_Ball_Pool_2 |= 그냥 싫지 않아요? 어색한 침묵이? 나도 그래요, 마녀를 교수형에 처한다는 노래를 부르자고요.
+
+Date_Place_GoldenFields_0 |= 밀. 밀이 너무 많네요. 엄청난 양의 밀이죠. 우리는 방앗간의 밀가루에 불과합니다. 우리는 밀가루로 갈리면서 영원히 회전합니다. 그런 다음 우리는 인생의 과자로 새롭게 태어납니다. 우리는 구워지고 소비됩니다. 우리는 썩어 흙을 풍요롭게 합니다. 밀은 재배됩니다.
+Date_Place_GoldenFields_0 |= 죄송합니다! 너무 깊어졌어요!
+Date_Place_GoldenFields_1 |= 정말 아름다운 곳이에요. 반짝이는 황금의 바다. 이런 보물을 여러분과 함께 나누게 되어 기쁘군요.
+Date_Place_GoldenFields_2 |= 속삭이는 풀밭을 함께 손잡고 걸어볼까요? 하지만 나무들에게는 말하지 마세요. 나무들은 알 필요가 없으니까요.
+
+Date_Place_Glass_House_0 |= 아늑하네요! 여기에서도 사랑스러운 냄새가 나네요. 좀 더 가까이서 냄새를 맡아봐도 될까요? 여기 덥나요? 아니면 제가 더운 건가요?!
+Date_Place_Glass_House_1 |= 돌 던지지 마세요! 그냥 내 품에 안겨서 내 마음이라고 말해줘요!
+Date_Place_Glass_House_2 |= 난 온실에서 데이트를 해본 적이 없어요. 무언가를 키우려는 건가요? 우리 사랑 말이에요.
+
+Date_Place_Longing_Garden_0 |= 여긴 아름답고 사람들의 눈을 피할 수 있어요. 지금 이 순간, 여신들만이 우리를 볼 수 있죠.
+Date_Place_Longing_Garden_1 |= 꿈을 꿨어요. 그 꿈은 내가 꿈꾸던 사람과 잔디 아치 아래에서 손을 잡고 있는 꿈이었어요. 하지만 저는 지금 깨어 있습니다.
+Date_Place_Longing_Garden_2 |= 그리움의 정원은 적절한 이름입니다. 당신이 우리 집 앞을 지나가면서 내 정원에서 물건을 주우려고 하는 모습을 처음 본 순간부터 당신을 그리워했어. 그리고 당신은 내 영혼을 가져가도 좋다는 내 허락을 받고 여기 있군요.
+
+Date_Place_The_Necking_Stump_0 |= 이 그루터기가 여러 달 전에 저기 저 집에서 아기를 대신한 체인질링의 머리를 자르는 데 사용되었다는 사실을 알고 계셨나요?
+Date_Place_The_Necking_Stump_0 |= 이 그루터기를 자른 남자는 도끼를 휘두를 때마다 바지가 떨어지도록 만든 여신의 벌을 받았어요.
+Date_Place_The_Necking_Stump_0 |= 나중에 여신들이 그렇게 한 것이 아니라 그의 벨트가 부러진 것뿐이라는 것이 밝혀졌습니다.
+Date_Place_The_Necking_Stump_0 |= 이젠 옛날부터 전해 내려오는 데이트 이야기네요.
+Date_Place_The_Necking_Stump_1 |= 고대인들은 네킹을 키스라고 불렀어요. 이것이 우리가 여기 모인 이유입니다. 아니면 적어도 그럴지도 모른다는 인상을 주기 위해서라도요.
+Date_Place_The_Necking_Stump_2 |= 이 그루터기에 앉아 한참 동안 이야기하고 또 이야기하고 또 이야기할 수 있을 것 같아요. 아주 철저한 조사를 통해 내가 아직 알지 못한 당신에 대한 모든 것을 알고 싶어요.
+
+Date_Place_Willow_End_0 |= 버드나무는 제가 가장 좋아하는 나무입니다. 물론 자르기 위해서요. 조금 야만적이지만 겨울에는 버드나무가 모든 나무 중에서 가장 따뜻하게 타는 것 같아요.
+Date_Place_Willow_End_1 |= 이것이 버드나무의 끝일 수도 있지만, 우리에겐 시작에 불과할 수도 있습니다. 울컥하다니 무슨 뜻이죠? 여기 제 마음을 쏟아붓고 있어요! 버드나무처럼 저도 울고 있어요!
+Date_Place_Willow_End_2 |= 버드나무, 나랑 다시 사귈래요? 그래요... 내 머릿속에서는 그게 더 좋게 들렸어요. 하지만 중요한 건 생각이죠?
+
+Date_Place_Lonely_Oak_0 |= 정말 슬픈 장소 이름이에요. 내 인생에 당신이 있다는 걸 자랑하러 와서 과시하고 싶지만 결국은 나무에 불과한 것 같아요.
+Date_Place_Lonely_Oak_0 |= 한때 사람이었던 나무죠.
+Date_Place_Lonely_Oak_1 |= 사람들이 왜 이 나무에 그런 이름을 붙였을까 궁금하네요. 여기 서 있는 모습이 평화로워 보여요. 뿌리를 뻗을 수 있고 땅을 온전히 소유하고 있네요. 평화. 우리 모두의 소망이 아닐까요? 뿌리를 내리는 것?
+Date_Place_Lonely_Oak_2 |= 외로운 참나무, 응? 여기서 잠시 시간을 보내면 기운을 차릴 수 있을지도 모르겠네요.
+Date_Place_Lonely_Oak_2 |= 우리를 봐요, 외로운 늙은 참나무! 이 순간을 우리와 함께 공유하세요. 당신의 나무껍질을 만지고 우리의 에너지를 나눠요. 잠시나마 당신의 외로움을 덜어드리겠습니다.
+
+Date_Place_Dumping_Ground_0 |= 분명히 말씀드리지만, 제가 당신을 여기로 데려온 건 어떤 암시를 주려는 게 아니에요! 함께 시간을 보낸 기념으로 가져갈 만한 물건을 찾으면 좋을 것 같아서요.
+Date_Place_Dumping_Ground_1 |= 한 사람의 쓰레기가 다른 사람의 보물이라는 말이 있잖아요.
+Date_Place_Dumping_Ground_1 |= 당신이 날 찾아주길 바라며 쓰레기 더미에 숨어있지만, 그 안에 뭐가 있을지 누가 알겠어요?
+Date_Place_Dumping_Ground_2 |= 이 마차가 누구의 것이었을까? 너무 아깝네요. 짐을 버리려는 건 아니지만 마차가 있으면 짐을 옮기는 데 편리할 것 같아요.
+
+Date_Place_Cuddlers_Corner_0 |= 그럼, 이곳 이름대로 구석에 앉자고요.
+Date_Place_Cuddlers_Corner_1 |= 이 장소의 전통을 지키며 포옹을 해야겠군요. 그렇게 하지 않으면 도룡뇽으로 변한다고 하네요. 사실이 아닐 수도 있지만 변명의 여지가 없죠?
+Date_Place_Cuddlers_Corner_2 |= 누가 이 장소의 이름을 지었을까요? 연인이었을까요? 아니면 그냥 서로를 위로하고 있었을까요?
+Date_Place_Cuddlers_Corner_2 |= 포옹을 각자의 방식으로 해석할 수 있다고 생각하니 좋네요. 이제 백파이프처럼 나를 꽉 껴안아주세요!
+
+Date_Place_The_Thoughtful_Man_0 |= 여긴 슬픈 곳이에요. 이곳이 주는 느낌이 좋아요. 영혼을 우울함으로 가득 채우고 그리움으로 스며들게 하죠. 지금 내 영혼은 가득 차 있어요.
+Date_Place_The_Thoughtful_Man_1 |= 내가 당신을 엉뚱한 곳으로 데려온 것 같아요. 아, 그럼 최대한 활용해보자고요.
+Date_Place_The_Thoughtful_Man_2 |= 고개 들지 마세요. 나무가 갈라졌어. 대신 제 눈을 보세요.
+
+Date_Place_Old_Lady_Falls_0 |= 정말 예쁘네요. 불행한 이름이지만 예쁘네요.
+Date_Place_Old_Lady_Falls_1 |= 항상 좋아하는 사람을 이곳에 데려오고 싶었어. 이곳은 아름답지만 죽음이 느껴지는 무언가가 있어요. 묘한 조합이죠. 저는 이곳에서, 저 물속에서 쉽게 다시 태어날 수 있을 것 같아요.
+Date_Place_Old_Lady_Falls_2 |= 제 삼촌 베니가 이곳에 왔다가 요정들이 수영장에서 목욕하는 걸 봤다고 했어요. 요정들이 삼촌을 보고 언덕 아래로 쫓아갔어요. 꽤 멋진 광경이었어요.
+
+Date_Place_Poppy_Cranny_0 |= 이곳은 연인을 위한 귀여운 공간이에요! 마쉬티트가 근처에 있어서 언제든 우리를 잡을 수 있어요.
+Date_Place_Poppy_Cranny_0 |= 잡힐 때의 짜릿함!
+Date_Place_Poppy_Cranny_1 |= 이 양귀비꽃의 붉은색이 정말 마음에 들어요. 당신이 저를 쳐다볼 때 얼굴이 붉어지는 색과 같은 색인가요?
+Date_Place_Poppy_Cranny_2 |= 거기서 약간 어지러웠어요! 당신이 나와 함께 있어서 그런 건지 양귀비 때문인지 모르겠어요. 확실히 당신였어요.
+
+Date_Place_Carrot_Top_0 |= 저 당근 크기 좀 보세요! 당근이 정말 크네요. 마쉬티는 확실히 채소를 잘 아는군요. 몰래 한 입 먹어볼까요? 그리고 당근도요.
+Date_Place_Carrot_Top_1 |= 토끼가 이 당근을 보면 어떤 표정을 지을지 상상해 보세요. 기쁨의 바퀴를 돌릴 때와 같은 표정을 짓게 될 거예요.
+Date_Place_Carrot_Top_2 |= 좋아하는 사람과 함께 커다란 당근 옆에 서 있는 것만큼 '핫한 데이트'를 표현하는 것은 없습니다.
+
+Date_Place_LoveFalls_0 |= 아름답습니다! 바로 당신! 폭포가 아니라! 물이 눈에 반사되어 눈이 반짝반짝 빛나네요. 좀 더 가까이 봐도 될까요? 더 가까이 봐도 될까요?
+Date_Place_LoveFalls_1 |= 여기까지 걸어오느라 피곤해요. 당신의 품에서 잠시 쉬게 해주세요.
+Date_Place_LoveFalls_2 |= 한 여행자가 이곳에서 쉬고 있었어요. 그는 물을 마시면서 다시 젊어진 자신을 보았어요.
+Date_Place_LoveFalls_2 |= 그날 밤 그는 잠들었고 다음 날 깨어났는데... 그리고 무슨 일이 일어났을까요?
+Date_Place_LoveFalls_2 |= 네, 어떤 페이가 그의 배낭을 훔쳐갔어요.
+
+Date_Place_Twins_0 |= 우리가 왜 여기 왔는지 모르겠지만 바람이 좀 불긴 해도 정말 좋네요. 제가 아니라 날씨를 말하는 거예요.
+
+Date_Place_WantedMan_0 |= 수배자는 욕망을 상징한다고 하죠. 그는 세상의 유혹을 피해 숲 속에 숨어 여기 서 있죠. 저도 지금 욕망을 상징합니다.
+
+
+Date_Place_RapidPoint_0 |= 와, 이번 데이트는 정말 빨리 지나가고 있네요. 저만큼이나 당신에게도 좋은 시간이었기를 바랍니다!
+Date_Place_RapidPoint_1 |= 왜 래피드 포인트라고 부르는지 알 것 같아요. 당신과 함께 있으니 심장 박동수가 확실히 빨라졌어요.
+Date_Place_RapidPoint_2 |= 천천히 진행해야 한다는 건 알지만, 이곳은 뭔가 서두르지 않을 수 없게 만드는 곳이에요.
+
+Date_Place_SecretCorner_0 |= 누가 이 장소의 이름을 지었을까요? 비밀을 공유해야 할까요?
+Date_Place_SecretCorner_0 |= 어때요... 이 데이트에 초대해 주셔서 정말 기뻐요.
+Date_Place_SecretCorner_0 |= 언젠가 내가 개구리 새끼를 목욕시키는 걸 좋아한다는 걸 밝힐지도 몰라.
+Date_Place_SecretCorner_0 |= 오, s***.
+Date_Place_SecretCorner_1 |= 비밀은 위험한 것이에요. 누가 그걸 악용할지 모르기 때문이죠. 하지만 그 누구보다 당신을 믿습니다.
+Date_Place_SecretCorner_2 |= 이런 얘기를 해서 당신을 코너로 몰고 간 건 알지만... 당신과 함께 여기 나와서 정말 기쁘다는 건 비밀이 아니에요.
+
+Date_Place_RushingNook_0 |= 조심하세요, 약간 미끄러워요. 걱정 마세요, 넘어지면 제가 꼭 구해드릴게요. 하지만 저를 위해서도 조심하는 게 좋을 거예요!
+Date_Place_RushingNook_1 |= 솔직히 이 데이트가 끝나지 않았으면 좋겠어요. 이곳에 대해 뭔가 오래 머물러서는 안 될 것 같은데... 뭐가 그리 급해요?
+Date_Place_RushingNook_2 |= 왜 갑자기 아침 식사로 펩 파우더를 먹은 것 같은 기분이 들까요? 당신과 함께라면 백만 마일도 갈 수 있을 것 같아요. 글쎄, 백만 마일이 뭔지 모르니 적어도 세 마일은 갈 수 있을 것 같아요.
+
+Date_Place_FlingBridge_0 |= 이 다리에 대한 소문이 있어요. 이게 한 번뿐이라는 뜻인가요? 아니면 더 많은 것을 찾고 있나요? 적어도 두 번은요?
+Date_Place_FlingBridge_1 |= 장소 이름으로는 꽤나 이상한데요. 그래도 제 품에 몸을 던져도 상관없어요.
+Date_Place_FlingBridge_2 |= 원한다면 물속으로 막대기를 던져서 다리 밑에서 경주할 수 있을까요? 어렸을 때 항상 그 놀이를 좋아했는데 추억을 공유할 수 있어서 좋네요.
+Date_Place_FlingBridge_2 |= 하지만 돌로 던지기 놀이는 하지 마세요. 경주는 시간이 오래 걸리거든요.
+
+Date_Place_HugWall_0 |= 이곳은 어딘지 모르게 쓸쓸함이 느껴지는 곳이에요. 한때 이곳에 살았던 사람들의 속삭임이 들리는 듯합니다. 그들의 영혼이 돌에 스며들어 있습니다. 생각만 해도 소름이 돋아요.
+Date_Place_HugWall_0 |= 당신과 이곳에 함께 있으니 더 전율이 느껴져요.
+Date_Place_HugWall_1 |= 이곳은 간지럽고 간질간지할 수 있는 좋은 프라이빗한 장소인 것 같네요. 톰 훅핑거스는 아니었으면 좋겠네요!
+Date_Place_HugWall_1 |= 솔직히 말해서 이상하리만치 섹시하지만, 갈고리는 저한테서 떼어낼 수 있을 것 같아요.
+Date_Place_HugWall_2 |= 포옹 벽... 포옹하고 이 고풍스러운 장소의 분위기에 흠뻑 취해야 할 것 같아요. 하지만 포옹이 10초 이상 지속되면 포옹이 아닌 껴안기예요.
+Date_Place_HugWall_2 |= 20까지 세어볼까요?
+
+Date_Place_TwistedSisters_0 |= 이곳이 마음에 들어요. 아주 오래된 느낌이 들어요. 저기 얽혀 있는 나무들을 봐요. 우리일 수도 있어요. 얽혀 있네요. 오래되고 뒤틀린 게 아니라.
+Date_Place_TwistedSisters_1 |= 잠깐만 내 손 좀 잡아줄래? 약간 긴장되는 것 같아. 우리를 지켜보는 오래된 눈동자가 느껴져요. 고대 정령들은 관음증 환자야!
+Date_Place_TwistedSisters_2 |= 트위스티드 시스터즈는 페스티벌에서 공연하던 뮤지컬 그룹처럼 들리네요. 그들은 실제로 형제들이었고 실제로 꽤 예의 바르고 친절했어요.
+
+Date_Place_DeepeyePonds_0 |= 정말 아름다운 연못이네요. 당신의 눈을 떠올리게 하네요. 제가 당신 눈이 깊은 연못 같다고 말했던가요? 쉽게 빠져서 익사할 것 같아요.
+Date_Place_DeepeyePonds_0 |= 내 유령이 너에게 키스해야 할 것 같아.
+Date_Place_DeepeyePonds_0 |= 상상이 돼요? 내 죽은 영혼이 당신의 입술을 맛보는 거? 어두운 로맨스를 좋아하시길 바라요!
+
+Date_Place_BridgeOfSighs_0 |= 습지가 이곳을 감싸기 전까지 고대 문명이 번성했던 것 같네요. 으스스하네요. 저들을 파괴한 악마로부터 저를 보호해 주실 수 있을까요?
+Date_Place_BridgeOfSighs_1 |= 한숨의 다리 위에서 초록빛 그늘에서 눈을 쉬고 있습니다. 꿈꾸는 첨탑 아래. 우리가 거기서 무엇을 만졌나요? 하늘을 만졌어요.
+Date_Place_BridgeOfSighs_1 |= 아, 미안해요! 머릿속에서 영혼들이 저를 향해 노래하는 소리가 들리는 것 같았어요. 눈을 감으면 영혼들이 보였어요. 그들은 작은 얼굴을 하고 있었어요.
+Date_Place_BridgeOfSighs_2 |= 제가 당신을 향해 한숨을 쉬고 있을 때 저를 봐주세요.
+
+Date_Place_TreeOfMemories_0 |= 이곳에 오니 많은 추억이 떠올랐어요. 나무 껍질이 내 손바닥 아래에서 부드럽게 느껴져요. 뿌리는 내 첫사랑의 포옹처럼 얽혀 있습니다. 당신과 더 많은 추억을 만들고 싶어요.
+Date_Place_TreeOfMemories_1 |= 크고 이상한 나무네요. 자, 이제 가자, 고마워요.
+Date_Place_TreeOfMemories_2 |= 저 소리 들려요? 먼 사람들의 킥킥거리는 소리. 먼 곳에 있는 죽은 사람들. 먼, 죽은, 요정들의 웃음소리.
+Date_Place_TreeOfMemories_2 |= 당신이 날 여기로 데려오다니 정말 로맨틱하군요!
+
+
+Date_Place_KissesSneak_0 |= 오! 여기 정말 마음에 들어요. 키스 몰래! 저랑 그렇게 할 계획인가요? 몰래 키스 몇 번 하려고요? 글쎄, 네가 치실을 사용하고 민트로 입안을 씻어낸다면 반대하지 않을 거에요.
+Date_Place_KissesSneak_1 |= 당신을 너무 좋아해요. 당신이 너무 좋아서 내가 처음으로 바퀴를 굴린 곳으로 당신을 데려왔어요.
+Date_Place_KissesSneak_1 |= 시간이 지나면 우리도 바퀴를 돌게 될지도 몰라요.
+Date_Place_KissesSneak_2 |= 여기 왔을 때 뽀뽀를 하고 싶었는데 갑자기 쑥스러워졌어요. 그냥 여기 서서 저 화장실을 바라보는 게 어떨까요?
+
+Date_Place_OverTheBoardwalk_0 |= 산책로 너머. 사람들이 노래를 부를 수 있는 곳이에요. 아기와 함께 담요를 깔고 앉아 사람들이 걷고 있는 이곳에서 즐거운 시간을 보낼 수 있을 거예요.
+Date_Place_OverTheBoardwalk_1 |= 여기가 마음에 드세요? 제가 마음에 드세요? 이제 함께 여행을 시작할까요?
+Date_Place_OverTheBoardwalk_2 |= 여기 마을의 시끌벅적한 분위기가 마음에 들어요. 말 그대로 습지 파리들이 날아다니는 곳이에요.
+
+Date_Place_RoundBackBackOShoppe_0 |= 세상의 소음에서 벗어나기 위해 당신을 이곳으로 데려오고 싶었어요. 당신과 나, 여신들, 저 파리들, 딱정벌레 몇 마리, 달팽이, 보이지 않는 페이, 그리고 개구리 한 마리만 있을 뿐이죠, 제가 프루베르트라고 부를게요.
+Date_Place_RoundBackOShoppe_1 |= 이거 장난 아니지?! 사탕을 먹으러 몰래 도망치는 어린애들 같네요.
+Date_Place_RoundBackOShoppe_1 |= 고대인들은 종이를 말아서 불을 질렀다고 하네요. 그걸로 뭘 했는지는 모르겠네요. 오드볼.
+Date_Place_RoundBackOShoppe_2 |= 이 장소를 어떻게 알 수 있나요? 글쎄요, 제가 여기서 37번의 데이트를 했다고 가정해 보죠. 이곳이 최고가 될 거라고 확신합니다.
+
+Date_Place_ThreeWitches_0 |= 이곳에 대한 꿈을 꿨어요. 마치 소명과도 같았어요. 나는 지금 이곳에 와서 너와 함께 이 뒤틀린 줄기들 사이에 영원히 누워 페이의 마법에 빠져들고 싶은 충동을 느낀다.
+Date_Place_ThreeWitches_1 |= 세 자매는 습지에 홀로 살던 여자였다고 합니다. 그들은 상한 고기를 바쳐 모웨나 여신을 화나게 했어요. 그들은 저주를 받았어요. 밤이 되면 그들은 나무로 변했죠.
+Date_Place_ThreeWitches_1 |= 어느 날 일식이 있었고 자매들은 나무로 변했어요. 하지만 태양이 다시 나타났을 때도 자매는 그대로였어요.
+Date_Place_ThreeWitches_1 |= 자매들은 여전히 그곳에 있어요... 보세요!
+Date_Place_ThreeWitches_2 |= 내가 널 이 어두운 구석으로 데려온 데는 이유가 있어. 불행히도 습지 가스 때문에 머리가 멍해져서 키스를 하려고 했는지 포옹을 하려고 했는지 기억이 안 나네요. 동전을 던져볼까요?
+
+Date_Place_MerryMaypole_0 |= 대장장이가 여관 주인에게 큰 장대라고 말했어요! 저는 풍자를 좋아해요! 모르겠어요? 사방에 다 있잖아요!
+Date_Place_MerryMaypole_1 |= 메이폴은 다산을 상징하는데, 지금 저는 밭고랑을 갈 준비가 되었어요. 흥분해서 밭을 더럽히지 않기를 바랄 뿐이죠.
+Date_Place_MerryMaypole_2 |= 원한다면 춤을 출 수 있어요! 친구들을 두고 떠날 수 있어요. 이 세상에서 온 것처럼 행동할 수 있어요. 현실은 멀리 남겨두고요.
+Date_Place_MerryMaypole_2 |= 어떻게 생각하세요? 안전을 포기하고 함께 위험 속으로 들어가야 할까요?
+
+Date_Place_Abandoned_Hut_0 |= 으스스한 곳이에요! 더 가까이 서는 게 좋을 거예요! 여기 누가 살았고 무슨 일이 일어났는지 궁금해요. 밖에서 무덤을 봤어요.
+Date_Place_Abandoned_Hut_0 |= 벽에 있는 이 이상한 표시는 뭐지?
+Date_Place_Abandoned_Hut_0 |= 그들도 나처럼 욕망에 미쳐버린 걸까?
+Date_Place_Abandoned_Hut_1 |= 항상 이곳에 오고 싶었지만 혼자 가기엔 너무 무서웠어요.
+Date_Place_Abandoned_Hut_1 |= <anim_wave>으에에에엑!
+Date_Place_Abandoned_Hut_1 |= 미안, 당신의 뒤에서 무서운 얼굴을 본 줄 알았어요. 사실은 당신이였어요.
+Date_Place_Abandoned_Hut_2 |= 내가 널 신나는 곳으로 데려가지 않는다고 말하지 말아줘요. 무서우면서도 엄청나게 긴장되네요.
