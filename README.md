@@ -5,9 +5,7 @@
 
 다운받은 파일의 압축을 풀고 
 
-"Kynseed\"에 복사 붙여넣기
-
-하여 실행하시면 번역이 적용됩니다.
+"Kynseed 설치 폴더"에 복사 붙여넣기 하여 실행하시면 번역이 적용됩니다.
 
 
 
@@ -22,28 +20,14 @@
 - 메인 브런치에 직접 업로드를 선택해주시면 됩니다.
   
 ---
-## 번역이 완료된 파일
-AllSigns.txt
+## 번역이 필요한 파일
+AllBooks.txt
 
-Letter_*.txt (총 42개 파일)
+Text_EN_Customisation
 
-Text_EN.txt
+Text_EN_Story.txt
 
-Text_EN_Achievements.txt
-
-Text_EN_Challenges.txt
-
-Text_EN_Combat.txt
-
-Text_EN_EndOfYear.txt
-
-Text_EN_GiftRequests.txt
-
-Text_EN_Letters.txt
-
-Text_EN_NPCStoryCutsceneRelated.txt
-
-Text_EN_Sibling.txt
+Text_EN_NPCStories.txt
 
 * 문맥상의 오류나 오탈자에 의한 수정도 언제나 환영입니다.
 
