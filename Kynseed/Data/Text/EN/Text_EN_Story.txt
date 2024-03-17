@@ -329,7 +329,7 @@ SiblingMissedPicnic |= 어디 있었어? 놓쳤잖아! 지도책으로 너의 �
 빌 삼촌INTRO |= 아! <PlayerName>. 거기있었구나! 잘 적응하고 있니? 집안일이 귀찮지 않길 바란다. 나는 예전만큼 젊지 않아서 모든 것을 스스로 할 수 없어. 곧 여름이 다가오니 축제를 준비해야 할 것 같아.
 빌 삼촌INTRO |= 진행 상황 화면에서 모든 진행 상황을 확인할 수 있단다. 지금 살펴보는 건 어떠니?
 
-BillAfterProgress |= 받아들여야 할 것이 많다는 것을 안다. 서두를 필요는 없다는 것만 기억해. 인생을 마음대로 누리렴. 시간은 우리 모두를 따라잡을 수는 있지만 아주 느리게 흘러가는 것이니 스트레스 받지 말고 마음껏 인생을 살아보거라. 이모가 매일 그렇게 말하곤했지. 자, 이제 시작하자. 막히면 일시 정지 메뉴의 힌트 및 팁과 많은 화면의 왼쪽 상단에 도움말 버튼이 있단다.
+BillAfterProgress |= 받아들여야 할 것이 많다는 것을 안다. 서두를 필요는 없다는 것만 기억해. 인생을 마음대로 누리렴. 시간은 우리 모두를 따라잡을 수는 있지만 아주 느리게 흘러가는 것이니 스트레스 받지 말고 마음껏 인생을 살아보거라. 이모가 매일 그렇게 말하곤했지. 자, 이제 시작하자. 막히면 일시 정지 메뉴의 힌트 및 팁과 화면의 왼쪽 상단에 도움말 버튼이 있단다.
 HubbardCabbageSeed |= 양배추가 필요하다면 이 씨앗을 사용해 양배추를 재배해보렴. 원한다면 내 작물 밭을 자유롭게 사용해. 짜잔!
 
 UncleDay12 |= Summertide is nearly here. It's very exciting! It is when all the Vale community gather to celebrate our beloved Goddesses, especially our patron, Druida.
