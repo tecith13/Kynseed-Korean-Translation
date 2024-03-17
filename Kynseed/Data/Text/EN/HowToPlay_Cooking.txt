@@ -2,88 +2,88 @@ Title|Cooking
 
 
 
-Name|Recipe Book
+Name|요리책
 ID|recipe_book
-Text|The coloured tabs at the side of the book represent the different kinds of food you can make: <link:soup>soups<link>, <link:jam>jams<link>, <link:stew>stews<link>, <link:pie>pies<link>, <link:pud>puddings<link>, <link:bread>bread<link> and <link:bread>sandwiches<link>. Use them to find particular recipes more quickly. Recipes are added to the book as you discover them.
+Text|책 옆면의 색상 탭은 만들 수 있는 다양한 종류의 음식을 나타냅니다. 특정 요리법을 더 빨리 찾으려면 이를 사용하십시오. 레시피를 발견하면 책에 추가됩니다. <link:soup>수프<link>, <link:jam>잼<link>, <link:stew>스튜<link>, <link:pie>파이<link>, <link:pud>푸딩<link>, <link:bread>빵<link>, <link:bread>샌드위치<link>.
 
-Each recipe shows the three or five ingredients required to make it, and will be greyed out if you don't have them all in your inventory.  Select <ui_accept_or_click> a recipe to start crafting.
+각 레시피에는 제작에 필요한 3~5가지 재료가 표시되며, 인벤토리에 해당 재료가 모두 없으면 회색으로 표시됩니다. 제작을 시작하려면 레시피를 <ui_accept_or_click> 선택하세요.
 
-Cooked foods have traits that can affect the person eating them. At first, these are shown with '???' but will be revealed once you have made the recipe.
+조리된 음식에는 그것을 먹는 사람에게 영향을 미칠 수 있는 특성이 있습니다. 처음에는 '???'로 표시됩니다. 하지만 레시피를 만들고 나면 공개됩니다.
 
-You can use the Filter button to show only recipes that will be useful for a particular activity such as a date, combat, bartering, or for many other things.  The selected recipes will have traits that will help improve your performance in your chosen activity.
+필터 버튼을 사용하면 데이트, 전투, 물물교환 등 특정 활동에 유용한 레시피만 표시할 수 있습니다. 선택한 레시피에는 선택한 활동의 ​​성과를 향상시키는 데 도움이 되는 특성이 있습니다.
 
-Name|Soups
-ID|soup
-Text|Soups have the simplest of all cooking processes: blend three ingredients and add each to the pot before the timer runs out.  Doing this perfectly on the first attempt will improve the Star Rating of your soup by one.
+Name|수프
+ID|수프
+Text|수프는 모든 요리 과정 중에서 가장 간단합니다. 세 가지 재료를 섞고 타이머가 끝나기 전에 각각을 냄비에 추가합니다. 첫 번째 시도에서 이 작업을 완벽하게 수행하면 수프의 별점을 한 단계 높일 수 있습니다.
 
-Name|1 - Ingredient Selection
-ID|soupinv
-Text|The Ingredient Selection screen appears after you've selected a recipe from the <link:recipe_book>book<link>.
+Name|1 - 재료 선택
+ID|재료선택
+Text| 재료 선택 화면은 메뉴에서 레시피를 선택한 후 나타납니다. <link:recipe_book>book<link>.
 
-Using <ui_accept_or_click> the Add Highest Rated button automatically selects each required ingredient from your inventory.  Each one will be at the highest available Star Rating. Add Lowest Rated does the opposite.
+<ui_accept_or_click>을 사용하여 최고 등급 추가 버튼을 사용하면 인벤토리에서 필요한 각 재료가 자동으로 선택됩니다. 각각은 가장 높은 별 등급을 받게 됩니다. 최저 등급 추가는 그 반대입니다.
 
-Select <ui_accept_or_click> an ingredient to manually add it to the crafting box instead, selecting the desired Star Rating with <ui_alt_or_rightclick>.
+<ui_accept_or_click> 재료를 선택하여 제작 상자에 수동으로 추가하고 <ui_alt_or_rightclick>으로 원하는 별 등급을 선택하세요.
 
-The completed recipe's Star Rating will be mainly based on the average rating of your ingredients.  <ui_alt_or_rightclick> on ingredients in the crafting box to remove them; you can then replace the ingredient with one of a different Star Rating.
+완성된 레시피의 별점은 주로 재료의 평균점수를 기준으로 결정됩니다. 제작 상자에 있는 재료를 <ui_alt_or_rightclick>하여 제거하세요. 그런 다음 재료를 다른 별 등급 중 하나로 대체할 수 있습니다.
 
-The Batch Crafting option will appear if you have successfully made soups at least three times. This allows you to produce multiple items at once. Scroll to choose the number of ingredients to use - limited to the number you have or up to 10. Note that the number of items to be crafted might be higher than this; Mr Fairweather's items, skills and shop Perks can be used to help boost the yield.
+수프를 3번 이상 성공적으로 만들면 일괄 제작 옵션이 나타납니다. 이를 통해 한 번에 여러 품목을 생산할 수 있습니다. 스크롤하여 사용할 재료 수를 선택하세요. 보유한 수 또는 최대 10개로 제한됩니다. 제작할 아이템 수는 이보다 많을 수 있습니다. Mr Fairweather의 아이템, 기술 및 상점 특전을 사용하여 수확량을 높일 수 있습니다.
 
-Name|2 - Making
-ID|soupmake
-Text|• Select <ui_accept_or_click> an ingredient from the shelf on the left to put it into the grinder. It doesn't matter which one you choose first.
-• Press <ui_accept_or_click> the Hob's head to start the grinder rotating.
-• <ui_accept_or_click> again to stop once the arrows line up. If you miss, the grinder will shake and will rotate more slowly. You have three chances per ingredient.
-• Once the ingredient is ground, it is added to the pot. The cooking timer flips over and starts running.
-• Add and grind the other two ingredients before the sand runs to the bottom of the timer.
+Name|2 - 만들기
+ID|수프 만들기
+Text|• 분쇄기에 넣으려면 왼쪽 선반에서 재료를 <ui_accept_or_click> 선택하세요. 어느 것을 먼저 선택해도 상관없습니다.
+• 그라인더 회전을 시작하려면 호브 헤드를 <ui_accept_or_click> 누르세요.
+• 화살표가 정렬되면 중지하려면 다시 <ui_accept_or_click>하세요. 놓치면 그라인더가 흔들리고 더 천천히 회전하게 됩니다. 재료당 세 번의 기회가 있습니다.
+• 재료가 분쇄되면 냄비에 추가됩니다. 조리 타이머가 뒤집어 작동을 시작합니다.
+• 모래가 타이머 바닥까지 흘러가기 전에 다른 두 가지 재료를 추가하고 갈아주세요.
 
-Name|3 - Results
-ID|soupresult
-Text|This screen shows the item that you crafted, unless you failed to add all of the ingredients to the pot before the timer ran out - in which case you will get a message to say that the soup was ruined and the ingredients wasted.
+Name|3 - 결과물
+ID|수프 결과
+Text|이 화면에는 타이머가 끝나기 전에 모든 재료를 냄비에 추가하지 못한 경우를 제외하고는 여러분이 만든 아이템이 표시됩니다. 이 경우 수프가 망가졌고 재료가 낭비되었다는 메시지가 표시됩니다.
 
-The centre rosette shows a picture of the completed soup; the number of portions created; and its Star Rating.  Banners to the left show the soup's traits.  These traits will be added to the soup's entry in the recipe book.
+중앙 로제트는 완성된 수프의 사진을 보여줍니다. 생성된 부분의 수; 그리고 별점. 왼쪽의 배너는 수프의 특성을 보여줍니다. 이러한 특성은 레시피 북의 수프 항목에 추가됩니다.
 
-The Calculation button will provide more information on the soup's Star Rating - this is initially based on the average Star Rating of the ingredients used.  An additional star may be gained by stopping the grinder at the correct point on the first attempt at grinding each ingredient.
+계산 버튼은 수프의 별점에 대한 자세한 정보를 제공합니다. 이는 처음에는 사용된 재료의 평균 별점을 기준으로 합니다. 각 재료를 처음 분쇄할 때 올바른 지점에서 분쇄기를 멈추면 추가 별을 얻을 수 있습니다.
 
-Name|Jams
-ID|jam
-Text|Jams are all about multi-tasking.  Chop all of the ingredients and get them into the pot before time runs out -  but don't let them get too hot or cold!  Keeping your jam at the perfect temperature at all times will improve its Star Rating by one.
+Name|잼
+ID|잼
+Text|잼은 멀티 태스킹에 관한 것입니다. 모든 재료를 다져서 시간이 다 되기 전에 냄비에 넣으세요. 하지만 너무 뜨겁거나 차갑게 두지 마세요! 잼을 항상 완벽한 온도로 유지하면 별점을 한 단계 높일 수 있습니다.
 
-Name|1 - Ingredient Selection
-ID|jaminv
-Text|The Ingredient Selection screen appears after you've selected a recipe from the <link:recipe_book>book<link>.
+Name|1 - 재료 선택
+ID|재료 선택
+Text|책에서 레시피를 선택하면 재료 선택 화면이 나타납니다. <link:recipe_book>book<link>.
 
-Using <ui_accept_or_click> the Add Highest Rated button automatically selects each required ingredient from your inventory.  Each one will be at the highest available Star Rating. Add Lowest Rated does the opposite.
+<ui_accept_or_click> 을 사용하여 최고 등급 추가 버튼을 사용하면 인벤토리에서 필요한 각 재료가 자동으로 선택됩니다. 각각은 가장 높은 별 등급을 받게 됩니다. 최저 등급 추가는 그 반대입니다.
 
-Select <ui_accept_or_click> an ingredient to manually add it to the crafting box instead, selecting the desired Star Rating with <ui_alt_or_rightclick>.
+<ui_accept_or_click> 재료를 선택하여 제작 상자에 수동으로 추가하고 <ui_alt_or_rightclick>으로 원하는 별 등급을 선택하세요.
 
-The completed recipe's Star Rating will be mainly based on the average rating of your ingredients.  <ui_alt_or_rightclick> on ingredients in the crafting box to remove them; you can then replace the ingredient with one of a different Star Rating.
+완성된 레시피의 별점은 주로 재료의 평균점수를 기준으로 결정됩니다. 제작 상자에 있는 재료를 <ui_alt_or_rightclick>하여 제거하세요. 그런 다음 재료를 다른 별 등급 중 하나로 대체할 수 있습니다.
 
-The Batch Crafting option will appear if you have successfully made jams at least three times. This allows you to produce multiple items at once. Scroll to choose the number of ingredients to use - limited to the number you have or up to 10. Note that the number of items to be crafted might be higher than this; Mr Fairweather's items, skills and shop Perks can be used to help boost the yield.
+일괄 제작 옵션은 최소 3번 이상 용지 걸림을 성공적으로 만든 경우 나타납니다. 이를 통해 한 번에 여러 품목을 생산할 수 있습니다. 스크롤하여 사용할 재료 수를 선택하세요. 보유한 수 또는 최대 10개로 제한됩니다. 제작할 아이템 수는 이보다 많을 수 있습니다. Mr Fairweather의 아이템, 기술 및 상점 특전을 사용하여 수확량을 높일 수 있습니다.
 
-Name|2 - Chopping and Simmering
-ID|jammake
-Text|• Select <ui_accept_or_click> an ingredient from the shelf on the left to move it to the chopping board.  You will discover that chopping some ingredients takes more time or skill than others.  You may want to make note of these, so that you can decide the best order in which to select your ingredients.
-• The best knife for the job will appear. Use <ui_accept_or_click> it to chop the ingredients - finding the right rhythm can help you chop more efficiently. Once you've sliced sufficiently, the Chopping Board will tip up and allow you to scrape the ingredient into the pot, starting the timer.
-• The pot's temperature will drop each time an ingredient is added. Use the lever on the base of the pot to adjust the heat upwards <ui_tabNext_or_click> the lever on its base to the right and keep the temperature indicator in the simmering zone in the middle of the thermometer.
-• Adjust the heat downwards with <ui_tabPrev_or_click> if the jam starts bubbling really hard and the heat is in the red zone. If the temperature stays in the cold blue area or the red boiling area for too long, your jam-making attempt will fail!
-• Keep an eye on the temperature while chopping the other ingredients. You can switch between chopping and using the temperature lever at any time.
-• Make sure that you add all three ingredients before the timer runs out.
+Name|2 - 썰고 끓이기
+ID|잼 만들기
+Text|• 왼쪽 선반에서 재료를 <ui_accept_or_click> 선택하여 도마로 옮깁니다. 일부 재료를 자르는 데는 다른 재료보다 더 많은 시간과 기술이 필요하다는 것을 알게 될 것입니다. 재료를 선택하는 가장 좋은 순서를 결정할 수 있도록 이러한 사항을 기록해 두는 것이 좋습니다.
+• 작업에 가장 적합한 칼이 나타납니다. 재료를 자르려면 <ui_accept_or_click>을 사용하세요. 올바른 리듬을 찾으면 더 효율적으로 자르는 데 도움이 됩니다. 충분히 썰고 나면 도마가 위로 올라가서 재료를 냄비에 긁어내고 타이머가 시작됩니다.
+• 재료를 추가할 때마다 냄비의 온도가 낮아집니다. 냄비 바닥에 있는 레버를 이용해 불의 세기를 위쪽으로 조절하세요. <ui_tabNext_or_click> 냄비 바닥에 있는 레버를 오른쪽으로 움직여 온도를 유지하세요.
+• 매우 세게 끓기 시작하고 온도가 빨간색 영역에 있으면 <ui_tabPrev_or_click>을 사용하여 열을 아래쪽으로 조정하세요. 온도가 차가운 파란색 영역이나 빨간색 끓는 영역에 너무 오랫동안 머무르면 잼 만들기 시도가 실패합니다!
+• 다른 재료를 다지는 동안 온도에 주의하세요. 언제든지 다지기와 온도 레버 사용 사이를 전환할 수 있습니다.
+• 타이머가 끝나기 전에 세 가지 재료를 모두 추가하세요.
 
-Name|3 - Results
-ID|jamresult
-Text|This screen shows the item that you crafted, unless you failed to add all of the ingredients to the pot before the timer ran out - in which case you will get a message to say that the jam was ruined and the ingredients wasted.
+Name|3 - 결과물
+ID|잼 결과물
+Text|이 화면에는 타이머가 끝나기 전에 모든 재료를 냄비에 추가하지 못한 경우를 제외하고는 여러분이 제작한 아이템이 표시됩니다. 이 경우 잼이 망가졌고 재료가 낭비되었다는 메시지가 표시됩니다.
 
-The centre rosette shows a picture of the completed jam; the number of jars created; and its Star Rating.  Banners to the left show the jams's traits.  These traits will be added to the jam's entry in the recipe book.
+중앙 로제트는 완성된 잼의 사진을 보여줍니다. 생성된 항아리의 수 그리고 별점. 왼쪽 배너는 잼의 특성을 보여줍니다. 이러한 특성은 레시피 북의 잼 항목에 추가됩니다.
 
-The Calculation button will provide more information on the jam's Star Rating - this is initially based on the average Star Rating of the ingredients used.  An additional star may be gained by keeping the temperature out of the blue and red zones for the whole time that you are cooking.
+계산 버튼은 잼의 별점에 대한 자세한 정보를 제공합니다. 이는 처음에 사용된 재료의 평균 별점을 기준으로 합니다. 요리하는 동안 온도를 파란색과 빨간색 영역에서 벗어나게 유지하면 추가 별을 얻을 수 있습니다.
 
-Name|Stews
-ID|stew
-Text|Stews are all about time management.  Chop three ingredients and add each to the pot before the timer runs out and without overcooking any of them.
+Name|스튜
+ID|스튜
+Text|스튜는 시간 관리에 관한 것입니다. 세 가지 재료를 다지고 타이머가 끝나기 전에 너무 익히지 않고 각각 냄비에 추가합니다.
 
-Name|1 - Ingredient Selection
-ID|stewinv
-Text|The Ingredient Selection screen appears after you've selected a recipe from the <link:recipe_book>book<link>.
+Name|1 - 재료 선택
+ID|재료 선택
+Text|책에서 레시피를 선택하면 재료 선택 화면이 나타납니다. <link:recipe_book>book<link>.
 
 Using <ui_accept_or_click> the Add Highest Rated button automatically selects each required ingredient from your inventory.  Each one will be at the highest available Star Rating. Add Lowest Rated does the opposite.
 
