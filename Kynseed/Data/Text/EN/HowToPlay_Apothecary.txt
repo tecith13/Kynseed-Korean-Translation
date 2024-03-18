@@ -1,307 +1,305 @@
-Name|What Makes a Successful Apothecary?
-Text| Curing your patients - or at least not making them worse!
+Name|성공적인 약사란 무엇인가요?
+Text|환자를 치료하거나 적어도 병을 악화시키지 않는 것!
 
-Patients enter the apothecary with various illnesses. Listen to their symptoms to discover the unwanted traits that they'd like you to remove, then <link:recipes>craft cures<link>. The more successful cures you produce, the more Brass ☎ and REP <repsymbol>you will collect.
+환자들은 다양한 질병을 안고 약국을 찾아옵니다. 환자의 증상에 귀를 기울여 제거해 주었으면 하는 원치 않는 특성을 파악한 다음, <link:recipes> 치료제를 제작하세요<link>. 치료제를 성공적으로 제작할수록 더 많은 브라스 ☎와 REP <repsymbol>를 수집할 수 있습니다.
 
-You will need to discover the traits of a lot of Quillian herbs and monster parts. It can be a good idea to spend time doing this, and experimenting with crafting cures, before <link:opening>opening your apothecary for business<link>.
-ID|main
+많은 Quillian 약초와 몬스터 부위의 특성을 발견해야 합니다. 약국을 <link:opening>하여 영업을 시작하기 전에 이 작업을 수행하고 치료제를 제작하는 데 시간을 투자하는 것이 좋습니다<link>.
+ID|메인
 
-Name|Opening and Closing the Shop
-Text|Interact with the colourful sign near the shop's door: it will show an X if the shop is closed.
+Name|상점 열기 및 닫기
+Text|상점 문 근처의 다채로운 표지판과 상호작용하세요: 상점이 문을 닫으면 X가 표시됩니다.
 
-Closing a shop sends all staff home until you reopen it, regardless of their schedule. The shop will automatically open and close according to the <link:rota>Rota<link>.
-ID|opening
+상점을 닫으면 일정에 관계없이 상점을 다시 열 때까지 모든 직원이 집으로 돌아갑니다. 상점은 <link:Rota>당번<link>에 따라 자동으로 열리고 닫힙니다.
+ID|개장
 
-Name|Serving and Treating Patients
-Text|Stand behind the consultation counter on the left side of the shop, and interact <ui_accept_or_click>with the first patient in the queue to hear their symptoms.
+Name|환자 응대 및 치료
+Text|매장 왼쪽에 있는 상담 카운터 뒤에 서서 대기열의 첫 번째 환자와 <ui_accept_or_click>으로 대화하여 증상을 듣습니다.
 
-1. Decide which symptoms (undesirable Traits) the patient is experiencing. E.g. someone complaining of sickness might have the <trait:14>trait. The patient will keep repeating the symptoms if you don't get them the first time.
-2. If you know that you have a pre-made cure in the <link:storage>Stock Cupboard<link>that will treat the patient's symptoms, then you can choose to give it directly to the patient. If not, you can give a <link:placebos>placebo<link>; or try to <link:recipes>craft a cure<link>.
-3. Interact with one of the crafting stations on the right side of the room to display the <link:recipes>Recipe Book<link>.
-4. Flick through the Recipe Book to find an illness with symptoms matching those of the patient.
-5. Select the recipe to start crafting a cure that can be given directly to the patient.
-6. If you don't have the ingredients required to make a cure, then you can exit the book and give a <link:placebos>Placebo<link>instead.
-7. The patient will tell you if they feel better or not - sometimes you'll even be able to see a difference! They'll hand over their Brass ☎ and you'll gain <repUp>(or lose! <repDown>) some REP.
-ID|serving
+1. 환자가 겪고 있는 증상(바람직하지 않은 특성)을 결정합니다. 예를 들어 아프다고 호소하는 환자는 <trait:14> 특성을 가지고 있을 수 있습니다. 처음에 증상을 파악하지 못하면 환자는 계속 그 증상을 반복할 것입니다.
+2. <link:storage>비축 찬장<link>에 환자의 증상을 치료할 미리 만들어진 치료법이 있다는 것을 알고 있다면 이를 환자에게 직접 제공하도록 선택할 수 있습니다. 그렇지 않다면 <link:placebos>위약<link>을 투여할 수 있습니다. 아니면 <link:recipes>치료제를 만들어 보세요<link>.
+3. 방 오른쪽에 있는 제작 스테이션 중 하나와 상호작용하여 <link:recipes>레시피 북<link>을 표시하세요.
+4. 레시피북을 넘기면서 환자의 증상과 일치하는 질병을 찾아보세요.
+5. 레시피를 선택해 환자에게 직접 투여할 수 있는 치료제 제작을 시작하세요.
+6. 치료법을 만드는 데 필요한 재료가 없으면 책을 종료하고 대신 <link:placebos>위약<link>을 줄 수 있습니다.
+7. 환자는 기분이 좋아졌는지 안 좋아졌는지 말해 줄 것입니다. 때로는 차이를 볼 수도 있습니다! 그들은 브라스 ☎를 넘겨주고 당신은 <repUp>(혹은 <repDown>) REP을 얻습니다.
+ID|접대
 
-Name|Crafting Cures
-Text|You cannot craft cures whilst your staff are working. <link:opening>Close<link>the shop; or <link:combat>replenish your combat items<link>and <link:storage>stored cures<link>outside of scheduled hours.
+Name|치료법 제작
+Text|직원이 일하는 동안에는 치료법을 만들 수 없습니다. <link:opening>상점을 닫습니다<link>; 또는 예정된 시간 외에 <link:combat>전투 아이템을 보충<link>하고 <link:storage>저장된 치료제<link>를 보충하세요.
 
-Interact with one of the crafting stations on the right side of the room to display the Recipe Book, and then flick through the Recipe Book to find an illness with symptoms matching those of the patient. Select <ui_accept_or_click>the recipe to start crafting.
+방 오른쪽에 있는 제작 스테이션 중 하나와 상호 작용하여 레시피 북을 표시한 다음 레시피 북을 넘겨서 환자의 증상과 일치하는 질병을 찾으세요. 제작을 시작하려면 <ui_accept_or_click>레시피를 선택하세요.
 
-The Ingredient Selection screen shows the name of the selected cure and its required traits in a note to the left. Ideally you are aiming to tick off all of the required traits without adding any negative ones (<trait:55>s).
+성분 선택 화면에는 선택한 치료법의 이름과 필요한 특성이 왼쪽 메모에 표시됩니다. 이상적으로는 부정적인 특성을 추가하지 않고 필요한 모든 특성을 선택하는 것을 목표로 하고 있습니다(<trait:55>s).
 
-Using the Filter Traits button allows you to narrow the selection of ingredients down to those with at least one of the required traits.
+특성 필터링 버튼을 사용하면 필수 특성 중 하나 이상을 갖춘 재료로 재료 선택 범위를 좁힐 수 있습니다.
 
-You can view an ingredient's traits - if you've discovered them via harvesting the item or collecting proverbs - by hovering over it.
+아이템 수확이나 속담 수집을 통해 발견한 경우 해당 재료 위로 마우스를 가져가면 재료의 특성을 볼 수 있습니다.
 
-Select <ui_accept_or_click>an item to move it into the crafting tray. You can only include one of each kind of ingredient, i.e. you cannot add two <item:Grave_Lilac>flowers to the same potion.
+아이템을 <ui_accept_or_click>선택하여 제작 트레이로 옮기세요. 각 종류의 재료 중 하나만 포함할 수 있습니다. 즉, 동일한 물약에 두 개의 <item:Grave_Lilac>꽃을 추가할 수 없습니다.
 
-However, one ingredient might tick off two traits on the requirement list if, for example, it had both <trait:23>and <trait:36>traits then you would be able to craft <item:Poppy_Perkup>with only one ingredient.
+그러나 예를 들어 <trait:23>과 <trait:36>특성이 둘 다 있는 경우 하나의 재료가 요구 사항 목록에서 두 가지 특성을 선택할 수 있으며 단 하나의 재료로 <item:Poppy_Perkup>을 제작할 수 있습니다.
 
-Filter Traits can still be very helpful if you have not yet uncovered all ingredient traits. You will still see a selection of ingredients, each of which will have at least one of the required traits, but it will be up to you to experiment to find the best combinations.
+필터 특성은 아직 모든 성분 특성을 발견하지 못한 경우에도 매우 유용할 수 있습니다. 여전히 다양한 재료가 표시되며 각 재료에는 최소한 하나의 필수 특성이 있지만 최상의 조합을 찾는 것은 실험에 달려 있습니다.
 
-For example, you need to craft a cure for Burns.
-• <trait:22>and <trait:20>traits are needed, so you use Filter Traits.
-• You know that <item:Cuckoo_Dew>has the <trait:22>trait, and add it to the crafting tray.
-• The <trait:22>trait is checked off the Requirements list.
-• The remaining ingredients are <item:Ancient_Cloth>, <item:Sunflower>, and <item:Parsley>. You know that they all have the <trait:20>OR <trait:22>traits (or both!), but not WHICH they have.
+예를 들어, 화상 치료제를 만들어야 합니다.
+• <trait:22> 및 <trait:20> 특성이 필요하므로 필터 특성을 사용합니다.
+• <item:Cuckoo_Dew>에 <trait:22>특성이 있다는 것을 알고 이를 제작 트레이에 추가합니다.
+• <trait:22> 특성이 요구 사항 목록에서 선택되어 있습니다.
+• 나머지 재료는 <item:Ancient_Cloth>, <item:Sunflower>, <item:Parsley>입니다. 당신은 그들이 모두 <trait:20>또는 <trait:22>특성(또는 둘 다!)을 가지고 있지만 그들이 가지고 있는 특성은 없다는 것을 알고 있습니다.
 
-At this point you can:
-1. Craft the cure with only one ingredient. This will give you a Partial Cure as you are only providing <trait:22>.
-2. Add another ingredient. This could:
- • Add the <trait:20>trait, giving you a full Cure.
- • Add the <trait:22>trait again, resulting in a Partial Cure but wasting the ingredient.
- • Add either <trait:20>or <trait:22>with a <trait:55>, such as <trait:25>. You'd still get the full or Partial Cure, but it will sell for less Brass ☎ and REP <repDown>.
-3. Add a third ingredient. This doubles the chances of any of the benefits and drawbacks listed in option 2.
-4. Back out and sell a <link:placebos>Placebo<link>instead.
+이 시점에서 다음을 수행할 수 있습니다.
+1. 단 하나의 재료로 치료제를 제작하세요. <특성:22>만 제공하므로 부분 치료가 제공됩니다.
+2. 다른 재료를 추가합니다. 이럴수있다:
+ • <trait:20>특성을 추가하여 완전한 치료를 제공합니다.
+ • <trait:22>특성을 다시 추가하면 부분 치료가 되지만 재료가 낭비됩니다.
+ • <trait:25>와 같이 <trait:55>와 함께 <trait:20> 또는 <trait:22>를 추가합니다. 여전히 전체 또는 부분 치료를 받을 수 있지만 더 적은 Brass ☎ 및 REP <repDown>에 판매됩니다.
+3. 세 번째 성분을 추가합니다. 이렇게 하면 옵션 2에 나열된 장점과 단점이 나타날 가능성이 두 배로 늘어납니다.
+4. 대신 <link:placebos>위약<link>을 판매하세요.
 
-If you choose to continue crafting, the <trait:20>trait is not checked off on the Requirements List at this point, because you do not have the proverbs for the second or third ingredients. You will need to craft the <link:potion>Potion<link>, <link:cream>Cream<link>or <link:powder>Powder<link>and then check the <link:results>Results<link>screen to find out if your experiment was successful. Note taking is advisable!
-ID|recipes
+제작을 계속하기로 선택한 경우 <trait:20>특성은 이 시점에서 요구 사항 목록에서 선택 해제되지 않습니다. 왜냐하면 두 번째 또는 세 번째 재료에 대한 속담이 없기 때문입니다. <link:potion>포션<link>, <link:cream>크림<link>또는 <link:powder>파우더<link>를 제작한 다음 <link:results>결과<link>화면을 확인해야 합니다. 실험이 성공했는지 알아보세요. 메모하는 것이 좋습니다!
+ID|레시피
 
-Name|Placebos, or, I can't cure that!
-Text|Placebos can sometimes help a patient through the power of suggestion, but otherwise have no effect beyond bringing in a little Brass ☎ and sometimes preventing REP <repDown>being lost by turning patients away.
+Name|플라시보, 아니면 치료할 수 없을때!
+Text|플라시보 효과는 때때로 제안의 힘을 통해 환자에게 도움을 줄 수 있지만 약간의 브라스 ☎를 가져오고 때로는 환자를 돌려보내서 REP <repDown>이 손실되는 것을 방지하는 것 외에는 효과가 없습니다.
 
-Your staff will automatically sell placebos in the absence of a <link:storage>stored Full or Partial Cure<link>, or the ingredients required to <link:recipes>craft<link>one.
+<link:storage>저장된 완전 또는 부분 치료<link> 또는 <link:recipes>제작<link>에 필요한 재료가 없는 경우 직원이 자동으로 플라시보 효과를 처방합니다.
 
-You may choose to <link:serving>serve<link>a patient with a placebo at any time: sometimes this can be cheaper than wasting ingredients on an experimental cure. You may choose to Dismiss the patient instead.
-ID|placebos
+언제든지 플라시보 효과로 환자에게 <link:serving>서비스<link>를 선택할 수 있습니다. 때로는 이것이 실험적인 치료법에 재료를 낭비하는 것보다 저렴할 수 있습니다. 대신 환자를 해산하도록 선택할 수도 있습니다.
+ID|플라시보
 
-Name|Crafting for Combat
-Text|You can craft combat items, such as Healing Creams and Flame Phials for your own use. These cannot be sold in the shop, and your staff will not craft them for you.
+Name|전투를 위한 제작
+Text|힐링 크림, 불꽃 약병 등의 전투 아이템을 직접 제작하여 사용할 수 있습니다. 이 아이템은 상점에서 판매할 수 없으며 직원이 대신 제작해 주지도 않습니다.
 
-Combat items can only be created from monster parts, not herbs or flowers. Some monster parts can be ordered via the <link:storage>Stock Cupboard<link>, but you'll need to collect most of them by fighting in the woods.
+전투 아이템은 허브나 꽃이 아닌 몬스터 부위로만 제작할 수 있습니다. 일부 몬스터 부품은 <link:storage>재고 찬장<link>을 통해 주문할 수 있지만 대부분은 숲에서 싸우면서 수집해야 합니다.
 
-Interact with one of the crafting stations on the right side of the room to display the <link:recipes>Recipe Book<link>, and then <ui_secondaryTabNext_or_click>switch to the red combat tab. Flick through the combat recipes, then <ui_accept_or_click>to select one.
+방 오른쪽에 있는 제작 스테이션 중 하나와 상호작용하여 <link:recipes>레시피 북<link>을 표시한 다음 <ui_secondaryTabNext_or_click>빨간색 전투 탭으로 전환하세요. 전투 방법을 살펴보고 <ui_accept_or_click>하여 하나를 선택하세요.
 
-Ingredient selection works in the same way as when <link:recipes>crafting cures<link>, except that only monster parts are shown: you can further filter these with <ui_alt>. After choosing a recipe, make your <link:potion>Potion<link>, <link:powder>Powder<link>or <link:cream>Cream<link>as usual. <link:results>Results<link>will go straight into your personal Inventory, rather than to the Store Cupboard.
-ID|combat
+재료 선택은 몬스터 부분만 표시된다는 점을 제외하면 <link:recipes>치료제 제작<link>과 동일한 방식으로 작동합니다. <ui_alt>를 사용하여 추가로 필터링할 수 있습니다. 레시피를 선택한 후 평소대로 <link:potion>포션<link>, <link:powder>파우더<link>또는 <link:크림>크림<link>을 만드세요. <link:results>결과<link>는 매장 찬장이 아닌 개인 인벤토리로 바로 이동됩니다.
+ID|전투
 
+Name|장부 페이지
+Text|약재 가격은 효능(전체, 부분 또는 실패) 및 별 등급에 따라 결정됩니다. 환자들은 흥정을 시도하지 않으며 귀하는 <link:pricing>가격<link>을 조정할 수 없습니다.
 
-Name|Accounts Page
-Text|Appothecary prices are based upon their efficacy (Full, Partial or Failed), and Star Rating. Patients will not try to haggle, and you cannot adjust the <link:pricing>prices<link>.
+방문 고객에게 위약 품목을 줬는데 받아들여지지 않으면 여전히 약간의 브라스 ☎를 얻을 수 있지만 REP는 손실됩니다(<repDown>).
 
-If you give a placebo item to a walk-in customer and it is not accepted, you will still gain some Brass ☎ but will suffer a REP loss <repDown>).
+일부 항목은 손실로 표시될 수 있습니다. 마이너스는 빨간색으로 표시됩니다. <link:mwe>직원 임금<link>은 황동 ☎ 비용이 들기 때문에 항상 이런 식으로 표시됩니다. <link:restock>재고 구매<link>(환자가 창구를 통해 구매하거나 <link:storage>재고 찬장<link>을 통해 구매하는 가격)도 해당 품목의 일일 수익에서 차감됩니다.
 
-Some items may show as losses - negative numbers displayed in red. <link:mwe>Staff wages<link>are always displayed this way, as they cost you Brass ☎. The price of <link:restock>buying stock<link>- either over the counter from patients or via the <link:storage>Stock Cupboard<link>- is also subtracted from your daily profits for an item.
+판매는 치료법의 이름이 아닌 치료될 질병의 이름으로 나열됩니다. 예: 식중독은 <item:Abdo_mend>로 치료할 수 있습니다. <item:Gulliver_Travel>로 부분적으로 치료됨; 둘 중 하나로 처리되지만 <trait:55>로 처리됩니다. 또는 위약으로 '치료'합니다.
 
-Sales are listed by the name of the illness that was to be cured, not by the name of the cure. E.g. Food Poisoning can be Cured with <item:Abdo_mend>; Partially Cured with <item:Gulliver_Travel>; treated with either but with <trait:55>s; or 'treated' with a Placebo.
+<ui_accept_or_click>질병 이름을 클릭하면 해당 질병과 관련된 판매에 대한 자세한 정보를 얻을 수 있습니다. 이는 재고 관리에 큰 도움이 될 수 있습니다.
 
-<ui_accept_or_click>on an illness' name to get more detailed information on sales relating to it. This can be really helpful with stock management.
+예: 식중독이 어제 지속적으로 치료되었지만 오늘은 부분적으로만 치료되었다면, 필요한 특성 중 하나를 갖춘 성분이 누락된 것입니다. <link:recipes>요리 책<link>을 확인하면 <trait:3>과 <trait:22>가 필요하다는 것을 알 수 있습니다. 그런 다음 <link:storage>재고 찬장<link>을 확인하여 누락된 것이 무엇인지 확인한 다음 관련 재료를 더 주문하거나 수집할 수 있습니다.
 
-E.g. if Food Poisoning was being consistently cured yesterday, but only partially cured today, then you know that you are missing an ingredient with one of its required traits. Checking the <link:recipes>recipe book<link>would let you know that <trait:3>and <trait:22>are needed; you can then check the <link:storage>Stock Cupboard<link>to find out which is missing, and then order or collect more of the relevant ingredient.
+해당 제목을 <ui_accept_or_click>하여 판매 수, 수익 ☎ 금액, REP <repUp> 획득 또는 기본적으로 질병(아이템) 이름의 알파벳 순서로 계정을 정렬합니다.
+ID|장부
 
-<ui_accept_or_click>on the appropriate heading to sort your accounts by the number Sold, the amount of Profit ☎ made, REP <repUp>gained, or by the default, which is in alphabetical order by illness (Item) name.
-ID|accounts
+Name|가격 및 평판
+Text|약국의 가격은 고정되어 있습니다. 환자는 부작용이 있거나 없는 <link:recipes>완전한 치료<link>에 대해 시장 가치를 지불합니다. 부분 치료의 경우 약간 적고 <link:placebos>플라시보<link>의 경우 상당히 적습니다.
 
-Name|Pricing and REP
-Text|Prices in the Apothecary are fixed. Patients will pay the market value for a <link:recipes>Full cure<link>, with or preferably without side effects; a bit less for a Partial cure, or considerably less for a <link:placebos>Placebo<link>.
+위약은 항상 약간의 브라스 ☎를 가져오지만 REP <repsymbol>은 거의 가져오지 않으며 실패할 경우 실제로 평판을 손상시킬 수 있습니다.
+ID|가격
 
-Placebos always bring in a little Brass ☎, but bring in very little REP <repsymbol>, and can actually damage your reputation if unsuccessful.
-ID|pricing
+Name|재고 찬장
+Text|이 찬장에는 가게에서 사용할 모든 물품이 들어있습니다. 직원은 여기에 남겨두는 재료나 미리 준비된 치료법을 사용할 수 있습니다.
 
-Name|Stock Cupboard
-Text|This cupboard holds all of the items to be used in the shop. Your staff can use any ingredient or pre-prepared cure that you leave in here.
+찬장에는 치료제와 재료라는 두 섹션이 있습니다. 색상이 지정된 탭을 사용하여 탭을 교체하세요. 각 섹션의 하단에는 개인 인벤토리에 있는 해당 카테고리의 아이템이 표시됩니다.
 
-There are two sections within the cupboard: Cures and Ingredients. Use the coloured tabs to swap between them. The lower half of each section shows the items from that category that are in your personal Inventory.
+치료법 위로 마우스를 가져가면 찬장 오른쪽에 있는 정보 패널에 해당 세부 정보가 표시됩니다. 이는: 치료법의 이름; 그것이 치료하는 질병; 제작에 사용된 특성과 <trait:55>에 대한 경고(해당되는 경우).
 
-Hovering over a cure will display its details in the Information Panel to the right of the cupboard. These are: the cure's name; the illness that it cures; the traits used in crafting it and a warning about <trait:55>s (if applicable).
+항목의 전체 스택을 이동합니다. 모든 <item:Bloodfew> - 항목을 선택하고 <ui_alt_or_rightclick>하여 찬장과 인벤토리 사이에 있습니다. 특정 별 등급의 항목만 선택하려면 해당 항목 <ui_accept_or_click>을 선택한 후 원하는 품질을 선택하고 <ui_alt_or_rightclick>을 선택하세요. <ui_accept_or_click>을 사용하면 항목을 하나씩 이동할 수 있습니다.
 
-Move whole stacks of items - e.g. all <item:Bloodfew>- between the Cupboard and your Inventory by selecting the item and <ui_alt_or_rightclick>. To select only those of a certain star rating, select <ui_accept_or_click>, the item, then select the required quality and <ui_alt_or_rightclick>. Items can be moved singly with <ui_accept_or_click>.
+카운터 뒤에서 작업하는 동안 고객으로부터 재료를 구입하면 해당 항목은 찬장이 아닌 인벤토리로 들어갑니다.
 
-Note that if you buy ingredients from customers while working behind the counter, the items will go into your Inventory rather than the cupboard.
+재고는 공급업체로부터 <link:재입고>주문<link>할 수 있으며 찬장에 도착하는 데 3일이 소요됩니다. <link:perks>특전 포인트<link>를 사용하여 속도를 높이고 사용 가능한 범위를 확장할 수 있습니다. <ui_alt2>주문 화면에 액세스합니다.
+ID|재고
 
-Stock can be <link:restock>ordered<link>from the supplier, and will take three days to arrive in the Cupboard. You can speed this up, and expand the available range, by spending <link:perks>Perk Points<link>. <ui_alt2>to access the ordering screen.
-ID|storage
+Name|주문으로 재입고 하기
+Text|이 페이지에는 현재 공급업체로부터 주문할 수 있는 모든 품목이 표시됩니다. 더 많은 혜택을 잠금 해제하려면 <link:perks>특전 포인트<link>를 사용해야 합니다.
 
-Name|Restocking with Orders
-Text|This page shows all of the items that can currently be ordered from your supplier. You will need to spend <link:perks>Perk Points<link>to unlock more.
+저장된 번호별로 항목을 정렬하려면 Stock 제목을 <ui_accept_or_click> 선택하세요. <ui_accept_or_click>항목을 선택하면 항목 이름에 따라 알파벳순으로 정렬된 기본 목록으로 돌아갑니다.
 
-Select <ui_accept_or_click>the Stock heading to order the items by number stored. Select <ui_accept_or_click>Item to return to the default list, which is alphabetically ordered by item name.
+추가 주문하려면 항목을 <ui_accept_or_click>선택하세요. 처음에는 예산 상자만 주문할 수 있습니다. 이는 저렴한 비용으로 품질이 낮은 품목 10개로 구성된 세트입니다. 특전 포인트를 사용하여 일반 및 프리미엄 박스 옵션을 잠금 해제하고 더 높은 가격에 더 좋은 품질의 품목을 주문하세요.
 
-Select <ui_accept_or_click>an item to order more. At first, you can only order a Budget box - this is a set of 10 low-quality items at a low cost. Use Perk Points to unlock the Normal and Premium Box options to order better-quality items at a higher price.
+주문이 확인되면 상품이 배송되기까지 일반적으로 3일이 소요되므로 미리 계획하세요! 첫 번째 주문이 도착할 때까지 해당 품목을 더 주문할 수 없습니다.
 
-Once an order is confirmed, items will usually take three days to be delivered, so plan ahead! You cannot order more of that item until your first order arrives.
+추적하는 데 도움이 되도록 도착 날짜가 주문 페이지에 나열됩니다. <link:perks>특전 포인트<link>를 사용하면 배송 시간을 크게 줄일 수 있습니다.
+ID|재입고
 
-Arrival dates will be listed on the Ordering page to help you keep track. Spending <link:perks>Perk Points<link>can reduce delivery times significantly.
-ID|restock
+Name|직원 채용
+Text|상점에서 일할 수 있는 사람은 최대 4명까지 고용할 수 있지만, 한 번에 한 명만 일할 수 있습니다. 상점의 Haven에 있는 사람들만 이용할 수 있습니다. 예를 들어 Mellowbrook의 사람들은 매일 출근하기 위해 Vale까지 걸어가는 것을 좋아하지 않습니다. 하지만 당신의 가족은 어느 상점에서나 일하도록 파견될 수 있습니다.
 
-Name|Hiring Staff
-Text|You can hire up to four people to work in your shop, though only one can work at a time. Only people from the shop's Haven will be available - for example, people from Mellowbrook are not happy to walk to the Vale for work every day. Your family can be sent to work in any shop though.
+모든 직원은 재료와 그 특성에 대해 최소한 당신만큼 많은 지식을 가지고 있습니다.
 
-All staff have as least as much knowledge about ingredients and their traits as you do.
+직원 공간 중앙에 있는 채용 버튼을 사용하여 사용 가능한 직원을 확인하세요.
 
-Use the Hire button in the middle of a Staff Space to see the available workers.
+각 잠재적 근로자에게는 <link:mwe>시급<link>이 있습니다. 이 시간은 근무 시간에 할당한 시간(<link:rota>Rota<link>페이지 사용)으로 곱해지며, 퇴근 시 자동으로 브라스 ☎에서 가져옵니다. 임금 전액을 지불하지 못하면 직원이 떠나고 복귀를 거부하므로 이 비용을 감당할 수 있는지 확인하십시오!
 
-Each potential worker has an <link:mwe>hourly rate<link>. This will be multiplied by the number of hours that you assign them to work (using the <link:rota>Rota<link>page), and will be automatically taken from your Brass ☎ when they leave for the day. Make sure that you can cover this cost, as staff will leave and refuse to return if you cannot pay their whole wage!
+시급이 높은 직원은 높은 <link:stats>능력치<link>를 갖고 있어 매장에서 일을 잘하는 경향이 있습니다. 하지만 관련 특성이 있는 음식을 선물하면 직원의 열악한 능력치를 일시적으로 높일 수 있습니다. 이 방법으로 <link:mwe>기분<link>을 향상시킬 수 있을 뿐만 아니라 <link:mwe>약국 레벨<link>을 향상하도록 격려할 수도 있습니다.
 
-Employees with a higher hourly rate tend to have <link:stats>Stats<link>that will make them good at working in the shop. However, you can temporarily boost your employee's poorer stats with gifts of food that have the relevant Traits. You can improve their <link:mwe>Mood<link>this way too, as well as encouraging them to improve their <link:mwe>Apothecary Level<link>.
+목록에서 사람의 이름을 선택하여 고용 의사를 확인하세요. 한 번에 한 상점에만 고용할 수 있다는 점을 기억하세요! 이 시점에서 직원의 <link:mwe>임금<link>을 높이거나 낮출 수 있습니다.
 
-Select a person's name from the list to confirm that you want to hire them. Be aware that people can only be employed in one shop at a time! At this point you can adjust the employee's <link:mwe>wages<link>- up or down.
+원하는 경우 급여 변경 버튼을 사용하여 직원의 시간당 요율을 조정하십시오. 이 작업은 언제든지 수행할 수 있습니다.
 
-Use the Change Pay button to adjust the employee's hourly rate, if you wish. You can do this at any time.
+신입 직원은 <link:rota>당번 페이지<link>를 사용하여 일정을 예약할 때까지 실제로 업무를 시작하지 않습니다. 모집이 끝나면 잊지 마세요!
+ID|채용
 
-Your new employee will not actually start work until you schedule them using the <link:rota>Rota page<link>. Don't forget to do this once you have finished recruiting!
-ID|hiring
+Name|능력치
+Text|능력치는 직원이 업무를 얼마나 잘 수행할 것인지를 나타냅니다. 단기적으로는 선물로 영향을 받을 수 있으며, 시간이 지남에 따라 직원의 <link:mwe>기분<link>을 향상시켜 개선할 수 있습니다.
 
-Name|Stats
-Text|Stats indicate how well an employee is likely to do the job. They can be affected in the short term by gifts, and improved over time by boosting the employee's <link:mwe>mood<link>.
+<특성:7>:
+매력적인 직원은 <link:placebos>플라시보<link>성공적으로 판매할 가능성이 더 높습니다.
 
-<trait:7>:
-Charming employees are more likely to sell <link:placebos>placebos<link>successfully.
+<특성:9>및 <특성:26>:
+이러한 통계 값이 높은 직원은 자신이 만드는 치료법의 품질을 높일 수 있습니다. 통계가 낮으면 결과 품질이 낮아질 수 있습니다.
 
-<trait:9>and <trait:26>:
-Staff with high values for these stats have a chance to boost the quality of the cures that they craft: low stats can lead to lower quality results.
+<특성:42>:
+고속이란 환자에게 더 빨리 서비스를 제공한다는 의미입니다. 시간당 더 많은 환자가 진료를 받게 되며, 긴 대기열로 인해 떠날 가능성이 줄어듭니다.
 
-<trait:42>:
-High Speed means that patients will be served more quickly. More patients will be served per hour, and they will be less likely to leave due to long queues.
+<특성:44>:
+직원의 에너지는 작업하는 동안 시간이 지남에 따라 감소합니다. 높은 체력으로 인해 속도가 느려집니다. 에너지가 부족한 직원은 효율성이 훨씬 떨어지고 회복을 위해 집에서 시간이 필요합니다.
+ID|능력치
 
-<trait:44>:
-Staff member's Energy drops over time while they are working. High Stamina will slow this down. Staff with low energy become much less efficient and need time at home to recover.
-ID|stats
+Name|임금, 기분 및 경험
+Text| 직원의 임금은 <link:hiring>채용<link>할 때 먼저 결정됩니다. <link:hiring>채용 페이지<link>에서 급여 변경 버튼을 선택하여 직원의 급여와 예상 시급을 확인하세요.
 
-Name|Wages, Mood and Experience
-Text| Employee's wages are first set when <link:hiring>hiring<link>. Check an employee's wage versus their expected hourly rate by selecting the Change Pay button on the <link:hiring>Hiring Page<link>.
+스크롤하여 임금을 올리거나 낮추고 확인: 또는 예상 금액 설정을 사용하여 급여가 부족한 사람의 요구 사항을 충족하세요.
 
-Scroll to raise or lower the wage and Confirm: or use Set Expected to meet the needs of someone you've been underpaying.
+직원의 기분은 급여와 근무 조건에 따라 다릅니다. 직원이 합리적인 시간 동안 일하고 시간당 예상 금액 이상을 받을 때 기분이 좋아집니다. 임금이 예상보다 낮거나 직원이 집에서 충분한 시간 없이 너무 오랫동안 일해야 하는 경우에는 감소합니다. 선물은 불행한 직원의 기분을 빠르게 북돋아 줄 수 있지만 장기적인 해결책은 아닙니다.
 
-An employee's Mood varies according to their wages and working conditions. Mood rises when employees work reasonable hours and are paid at or above their expected amount per hour; it drops when wages are lower than expected or when the staff member is forced to work too long without enough time at home. Gifts can provide a quick boost to an unhappy worker's Mood, but are not a long-term solution.
+누군가의 기분이 업무에 영향을 미칠 만큼 변하는 데는 며칠이 걸릴 수 있습니다. 예상 조건과 실제 조건 사이의 차이가 클수록 기분 변화가 더 빨리 발생합니다.
 
-It can take several days for someone's Mood to change enough to affect their work: the more significant the difference between their expected and actual conditions, the faster the Mood change occurs.
+직원의 기분은 <link:hiring>채용 페이지<link>에서 기록을 통해 언제든지 확인할 수 있습니다. 녹색 마스크는 좋은 기분을 나타내고 노란색은 중립적이며 빨간색은 나쁜 기분을 나타냅니다.
 
-Employee's Mood can be checked anytime by looking at their record on the <link:hiring>Hiring Page<link>. A green mask indicates a good mood, yellow is neutral, and red is bad.
+기분이 좋다는 것은 직원이 고객에게 신속하게 서비스를 제공하고 명랑하고 정중한 말을 하는 것을 의미합니다. 불행한 직원은 무례하고 비효율적입니다.
 
-A good Mood means an employee will serve customers quickly, and you'll see them making cheerful and polite comments. Unhappy employees are rude and inefficient.
+약제사 레벨은 매장에서 근무한 직원의 경험을 나타내며 시간이 지남에 따라 수집됩니다. 레벨을 높이면 일하는 동안 직원의 <link:stats>능력치<link>가 향상되어 직원의 효율성이 향상되고 선물의 필요성이 줄어듭니다. 직원의 기분이 좋지 않으면 경험치를 얻을 수 없습니다.
+ID|임금
 
-Apothecary Level indicates an employee's experience working in the shop - it is collected over time. Gaining levels boosts employee <link:stats>Stats<link>while working, improving their efficiency and reducing the need for gifts. Employees will not gain experience if their Mood is bad.
-ID|mwe
+Name|당번
+Text|당번을 설정하기 전에 <link:hiring>채용 페이지<link>를 사용하여 직원을 모집해야 합니다. 한 번에 한 사람만 작업 일정을 잡을 수 있습니다.
 
-Name|Rota
-Text|You must recruit staff using the <link:hiring>Hiring Page<link>before you can set up a rota. Note that only one person can be scheduled for work at a time.
+<ui_accept_or_click>직원의 사진을 선택한 다음 Rota의 사각형을 선택하고 <ui_accept_or_click>해당 시간 슬롯에 할당하세요.
+여러 사각형 위로 드래그할 수도 있습니다. 해당 슬롯에서 사람을 제거하려면 동일한 사각형을 다시 선택하십시오.
 
-Select <ui_accept_or_click>a staff member's picture, then choose a square on the Rota and <ui_accept_or_click>to assign them to that timeslot.
-You can drag over multiple squares, too. Select the same squares again to remove the person from that slot.
+당번의 각 사각형은 3시간의 근무 시간을 의미하므로 <link:mwe>임금 청구서<link>가 얼마인지 확인하는 것을 잊지 마세요!
 
-Note that each square on the Rota represents three hours of work, so remember to check what your <link:mwe>wage bill<link>is likely to be!
+쉬지 않고 너무 많은 시간을 할당하면 직원이 피곤해집니다. 이렇게 하면 작업 속도가 더 느려지고 고객에게 무례할 수 있으므로 근무 시간 사이에 에너지를 회복하거나 <link:stats>체력<link>을 높일 시간을 주십시오.
+ID|당번
 
-Staff will get tired if assigned too many hours without a break. This will make them work more slowly, and they may be rude to customers, so give them time to recover energy between shifts or boost their <link:stats>Stamina<link>.
-ID|rota
+Name|가루 제작
+Text|Pad|분말은 약제사의 제품 중 가장 단순한 제품입니다.
+<ui_ls>를 사용하여 도마 위의 재료 위로 다지기를 이동하고 <ui_accept_or_click>을 눌러 다집니다. <ui_accept_or_click>을 누른 채 다지는 것을 좌우로 흔드는(<ui_ls>) 수도 있습니다. 모든 것이 충분히 분쇄될 때까지 이 과정을 계속하세요. 그러면 도마가 벤치에서 들어올려지고, 다지기로 재료를 절구에 긁어낼(<ui_ls> 및 <ui_accept_or_click>) 준비가 됩니다.
 
-Name|Crafting Powders
-Text|Pad|Powders are the simplest of the Apothecary's products.
+막자를 사용하여 <ui_accept_or_click>재료를 으깨고 <ui_ls>로 막자를 움직여 <ui_accept_or_click>한 상태로 갈아줍니다. 먼지가 더 이상 형성되지 않을 때마다 막자를 풀어주세요. 그런 다음 완성된 분말이 자동으로 패킷에 들어갈 때까지 분쇄, 분쇄 및 방출을 반복합니다. <link:results>결과 화면<link>에는 치료의 성공 여부와 품질이 표시됩니다.
 
-Move your chopper over the ingredients on the chopping board with <ui_ls>and press <ui_accept_or_click>to chop. You can also hold <ui_accept_or_click>while rocking (<ui_ls>) the chopper left and right. Continue with this until everything is sufficiently pulverised - the chopping block will then lift off the bench, ready for you to scrape (<ui_ls>and  <ui_accept_or_click>) the ingredients into the mortar with your chopper.
+Text|KBM|분말은 약제사의 제품 중 가장 단순한 제품입니다.
 
-Use the pestle to crush <ui_accept_or_click>the ingredients, and hold <ui_accept_or_click>while moving the pestle with <ui_ls>to grind. Release the pestle whenever the dust stops forming. Then repeat crushing, grinding and releasing until the completed powder automatically tips into a packet. The <link:results>Results screen<link>will show the success of your cure, as well as it's quality.
+도마 위의 재료 위로 다지기를 이동하고 클릭하여 다집니다. 다지기를 좌우로 흔드는 동안 <ui_accept_or_click>을 누르고 있을 수도 있습니다. 모든 것이 충분히 분쇄될 때까지 이 작업을 계속하세요. 그러면 도마가 벤치에서 들어올려지고, 클릭하고 드래그하여 다지기로 재료를 절구에 긁어낼 수 있습니다.
 
-Text|KBM|Powders are the simplest of the Apothecary's products.
+막자를 사용하여 <ui_accept_or_click>재료를 으깨고 막자를 움직여 갈아주는 동안 <ui_accept_or_click>을 누르고 있습니다. 먼지가 더 이상 형성되지 않을 때마다 막자를 풀어주세요. 그런 다음 완성된 분말이 자동으로 패킷에 들어갈 때까지 분쇄, 분쇄 및 방출을 반복합니다. <link:results>결과 화면<link>에는 치료의 성공 여부와 품질이 표시됩니다.
+ID|가루
 
-Move your chopper over the ingredients on the chopping board and click to chop. You can also hold <ui_accept_or_click>while rocking the chopper left and right. Continue with this until everything is sufficiently pulverised - the chopping block will then lift off the bench, ready for you to scrape  the ingredients into the mortar with your chopper by clicking and dragging.
+Name|약물 제작
+Text|Pad|물약을 사용하려면 색상과 기호로 표시되는 재료의 특성과 제공된 시약의 반대 특성 사이의 균형을 유지하면서 온도를 제어해야 합니다.
 
-Use the pestle to crush <ui_accept_or_click>the ingredients, and hold <ui_accept_or_click>while moving the pestle to grind. Release the pestle whenever the dust stops forming. Then repeat crushing, grinding and releasing until the completed powder automatically tips into a packet. The <link:results>Results screen<link>will show the success of your cure, as well as it's quality.
-ID|powder
+재료는 화면 왼쪽 선반에서 시작됩니다. <ui_accept_or_click>을 누른 상태에서 <ui_ls>를 사용하여 중간에 있는 착즙기로 하나를 이동하세요. 이 작업을 어떤 순서로 하느냐는 중요하지 않습니다.
 
-Name|Crafting Potions
-Text|Pad|Potions require you to balance the traits of your ingredients - represented by colours and symbols - with their opposites from provided reagents, controlling their temperature as you do so.
+<ui_accept_or_click>을 누른 상태에서 <ui_ls>를 사용하여 착즙기 손잡이를 아래로 당겨 재료에서 즙을 추출하세요. 녹색 시험관에 흘러들어가는 주스의 색깔을 주목해 보세요.
 
-Ingredients will start off on the shelf to the left of the screen. Hold <ui_accept_or_click>and use <ui_ls>to move one into the Juicer in the middle. It doesn't matter in which order you do this.
+재료 선반 아래에 있는 색상환을 보고 현재 재료 즙의 색과 반대되는 색을 찾으세요. (색상을 맞추는 데 어려움을 겪는 경우 나중에 이 작업을 수행할 수 있는 다른 방법이 있습니다.)
 
-Hold <ui_accept_or_click>and use <ui_ls>to pull the Juicer's handle down and extract the juice from the ingredient. Note the colour of the juice as it flows into the green test-tube.
+<ui_rs>를 움직여 재료와 반대되는 시약 용기가 가마솥 바로 위에 올 때까지 가마솥 위의 회전판을 회전시키세요. 성분이 흰색이었다면 균형을 맞추기 위해 검은색 시약이 필요합니다.
 
-Look at the Colour Wheel underneath the Ingredients Shelf, and find the colour opposite to the colour of your current ingredient's juice (there are alternative ways to do this later should you struggle to match the colour).
+회전판을 설정하기 전이나 후에 시험관에서 <ui_accept_or_click>을 눌러 내용물을 가마솥에 붓습니다.
 
-Move <ui_rs>to rotate the Carousel above the Cauldron until the reagent container matching the opposite of your ingredient is directly above the Cauldron, e.g. if your ingredient was white then you need the black reagent to balance it.
+가마솥 측면에 얼음이 형성되면 바닥에 있는 레버를 오른쪽으로 <ui_tabNext_or_click> 움직여 열을 위쪽으로 조정하세요. 물약이 거품이 나기 시작하면 <ui_tabPrev_or_click>으로 열을 아래쪽으로 조정하세요. 물약을 부적절한 온도에 방치하면 시간이 지남에 따라 별 등급이 손상됩니다.
 
-Press <ui_accept_or_click>on the test-tube to pour its contents into the Cauldron - either before or after setting the Carousel.
+재료의 색상과 일치하는 증기가 가마솥에서 솟아올라 어떠한 상징으로 변합니다. 캐러셀 컨테이너의 반대 색상과 색상을 일치시키는 데 문제가 있는 경우 재료 선반 아래 색상환에서 <ui_accept_or_click>을 누르세요. 표시된 기호는 용기에 표시된 기호와 일치합니다.
 
-If ice forms on the side of the Cauldron then adjust the heat upwards by moving <ui_tabNext_or_click>the lever on its base to the right: adjust the heat downwards with <ui_tabPrev_or_click>if the potion starts bubbling. Leaving the potion at unsuitable temperatures damages its star rating over time.
+가마솥이 증기 생성을 멈출 때까지 <ui_secondaryTabNext_or_click>(매달린 가방이 있는 용기의 경우 <ui_secondaryTabNext_or_click>을 사용하고 <ui_rs>를 아래로 당김)을 사용하여 선택한 용기의 내용물을 가마솥에 추가합니다. 너무 많이 첨가하면 증기의 색이 변합니다. 다시 반대쪽 용기를 찾아 증기가 사라질 때까지 조심스럽게 추가합니다. 이제 성분의 균형이 맞춰졌습니다.
 
-Vapour matching the colour of the ingredient will rise from the Cauldron, forming itself into handy symbols. If you are having trouble matching the colour with its opposite on the Carousel containers, press <ui_accept_or_click>on the Colour Wheel under the Ingredients Shelf. The symbols shown match those on the containers.
+착즙기부터 시작하여 두 번째와 세 번째 재료를 사용하여 전체 과정을 반복합니다. 가마솥에서 이전 재료의 균형이 완전히 맞춰질 때까지 새 재료로 작업을 시작할 수 없습니다. 마지막 재료의 균형을 맞추자마자 <link:results>제작 결과<link>를 확인할 수 있습니다.
 
-Add the contents of your chosen container to the cauldron with <ui_secondaryTabNext_or_click>(for containers with dangling bags, use <ui_secondaryTabNext_or_click>and pull <ui_rs>down) until the Cauldron stops producing vapour. If you add too much, then the colour of the vapour will change. Find the container with it's opposite again and add carefully until the vapour vanishes. Your ingredient is now balanced.
+Text|KBM|물약을 사용하려면 색상과 기호로 표시되는 재료의 특성과 제공된 시약의 반대 특성 사이의 균형을 유지하면서 온도를 제어해야 합니다.
 
-Repeat the whole process with the second and third ingredients, starting with the Juicer. You cannot start working with an new ingredient until the previous one has been completely balanced in the Cauldron. You'll see the <link:results>results<link>of your crafting as soon as you've balanced the last ingredient.
+재료는 화면 왼쪽 선반에서 시작됩니다. 재료를 클릭하고 중앙의 착즙기로 드래그하세요. 이 작업을 어떤 순서로 하느냐는 중요하지 않습니다.
 
-Text|KBM|Potions require you to balance the traits of your ingredients - represented by colours and symbols - with their opposites from provided reagents, controlling their temperature as you do so.
+클릭하고 드래그하여 착즙기 손잡이를 아래로 당겨 재료에서 즙을 추출하세요. 녹색 시험관에 흘러들어가는 즙의 색깔을 주목해 주세요.
 
-Ingredients will start off on the shelf to the left of the screen. Click and drag an ingredient to the Juicer in the middle. It doesn't matter in which order you do this.
+재료 선반 아래에 있는 색상환을 보고 현재 재료 즙의 색과 반대되는 색을 찾으세요. (색상을 맞추는 데 어려움을 겪는 경우 나중에 이 작업을 수행할 수 있는 다른 방법이 있습니다.)
 
-Click and drag to pull the Juicer's handle down and extract the juice from the ingredient. Note the colour of the juice as it flows into the green test-tube.
+재료와 반대되는 시약 용기가 가마솥 바로 위에 올 때까지 가마솥 위의 회전판을 클릭하고 끌어서 회전시킵니다. 성분이 흰색이었다면 균형을 맞추기 위해 검은색 시약이 필요합니다.
 
-Look at the Colour Wheel underneath the Ingredients Shelf, and find the colour opposite to the colour of your current ingredient's juice (there are alternative ways to do this later should you struggle to match the colour).
+회전판을 설정하기 전이나 후에 시험관을 <ui_accept_or_click>하여 가마솥에 내용물을 붓습니다.
 
-Click and drag to rotate the Carousel above the Cauldron until the reagent container matching the opposite of your ingredient is directly above the Cauldron, e.g. if your ingredient was white then you need the black reagent to balance it.
+가마솥 측면에 얼음이 형성되면 바닥에 있는 레버를 오른쪽으로 클릭하고 끌어서 열을 위쪽으로 조정합니다. 물약에서 거품이 나기 시작하면 레버를 왼쪽으로 끌어 열을 아래쪽으로 조정합니다. 물약을 부적절한 온도에 방치하면 시간이 지남에 따라 별 등급이 손상됩니다.
 
-<ui_accept_or_click>on the test-tube to pour its contents into the Cauldron - either before or after setting the Carousel.
+재료의 색상과 일치하는 증기가 가마솥에서 솟아올라 어떠한 상징으로 변합니다. 캐러셀 컨테이너의 반대 색상과 색상을 일치시키는 데 문제가 있는 경우 재료 선반 아래 색상환을 <ui_accept_or_click>하세요. 표시된 기호는 용기에 표시된 기호와 일치합니다.
 
-If ice forms on the side of the Cauldron then adjust the heat upwards by moving clicking and dragging the lever on its base to the right: adjust the heat downwards by dragging the lever left, if the potion starts bubbling. Leaving the potion at unsuitable temperatures damages its star rating over time.
+<ui_accept_or_click> 선택한 용기의 내용물을 가마솥이 증기 생성을 멈출 때까지 가마솥에 추가합니다(주머니가 매달린 용기의 경우 클릭하고 아래로 드래그). 너무 많이 첨가하면 증기의 색이 변합니다. 다시 반대쪽 용기를 찾아 증기가 사라질 때까지 조심스럽게 추가합니다. 이제 성분의 균형이 맞춰졌습니다.
 
-Vapour matching the colour of the ingredient will rise from the Cauldron, forming itself into handy symbols. If you are having trouble matching the colour with its opposite on the Carousel containers, <ui_accept_or_click>on the Colour Wheel under the Ingredients Shelf. The symbols shown match those on the containers.
+착즙기부터 시작하여 두 번째와 세 번째 재료를 사용하여 전체 과정을 반복합니다. 가마솥에서 이전 재료의 균형이 완전히 맞춰질 때까지 새 재료로 작업을 시작할 수 없습니다. 마지막 재료의 균형을 맞추자마자 <link:results>제작 결과<link>를 확인할 수 있습니다.
+ID|물약
 
-<ui_accept_or_click>to add the contents of your chosen container to the cauldron (for containers with dangling bags, click and drag downwards) until the Cauldron stops producing vapour. If you add too much, then the colour of the vapour will change. Find the container with it's opposite again and add carefully until the vapour vanishes. Your ingredient is now balanced.
+Name|크림 제작
+Text|Pad|크림은 증점제와 증류된 성분의 균형을 맞추는 것입니다. 당신은 피부에서 흘러내리지 않지만 냄비에서 나올 만큼 충분히 부드러운 크림을 목표로 하고 있습니다.
 
-Repeat the whole process with the second and third ingredients, starting with the Juicer. You cannot start working with an new ingredient until the previous one has been completely balanced in the Cauldron. You'll see the <link:results>results<link>of your crafting as soon as you've balanced the last ingredient.
-ID|potion
+<ui_accept_or_click>으로 냄비를 잡고 <ui_ls>를 사용하여 삼발이 스탠드 중 하나로 드래그하세요. 왼쪽 스탠드는 증류된 재료를 추가하기 위한 것입니다: 오른쪽은 농축 왁스입니다. 두 가지를 섞어서 냄비의 밝은 선까지 채우는 것을 목표로 하세요. 냄비(<ui_accept_or_click> 및 <ui_ls>)를 다른 삼발이로 드래그하여 언제든지 둘 사이를 바꿀 수 있습니다. 냄비에 걸리지 않은 액체는 배수구 아래로 사라집니다.
 
-Name|Crafting Creams
-Text|Pad|Creams are all about balancing a thickening agent with distilled ingredients. You're aiming from a cream that won't run off skin - but is soft enough to come out of its pot.
+증류된 성분 또는 왁스 추가:
+• 냄비가 가득 찰 때까지 항상 <ui_rs>를 사용하여 냄비를 계속 저어줍니다.
+• <ui_secondaryTabPrev_or_click>을 사용하여 재료 탱크 아래 분젠 버너를 켭니다. 온도가 높을수록 증류된 성분이나 왁스가 냄비에 더 빨리 흘러 들어가지만, 흐름이 너무 높으면 크림의 균형이 어려워질 수 있습니다.
+• 필요한 경우 <ui_tabPrev_or_click>을 사용하여 재료 흐름 속도를 줄입니다.
+• 화면 상단에 있는 경고 메시지를 살펴보세요. 크림이 너무 묽은 경우 왁스를 더 추가해야 합니다. 너무 걸쭉하고 증류된 성분이 더 많습니다.
+• 냄비를 오른쪽 삼발이 스탠드(<ui_accept_or_click> 및 <ui_ls>)로 끌어 농축 왁스를 추가합니다.
+• <ui_secondaryTabNext_or_click>을 사용하여 왁스 탱크 아래 분젠 버너를 켭니다. 온도가 높을수록 증류된 성분이나 왁스가 냄비에 더 빨리 흘러 들어가지만, 흐름이 너무 높으면 크림의 균형이 어려워질 수 있습니다.
+• 필요한 경우 <ui_tabNext_or_click>을 사용하여 재료 흐름 속도를 줄입니다.
 
-Hold the pot with <ui_accept_or_click>and use <ui_ls>to drag it onto either of the trivet stands. The left stand is for adding distilled ingredients: the right, thickening wax. Aim to fill the pot up to its lighter fill line with a mixture of both. You can swap between the two at any time by dragging the pot (<ui_accept_or_click>and <ui_ls>) to the other trivet: liquid not caught by the pot will disappear down the drain.
+냄비가 충분히 채워지면 바로 <link:results>제작 결과<link>를 확인할 수 있습니다.
 
-Adding distilled ingredients or wax:
-• Keep stirring the pot with <ui_rs>at all times until the pot is full.
-• Turn on the Bunsen Burner under the ingredient tank with <ui_secondaryTabPrev_or_click>. The higher the temperature, the faster the distilled ingredients or wax will flow into the pot, but making the flow too high can make your cream difficult to balance.
-• Reduce the speed of the ingredient flow with <ui_tabPrev_or_click>, if necessary.
-• Look out for warning messages at the top of the screen. If your cream is too runny then you need to add more wax: too thick, more distilled ingredients.
-• Add thickening wax by dragging the pot to the right trivet stand (<ui_accept_or_click>and <ui_ls>).
-• Turn on the Bunsen Burner under the wax tank with <ui_secondaryTabNext_or_click>. The higher the temperature, the faster the distilled ingredients or wax will flow into the pot, but making the flow too high can make your cream difficult to balance.
-• Reduce the speed of the ingredient flow with <ui_tabNext_or_click>, if necessary.
+Text|KBM|크림은 증점제와 증류된 성분의 균형을 맞추는 것입니다. 당신은 피부에서 흘러내리지 않지만 냄비에서 나올 만큼 충분히 부드러운 크림을 목표로 하고 있습니다.
 
-You'll see the <link:results>results<link>of your crafting as soon as the pot is filled sufficiently.
+냄비를 삼발이 스탠드 중 하나로 클릭하고 드래그하세요. 왼쪽 스탠드는 증류된 재료를 추가하기 위한 것입니다: 오른쪽은 농축 왁스입니다. 두 가지를 섞어서 냄비의 밝은 선까지 채우는 것을 목표로 하세요. 냄비를 다른 삼발이로 끌어서 언제든지 둘 사이를 바꿀 수 있습니다. 냄비에 걸리지 않은 액체는 배수구 아래로 사라집니다.
 
-Text|KBM|Creams are all about balancing a thickening agent with distilled ingredients. You're aiming from a cream that won't run off skin - but is soft enough to come out of its pot.
+증류된 성분 또는 왁스 추가:
+• 냄비가 가득 찰 때까지 항상 마우스를 움직여 냄비를 계속 저어주세요.
+• 레버를 클릭하고 오른쪽으로 끌어 탱크 아래에 있는 분젠 버너를 켭니다. 온도가 높을수록 증류된 성분이나 왁스가 냄비에 더 빨리 흘러 들어가지만, 흐름이 너무 높으면 크림의 균형이 어려워질 수 있습니다.
+• 필요한 경우 레버를 왼쪽으로 클릭하고 끌어 열과 흐름 속도를 줄입니다.
+• 화면 상단에 있는 경고 메시지를 살펴보세요. 크림이 너무 묽은 경우 왁스를 더 추가해야 합니다. 너무 걸쭉하고 증류된 성분이 더 많습니다.
 
-Click and drag the pot onto either of the trivet stands. The left stand is for adding distilled ingredients: the right, thickening wax. Aim to fill the pot up to its lighter fill line with a mixture of both. You can swap between the two at any time by dragging the pot to the other trivet: liquid not caught by the pot will disappear down the drain.
+냄비가 충분히 채워지면 바로 <link:results>제작 결과<link>를 확인할 수 있습니다.
+ID|크림
 
-Adding distilled ingredients or wax:
-• Keep stirring the pot by moving your mouse at all times until the pot is full.
-• Turn on the Bunsen Burner under either tank by clicking and dragging its lever to the right. The higher the temperature, the faster the distilled ingredients or wax will flow into the pot, but making the flow too high can make your cream difficult to balance.
-• Reduce the heat and rate of flow by clicking and dragging the lever left, if necessary.
-• Look out for warning messages at the top of the screen. If your cream is too runny then you need to add more wax: too thick, more distilled ingredients.
+Name|결과물
+Text|이 화면에는 제작한 아이템이 표시됩니다. 전체 치료법을 만들었는지 아니면 부분 치료법만 만들었는지에 따라 이름이 달라집니다. 정말 엉망으로 만들면 슬픈 잔해가 폐기물로 쏟아져 나오는 것을 보게 될 것입니다.
 
-You'll see the <link:results>results<link>of your crafting as soon as the pot is filled sufficiently.
-ID|cream
+항목 왼쪽에 있는 배너는 치료가 전체인지 부분인지를 보여줍니다.
 
-Name|Results
-Text|This screen shows the item that you crafted. Its name will vary, depending on whether you created a full Cure or only a Partial one. if you really messed up you'll see the sad remains being poured away as waste instead.
+오른쪽 배너에는 레시피 요구 사항에 추가된 포함된 특성이 표시됩니다.
 
-The banner to the left of the item shows whether the Cure is Full or Partial.
+빨간색 배너는 치료법 판매로 얻은 브라스 ☎ 및 REP <repDown>을 감소시키는 부정적인 <특성:55>을 나타냅니다. 녹색 배너는 추가적인 긍정적인 효과를 보여줍니다. 여전히 일부 재료의 특성을 찾으려고 노력하는 중이라면 제거 과정에서 이러한 물질을 사용할 수 있습니다.
 
-Any banners to the right show any included traits that were additional to the recipe's requirements.
+중앙 로제트에는 생성된 치료법의 아이콘이 표시됩니다(보관함에서 이를 식별하는 데 도움이 됨). 생성된 번호; 그리고 별점.
 
-Red banners denote negative <trait:55>s that will reduce the Brass ☎ and REP <repDown>gained from selling the cure; whereas green banners show additional positive effects. You can use these in a process of elimination if you are still trying to discover the traits of some of your ingredients.
+계산 버튼은 별 등급에 대한 자세한 정보를 제공합니다. 가루의 경우 이 모든 것은 원래 재료의 별 등급과 제작자의 <trait:26>및 <trait:9>통계에서 비롯됩니다. 물약과 크림도 제작 중에 표시되는 기술을 고려합니다.
+ID|결과
 
-The centre rosette shows the icon of the created cure (to help you identify it in storage); the number created; and its star rating.
+Name|특전 포인트
+Text|매장의 평판을 높이면 더 먼 곳에서도 고객을 끌어들일 수 있습니다. 처음에는 고객이 자신의 Haven 내에 있는 상점만 방문하지만 시간이 지나면 사람들이 다른 Haven이나 심지어 다른 영역에서도 도착할 수 있습니다!
 
-The Calculation button will provide more information on star rating: in the case of Powders this all comes from the star rating of the original ingredients and from the crafter's <trait:26>and <trait:9>stats; Potions and Creams also take into account the skill shown during crafting.
-ID|results
+REP <repUp>이 증가하면 특전 포인트가 적립됩니다. 이 페이지를 사용하여 매장을 보다 효율적으로 운영하는 데 도움이 되도록 설계된 혜택에 해당 포인트를 사용할 수 있습니다.
 
-Name|Perk Points
-Text|Improving your shop's reputation attracts customers from further afield. At first, customers will only visit shops within their own Haven, but, with time, people may arrive from other havens or even other realms!
+왼쪽 페이지의 평판 측정기는 다음 특전 포인트를 향한 진행 상황을 보여줍니다. 충분한 명성 <repsymbol>을 얻으면 마법의 Tinker를 통해 훨씬 더 강력한 <link:special>전문가 특전<link>을 이용할 수 있습니다!
 
-Perk Points are earned as your REP <repUp>increases. You can use this page to spend them on Perks that are designed to help you run your shop more efficiently.
+특전 포인트는 귀하가 소유한 모든 상점에서 공유됩니다. 예를 들어 약제사에서 획득한 REP <repsymbol>을 사용하여 상품 상점에서 무언가를 잠금 해제하는 데 도움을 줄 수 있습니다.
 
-The Reputation meter on the left page shows your progress towards your next Perk Point. Gain enough REP <repsymbol>and the magical Tinker will give you access to even more powerful <link:special>Specialist Perks<link>!
+초기화가 불가능하므로 특전 포인트는 신중하게 사용하세요!
+ID|특전
 
-Perk Points are shared among ALL the shops that you own, so, for example, you can use REP <repsymbol>earned in your Apothecary to help unlock something in your Goods Store.
+Name|전문가 특전
+Text|당신의 상점이 REP <repUp> 및 브라스 ☎ 획득에 따라 필요한 성공 수준에 도달하면 신비한 Tinker가 연락을 드릴 것입니다. 그는 당신의 가게에 대한 전문화(이국 치료법, 물약, 약초채집)에 대한 접근 권한을 판매할 것입니다.
 
-Spend Perk Points carefully, as there are no refunds!
-ID|perks
+상점을 전문화하면 외관이 바뀔 것입니다. 전문화와 관련된 아이템 획득 및 판매에 보너스를 부여합니다. 그리고 직원의 성과에 보너스를 부여할 것입니다. 하지만 불이익도 있을 수 있습니다.
 
-Name|Specialist Perks
-Text|You will be contacted by the mysterious Tinker once your shop reaches the required level of success, based on REP <repUp>and Brass ☎ earned. He will sell you access to Specialisations for your shop: Exotic Cures, Potions or Herbalism.
-
-Specialising your shop will change its appearance; grant bonuses to acquiring and selling items associated with the specialisation; and will grant bonuses to your staff's performance - though there may sometimes be a penalty too.
-
-Specialist Perks are unlocked with Points, in the same way as ordinary <link:perks>Perks<link>. They help you to focus on your chosen specialism, for example by increasing the yield from collected herbs or reducing the amount of REP lost <repDown>to <trait:55><link:pricing>Side Effects<link>.
-ID|special
+전문가 특전은 일반 <link:perks>특전<link>과 같은 방식으로 포인트로 잠금 해제됩니다. 예를 들어 수집된 허브의 수확량을 늘리거나 <repDown><trait:55><link:pricing>부작용<link>으로 손실된 REP 양을 줄이는 등 선택한 전문 분야에 집중하는 데 도움이 됩니다.
+ID|전문가
