@@ -97,8 +97,8 @@ MISSING_CHICKENS_3_VILLAGER_GOSSIP |= Lost chickens, you say? I heard some cluck
 LemmySippFoundCuckoo |= Ah! Excellent! But do not think that I am going to do everything for you, <PlayerName>! You seem to have a bit of intelligence about you, so I think you should try to make the cure yourself.
 LemmySippFoundCuckoo |= Head to the Powder Station in the preparation room where Boots does his good work and interact with it. We will make a chemist of you yet!
 LemmySippMadeItem |= Oh, well done! You made it. If you ever want to use our powder station, we will charge you a nominal fee of 5 Brass per item. We don't allow youngsters to use the Cream station or Potion station, as they are a bit too dangerous for young fingers!
-이카보드 문GoodStoreIntro |= Ah, <PlayerName>! Thank you for coming! All you have to do for now is just serve any customers that come in. Just interact when they are standing at the counter. If they want to barter, please try to land your arrow in the green section! Usually, a shop owner can change stock and set prices, etc., but please just serve anyone that comes in for now. I will return at 1pm.
-Icabod MoonGoodStoreOutro |= Thank you for that. I hope it all went well. Here's 15 Brass for your troubles. You should try owning a store one day. It's so much fun to keep an eye on stock and be flexible to the demands of your patrons. It's also a great way to earn Reputation!
+이카보드 문GoodStoreIntro |= 아, <PlayerName>! 와줘서 고마워! 지금은 들어오는 모든 고객에게 서비스를 제공하기만 하면돼. 손님이 카운터에 서 있을 때 대화를 나누는 거지. 거래를 원한다면 녹색 부분에 화살표를 꽂아줘! 보통은 점주가 재고를 바꾸고 가격을 정할 수 있지만 지금은 그냥 들어오는 손님에게 서비스를 제공하기만 해. 오후 1시에 다시 올게.
+이카보드 문GoodStoreOutro |= 고마워. 모두 잘 되었기를 바랄게. 여기 15 브라스가 있어. 언젠가 너의 매장을 운영해봐. 재고를 관리하고 고객의 요구에 유연하게 대응하는 것은 정말 재미있는 일이야. 평판을 얻을 수 있는 좋은 방법이기도 하지!
 WoemarshWandererTalk |= Off into Copperpot, are you? I would watch yourself in that village if I were you. Something is amiss, that's for sure. Used to be such a warm, friendly lot. They seem much colder these days. Something ain't right in the world. Watch yourself!
 WoemarshGiftRejection |= I won't accept any gifts from you.
 메이슨 메이커INTROPW |= Greetings! I'm a smithy, but you probably knew that. Enough about me, though. We are indebted to you for what you did, although don't go thinking that means extra discounts.
@@ -153,17 +153,17 @@ SiblingRaceWon |= 오오오, 내 기록을 깼구나? 돼지 몰이 실력이 �
 
 MotherHubbardMilk |= 네? 누구세요? 오! 내 우유를 가지고 있니? 그렇다면 들어오렴!
 HousePaintingFinished |= 훨씬 낫네! 여기가 훨씬 좋아졌어. 드루이다는 너의 노고에 고마워하실거야. 언젠가 이 농장을 물려받게 된다면 원하는 대로 꾸밀 수 있을 거야!
-Day11Intro |= Hello there! Up and at it and ready for the day?
-Day11Intro |= There's an event you might like to try today down at Festival Green.
-Day11Intro |= Some of the villagers have organised a Summertide Jam-making contest.
-Day11Intro |= Go find the Events Master on Festival Green for details.
-Day11Intro |= You can use the stove in the farmhouse to make some jams. There are Strawberries, Blueberries and even Nightberries to pick around the farm. And the honey is in the hive.
-Day11Intro |= Whatever you decide to cook, good luck! Don't worry if you don't win first time out. Some of Vale's adults do get very competitive! But, heh, you never know!
+Day11Intro |= 안녕! 일어나서 하루를 시작할 준비가 되었니?
+Day11Intro |= 오늘 페스티벌 그린에서 너도 참여해볼 만한 이벤트가 있단다.
+Day11Intro |= 마을 주민 중 몇명이 서머타이드 잼 만들기 대회를 개최했습니다.
+Day11Intro |= 자세한 내용은 페스티벌 그린에서 이벤트 마스터를 찾아보렴.
+Day11Intro |= 농가의 스토브를 이용해 잼을 만들 수 있단다. 농장 주변에는 딸기, 블루베리, 나이트베리를 따먹을 수 있는 곳도 있어. 그리고 꿀은 벌통에 있지.
+Day11Intro |= 어떤 요리를 하든 행운을 비마! 처음에 이기지 못하더라도 걱정하지 말거라. 베일의 어른들 중 일부는 경쟁심이 강하거든! 하지만 아무도 모르지!
 
 UncleDay13 |= 섬머타이드가 가까워졌구나! 
-UncleDay13 |= I've got a lovely idea for something for you to build today. Did you know you can collect animal poo in a wooden bucket and pour it onto crop patches?
-UncleDay13 |= You can use a Composter to store excess poops for when you need it. I've added a Pig Composter to your Customisation Catalogue if you want to build one. You'll need a little wood and a friend to help out. They don't take long to build. Just don't build it too near the house, eh? *wink*
-UncleDay13 |= Oh, and this came for you. It's from that stickboy across the river. 
+UncleDay13 |= 오늘 네가 만들 수 있는 멋진 아이디어가 있다. 나무 양동이에 동물의 똥을 모아 작물밭에 뿌릴 수 있다는 걸 알고있니?
+UncleDay13 |= 퇴비를 사용하여 필요할 때를 대비해 남은 똥을 저장할 수 있지. 돼지 퇴비를 만들고 싶다면 커스터마이징 카탈로그에 돼지 퇴비를 추가했단다. 약간의 나무와 도와줄 친구가 필요하겠지. 만드는 데 오래 걸리지 않아. 다만 집 근처에 가까이 짓지는 마렴. (윙크)
+UncleDay13 |= 아, 그리고 이건 너에게 온 거야. 강 건너편에 있는 스틱보이한테서 온 거구나. 
 
 트위그LetterRead |= 흥미롭네. 나는 그 소년과 함께 스스로를 조심할 거야. 다리로 코를 긁는 사람은 절대 믿지마. 어쨌든, 오늘 조심해. 베일 밖에 괴물이 돌아다닌다는 소문을 들었어. 두렵지는 않지만, 네가 잡아먹히고 게으른 뼈가 막대사탕처럼 빨리는 건 싫어.
 UncleBillShed |= 멋지구나! 협력해서 헛간을 완성했어! 농작물에 거름을 줄 똥통을 찾았단다. 도구 창고에 넣어두마. 양동이와 상호작용하면 안에 무엇이 있는지 확인할 수 있단다. 
