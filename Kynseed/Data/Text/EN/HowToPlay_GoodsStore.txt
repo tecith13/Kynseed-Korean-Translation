@@ -1,141 +1,142 @@
-Title|Goods Store
-Name|What Makes a Successful Goods Store?
-Text| Your main aim in the Goods Store is to find the <link:pricing>market value<link>of each item you stock. Selling at or below this value will earn you more REP <repUp>, while selling above it will damage your reputation but bring in more <link:accounts>Brass ☎<link>.
+Title|물품 판매상점
+Name|성공적인 상품 매장을 만드는 방법은 무엇인가?
+Text| 상품 상점의 주요 목표는 보유하고 있는 각 품목의 <link:pricing>시장 가치<link>를 찾는 것입니다. 이 값 이하로 판매하면 더 많은 REP <repUp>을 얻을 수 있고, 그 이상으로 판매하면 평판이 손상되지만 <link:accounts>브라스 ☎<link>를 더 많이 얻을 수 있습니다.
 
-Name|Accounts Page
-Text|Select an item in the Accounts List with <ui_accept_or_click>to see the minimum and maximum Reputation (REP <repsymbol>) that you gained at various price points.
-You can also watch out for customers' comments - they will be keen to tell you if they are unhappy with your pricing strategy!
-Selling items at or below their <link:pricing>market value<link>earns you REP <repsymbol>. The lower the price vs market value, the more REP <repUp>is gained.
-Gaining REP <repUp>encourages more customers to visit your shop as your fame spreads and impresses the Grand Masters. REP <repsymbol>can be used to unlock <link:pricing>Perk Points<link>, which can help you to improve <link:stats>staff performance<link>, <link:restock>stock ordering<link>or profits.
-You can focus on profits via high prices instead: this will bring in Brass ☎ more quickly but will damage your REP <repsymbol>over time. Some customers will walk out if prices are too high.
+Name|장부 페이지
+Text|<ui_accept_or_click>을 사용하여 장부 목록에서 항목을 선택하면 다양한 가격대에서 얻은 최소 및 최대 평판(REP <repsymbol>)을 확인할 수 있습니다.
+또한 고객의 의견을 주의 깊게 살펴보세요. 고객은 당신의 가격 전략에 만족하는지 아닌지 알려주기 위해 노력할 것입니다!
+<link:pricing>시장 가치<link> 이하로 품목을 판매하면 REP <repsymbol>을 얻을 수 있습니다. 가격 대비 시장 가치가 낮을수록 더 많은 REP <repUp>을 얻을 수 있습니다.
+REP <repUp>을 얻으면 당신의 명성이 퍼지고 그랜드 마스터에게 깊은 인상을 남길수록 더 많은 고객이 귀하의 매장을 방문하도록 유도합니다. REP <repsymbol>은 <link:pricing>특전 포인트<link>를 잠금 해제하는 데 사용할 수 있으며, 이는 <link:stats>직원 성과<link>, <link:restock>재고 주문<link>또는 이익을 개선하는 데 도움이 될 수 있습니다.
+대신 높은 가격을 통해 이익에 집중할 수 있습니다. 이렇게 하면 브라스 ☎가 더 빨리 획득되지만 시간이 지남에 따라 REP <repsymbol>이 감소합니다. 가격이 너무 높으면 일부 고객은 나갈 것입니다.
 
-Selling high-quality items means you can set high prices without losing REP <repsymbol>.
+고품질 아이템을 판매한다는 것은 REP <repsymbol>을 잃지 않고 높은 가격을 설정할 수 있다는 것을 의미합니다.
 
-Some items may show as losses - negative numbers displayed in red. <link:mwe>Staff wages<link>are always displayed this way, as they cost you Brass ☎.
+일부 항목은 손실로 표시될 수 있습니다. 마이너스는 빨간색으로 표시됩니다. <link:mwe>직원 임금<link>은 브라스 ☎ 비용이 들기 때문에 항상 이런 식으로 표시됩니다.
 
-The price of <link:restock>buying stock<link>- either over the counter from customers or via the <link:cupboard>Stock Cupboard<link>- is also subtracted from your daily profits for an item.
+<link:restock>재고 구매<link>가격(고객 창구 또는 <link:cupboard>재고 찬장<link>을 통해)도 해당 품목의 일일 수익에서 차감됩니다.
 
-Use the Timescale filter to choose between a big-picture view of your shop's success over time or zero in on daily transactions to see if you are trading at a loss.
-ID|accounts
+시간 척도 필터를 사용하여 시간 경과에 따른 매장 성공에 대한 큰 그림 보기 또는 일일 거래에 집중하여 손실을 보고 있는지 확인하세요.
+ID|평가
 
-Name|Pricing and REP
-Text|Your main aim when setting prices in the Goods Store is to find the market value of each item. Selling at or below this value will earn you more REP <repUp>, while trading above it will damage your reputation but bring in more Brass ☎.
-Items with higher Star Quality have a higher market value, so selling high-quality items means that you can set high prices without losing REP <repsymbol>.
+Name|가격 및 평판
+Text|상품 상점에서 가격을 설정할 때 주요 목표는 각 품목의 시장 가치를 찾는 것입니다. 이 값 이하로 판매하면 더 많은 REP <repUp>을 얻을 수 있고, 그 이상으로 거래하면 평판이 손상되지만 브라스 ☎를 더 많이 얻을 수 있습니다.
+스타 품질이 높은 아이템은 시장 가치도 높기 때문에 고품질 아이템을 판매한다는 것은 REP <repsymbol>을 잃지 않고 높은 가격을 설정할 수 있다는 의미입니다.
 
-It is worth asking your friends for information on improving the quality of your items, as well as checking the shop's Perks for any that reduce REP <repDown>loss.
-Place an item onto one of the shop's plinths (red cushioned shelves) and scroll to set its price. You can also choose the quantity to be sold up to the maximum number in your Inventory.
-Prices only apply to an item at a given Star Quality. For example:
-1. Set the price of <item:Apple:☇>to ☎6
+친구에게 아이템 품질 향상에 대한 정보를 물어보고 상점의 특전을 확인하여 REP <repDown> 손실을 줄이는 것이 좋습니다.
+상점의 진열대(빨간 쿠션이 있는 선반) 중 하나에 품목을 놓고 스크롤하여 가격을 설정하세요. 또한, 인벤토리의 최대 수량까지 판매 수량을 선택할 수 있습니다.
+가격은 특정 스타 품질의 품목에만 적용됩니다. 예를 들어:
+1. <아이템:Apple:☇> 가격을 ☎6으로 설정
 
-2. Put more <item:Apple:☇>s on another plinth. The price will automatically be set to ☎6
-3. Use any plinth - including the ones already used - for <item:Apple:☈>s. The price will be ☎7: ☎1 higher because of the extra quality star. You can manually adjust this if you wish.
-5. Put <item:Apple:☈>s on any plinth, and the price is automatically set to ☎7: <item:Apple:☇>s, ☎6.
-Your staff will always price any new item at ☎1! Make sure you use a plinth to set the item's price the first time you put it up for sale.
-ID|pricing
+2. 다른 받침대에 <item:Apple:☇>을 더 놓으세요. 가격은 자동으로 ☎6으로 설정됩니다.
+3. <item:Apple:☈>용으로 이미 사용된 진열대를 포함하여 원하는 진열대를 사용하세요. 가격은 ☎7: ☎1 더 높아질 것입니다. 왜냐하면 추가 품질의 별 때문입니다. 원하는 경우 수동으로 조정할 수 있습니다.
+4. <아이템:애플:☈>을 진열대에 올려놓으면 자동으로 가격이 ☎7: <아이템:애플:☇>, ☎6으로 설정됩니다.
+당신의 직원은 항상 새로운 품목의 가격을 ☎1로 책정합니다! 처음 판매할 때 제품 가격을 정하기 위해 진열대를 사용했는지 확인하세요.
+ID|가격
 
-Name|Stock Cupboard
-Text|This cupboard holds all of the items the shop owns except those already out on the selling plinths. You and your staff can take items from the cupboard to sell whenever a plinth is empty. You can take items from the Cupboard for your use, e.g. to give as freebie gifts to villagers.
+Name|재고 찬장
+Text|이 찬장에는 이미 판매용 진열대에 있는 품목을 제외하고 상점이 소유한 모든 품목이 들어 있습니다. 당신 또는 당신의 직원은 진열대가 비어 있을 때마다 찬장에서 품목을 꺼내 판매할 수 있습니다. 또는 마을 사람들에게 무료로 선물을 주기 위해 찬장에서 품목을 가져올 수 있습니다.
 
-Move whole stacks of items - e.g. all <item:Apple>s - between the Cupboard and your Inventory by selecting the item and <ui_alt_or_rightclick>.
+항목의 전체 스택을 이동합니다. 모든 <item:Apple> - 항목을 선택하고 <ui_alt_or_rightclick>을 통해 찬장과 인벤토리 사이에 있습니다.
 
-To select only those of a certain Star Quality, select the item, then select the required Star Quality and <ui_alt_or_rightclick>.
+특정 별 품질의 것만 선택하려면 항목을 선택한 후 필요한 별 품질을 선택하고 <ui_alt_or_rightclick>을 클릭하세요.
 
-Items can be moved singly with <ui_accept_or_click>.
+<ui_accept_or_click>을 사용하면 항목을 하나씩 이동할 수 있습니다.
 
-Your employees sometimes buy in stock from visitors, subtracting the price from your profits. Those items will go straight into this cupboard. Note that if you buy things while working behind the counter, the items will go into your Inventory instead.
+당신의 직원은 때때로 방문자로부터 물건을 구매하여 당신의 이익에서 가격을 제외 합니다. 그 물건들은 바로 이 찬장에 들어갈 겁니다. 카운터 뒤에서 작업하는 동안 물건을 구매하면 해당 항목이 대신 인벤토리로 들어갑니다.
 
-Stock can be <link:restock>ordered<link>from the supplier, and will take three days to arrive in the Cupboard. You can speed this up, and expand the available range, by spending <link:perks>Perk Points<link>. <ui_alt2>to access the ordering screen.
-ID|cupboard
+재고는 공급업체로부터 <link:restock>주문<link>할 수 있으며 찬장에 도착하는 데 3일이 소요됩니다. <link:perks>특전 포인트<link>를 사용하여 속도를 높이고 사용 가능한 범위를 확장할 수 있습니다. <ui_alt2>주문 화면에 액세스합니다.
+ID|찬장
 
-Name|Hiring Staff
-Text|You can hire up to four people to work in your shop. Use the Hire button in the middle of a Staff Space to see the available workers. Only people from the shop's Haven will be available - for example, people from Mellowbrook are not happy to walk to the Vale for work every day. However, your family can be sent to work in any shop.
+Name|직원 채용
+Text|매장에서 일할 수 있는 사람은 최대 4명까지 고용할 수 있습니다. 직원 공간 중앙에 있는 채용 버튼을 사용하여 사용 가능한 직원을 확인하세요. 상점의 Haven에 있는 사람들만 이용할 수 있습니다. 예를 들어 Mellowbrook의 사람들은 매일 출근하기 위해 Vale까지 걸어가는 것을 좋아하지 않습니다. 그러나 귀하의 가족은 어느 상점에서나 일하도록 파견될 수 있습니다.
 
-Each potential worker has an <link:mwe>hourly rate<link>. This will be multiplied by the number of hours that you assign them to work (using the <link: Rota>Rota<link>page) and will be automatically taken from your Brass ☎ when they leave for the day. Make sure that you can cover this cost, as staff will leave and refuse to return if you cannot pay their whole wage!
+각 잠재적 근로자에게는 <link:mwe>시급<link>이 있습니다. 이 시간은 근무 시간에 할당한 시간(<link: Rota>당번<link> 페이지 사용)으로 곱해지며, 퇴근 시 자동으로 브라스 ☎에서 가져옵니다. 임금 전액을 지불하지 못하면 직원이 떠나고 복귀를 거부하므로 이 비용을 감당할 수 있는지 확인하십시오!
 
-Employees with a higher hourly rate tend to have <link:stats>Stats<link>that will make them good at working in the shop.
+시급이 높은 직원은 높은 <link:stats>능력치<link>를 갖고 있어 매장에서 일을 잘하는 경향이 있습니다.
 
-You can temporarily boost your employee's poorer stats with gifts of food that have the relevant Traits. You can improve their <link:mwe>Mood<link>this way, too, as well as encouraging them to improve their <link:mwe>Goods Store Level<link>.
+관련 특성이 있는 음식을 선물로 직원의 열악한 능력치를 일시적으로 높일 수 있습니다. 이 방법으로 <link:mwe>기분<link>을 개선할 수 있을 뿐만 아니라 <link:mwe>상품 매장 수준<link>을 향상하도록 격려할 수도 있습니다.
 
-Select a person's name from the list to confirm that you want to hire them. Be aware that people can only be employed in one shop at a time! You can adjust the employee's <link:mwe>wages<link>- up or down.
+목록에서 사람의 이름을 선택하여 고용 의사를 확인하세요. 한 번에 한 상점에만 고용할 수 있다는 점을 기억하세요! 직원의 <link:mwe>임금<link>을 높이거나 낮출 수 있습니다.
 
-Use the Change Pay button to adjust the employee's hourly rate. You can do this at any time.
+급여 변경 버튼을 사용하여 직원의 시간당 요율을 조정합니다. 이 작업은 언제든지 수행할 수 있습니다.
 
-Your new employee will not start work until you schedule them using the <link: Rota>Rota page<link>. Don't forget to do this once you have finished recruiting!
-ID|hiring
+신입 직원은 <link: Rota>당번 페이지<link>를 사용하여 일정을 예약할 때까지 업무를 시작하지 않습니다. 모집이 끝나면 잊지 마세요!
+ID|채용
 
-Name|Perk Points
-Text|Improving your shop's reputation attracts customers from further afield. At first, customers will only visit shops within their own Haven, but with time, people may arrive from other havens - even other realms!
+Name|특전 포인트
+Text|매장의 평판을 높이면 더 먼 곳에서도 고객을 끌어들일 수 있습니다. 처음에는 고객이 자신의 Haven 내의 상점만 방문하지만 시간이 지나면 사람들은 다른 Haven, 심지어 다른 영역에서도 도착할 수 있습니다!
 
-Perk Points are earned as your REP <repUp>increases. You can use this page to spend them on Perks designed to help you run your shop more efficiently.
+REP <repUp>이 증가하면 특전 포인트가 적립됩니다. 이 페이지를 사용하여 상점을 보다 효율적으로 운영하는 데 도움이 되도록 고안된 혜택에 해당 포인트를 사용할 수 있습니다.
 
-The Reputation Meter on the left page shows your progress towards your next Perk Point. Gain enough REP <repsymbol>, and the magical Tinker will give you access to even more powerful <link:special>Specialist Perks<link>!
+왼쪽 페이지의 평판 측정기는 다음 특전 포인트를 향한 진행 상황을 보여줍니다. 충분한 <repsymbol> 평판을 얻으면 마법의 Tinker를 통해 훨씬 더 강력한 <link:special>전문가 특전<link>을 이용할 수 있습니다!
 
-Perk Points are shared among ALL the shops that you own, so, for example, you can use REP <repsymbol>earned in your Goods Store to help unlock something in your Blacksmith.
+특전 포인트는 당신이 소유한 모든 상점에서 공유됩니다. 예를 들어, 상품 상점에서 획득한 REP <repsymbol>을 사용하여 대장간에서 무언가를 잠금 해제하는 데 도움을 줄 수 있습니다.
 
-Spend Perk Points carefully, as there are no refunds!
-ID|perks
+초기화가 불가능하므로 특전 포인트를 신중하게 사용하세요!
+ID|특전
 
-Name|Restocking with Orders
-Text|This page shows all of the items that can currently be ordered from your supplier. You will need to spend <link:perks>Perk Points<link>to unlock more.
+Name|주문으로 재입고 하기
+Text|이 페이지에는 현재 공급업체로부터 주문할 수 있는 모든 품목이 표시됩니다. 더 많은 혜택을 잠금 해제하려면 <link:perks>특전 포인트<link>를 사용해야 합니다.
 
-Select the Stock heading to order the items by your stock number. Select Item to return to the default list, which is alphabetically ordered by item name.
+재고 번호별로 품목을 주문하려면 재고 제목을 선택하세요. 항목 이름을 기준으로 알파벳순으로 정렬된 기본 목록으로 돌아가려면 항목을 선택합니다.
 
-Select an item to order more. At first, you can only order a Budget box - this is a set of 10 low-quality items at a low cost. Use Perk Points to unlock the Normal and Premium Box options to order better-quality items at a higher price.
+추가 주문하려면 항목을 선택하세요. 처음에는 예산 상자만 주문할 수 있습니다. 이는 저렴한 비용으로 품질이 낮은 품목 10개로 구성된 세트입니다. 특전 포인트를 사용하여 일반 및 프리미엄 박스 옵션을 잠금 해제하고 더 높은 가격에 더 좋은 품질의 품목을 주문하세요.
 
-Once an order is confirmed, items will usually take three days to be delivered, so plan ahead! You cannot order more of that item until your first order arrives.
+주문이 확인되면 상품이 배송되기까지 일반적으로 3일이 소요되므로 미리 계획하세요! 첫 번째 주문이 도착할 때까지 해당 품목을 더 주문할 수 없습니다.
 
-Arrival dates will be listed on the Ordering page to help you keep track. Spending <link:perks>Perk Points<link>can reduce delivery times significantly.
-ID|restock
+추적하는 데 도움이 되도록 도착 날짜가 주문 페이지에 나열됩니다. <link:perks>특전 포인트<link>를 사용하면 배송 시간을 크게 줄일 수 있습니다.
+ID|재입고
 
-Name|Stats
-Text|Stats indicate how well an employee is likely to do the job. They can be affected in the short term by gifts and improved over time by boosting the employee's <link:mwe>Mood <link>.
+Name|능력치
+Text|능력치는 직원이 업무를 얼마나 잘 수행할 것인지를 나타냅니다. 단기적으로는 선물로 영향을 받을 수 있으며 시간이 지남에 따라 직원의 <link:mwe>기분<link>을 향상시켜 개선할 수 있습니다.
 
 
-Barter:
-The higher this number, the more likely the employee will win when haggling with a customer. This means a bit more profit and REP <repUp>for you. Lost barter mini-games mean an item will be sold below its marked price, and you'll take a small hit to your REP <repDown>.
+물물교환:
+이 숫자가 높을수록 직원이 고객과 흥정할 때 승리할 확률이 높아집니다. 이는 귀하에게 더 많은 이익과 REP <repUp>을 의미합니다. 물물교환 미니 게임이 사라지면 아이템이 표시된 가격보다 낮은 가격으로 판매되고 REP <repDown>에 작은 타격을 입게 됩니다.
 
-Charm:
-Employees with high Charm can reduce the amount of REP <repDown>lost by selling overpriced items.
+매력:
+매력이 높은 직원은 고가의 아이템을 판매하여 손실되는 REP <repDown>의 양을 줄일 수 있습니다.
 
-Speed:
-High Speed means that customers will be served more quickly. More customers will be served per hour, and they will be less likely to leave due to long queues.
+속도:
+높은 속도는 고객에게 더 빨리 서비스를 제공한다는 의미입니다. 시간당 더 많은 고객에게 서비스를 제공하고 긴 대기열로 인해 떠날 가능성이 줄어듭니다.
 
-Stamina:
-Staff members' Energy drops over time while they are working. High Stamina will slow this down.
-Staff with low Energy become much less efficient and need time at home to recover.
-ID|stats
+스테미나:
+직원의 에너지는 작업하는 동안 시간이 지남에 따라 감소합니다. 높은 체력으로 인해 속도가 느려집니다.
+에너지가 낮은 직원은 효율성이 훨씬 떨어지며 회복하려면 집에서 시간이 필요합니다.
+ID|능력치
 
-Name|Wages, Mood and Experience
-Text| Employee's wages are first set when <link:hiring>hiring<link>. Check an employee's wage versus their expected hourly rate by selecting the Change Pay button on the <link:hiring>Hiring Page<link>.
+Name|임금, 기분 및 경험
+Text| 직원의 임금은 <link:hiring>채용<link>할 때 먼저 결정됩니다. <link:hiring>채용 페이지<link>에서 급여 변경 버튼을 선택하여 직원의 급여와 예상 시급을 확인하세요.
 
-Scroll to raise or lower the wage and Confirm: or use Set Expected to meet the needs of someone you've been underpaying.
+스크롤하여 임금을 올리거나 낮추고 확인: 또는 예상 금액 설정을 사용하여 급여가 부족한 사람의 요구 사항을 충족하세요.
 
-An employee's Mood varies according to their wages and working conditions. Mood rises when employees work reasonable hours and are paid above their expected amount per hour; it drops when wages are lower than expected or when the staff member is forced to work too long without enough time at home.
+직원의 기분은 급여와 근무 조건에 따라 다릅니다. 직원이 합리적인 시간 동안 일하고 시간당 예상 금액보다 높은 급여를 받으면 기분이 좋아집니다. 임금이 예상보다 낮거나 직원이 집에서 충분한 시간 없이 너무 오랫동안 일해야 하는 경우에는 감소합니다.
 
-It can take several days for someone's Mood to change enough to affect their work: the more significant the difference between their expected and actual conditions, the faster the Mood change occurs.
+누군가의 기분이 업무에 영향을 미칠 만큼 변하는 데는 며칠이 걸릴 수 있습니다. 예상 조건과 실제 조건 사이의 차이가 클수록 기분 변화가 더 빨리 발생합니다.
 
-Employee's Mood can be checked anytime by looking at their record on the <link:hiring>Hiring Page<link>. A green mask indicates a good mood, yellow is neutral, and red is bad.
+직원의 기분은 <link:hiring>채용 페이지<link>에서 기록을 통해 언제든지 확인할 수 있습니다. 녹색 마스크는 좋은 기분을 나타내고 노란색은 중립적이며 빨간색은 나쁜 기분을 나타냅니다.
 
-A good Mood means an employee will serve customers quickly, and you'll see them making cheerful and polite comments. Unhappy employees are rude and inefficient.
+기분이 좋다는 것은 직원이 고객에게 신속하게 서비스를 제공하고 명랑하고 정중한 말을 하는 것을 의미합니다. 불행한 직원은 무례하고 비효율적입니다.
 
-Goods Store Level indicates an employee's experience working in the shop - it is collected over time. Gaining levels boosts employee <link:stats>Stats<link>while working, improving their efficiency and reducing the need for gifts. Employees will not gain experience if their Mood is bad.
-ID|mwe
+상품 매장 레벨은 매장에서 근무한 직원의 경험을 나타내며 시간이 지남에 따라 수집됩니다. 레벨을 높이면 일하는 동안 직원의 <link:stats>통계<link>가 향상되어 직원의 효율성이 향상되고 선물의 필요성이 줄어듭니다. 직원의 기분이 좋지 않으면 경험치를 얻을 수 없습니다.
+ID|임금
 
-Name|Specialist Perks
-Text|You will be contacted by the mysterious Tinker once your shop reaches the required level of success, based on REP <repsymbol>and Brass ☎ earned. He will sell you access to Specialisations for your shop: Bakery, Fishmonger and Greengrocer.
+Name|전문가 특전
+Text|REP <repsymbol> 및 브라스 ☎를 바탕으로 상점이 필요한 성공 수준에 도달하면 신비한 Tinker가 연락을 드릴 것입니다. 그는 빵집, 생선 장수, 청과물 상인 등 상점의 전문화에 대한 액세스를 판매할 것입니다.
 
-Specialising your shop will change its appearance, grant bonuses to acquiring and selling items associated with the specialisation, and will grant bonuses to your staff's performance - though there may sometimes be a penalty, too.
+상점을 전문화하면 외관이 바뀌고, 전문화와 관련된 아이템 획득 및 판매에 보너스가 부여되며, 직원의 성과에도 보너스가 부여됩니다. 단, 때로는 페널티도 있을 수 있습니다.
 
-Specialist Perks are unlocked with Points in the same way as ordinary <link:perks>Perks<link>. They help you to focus on your chosen specialism, for example, by doubling the amount of baked goods produced each time you bake.
-ID|special
+전문가 특전은 일반 <link:perks>특전<link>과 같은 방식으로 포인트로 잠금 해제됩니다. 예를 들어, 베이킹할 때마다 생산되는 제과류의 양을 두 배로 늘려서 선택한 전문 분야에 집중할 수 있도록 도와줍니다.
+ID|전문가
 
-Name|Rota
-Text|You must recruit staff using the <link:hiring>Hiring Page<link>before you can set up a rota.
+Name|당번
+Text|당번을 설정하기 전에 <link:hiring>채용 페이지<link>를 사용하여 직원을 모집해야 합니다.
 
-Select a staff member's picture, then choose a square on the Rota and <ui_accept_or_click>to assign them to that timeslot.
-You can drag over multiple squares, too. Select the same squares again to remove the person from that slot.
+직원의 사진을 선택한 다음 당번의 사각형을 선택하고 <ui_accept_or_click>하여 해당 시간 슬롯에 할당하세요.
+여러 사각형 위로 드래그할 수도 있습니다. 해당 슬롯에서 사람을 제거하려면 동일한 사각형을 다시 선택하십시오.
 
-Note that each square on the Rota represents three hours of work, so remember to check what your <link:mwe>wage bill<link>is likely to be!
+당번의 각 사각형은 3시간의 근무 시간을 의미하므로 <link:mwe>임금 청구서<link>가 얼마인지 확인하는 것을 잊지 마세요!
 
-Staff will get tired if assigned too many hours without a break. This will make them work more slowly, and they may be rude to customers, so give them time to recover energy between shifts or boost their <link:stats>Stamina<link>.
-ID|rota
+쉬지 않고 너무 많은 시간을 할당하면 직원이 피곤해집니다. 이렇게 하면 작업 속도가 더 느려지고 고객에게 무례할 수 있으므로 교대근무 사이에 에너지를 회복하거나 업무 효율을 높일 수 있는 시간을 주십시오.
+<link:stats>Stamina<link>.
+ID|당번
