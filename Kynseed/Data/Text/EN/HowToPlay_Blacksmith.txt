@@ -1,220 +1,221 @@
-Title|Blacksmiths
-Name|What Makes a Successful Blacksmith?
-Text|Keep a good stock of ready-made items - and be ready to craft any custom order that your customers can think of!
+Title|대장장이
+Name|성공적인 대장장이를 만드는 것은 무엇인가?
+Text|제품을 충분히 확보하고 고객이 생각할 수 있는 맞춤형 주문을 제작할 준비를 하십시오!
 
-Name|Serving Customers
-Text| Customers arrive at the counter when the shop is open and wait for you or a staff member to interact with them.
+Name|고객에게 서비스 제공
+Text|고객은 매장이 문을 열었을 때 카운터에 도착하여 귀하나 직원이 고객과 대화할 때까지 기다립니다.
 
-The coloured meter above a customer's head shows how much patience they have left. They will go if you do not serve them before the meter empties. Customers will not join a queue of more than six people, so keep things moving.
+고객 머리 위의 색상 측정기는 고객의 인내심이 얼마나 남았는지 보여줍니다. 미터기가 비워지기 전에 서비스를 제공하지 않으면 사라지게 됩니다. 고객은 6명 이상은 대기열에 합류하지 않으므로 계속해서 진행하십시오.
 
-There are two types of Blacksmith customers: Walk-ins and Commissioners.
+대장장이 고객에는 예약없이 온 손님과 주문의뢰 라는 두 가지 유형이 있습니다.
 
-Walk-in customers want to buy off-the-shelf items for a set purpose. They will describe what they want to do with the item, and then it is up to you to sell them something suitable - someone wanting to chop down weeds in the garden is more likely to want a sickle than a sword.
+예약없이 온 손님은 정해진 목적에 따라 제고품을 구매하기 원합니다. 그들은 그 물건으로 무엇을 하고 싶은지 설명할 것이고, 그런 다음 그들에게 적합한 것을 판매하는 것은 당신에게 달려 있습니다. 정원에서 잡초를 자르고 싶은 사람은 칼보다 낫을 원할 가능성이 더 높습니다.
 
-You gain Brass ☎ and REP <repsymbol>for fulfilling the request: these can be increased by selling a more valuable or better quality item from the appropriate category, e.g. a <item:Tin_Sickle:☆>, <item:Iron_Sickle:☆>, and <item:Iron_Sickle:☉>will all please the customer, but the latter two get you more Brass ☎ and REP <repUp>.
+요청을 이행하면 브라스 ☎와 REP <repsymbol>을 얻습니다. 이는 해당 카테고리에서 더 가치 있거나 더 나은 품질의 품목을 판매하여 늘릴 수 있습니다. <item:Tin_Sickle:☆>, <item:Iron_Sickle:☆> 및 <item:Iron_Sickle:☉>은 모두 고객을 만족시키지만 후자의 두 개는 브라스 ☎ 및 REP <repUp>을 더 많이 제공합니다.
 
-If you have nothing strictly suitable, you can try substituting another type of item. The customer will either accept the item and pay as usual <repUp>or reject it, and you'll lose REP <repDown>. Either way, you get the Brass ☎ for your sold item.
+꼭 맞는 항목이 없으면 다른 유형의 항목으로 대체해 볼 수 있습니다. 고객은 품목을 수락하고 평소대로 <repUp>을 지불하거나 거부할 것이며 REP <repDown>을 잃게 됩니다. 어느 쪽이든 판매된 아이템에 대해 돈 ☎을 받게 됩니다.
 
-Commissioners want to order a particular item and will give you a few days to create it for them. You can decline a custom order if you don't have the ore or inclination to make it, but this comes with a small REP <repDown>penalty. However, accepting an order and not fulfilling it carries a much higher penalty <repDown>: customers are more disappointed when returning after several days to find that you've let them down.
+주문 의뢰자 들은 특정 품목을 주문하고 싶어하며 이를 만드는 데 며칠의 시간을 줄 것입니다. 만들 만한 광석이나 의향이 없다면 맞춤 주문을 거절할 수 있지만, 이 경우 작은 REP <repDown> 페널티가 따릅니다. 그러나 주문을 수락하고 이행하지 않으면 훨씬 더 높은 페널티를 받게 됩니다. <repDown>: 고객은 의뢰 수주 후 며칠 후 다시 방문할 때 의뢰가 이행되지 않았을때 매우 실망 할 것 입니다.
 
-Commissioners will return after the agreed number of days to say they want to collect their order. The Stock Cupboard will open at Orders: you can only select that customer's item. If the customer's order is not ready, you must cancel <ui_cancel>the transaction.
-ID|serving
+예약 손님은 합의된 날짜에 도시 돌아와 주문한 물건을 수령하기 원합니다. 재고 찬장은 주문 시 열립니다. 해당 고객의 품목만 선택할 수 있습니다. 고객의 주문이 준비되지 않은 경우 <ui_cancel>거래를 취소해야 합니다.
 
-Name|Crafting Items
-Text|You can craft items whether the shop is open or closed. If you are running the shop yourself, you must keep an eye on the counter while crafting. Use the Hang on! button to ask customers to wait a bit longer before walking out.
+ID|접대
 
-Use <ui_accept_or_click>the iron ring on the forge to begin crafting. You can use the View Orders button to check for Commissions without returning to the Ledger.
-ID|crafting
+Name|아이템 만들기
+Text|상점이 열려 있든 닫혀 있든 상관없이 아이템을 제작할 수 있습니다. 상점을 직접 운영하는 경우 제작하는 동안 카운터를 계속 주시해야 합니다. 잠시만 기다려주세요! 는 고객에게 나가기 전에 조금 더 기다려달라고 요청하는 버튼입니다.
 
-Name|Selecting Moulds and Ore
-Text| Select the mould for the item you wish to craft, then select your chosen <link:ore>ore<link>. Re-select either to update your selection.
+제작을 시작하려면 대장간의 철제 반지를 <ui_accept_or_click>사용하세요. 주문 보기 버튼을 사용하면 장부로 돌아가지 않고도 주문의뢰를 확인할 수 있습니다.
+ID|공예
 
-The Batch Crafting option will appear if you have crafted successfully with the selected mould at least three times. This allows you to produce multiple items at once. Scroll to choose the amount of ore to use - limited by the number in stock or up to 10. Note that the number of items to be crafted might be higher than this; Mr Fairweather's items and shop <link:perks>Perks<link>can be used to help boost the yield.
-ID|mould
+Name|금형 및 광석 선택
+Text| 제작하려는 아이템의 금형을 선택한 다음, 선택한 <link:ore>광석<link>을 선택하세요. 선택 항목을 업데이트하려면 둘 중 하나를 다시 선택하세요.
 
-Name|Smelting
-Text|Melt the ore by holding and releasing <ui_accept_or_click>to operate the bellows until the mould is full.
-ID|smelt
+선택한 금형으로 최소 3번 이상 제작에 성공하면 일괄 제작 옵션이 나타납니다. 이를 통해 한 번에 여러 품목을 생산할 수 있습니다. 스크롤하여 사용할 광석의 양을 선택하세요. 재고 수 또는 최대 10개로 제한됩니다. 제작할 아이템 수가 이보다 많을 수 있다는 점에 유의하세요. Mr Fairweather의 아이템과 상점 <link:perks>특전<link>을 사용하여 수확량을 높일 수 있습니다.
+ID|몰드
 
-Name|Heating
-Text| Lower the moulded item onto the forge and heat it with <ui_accept_or_click>. Use <ui_accept_or_click>again to stop the triangular marker in the green zone.
+Name|제련
+Text|<ui_accept_or_click>을 누르고 놓으면 광석이 녹고 금형이 가득 찰 때까지 벨로우즈가 작동됩니다.
+ID|제련하기
 
-You'll get a gold results banner if you get it right, silver if not. Mistakes at this stage mean that later stages will be less forgiving.
-ID|heat
+Name|가열
+Text| 성형된 아이템을 대장간 위로 내리고 <ui_accept_or_click>으로 가열하세요. 녹색 영역에서 삼각형 마커를 중지하려면 <ui_accept_or_click>을 다시 사용하세요.
 
-Name|Shaping
-Text| Hit <ui_accept_or_click>to shape the item when your moving hammer perfectly covers one of the circular targets. Targets get smaller and move faster with the rarest ores.
+올바르게 달성하면 골드 결과 배너를 받게 되고, 그렇지 않으면 실버를 받게 됩니다. 이 단계의 실수는 이후 단계에서 더 신중 해져야 함을 의미합니다.
+ID|가열
 
-Hitting the targets perfectly increases the item's durability, which helps to raise its overall Star Rating. Partially hitting a target will slightly increase durability, but missing altogether will lower the item's Star Rating, and missing too many times can even break it, wasting the ore.
+Name|모양
+Text| 움직이는 망치가 원형 대상 중 하나를 완벽하게 덮을 때 <ui_accept_or_click>을 눌러 항목 모양을 만듭니다. 가장 희귀한 광석을 사용하면 목표물이 더 작아지고 더 빠르게 움직입니다.
 
-Increasing your Strength Stat helps to reduce the difficulty of this phase.
-ID|shape
+목표물을 완벽하게 맞추면 아이템의 내구성이 증가하여 전반적인 별 등급이 높아지는 데 도움이 됩니다. 대상을 부분적으로 맞추면 내구도가 약간 증가하지만, 완전히 놓치면 아이템의 별 등급이 낮아지고, 너무 많이 놓치면 깨져서 광석을 낭비할 수도 있습니다.
 
-Name|Cooling
-Text|Lower the moulded item onto the forge and start cooling it with <ui_accept_or_click>. Use <ui_accept_or_click>again to stop the triangular marker in the green zone.
+힘 수치를 높이면 이 단계의 난이도를 줄이는 데 도움이 됩니다.
+ID|모양 만들기
 
-You'll get a gold results banner if you get it right, silver if not. Breaking the item at this point is still possible, so be careful!
-ID|cool
+Name|식히기
+Text|성형된 아이템을 대장간 위로 내리고 <ui_accept_or_click>으로 냉각을 시작하세요. 녹색 영역에서 삼각형 마커를 중지하려면 <ui_accept_or_click>을 다시 사용하세요.
 
+올바르게 달성하면 골드 결과 배너를 받게 되고, 그렇지 않으면 실버를 받게 됩니다. 이 시점에서도 아이템을 깨뜨릴 수 있으니 주의하세요!
+ID|식히기
 
-Name|Sharpening
-Text|Hold <blacksmith_grind_left>or <blacksmith_grind_right>while a triangular marker is over the green area of the grindstone. You can only sharpen one side of the item at a time! Wait until the green area spins into view again before sharpening the other side.
 
-Sharpening the green target areas will improve the item's durability and Star Rating, whereas sharpening grey areas will damage both.
-ID|sharp
+Name|날 다듬기
+Text|삼각형 표시가 숫돌의 녹색 영역 위에 있는 동안 <blacksmith_grind_left> 또는 <blacksmith_grind_right>를 누르고 있습니다. 한 번에 항목의 한쪽 면만 날카롭게 할 수 있습니다! 반대쪽 날을 다듬기 전에 녹색 영역이 다시 보일 때까지 기다리십시오.
 
-Name|Results, and where to put them
-Text|This screen shows the Star Rating of the item you crafted. Use the Calculation button to find out where you lost or gained points and to view any bonuses from skills or items.
+녹색 대상 영역의 날을 다듬게 되면 아이템의 내구성과 별 등급이 향상되는 반면, 회색 영역을 다듬으면 둘 다 손상됩니다.
+ID|다듬기
 
-The small number under the item's icon represents the number crafted. This can be boosted by using <link:mould>Batch Crafting<link>, <link:perks>Perks<link>, or items purchased from Mr Fairweather.
+Name|결과 및 저장 위치
+Text|이 화면에는 제작한 아이템의 별 등급이 표시됩니다. 계산 버튼을 사용하여 포인트를 잃거나 얻은 위치를 확인하고 기술이나 아이템의 보너스를 확인하세요.
 
-You can choose to keep an item for yourself using the Inventory button, send it to the Shelf to be sold to <link:serving>walk-in customers<link>, or to Orders to fulfil a <link:serving>custom order<link>. Note that if you have crafted several items at once, only one will be sent to Orders - the remainder will be placed on the Shelf.
+아이템 아이콘 아래의 작은 숫자는 제작된 숫자를 나타냅니다. 이는 <link:mould>일괄 제작<link>, <link:perks>혜택<link> 또는 Mr Fairweather에게서 구매한 아이템을 사용하여 강화할 수 있습니다.
 
-Items can be moved between Inventory, Shelf and Orders in the <link:stock>Stock Cupboard<link>, should you change your mind.
+재고 버튼을 사용하여 품목을 직접 보관하거나 선반으로 보내 <link:serving>방문 고객<link>에게 판매하거나 주문으로 보내 <link:serving>맞춤 주문<을 처리할 수 있습니다. 링크>. 한 번에 여러 아이템을 제작한 경우 하나만 주문으로 전송되고 나머지 아이템은 선반에 놓이게 됩니다.
 
-ID|results
+마음이 바뀌면 <link:stock>재고 찬장<link>의 재고, 선반, 주문 간에 품목을 이동할 수 있습니다.
 
-Name|Staff Crafting
-Text|Your staff will always prioritise making items for custom Orders up to three days in advance.
+ID|결과물
 
-When making items to sell off-the-shelf, staff will use the lowest-quality ore and will limit themselves to making three of each type of item.
+Name|직원 제작
+Text|귀하의 직원은 항상 맞춤 주문을 위한 품목을 최대 3일 전에 우선적으로 제작할 것입니다.
 
-Crafting staff will not serve customers, but note that the shop is always open while staff are working.
-ID|craftingStaff
+재고품 판매용 품목을 만들 때 직원은 품질이 가장 낮은 광석을 사용하며 품목별로 3개씩만 제작합니다.
 
-Name|Accounts Page
-Text|Blacksmith prices are based upon their Star Rating and the value of the <link:ore>ore<link>used to produce them. Customers will not try to haggle, and you cannot adjust the <link:pricing>prices<link>.
+제작 직원은 고객에게 서비스를 제공하지 않지만 직원이 일하는 동안 상점은 항상 열려 있습니다.
+ID|제작 직원
 
-If you give a substitute item to a walk-in customer and it is not accepted, you will still receive the full Brass ☎ price but will suffer a REP loss <repDown>).
+Name|평가 페이지
+Text|대장장이 가격은 별 등급과 이를 생산하는 데 사용된 <link:ore>광석<link>의 가치에 따라 결정됩니다. 고객은 흥정을 시도하지 않으며 <link:pricing>가격<link>을 조정할 수 없습니다.
 
-Some items may show as losses - negative numbers displayed in red. <link:mwe>Staff wages<link>are always displayed this way, as they cost you Brass ☎. The price of <link:restock>buying stock<link>- either over the counter from customers or via the <link:cupboard>Stock Cupboard<link>- is also subtracted from your daily profits for an item.
+방문 고객에게 대체 품목을 제공했지만 수락되지 않은 경우 여전히 브라스 ☎ 는 전액 받겠지만 REP 손실이 발생합니다(<repDown>).
 
-<ui_accept_or_click>on the appropriate heading to sort your accounts by the number Sold, the amount of Profit ☎ made, REP <repUp>gained, or by the default, which is in alphabetical order by Item name.
+일부 항목은 손실로 표시될 수 있습니다. 마이너스는 빨간색으로 표시됩니다. <link:mwe>직원 임금<link>은 브라스 ☎ 비용이 들기 때문에 항상 이런 식으로 표시됩니다. <link:restock>재고 구매<link>가격(고객 창구 또는 <link:cupboard>재고 찬장<link>을 통해)도 해당 품목의 일일 수익에서 차감됩니다.
 
-<ui_accept_or_click>on an Item's name to get more detailed information on sales of that particular item. <ui_accept_or_click>again to return to the main Accounts page.
+해당 제목을 <ui_accept_or_click>하여 판매 수, 수익 ☎ 금액, REP <repUp> 획득 또는 기본적으로 항목 이름의 알파벳 순서로 계정을 정렬합니다.
 
-Use the Timescale filter to choose between a big-picture view of your shop's success over time or zero in on daily transactions to see if you are trading at a loss.
-ID|accounts
+특정 항목의 판매에 대한 자세한 정보를 얻으려면 항목 이름을 <ui_accept_or_click>하세요. <ui_accept_or_click>다시 기본 계정 페이지로 돌아갑니다.
 
-Name|Pricing and REP
-Text|Quillian blacksmiths have a fixed price structure for off-the-shelf items: customers will pay the going rate based on the rarity of its <link:ore>metal<link>and its Star Rating.
+시간 척도 필터를 사용하여 시간 경과에 따른 매장 성공에 대한 큰 그림 보기 또는 일일 거래에 집중하여 손실을 보고 있는지 확인하세요.
+ID|평가
 
-Custom orders bring a significant profit in both Brass ☎ and REP <repUp>but damage your reputation <repDown>if not fulfilled in time. Forcing customers to collect their order when the shop is closed comes with a smaller REP penalty <repDown>.
-ID|pricing
+Name|가격 및 평판
+Text|Quillian 대장장이는 기성 품목에 대해 고정 가격 구조를 가지고 있습니다. 고객은 <link:ore>금속<link>의 희귀성과 별 등급에 따라 가격을 지불하게 됩니다.
 
-Name|Metals and Ores
-Text| From least to most valuable: Tin, Zinc, Copper, Iron, Luminium, Shadderwryth, Hyalite. You can offer the more valuable ores for sale as soon as you open the shop, but you won't start getting orders for items made with them until your <link:pricing>Reputation<link><repUp>grows enough.
-ID|ore
+맞춤 주문은 브라스 ☎와 REP <repUp> 모두에 상당한 이익을 가져다주지만 제때에 이행되지 않으면 <repDown>의 평판을 손상시킵니다. 매장이 문을 닫았을 때 고객이 주문한 상품을 수령하도록 강요하면 REP 페널티 <repDown>가 더 작아집니다.
+ID|가격
 
-Name|Stock Cupboard
-Text|This cupboard holds all of the items owned by the shop. It has three sections: Shelf, For Orders, and Materials - all of which can be accessed by you and your staff.
+Name|금속 및 광석
+Text| 가장 가치가 낮은 것부터: 주석, 아연, 구리, 철, 루미늄, 셰더리스, 하얄라이트. 상점을 열자마자 더 가치 있는 광석을 판매용으로 제공할 수 있지만 <link:pricing>평판<link><repUp>이 충분히 성장할 때까지는 해당 광석으로 만든 품목에 대한 주문을 받을 수 없습니다.
+ID|광석
 
-Shelf
-Items placed here can be sold to any <link:serving>customer<link>whenever requested.
+Name|재고 찬장
+Text|이 찬장에는 가게 소유의 모든 물건이 들어있습니다. 여기에는 선반, 주문용, 자재의 세 가지 섹션이 있으며, 모두 귀하와 귀하의 직원이 액세스할 수 있습니다.
 
-For Orders
-These items are made to fulfil a specific request by a <link:serving>customer<link>and are reserved to be kept until the agreed collection time. Your staff will not sell these items to walk-in customers: you can - but make sure you replace them before the commissioning customer arrives!
+선반
+여기에 놓인 품목은 요청 시 <link:serving>고객<link>에게 판매할 수 있습니다.
 
-Materials
-The ore that your staff can use to make off-the-shelf items or custom orders. Staff will always use the lowest-quality ore first.
+주문 제작용
+이러한 품목은 <link:serving>고객<link>의 특정 요청을 이행하기 위해 만들어졌으며 합의된 요청 시간까지 보관 되도록 예약되어 있습니다. 귀하의 직원은 이러한 품목을 방문 고객에게 판매하지 않습니다. 판매할 수는 있지만 예약 주문 고객이 도착하기 전에 해당 품목을 채워 넣어야 합니다!
 
-Managing Stock
-Move whole stacks of items - e.g. all <item:Tin_Ore>- between the Cupboard and your Inventory by selecting the item and <ui_alt_or_rightclick>. To select only those of a certain Star Rating, select the item, then select the required Star Rating and <ui_alt_or_rightclick>. Items can be moved singly with <ui_accept_or_click>.
+재료
+직원이 재고품이나 맞춤 주문을 만드는 데 사용할 수 있는 광석입니다. 직원은 항상 품질이 가장 낮은 광석을 먼저 사용합니다.
 
-Stock can be <link:restock>ordered<link>from the supplier and will take three days to arrive in the Cupboard. You can speed this up and expand the available range by spending <link:perks>Perk Points<link>. <orderscreen>to access the ordering screen.
-ID|cupboard
+재고 관리
+항목의 전체 스택을 이동합니다. 모든 <item:Tin_Ore> - 항목을 선택하고 <ui_alt_or_rightclick>하여 찬장과 인벤토리 사이에 있습니다. 특정 별점만 선택하려면 해당 항목을 선택한 후 원하는 별점을 선택하고 <ui_alt_or_rightclick>을 누르세요. <ui_accept_or_click>을 사용하면 항목을 하나씩 이동할 수 있습니다.
 
-Name|Restocking with Orders
-Text|This page shows all of the items that can currently be ordered from your supplier. It is used to replenish your stocks of ore and off-the-shelf items, NOT to fulfil custom orders.
+재고는 공급업체로부터 <link:재입고>주문<link>할 수 있으며 찬장에 도착하는 데 3일이 소요됩니다. <link:perks>혜택 포인트<link>를 사용하여 속도를 높이고 사용 가능한 범위를 확장할 수 있습니다. <orderscreen> 주문 화면에 접속합니다.
+ID|찬장
 
-You will need to spend <link:perks>Perk Points<link>to unlock a broader range of items.
+Name|주문으로 재입고 하기
+Text|이 페이지에는 현재 공급업체로부터 주문할 수 있는 모든 품목이 표시됩니다. 맞춤 주문을 이행하는 것이 아니라 광석 및 기성품 재고를 보충하는 데 사용됩니다.
 
-Select <ui_accept_or_click>the Stock heading to order the items by the number you have in stock. Similarly, select the Item heading to return to the default list, which is alphabetically ordered by item name.
+더 다양한 아이템을 잠금 해제하려면 <link:perks>특전 포인트<link>를 사용해야 합니다.
 
-Select an item to order more. At first, you can only order a Budget box - this is a set of 10 low-quality items at a low cost. Use Perk Points to unlock the Normal and Premium Box options to order better-quality items at a higher price.
+재고 제목을 <ui_accept_or_click> 선택하여 재고 수량에 따라 품목을 주문하세요. 마찬가지로 항목 제목을 선택하면 항목 이름에 따라 알파벳순으로 정렬된 기본 목록으로 돌아갑니다.
 
-It will usually take three days for items to be delivered once an order is confirmed, so plan ahead! Delivery times can be reduced significantly by spending more perk points.
-ID|restock
+추가 주문하려면 항목을 선택하세요. 처음에는 예산 상자만 주문할 수 있습니다. 이는 저렴한 비용으로 품질이 낮은 품목 10개로 구성된 세트입니다. 특전 포인트를 사용하여 일반 및 프리미엄 박스 옵션을 잠금 해제하고 더 높은 가격에 더 좋은 품질의 품목을 주문하세요.
 
-Name|Hiring Staff
-Text|You can hire up to four people to work in your shop. Only people from the shop's Haven will be available - for example, people from Mellowbrook are not happy to walk to the Vale for work every day. Your family can be sent to work in any shop, though.
+주문이 확인된 후 상품이 배송되기까지 보통 3일이 소요되므로 미리 계획하세요! 더 많은 특전 포인트를 사용하면 배송 시간을 크게 줄일 수 있습니다.
+ID|재입고
 
-Use the Hire button in the middle of a Staff Space to see the available workers.
+Name|직원 채용
+Text|매장에서 일할 수 있는 사람은 최대 4명까지 고용할 수 있습니다. 상점의 Haven에 있는 사람들만 이용할 수 있습니다. 예를 들어 Mellowbrook의 사람들은 매일 출근하기 위해 Vale까지 걸어가는 것을 좋아하지 않습니다. 하지만 귀하의 가족은 어느 상점에서나 일하도록 파견될 수 있습니다.
 
-Each potential worker has an <link:mwe>hourly rate<link>. This will be multiplied by the number of hours that you assign them to work (using the <link:rota>Rota<link>page) and will be automatically taken from your Brass ☎ when they leave for the day. Ensure you can cover this cost, as staff will leave and refuse to return if you cannot pay their whole wage!
+직원 공간 중앙에 있는 채용 버튼을 사용하여 사용 가능한 직원을 확인하세요.
 
-Employees with a higher hourly rate tend to have <link:stats>Stats<link>that will make them good at working in the shop. However, you can temporarily boost your employees' poorer stats with gifts of food with relevant Traits. You can improve their <link:mwe>Mood<link>this way, too, as well as encouraging them to improve their <link:mwe>Blacksmith Level<link>.
+각 잠재적 근로자에게는 <link:mwe>시급<link>이 있습니다. 이 시간은 근무 시간에 할당한 시간(<link:rota>Rota<link>페이지 사용)으로 곱해지며, 퇴근 시 자동으로 브라스 ☎에서 가져옵니다. 임금 전액을 지불하지 못하면 직원이 떠나고 복귀를 거부하므로 이 비용을 감당할 수 있는지 확인하십시오!
 
-Note that you can have two staff working simultaneously: one on the counter and one crafting items at the forge. Counter and Crafting staff require different <link:stats>stats<link>.
+시급이 높은 직원은 높은 <link:stats>능력치<link>를 갖고 있어 매장에서 일을 잘하는 경향이 있습니다. 하지만 관련 특성이 있는 음식을 선물로 직원의 열악한 능력치를 일시적으로 높일 수 있습니다. 이 방법으로 <link:mwe>기분<link>을 향상시킬 수 있을 뿐만 아니라 <link:mwe>대장장이 레벨<link>을 향상하도록 격려할 수도 있습니다.
 
-Select a person's name from the list to confirm that you want to hire them. Be aware that people can only be employed in one shop at a time! At this point, you can adjust the employee's <link:mwe>wages<link>- up or down.
+두 명의 직원이 동시에 작업할 수 있습니다. 한 명은 카운터에, 다른 한 명은 대장간에서 아이템을 제작합니다. 카운터와 제작 직원은 서로 다른 <link:stats>통계<link>를 요구합니다.
 
-Use the Change Pay button to adjust the employee's hourly rate. You can do this at any time.
+목록에서 사람의 이름을 선택하여 고용 의사를 확인하세요. 한 번에 한 상점에만 고용할 수 있다는 점을 기억하세요! 이 시점에서 직원의 <link:mwe>임금<link>을 높이거나 낮출 수 있습니다.
 
-Your new employee will not start work until you schedule them using the <link:rota>Rota page<link>. Don't forget to do this once you have finished recruiting!
-ID|hiring
+급여 변경 버튼을 사용하여 직원의 시간당 요율을 조정합니다. 이 작업은 언제든지 수행할 수 있습니다.
 
-Name|Stats
-Text|Stats indicate how well an employee will likely do the job. They can be affected in the short term by gifts and improved over time by boosting the employee's <link:mwe>mood<link>.
+신입 직원은 <link:rota>당번 페이지<link>를 사용하여 일정을 예약할 때까지 업무를 시작하지 않습니다. 모집이 끝나면 잊지 마세요!
+ID|채용
 
-Accuracy
-Makes Crafting staff more likely to produce high-quality items.
+Name|능력치
+Text|능력치는 직원이 업무를 얼마나 잘 수행할 것인지를 나타냅니다. 단기적으로는 선물로 영향을 받을 수 있으며 시간이 지남에 따라 직원의 <link:mwe>기분<link>을 향상시켜 개선할 수 있습니다.
 
-Charm
-Counter staff can reduce REP <repDown>lost by giving substitute items to walk-in customers.
+정확성
+제작 직원이 고품질 아이템을 생산할 확률이 높아집니다.
 
-Speed
-Affects the speed of counter service and time taken when crafting items.
+매력
+카운터 직원은 방문 고객에게 대체 품목을 제공하여 손실된 REP <repDown>을 줄일 수 있습니다.
 
-Stamina
-Staff member's Energy drops over time while they are working. High Stamina will slow this down.
-Staff with low energy become much less efficient and need time at home to recover.
+속도
+카운터 서비스 속도와 아이템 제작에 소요되는 시간에 영향을 미칩니다.
 
-Strength
-Makes Crafting staff more likely to produce high-quality items.
+스테미나
+직원의 에너지는 작업하는 동안 시간이 지남에 따라 감소합니다. 높은 체력으로 인해 속도가 느려집니다.
+에너지가 부족한 직원은 효율성이 훨씬 떨어지고 회복을 위해 집에서 시간이 필요합니다.
 
-ID|stats
+힘
+제작 직원이 고품질 아이템을 생산할 확률이 높아집니다.
 
-Name|Wages, Mood and Experience
-Text| Employee's wages are first set when <link:hiring>hiring<link>. Check an employee's wage versus their expected hourly rate by using the Change Pay button on the <link:hiring>Hiring Page<link>. Scroll to raise or lower the wage and Confirm with <ui_accept_or_click>: or use Set Expected to meet the needs of someone you've been underpaying.
+ID|능력
 
-An employee's Mood varies according to their wages and working conditions. Mood rises when employees work reasonable hours and are paid above their expected amount per hour; it drops when wages are lower than expected or when the staff member is forced to work too long without enough time at home. It can take several days for someone's mood to change enough to affect their work: the larger the difference between their expected and actual conditions, the faster the Mood change occurs.
+Name|임금, 기분 및 경험
+Text| 직원의 임금은 <link:hiring>채용<link>할 때 먼저 결정됩니다. <link:hiring>채용 페이지<link>의 급여 변경 버튼을 사용하여 직원의 급여와 예상 시급을 확인하세요. 스크롤하여 임금을 올리거나 낮추고 <ui_accept_or_click>으로 확인하세요. 또는 예상 금액 설정을 사용하여 급여가 적었던 사람의 요구 사항을 충족하세요.
 
-Employee's Mood can be checked anytime by looking at their record on the <link:hiring>Hiring Page<link>. A green mask indicates a good mood; yellow, neutral; and red, bad.
+직원의 기분은 급여와 근무 조건에 따라 다릅니다. 직원이 합리적인 시간 동안 일하고 시간당 예상 금액보다 높은 급여를 받으면 기분이 좋아집니다. 임금이 예상보다 낮거나 직원이 집에서 충분한 시간 없이 너무 오랫동안 일해야 하는 경우에는 감소합니다. 누군가의 기분이 업무에 영향을 미칠 만큼 변하려면 며칠이 걸릴 수 있습니다. 예상 조건과 실제 조건의 차이가 클수록 기분 변화가 더 빨리 발생합니다.
 
-A good Mood means an employee will serve customers quickly, and you'll see them making cheerful and polite comments. Unhappy employees are rude and inefficient.
+직원의 기분은 <link:hiring>채용 페이지<link>에서 기록을 통해 언제든지 확인할 수 있습니다. 녹색 마스크는 좋은 기분을 나타냅니다. 노란색, 중성; 그리고 빨간색, 나쁘다.
 
-Blacksmith Level indicates an employee's experience working in the shop - it is collected over time. Gaining levels boosts employee <link:stats>Stats<link>while working, improving their efficiency and reducing the need for gifts. Employees will not gain experience if their Mood is bad.
-ID|mwe
+기분이 좋다는 것은 직원이 고객에게 신속하게 서비스를 제공하고 명랑하고 정중한 말을 하는 것을 의미합니다. 불행한 직원은 무례하고 비효율적입니다.
 
-Name|Perk Points
-Text|Improving your shop's reputation attracts customers from further afield. At first, customers will only visit shops within their own Haven, but with time, people may arrive from other havens - even other realms!
+대장장이 레벨은 상점에서 일하는 직원의 경험을 나타내며 시간이 지남에 따라 수집됩니다. 레벨을 높이면 일하는 동안 직원의 <link:stats>능력치<link>가 향상되어 직원의 효율성이 향상되고 선물의 필요성이 줄어듭니다. 직원의 기분이 좋지 않으면 경험치를 얻을 수 없습니다.
+ID|임금
 
-Perk Points are earned as your REP <repUp>increases. You can use this page to spend them on Perks designed to help you run your shop more efficiently. The Reputation meter on the left page shows your progress towards your next Perk Point. Gain enough REP <repUp>, and the magical Tinker will give you access to even more powerful <link:special>Specialist Perks<link>!
+Name|특전 포인트
+Text|매장의 평판을 높이면 더 먼 곳에서도 고객을 끌어들일 수 있습니다. 처음에는 고객이 자신의 Haven 내의 상점만 방문하지만 시간이 지나면 사람들은 다른 Haven, 심지어 다른 영역에서도 도착할 수 있습니다!
 
-Perk Points are shared among ALL the shops that you own, so, for example, you can use REP <repsymbol>earned in your Blacksmith to help unlock something in your Apothecary.
+REP <repUp>이 증가하면 특혜 포인트가 적립됩니다. 이 페이지를 사용하여 상점을 보다 효율적으로 운영하는 데 도움이 되도록 고안된 혜택에 해당 금액을 사용할 수 있습니다. 왼쪽 페이지의 평판 측정기는 다음 특전 포인트를 향한 진행 상황을 보여줍니다. 충분한 REP <repUp>을 얻으면 마법의 Tinker를 통해 훨씬 더 강력한 <link:special>전문가 특전<link>을 이용할 수 있습니다!
 
-Spend Perk Points carefully, as there are no refunds!
-ID|perks
+특전 포인트는 귀하가 소유한 모든 상점에서 공유됩니다. 예를 들어 대장간에서 얻은 REP <repsymbol>을 사용하여 약종상에서 무언가를 잠금 해제하는 데 도움을 줄 수 있습니다.
 
-Name|Specialist Perks
-Text|You will be contacted by the mysterious Tinker once your shop reaches the required level of success, based on REP <repsymbol>and Brass ☎ earned. He will sell you access to Specialisations for your shop: Jewellery, Tools and Weapons.
+초기화가 불가능하므로 특전 포인트는 신중하게 사용하세요!
+ID|특전
 
-Specialising your shop is about a lot more than just appearance. It will also grant bonuses to acquiring and selling items associated with the specialisation and will grant bonuses to your staff's performance - though there may sometimes be a penalty, too.
+Name|전문가 특전
+Text|REP <repsymbol> 및 브라스 ☎를 바탕으로 상점이 필요한 성공 수준에 도달하면 신비한 Tinker가 연락을 드릴 것입니다. 그는 보석, 도구, 무기 등 상점의 전문화에 대한 액세스 권한을 판매할 것입니다.
 
-Specialist Perks are unlocked with Points in the same way as ordinary <link:perks>Perks<link>. They help you to focus on your chosen specialism, for example, by increasing the number of weapons produced each time you use the forge.
-ID|special
+매장을 전문화하는 것은 단순한 외관 그 이상입니다. 또한 전문화와 관련된 아이템 획득 및 판매에 보너스를 부여하고 직원의 성과에 보너스를 부여합니다. 하지만 때로는 페널티도 있을 수 있습니다.
 
-Name|Rota
-Text|You must recruit staff using the <link:hiring>Hiring Page<link>before you can set up a rota.
+전문가 특전은 일반 <link:perks>특전<link>과 같은 방식으로 포인트로 잠금 해제됩니다. 예를 들어 대장간을 사용할 때마다 생산되는 무기의 수를 늘려서 선택한 전문 분야에 집중하는 데 도움이 됩니다.
+ID|특전
 
-Select <ui_accept_or_click>a staff member's picture, then choose a rectangle on the Rota and <ui_accept_or_click>to assign them to that timeslot. The Left space in each rectangle is for Counter staff: the right, Crafters.
+Name|당번
+Text|당번을 설정하기 전에 <link:hiring>채용 페이지<link>를 사용하여 직원을 모집해야 합니다.
 
-You don't need to have two staff members on each shift: e.g. you can assign someone to the counter and run the forge yourself. Crafting staff will not serve customers, though.
+<ui_accept_or_click>직원의 사진을 선택한 다음 당번에서 직사각형을 선택하고 <ui_accept_or_click>해당 시간 슬롯에 할당하세요. 각 직사각형의 왼쪽 공간은 카운터 직원을 위한 공간입니다. 오른쪽은 제작 담당 입니다.
 
-You can drag portraits over multiple rectangles. Select the same squares again to remove the person from that slot.
+각 교대조에 두 명의 직원이 있을 필요는 없습니다. 누군가를 카운터에 배정하고 직접 대장간을 운영할 수 있습니다. 하지만 제작 직원은 고객에게 서비스를 제공하지 않습니다.
 
-Note that each square on the rota represents three hours of work, so remember to check what your <link:mwe>wage bill<link>is likely to be!
+여러 직사각형 위로 인물 사진을 드래그할 수 있습니다. 해당 슬롯에서 사람을 제거하려면 동일한 사각형을 다시 선택하십시오.
 
-Staff will get tired if assigned too many hours without a break. This will make them work more slowly, and they may be rude to customers, so give them time to recover energy between shifts or boost their <link:stats>Stamina<link>.
-ID|rota
+당번의 각 사각형은 3시간의 근무 시간을 의미하므로 <link:mwe>임금 청구서<link>가 얼마인지 확인하는 것을 잊지 마세요!
+
+쉬지 않고 너무 많은 시간을 할당하면 직원이 피곤해집니다. 이렇게 하면 작업 속도가 더 느려지고 고객에게 무례할 수 있으므로 교대근무 사이에 에너지를 회복하거나 업무 효율을 높일 수 있는 시간을 주십시오.<link:stats>스테미나<link>.
+ID|당번
