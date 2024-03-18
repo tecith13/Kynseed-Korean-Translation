@@ -1,17 +1,17 @@
-Title|Hints and Tips
-Name|I'm lost!
-Text|Thatterways will point you in the right direction. Summon them using the Set Thatterway button in your task list and then pressing <thatterway>. Pressing Map <map>will allow you to swap between World and Local views of your whereabouts.
+Title|힌트와 팁
+Name|길을 잃었어요!
+Text|새터웨이는 당신을 바른 길로 안내합니다. 작업목록에서 새터웨이 설정 버튼을 눌러 호출한 다음, <thatterway>를 누릅니다. 맵 버튼<map>을 누르면 현재 위치가 표시되며, 월드맵과 마을맵을 확인하실 수 있습니다.
 ID|thatterway
-Name|What is that? What is it for?
-Text|Wottyzits often hover over important items in the world. Interact with the marked object with <interact>.
+Name|정체와 기능이 궁금해요.
+Text|워티지트는 종종 월드의 중요한 물건 위를 맴돌고 있습니다. <interact>로 표시된 개체와 상호작용합니다.
 
-Find out more about most items in the game with the Bubble Help system. Press <bubblehelp>to show or hide the bubbles. Then select a bubble and <interact>for more information.
-ID|wottyzit
+버블 도움말 시스템을 통해 인게임 대부분의 아이템을 알아볼 수 있습니다. <bubblehelp>를 눌러 숨겨진 버블을 볼 수 있습니다. 버블을 선택한 뒤 <interact> 버튼을 누르면 더 자세한 정보를 볼 수 있습니다.
+ID|워티지트
 
-Name|Star Quality, or what are those stars on my fruit and veg?
-Text|Most collectable items in Quill have a Star Quality (1-5). Higher quality items may sell for more <link:brass>Brass<link>; have more powerful, longer-lasting <link:traits>effects<link>; and can even help you to make <link:friends>friends<link>more quickly.
+Name|과일과 채소에 달린 별은 무엇인가요?
+Text|수집품들은 대부분 등급을 가지고 있습니다. (1-5등급) 등급이 높을수록 더 높은 가격의 <link:brass>동화<link>에 판매할 수 있습니다.; 더 좋고 오래가는<link:traits>특수효과<link>를 지니며,; 주민들과의 <link:friends>우정<link>을 빠르게 올릴 수 있습니다.
 
-<link:proverbs>Proverbs<link>and <link:friends>Gossip<link>teach you how to boost the quality of the things that you find.
+<link:proverbs>속담<link>과 <link:friends>소문<link>은 수집품의 등급을 높이는 방법을 알려줍니다.
 ID|stars
 
 Name|How to make friends (or enemies) and influence people
