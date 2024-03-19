@@ -1,9 +1,9 @@
-Title|Cooking
+Title|요리
 
 
 
 Name|요리책
-ID|recipe_book
+ID|레시피_책
 Text|책 옆면의 색상 탭은 만들 수 있는 다양한 종류의 음식을 나타냅니다. 특정 요리법을 더 빨리 찾으려면 이를 사용하십시오. 레시피를 발견하면 책에 추가됩니다. <link:soup>수프<link>, <link:jam>잼<link>, <link:stew>스튜<link>, <link:pie>파이<link>, <link:pud>푸딩<link>, <link:bread>빵<link>, <link:bread>샌드위치<link>.
 
 각 레시피에는 제작에 필요한 3~5가지 재료가 표시되며, 인벤토리에 해당 재료가 모두 없으면 회색으로 표시됩니다. 제작을 시작하려면 레시피를 <ui_accept_or_click> 선택하세요.
@@ -85,166 +85,166 @@ Name|1 - 재료 선택
 ID|재료 선택
 Text|책에서 레시피를 선택하면 재료 선택 화면이 나타납니다. <link:recipe_book>book<link>.
 
-Using <ui_accept_or_click> the Add Highest Rated button automatically selects each required ingredient from your inventory.  Each one will be at the highest available Star Rating. Add Lowest Rated does the opposite.
+<ui_accept_or_click> 을 사용하여 최고 등급 추가 버튼을 사용하면 인벤토리에서 필요한 각 재료가 자동으로 선택됩니다. 각각은 가장 높은 별 등급을 받게 됩니다. 최저 등급 추가는 그 반대입니다.
 
-Select <ui_accept_or_click> an ingredient to manually add it to the crafting box instead, selecting the desired Star Rating with <ui_alt_or_rightclick>.
+<ui_accept_or_click> 선택으로 원하는 별 등급을 선택하여 제작 상자에 수동으로 추가할 수 있는 재료입니다. <ui_alt_or_rightclick>.
 
-The completed recipe's Star Rating will be mainly based on the average rating of your ingredients.  <ui_alt_or_rightclick> on ingredients in the crafting box to remove them; you can then replace the ingredient with one of a different Star Rating.
+완성된 레시피의 별점은 주로 재료의 평균점수를 기준으로 결정됩니다. 제작 상자에 있는 재료를 <ui_alt_or_rightclick>하여 제거하세요. 그런 다음 재료를 다른 별 등급 중 하나로 대체할 수 있습니다.
 
-Name|2 - Chopping and Simmering
-ID|stewmake
-Text|• Some ingredients take longer to cook than others, so each has its own timer. Choose the ingredient with the most sand in its timer first, and it will move to the chopping board.
-• The best knife for the job will appear. Use it to chop the ingredients - finding the right rhythm can help you chop more efficiently. Once you've sliced sufficiently, the Chopping Board will tip up and allow you to scrape the ingredient into the pot, and the ingredient's timer will flip over and start running.
-• Choose the ingredient with the next-longest cooking time and chop it. You can choose when to scrape it into the pot.
-• Aim to get all three timers to run out simultaneously, with all three ingredients simmering in the pot.
+Name|2 - 썰고 끓이기
+ID|스튜 만들기
+Text|• 일부 재료는 다른 재료보다 요리하는 데 시간이 더 걸리므로 각각 고유한 타이머가 있습니다. 타이머에서 모래가 가장 많은 재료를 먼저 선택하면 도마로 이동합니다.
+• 작업에 가장 적합한 칼이 나타납니다. 재료를 자르는 데 사용하세요. 올바른 리듬을 찾으면 더 효율적으로 자르는 데 도움이 됩니다. 충분히 썰고 나면 도마가 위로 올라가서 재료를 냄비에 긁어낼 수 있고, 재료 타이머가 뒤집어 작동하기 시작합니다.
+• 다음으로 조리 시간이 가장 긴 재료를 선택해 잘게 썰어주세요. 언제 냄비에 긁어낼지 선택할 수 있습니다.
+• 세 가지 재료를 모두 냄비에 넣고 끓이는 동안 타이머 세 개를 모두 동시에 실행하는 것을 목표로 하세요.
 
-Name|3 - Results
-ID|stewresult
-Text|This screen shows the item that you crafted, unless you failed to add all of the ingredients to the pot before the timer ran out - in which case you will get a message to say that the stew was ruined and the ingredients wasted.
+Name|3 - 결과물
+ID|스튜 결과물
+Text|이 화면에는 타이머가 끝나기 전에 모든 재료를 냄비에 추가하지 못한 경우를 제외하고는 여러분이 제작한 아이템이 표시됩니다. 이 경우 스튜가 망가졌고 재료가 낭비되었다는 메시지가 표시됩니다.
 
-The centre rosette shows a picture of the completed stew; the number of portions created; and its Star Rating.  Banners to the left show the stew's traits.  These traits will be added to the stew's entry in the recipe book.
+중앙 로제트는 완성된 스튜의 사진을 보여줍니다. 생성된 부분의 수; 그리고 별점. 왼쪽 배너는 스튜의 특성을 보여줍니다. 이러한 특성은 요리책의 스튜 항목에 추가됩니다.
 
-The Calculation button will provide more information on the stew's Star Rating - this is initially based on the average Star Rating of the ingredients used.
+계산 버튼은 스튜의 별점에 대한 자세한 정보를 제공합니다. 이는 처음에 사용된 재료의 평균 별점을 기준으로 합니다.
 
 
-Name|Pies
-ID|pie
-Text|Of all cooked foods, pies require the most skillful cook.  Chop fillings, make and roll out just the right amount of pastry, then make sure that all ingredients are cooked evenly.  Though there is some effort involved, pies can be sold for higher prices than some of the more simple foods.
+Name|파이
+ID|파이
+Text|모든 조리된 음식 중에서 파이에는 가장 숙련된 요리사가 필요합니다. 속재료를 잘게 자르고 적당량의 페이스트리를 만들어 펴낸 다음 모든 재료가 고르게 익었는지 확인하세요. 약간의 노력이 필요하기는 하지만 파이는 좀 더 간단한 음식보다 더 높은 가격에 팔릴 수 있습니다.
 
-Name|1 - Ingredient Selection
-ID|pieinv
-Text|The Ingredient Selection screen appears after you've selected a recipe from the <link:recipe_book>book<link>.  Pies require three ingredients for their fillings, but also need flour and eggs for their pastry.
+Name|1 - 재료 선택
+ID|재료 선택
+Text|재료 선택 화면은 메뉴에서 레시피를 선택한 후 나타납니다 <link:recipe_book>book<link>. 파이에는 속을 채우는 데 세 가지 재료가 필요하지만 페이스트리에는 밀가루와 계란도 필요합니다.
 
-Using <ui_accept_or_click> the Add Highest Rated button automatically selects each required ingredient from your inventory.  Each one will be at the highest available Star Rating. Add Lowest Rated does the opposite.
+<ui_accept_or_click> 을 사용하여 최고 등급 추가 버튼을 사용하면 인벤토리에서 필요한 각 재료가 자동으로 선택됩니다.  각각은 가장 높은 별 등급을 받게 됩니다. 최저 등급 추가는 그 반대입니다.
 
-Select <ui_accept_or_click> an ingredient to manually add it to the crafting box instead, selecting the desired Star Rating with <ui_alt_or_rightclick>. Your selection will be ticked off the list and added to the food tray. It can be removed by selecting <ui_accept_or_click> it again.
+<ui_accept_or_click>재료를 선택하여 제작 상자에 수동으로 추가하고 , <ui_alt_or_rightclick> 으로 원하는 별 등급을 선택하세요. 선택한 항목이 목록에서 제외되고 음식 트레이에 추가됩니다. 다시 <ui_accept_or_click>을 선택하여 제거할 수 있습니다.
 
-Higher quality ingredients (those with the most stars) will improve the quality of your pie, but they are more delicate and, therefore more difficult to cook to perfection. Choose wisely!
+더 높은 품질의 재료(별이 가장 많은 재료)는 파이의 품질을 향상시키지만 더 섬세하고 따라서 완벽하게 요리하기가 더 어렵습니다. 현명하게 선택하세요!
 
-Flour and eggs don't have rating variations, so just chuck 'em in.
+밀가루와 계란은 등급이 없으니 그냥 넣어주세요.
 
-Once you're happy with the selection in the tray, click the pie button at its base to start baking.
+트레이의 선택 항목이 마음에 들면 바닥에 있는 파이 버튼을 클릭하여 베이킹을 시작하세요.
 
-At this point, the eggs and flour will magically combine to make dough for the pie lining and lid.
+이 시점에서 계란과 밀가루가 마술처럼 결합되어 파이 안감과 뚜껑용 반죽이 만들어집니다.
 
-The Batch Crafting option will appear if you have successfully made pies at least three times. This allows you to produce multiple items at once. Scroll to choose the number of ingredients, eggs and flour to use - limited to the number you have or up to 10. Note that the number of items to be crafted might be higher than this; Mr Fairweather's items, skills and shop Perks can be used to help boost the yield.
+파이를 세 번 이상 성공적으로 만들면 일괄 제작 옵션이 나타납니다. 이를 통해 한 번에 여러 품목을 생산할 수 있습니다. 스크롤하여 사용할 재료, 계란, 밀가루의 수를 선택하세요. 보유한 수 또는 최대 10개로 제한됩니다. 제작할 아이템 수는 이보다 많을 수 있습니다. Mr Fairweather의 아이템, 기술 및 상점 특전을 사용하여 수확량을 높일 수 있습니다.
 
-Name|2 - Chopping
-ID|piemake
-Text|The ingredients are on a shelf on the left of the screen. Select <ui_accept_or_click> one to move it to the Chopping Board. The order in which you select them doesn't matter.
+Name|2 - 썰기
+ID|파이 만들기
+Text|재료는 화면 왼쪽 선반에 있습니다. 도마로 이동하려면 <ui_accept_or_click> 항목을 선택하세요. 선택하는 순서는 중요하지 않습니다.
 
-The best knife for the job will appear. Use <ui_accept_or_click> it to chop the ingredients - finding the right rhythm can help you chop more efficiently. Once you've sliced sufficiently, the Chopping Board will tip up and allow you to scrape <ui_accept_or_click> the ingredients into the Pie Dish. Repeat this until all ingredients are added.
+작업에 가장 적합한 칼이 나타납니다. 재료를 자르려면 <ui_accept_or_click>을 사용하세요. 올바른 리듬을 찾으면 더 효율적으로 자르는 데 도움이 됩니다. 충분히 자르고 나면 도마가 위로 올라가서 <ui_accept_or_click> 재료를 파이 접시에 긁어 넣을 수 있습니다. 모든 재료가 추가될 때까지 이를 반복합니다.
 
-Name|3 - Rolling Pastry
-ID|pierolling
-Text|Keep changing the angle of the rolling pin and pushing it along with <ui_accept_or_click> to make the dough cover the darker target circle. Try not to overshoot too much and waste your pastry, or you may not have enough to cover your pie completely!
+Name|3 - 롤링 페이스트리
+ID|파이 밀기
+Text|밀대 각도를 계속 변경하고 <ui_accept_or_click>을 눌러 반죽이 더 어두운 대상 원을 덮도록 만듭니다. 너무 많이 오버해서 페이스트리를 낭비하지 마세요. 그렇지 않으면 파이를 완전히 덮을 만큼 충분하지 않을 수도 있습니다!
 
-A perfectly covered circle earns you a gold banner: otherwise, a hint on silver.
+완벽하게 덮인 원은 금색 배너를 얻습니다. 그렇지 않으면 은색 배너를 얻을 수 있습니다.
 
-Once you've finished rolling out, the pastry is automatically trimmed and used to top your pie.
+롤아웃이 끝나면 페이스트리는 자동으로 손질되어 파이 위에 얹는 데 사용됩니다.
 
-Name|4 - Baking
-ID|piebaking
-Text|Use <ui_accept_or_click> the paddle to slide your pie into the oven to begin baking it.
+Name|4 - 굽기
+ID|파이 굽기
+Text|패들을 <ui_accept_or_click> 사용하여 파이를 오븐에 밀어넣고 베이킹을 시작하세요.
 
-Watch the Baking Meter on the right. As the pie cooks, orange and green bars appear on the meter. Aim to stop <ui_accept_or_click> the meter on each of the green bars. But don't wait too long - they'll shrink as the pie starts to overcook, and once they disappear, your pie will be burned! The more accurate you are here, the better the quality of your pie.  You'll see a gold banner after this stage if so: otherwise, a hint on silver.
+오른쪽의 베이킹 미터를 확인하세요. 파이가 요리되면서 미터기에 주황색과 녹색 막대가 나타납니다. 각 녹색 막대의 측정기를 중지하는 것을 목표로 <ui_accept_or_click>하세요. 하지만 너무 오래 기다리지 마세요. 파이가 너무 익히기 시작하면 줄어들고, 사라지면 파이가 타버릴 것입니다! 여기에 정확도가 높을수록 파이의 품질이 좋아집니다. 그렇다면 이 단계 후에 금색 배너가 표시되고, 그렇지 않으면 은색 배너가 표시됩니다.
 
-Once you've made your three marks on the Meter, use <ui_accept_or_click> the paddle to take your pie out of the oven and see its Star Rating and traits.
+미터에 세 개의 표시를 한 후 패들을 <ui_accept_or_click> 사용하여 오븐에서 파이를 꺼내 별점과 특성을 확인하세요.
 
-Name|5 - Results
-ID|pieresult
-Text|This screen shows the pie that you crafted, unless you burned all of the ingredients - in which case you will get a message to say that the pie was ruined and the ingredients wasted.
+Name|5 - 결과물
+ID|파이 결과물
+Text|이 화면에는 재료를 모두 태우지 않은 한 여러분이 만든 파이가 표시됩니다. 이 경우 파이가 망가졌고 재료가 낭비되었다는 메시지가 표시됩니다.
 
-The centre rosette shows a picture of the completed pie; the number of pies created; and its Star Rating.  Banners to the left show the pie's traits.  These traits will be added to the pie's entry in the Recipe Book.
+중앙 로제트는 완성된 파이의 사진을 보여줍니다. 생성된 파이의 수; 그리고 별점. 왼쪽 배너는 파이의 특성을 보여줍니다. 이러한 특성은 레시피 북의 파이 항목에 추가됩니다.
 
-The Calculation button will provide more information on the pie's Star Rating - this is initially based on the average Star Rating of the ingredients used.  Two additional stars are available: for completing <link:pierolling>pastry rolling<link> perfectly; and for hitting all three green targets on the <link:piebake>baking meter<link>.
+계산 버튼은 파이의 별점에 대한 자세한 정보를 제공합니다. 이는 처음에 사용된 재료의 평균 별점을 기준으로 합니다. 두 개의 추가 별표를 사용할 수 있습니다: <link:pierolling>페이스트리 롤링<link>을 완벽하게 완료하려면; 그리고 <link:piebake>베이킹 미터<link>에서 세 개의 녹색 목표를 모두 맞추었습니다.
 
-Name|Puddings
-ID|pud
-Text|Puddings are sweet treats that are quite easy to make.  Bake them perfectly to boost their Star Rating by one.
+Name|푸딩
+ID|푸딩
+Text|푸딩은 만들기가 매우 쉬운 달콤한 간식입니다. 완벽하게 구워서 별점을 한 단계 높이세요.
 
-Name|1 - Ingredient Selection
-ID|pudinv
-Text|The Ingredient Selection screen appears after you've selected a recipe from the <link:recipe_book>book<link>.
+Name|1 - 재료 선택
+ID|재료 선택
+Text|재료 선택 화면은 메뉴에서 레시피를 선택한 후 나타납니다. <link:recipe_book>책<link>.
 
-Using <ui_accept_or_click> the Add Highest Rated button automatically selects each required ingredient from your inventory.  Each one will be at the highest available Star Rating. Add Lowest Rated does the opposite.
+<ui_accept_or_click> 을 사용하여 최고 등급 추가 버튼을 사용하면 인벤토리에서 필요한 각 재료가 자동으로 선택됩니다. 각각은 가장 높은 별 등급을 받게 됩니다. 최저 등급 추가는 그 반대입니다.
 
-Select <ui_accept_or_click> an ingredient to manually add it to the crafting box instead, selecting the desired Star Rating with <ui_alt_or_rightclick>.
+<ui_accept_or_click>재료를 선택하여 제작 상자에 수동으로 추가하고 , <ui_alt_or_rightclick> 으로 원하는 별 등급을 선택하세요.
 
-The completed recipe's Star Rating will be mainly based on the average rating of your ingredients.  <ui_alt_or_rightclick> on ingredients in the crafting box to remove them; you can then replace the ingredient with one of a different Star Rating.
+완성된 레시피의 별점은 주로 재료의 평균점수를 기준으로 결정됩니다. 제작 상자에 있는 재료를 <ui_alt_or_rightclick>하여 제거하세요. 그런 다음 재료를 다른 별 등급 중 하나로 대체할 수 있습니다.
 
-The Batch Crafting option will appear if you have successfully made puddings at least three times. This allows you to produce multiple items at once. Scroll to choose the number of ingredients to use - limited to the number you have or up to 10. Note that the number of items to be crafted might be higher than this; Mr Fairweather's items, skills and shop Perks can be used to help boost the yield.
+푸딩을 3번 이상 성공적으로 만들면 일괄 제작 옵션이 나타납니다. 이를 통해 한 번에 여러 품목을 생산할 수 있습니다. 스크롤하여 사용할 재료 수를 선택하세요. 보유한 수 또는 최대 10개로 제한됩니다. 제작할 아이템 수는 이보다 많을 수 있습니다. Mr Fairweather의 아이템, 기술 및 상점 특전을 사용하여 수확량을 높일 수 있습니다.
 
-Name|2 - Chopping
-ID|pudmake
-Text|The ingredients are on a shelf on the left of the screen. Select <ui_accept_or_click> one to move it to the Chopping Board. The order in which you select them doesn't matter.
+Name|2 - 썰기
+ID|푸딩 만들기
+Text|재료는 화면 왼쪽 선반에 있습니다. 도마로 이동하려면 <ui_accept_or_click> 항목을 선택하세요. 선택하는 순서는 중요하지 않습니다.
 
-The best knife for the job will appear. Use <ui_accept_or_click> it to chop the ingredients - finding the right rhythm can help you chop more efficiently. Once you've sliced sufficiently, the Chopping Board will tip up and allow you to scrape <ui_accept_or_click> the ingredients into the Pudding Dish. Repeat this until all ingredients are added.
+작업에 가장 적합한 칼이 나타납니다. 재료를 자르려면 <ui_accept_or_click>을 사용하세요. 올바른 리듬을 찾으면 더 효율적으로 자르는 데 도움이 됩니다. 충분히 자르고 나면 도마가 위로 올라가서 <ui_accept_or_click> 재료를 푸딩 접시에 긁어 넣을 수 있습니다. 모든 재료가 추가될 때까지 이를 반복합니다.
 
-Name|4 - Baking
-ID|pudbaking
-Text|Use <ui_accept_or_click> the paddle to slide your pudding into the oven to begin baking it.
+Name|4 - 굽기
+ID|푸딩 굽기
+Text|패들을 <ui_accept_or_click> 사용하여 푸딩을 오븐에 밀어 넣어 굽기를 시작하세요.
 
-Watch the Baking Meter on the right. As the pudding cooks, orange and green bars appear on the meter. Aim to stop <ui_accept_or_click> the meter on each of the green bars. But don't wait too long - they'll shrink as the pie starts to overcook, and once they disappear, your pie will be burned! The more accurate you are here, the better the rating of your pudding.  You'll see a gold banner after this stage if so: otherwise, a hint on silver.
+오른쪽의 베이킹 미터를 확인하세요. 푸딩이 요리되면서 미터기에 주황색과 녹색 막대가 나타납니다. 각 녹색 막대의 측정기를 중지하는 것을 목표로 <ui_accept_or_click>하세요. 하지만 너무 오래 기다리지 마세요. 파이가 너무 익히기 시작하면 줄어들고, 사라지면 파이가 타버릴 것입니다! 여기의 정보가 정확할수록 푸딩 평가가 더 좋아집니다. 그렇다면 이 단계 후에 금색 배너가 표시되고, 그렇지 않으면 은색 배너가 표시됩니다.
 
-Once you've made your three marks on the Meter, use <ui_accept_or_click> the paddle to take your pudding out of the oven and see its Star Rating and traits.
+미터에 세 개의 표시를 한 후 패들을 사용하여 <ui_accept_or_click> 푸딩을 오븐에서 꺼내 별점과 특성을 확인하세요.
 
-Name|5 - Results
-ID|pudresult
-Text|This screen shows the pudding that you crafted, unless you burned all of the ingredients - in which case you will get a message to say that the pudding was ruined and the ingredients wasted.
+Name|5 - 결과물
+ID|푸딩 결과물
+Text|이 화면에는 재료를 모두 태워버리지 않는 한 여러분이 만든 푸딩이 표시됩니다. 이 경우 푸딩이 망가졌고 재료가 낭비되었다는 메시지가 표시됩니다.
 
-The centre rosette shows a picture of the completed pudding; the number of puddings created; and its Star Rating.  Banners to the left show the pudding's traits.  These traits will be added to the pudding's entry in the Recipe Book.
+중앙 로제트는 완성된 푸딩의 사진을 보여줍니다. 생성된 푸딩의 수; 그리고 별점. 왼쪽 배너는 푸딩의 특성을 보여줍니다. 이러한 특성은 레시피북의 푸딩 항목에 추가됩니다.
 
-The Calculation button will provide more information on the pudding's Star Rating - this is initially based on the average Star Rating of the ingredients used.  An additional star is available for hitting all three green targets on the <link:pudbake>baking meter<link>.
+계산 버튼은 푸딩의 별점에 대한 자세한 정보를 제공합니다. 이는 처음에는 사용된 재료의 평균 별점을 기준으로 합니다. <link:pudbake>베이킹 미터<link>에서 세 개의 녹색 목표를 모두 달성하면 추가 별을 얻을 수 있습니다.
 
-Name|Bread and Sandwiches
-ID|bread
-Text|Breads and sandwiches allow you to encase delicious ingredients in an easy-to-carry baked casing.  They are quite simple to make and you can boost their ratings by cooking them perfectly.
+Name|빵 과 샌드위치
+ID|빵
+Text|빵과 샌드위치를 ​​사용하면 맛있는 재료를 휴대하기 쉬운 구운 케이스에 담을 수 있습니다. 만들기가 매우 간단하며 완벽하게 요리하면 평가를 높일 수 있습니다.
 
-Name|1 - Ingredient Selection
-ID|breadinv
-Text|The Ingredient Selection screen appears after you've selected a recipe from the <link:recipe_book>book<link>.  Bread-based meals require three ingredients for their toppings, but also need flour and eggs for their dough.
+Name|1 - 재료 선택
+ID|재료선택
+Text|재료 선택 화면은 메뉴에서 레시피를 선택한 후 나타납니다. <link:recipe_book>책<link>. 빵 기반 식사에는 토핑으로 세 가지 재료가 필요하지만 반죽에는 밀가루와 계란도 필요합니다.
 
-Using <ui_accept_or_click> the Add Highest Rated button automatically selects each required ingredient from your inventory.  Each one will be at the highest available Star Rating. Add Lowest Rated does the opposite.
+<ui_accept_or_click> 을 사용하여 최고 등급 추가 버튼을 사용하면 인벤토리에서 필요한 각 재료가 자동으로 선택됩니다. 각각은 가장 높은 별 등급을 받게 됩니다. 최저 등급 추가는 그 반대입니다.
 
-Select <ui_accept_or_click> an ingredient to manually add it to the crafting box instead, selecting the desired Star Rating with <ui_alt_or_rightclick>. Your selection will be ticked off the list and added to the food tray. It can be removed by selecting <ui_accept_or_click> it again.
+<ui_accept_or_click> 재료를 선택하여 제작 상자에 수동으로 추가하고 <ui_alt_or_rightclick>으로 원하는 별 등급을 선택하세요. 선택한 항목이 목록에서 제외되고 음식 트레이에 추가됩니다. 다시 <ui_accept_or_click>을 선택하여 제거할 수 있습니다.
 
-Higher quality ingredients (those with the most stars) will improve the quality of your bread, but they are more delicate and, therefore more difficult to cook to perfection. Choose wisely!
+더 높은 품질의 재료(별이 가장 많은 재료)는 빵의 품질을 향상시키지만 더 섬세하고 따라서 완벽하게 요리하기가 더 어렵습니다. 현명하게 선택하세요!
 
-Flour and eggs don't have rating variations, so just chuck 'em in.
+밀가루와 계란은 등급이 없으니 그냥 넣어주세요.
 
-Once you're happy with the selection in the tray, <ui_accept_or_click> the bread button at its base to start baking.
+트레이의 선택 항목에 만족하면 하단에 있는 빵 버튼을 <ui_accept_or_click>하여 베이킹을 시작하세요.
 
-The Batch Crafting option will appear if you have successfully made bread or sandwiches at least three times. This allows you to produce multiple items at once. Scroll to choose the number of ingredients, eggs and flour to use - limited to the number you have or up to 10. Note that the number of items to be crafted might be higher than this; Mr Fairweather's items, skills and shop Perks can be used to help boost the yield.
+빵이나 샌드위치를 ​​3번 이상 성공적으로 만들면 일괄 제작 옵션이 나타납니다. 이를 통해 한 번에 여러 품목을 생산할 수 있습니다. 스크롤하여 사용할 재료, 계란, 밀가루의 수를 선택하세요. 보유한 수 또는 최대 10개로 제한됩니다. 제작할 아이템 수는 이보다 많을 수 있습니다. Mr Fairweather의 아이템, 기술 및 상점 특전을 사용하여 수확량을 높일 수 있습니다.
 
-At this point, the eggs and flour will magically combine to make dough.  You'll need to <link:breadbaking>bake the bread<link> first if making a sandwich - otherwise you'll <link:breadmake>chop toppings<link> first.
+이 시점에서 계란과 밀가루가 마술처럼 결합하여 반죽을 만듭니다.  샌드위치를 ​​만들려면 먼저 <link:breadbaking>빵을 구워야<link> 합니다. 그렇지 않으면 먼저 <link:breadmake>토핑을 다집니다<link>.
 
-Name|2 - Bread Baking
-ID|breadbaking
-Text|Use <ui_accept_or_click> the paddle to slide your bread into the oven to begin baking it.
+Name|2 - 빵 굽기
+ID|빵 굽기
+Text|패들을 <ui_accept_or_click> 사용하여 빵을 오븐에 밀어 넣어 굽기를 시작하세요.
 
-Watch the Baking Meter on the right. As the bread cooks, orange and green bars appear on the meter. Aim to stop <ui_accept_or_click> the meter on each of the green bars. But don't wait too long - they'll shrink as the bread starts to overcook, and once they disappear, your bread will be burned! The more accurate you are here, the better the rating of your bread.  You'll see a gold banner after this stage if so: otherwise, a hint on silver.
+오른쪽의 베이킹 미터를 확인하세요. 빵이 요리되는 동안 미터기에 주황색과 녹색 막대가 나타납니다. 각 녹색 막대의 측정기를 중지하는 것을 목표로 <ui_accept_or_click>하세요. 하지만 너무 오래 기다리지 마세요. 빵이 너무 익히기 시작하면 줄어들고, 사라지면 빵이 타버릴 것입니다! 여기에 대한 정보가 정확할수록 빵 평가가 더 좋아집니다. 그렇다면 이 단계 후에 금색 배너가 표시되고, 그렇지 않으면 은색 배너가 표시됩니다.
 
-Once you've made your three marks on the Meter, use <ui_accept_or_click> the paddle to take your bread out of the oven.
+미터에 세 개의 표시를 한 후 패들을 <ui_accept_or_click> 사용하여 오븐에서 빵을 꺼냅니다.
 
-Name|3 - Chopping
-ID|breadmake
-Text|The ingredients are on a shelf on the left of the screen. Select <ui_accept_or_click> one to move it to the Chopping Board. The order in which you select them doesn't matter.
+Name|3 - 썰기
+ID|빵 만들기
+Text|재료는 화면 왼쪽 선반에 있습니다. 도마로 이동하려면 <ui_accept_or_click> 항목을 선택하세요. 선택하는 순서는 중요하지 않습니다.
 
-The best knife for the job will appear. Use <ui_accept_or_click> it to chop the ingredients - finding the right rhythm can help you chop more efficiently. Once you've sliced sufficiently, the Chopping Board will tip up and allow you to scrape <ui_accept_or_click> the ingredients into the Bread Tin. Repeat this until all ingredients are added.
+작업에 가장 적합한 칼이 나타납니다. 재료를 자르려면 <ui_accept_or_click>을 사용하세요. 올바른 리듬을 찾으면 더 효율적으로 자르는 데 도움이 됩니다. 충분히 자르고 나면 도마가 위로 올라가서 <ui_accept_or_click> 재료를 빵통에 긁어낼 수 있습니다. 모든 재료가 추가될 때까지 이를 반복합니다.
 
-Name|5 - Baking
-ID|sandbaking
-Text|Use <ui_accept_or_click> the paddle to slide your loaf or sandwich into the oven to begin baking it.
+Name|5 - 굽기
+ID|샌드위치 굽기
+Text|패들을 사용하여 <ui_accept_or_click> 빵이나 샌드위치를 ​​오븐에 밀어 넣어 굽기를 시작하세요.
 
-Watch the Baking Meter on the right. As the bread cooks, orange and green bars appear on the meter. Aim to stop <ui_accept_or_click> the meter on each of the green bars. But don't wait too long - they'll shrink as the ingredients starts to overcook, and once they disappear, your bread or sandwich will be burned! The more accurate you are here, the better the rating of your finished product.  You'll see a gold banner after this stage if so: otherwise, a hint on silver.
+오른쪽의 베이킹 미터를 확인하세요. 빵이 요리되는 동안 미터기에 주황색과 녹색 막대가 나타납니다. 각 녹색 막대의 측정기를 중지하는 것을 목표로 <ui_accept_or_click>하세요. 하지만 너무 오래 기다리지 마세요. 재료가 너무 익히기 시작하면 재료가 줄어들고, 일단 사라지면 빵이나 샌드위치가 타버릴 것입니다! 여기에서 정보가 정확할수록 완제품의 평가가 더 좋아집니다. 그렇다면 이 단계 후에 금색 배너가 표시되고, 그렇지 않으면 은색 배너가 표시됩니다.
 
-Once you've made your three marks on the Meter, use <ui_accept_or_click> the paddle to take your food out of the oven and see its Star Rating and traits.
+미터에 세 개의 표시를 한 후 패들을 <ui_accept_or_click> 사용하여 오븐에서 음식을 꺼내 별점과 특성을 확인하세요.
 
-Name|6 - Results
-ID|breadresult
-Text|This screen shows the food that you crafted, unless you burned all of the ingredients - in which case you will get a message to say that the food was ruined and the ingredients wasted.
+Name|6 - 결과물
+ID|빵 결과물
+Text|이 화면에는 재료를 모두 태우지 않는 한 여러분이 만든 음식이 표시됩니다. 이 경우 음식이 망가졌고 재료가 낭비되었다는 메시지가 표시됩니다.
 
-The centre rosette shows a picture of the completed item; the number of loaves or sandwiches created; and its Star Rating.  Banners to the left show the item's traits.  These traits will be added to the item's entry in the Recipe Book.
+중앙 로제트는 완성된 항목의 사진을 보여줍니다. 만들어진 빵이나 샌드위치의 수; 그리고 별점. 왼쪽 배너는 아이템의 특성을 보여줍니다. 이러한 특성은 레시피 북의 항목 항목에 추가됩니다.
 
-The Calculation button will provide more information on the item's Star Rating - this is initially based on the average Star Rating of the ingredients used.  An additional star is available for hitting all three green targets on the <link:sandbaking>baking meter<link>.
+계산 버튼은 아이템의 별점에 대한 자세한 정보를 제공합니다. 이는 처음에는 사용된 재료의 평균 별점을 기준으로 합니다. <link:sandbaking>베이킹 미터<link>에서 세 개의 녹색 목표를 모두 달성하면 추가 별을 얻을 수 있습니다.
