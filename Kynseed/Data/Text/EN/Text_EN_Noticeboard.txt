@@ -18,9 +18,9 @@ Noticeboard_ClearTotem_Desc |= {LEVELNAME}에서 토템을 파괴하기.
 Noticeboard_ClearTotem_Favour |= {LEVELNAME}에 있는 집 근처에서 홉들이 사악한 토템을 만드는 것을 본 적이 있는데, 그걸 조사해서 막아줄 수 있을까?
 
 Noticeboard_LostItemBasic_Name |= 하나를 떨어뜨렸어!
-Noticeboard_LostItemBasic_Pinned |= {FULLNAME}이(가) {LEVELNAME}에서 {ITEMTAG}을(를) 분실했습니다.
+Noticeboard_LostItemBasic_Pinned |= {FULLNAME}(이)가 {LEVELNAME}에서 {ITEMTAG}을(를) 분실했습니다.
 Noticeboard_LostItemBasic_Desc |= 제 분실물을 계속 눈여겨봐 주세요.\n
-Noticeboard_LostItemBasic_Desc |= {FULLNAME}이(가) {LEVELNAME}에서 {ITEMTAG}을(를) 분실했습니다.
+Noticeboard_LostItemBasic_Desc |= {FULLNAME}(이)가 {LEVELNAME}에서 {ITEMTAG}을(를) 분실했습니다.
 Noticeboard_LostItemBasic_Favour |= 좀 찾아봐주겠어요? 내 {ITEMTAG}을(를) 잃어버린 것 같아요. 내가 {LEVELNAME}에 있었을 때 사라진 것을 발견했어요. 감사해요.
 
 Noticeboard_CookWantedBasic_Name |= 요리할 수 있어? 요리할 거야?
@@ -29,15 +29,15 @@ Noticeboard_CookWantedBasic_Desc |= 견본에 직접 만든 음식이 필요해.
 Noticeboard_CookWantedBasic_Favour |= 네가 요리에 관심이 많다고 들었어. 나에게 뭔가 만들어 줄 수 있을까?
 
 Noticeboard_ItemWantedBasic_Name |= 아이템 구함
-Noticeboard_ItemWantedBasic_Favour |= 도와줄래? {ITEMNAME}이(가) 정말 필요해.
+Noticeboard_ItemWantedBasic_Favour |= 도와줄래? {ITEMNAME}(이)가 정말 필요해.
 
 Noticeboard_BigRequestBasic_Name |= 방해받았어!
 Noticeboard_BigRequestBasic_Desc |= 아이템 묶음이 필요해. 적절한 보상을 줄게!\n{INTERNAL}
-Noticeboard_BigRequestBasic_Favour |= 너무 정신이 없어! 물건이 많이 필요한데 그걸 모을 시간이 없어. 나를 도와주실 수 있어? 잘 갚을게!
+Noticeboard_BigRequestBasic_Favour |= 너무 정신이 없어! 물건이 많이 필요한데 그걸 모을 시간이 없어. 나를 도와줄 수 있어? 잘 갚을게!
 
 Noticeboard_WinterFamine_Name |= 겨울철 필요 물품
 Noticeboard_WinterFamine_Desc |= 겨울철 식료품 저장고에 필요한 품목이야.\n{INTERNAL}
-Noticeboard_WinterFamine_Favour |= 겨울이 점점 더 혹독해지고 있어. 비축해야겠지. 여분의 {ITEMNAME}이(가) 있다면 기꺼이 구입할게.
+Noticeboard_WinterFamine_Favour |= 겨울이 점점 더 혹독해지고 있어. 비축해야겠지. 여분의 {ITEMNAME}(이)가 있다면 기꺼이 구입할게.
 
 Noticeboard_OreRush_Name |= 선택하기
 Noticeboard_OreRush_Desc |= 광석이 필요해. 좋은 가격을 지불할게.\n{INTERNAL}
@@ -171,7 +171,7 @@ Noticeboard_GiveTraitRequest1_Name |= {FULLNAME}에게 {TRAITNAME} 주기
 Noticeboard_GiveTraitRequest1_Pinned |= {TRAITNAME} 특성이 있는 아이템을 {FULLNAME}에게 선물하기
 Noticeboard_GiveTraitRequest1_ShortDesc |= {TRAITNAME} 아이템을 선물하기
 Noticeboard_GiveTraitRequest1_Desc |= {TRAITNAME} 특성이 있는 아이템을 {FULLNAME}에게 선물하기.
-Noticeboard_GiveTraitRequest1_Favour |= 누군가에게 약간 짜증이 나. 그 사람에게 {TRAITNAME}이(가) 있으면 정말 좋을 것 같아. 하지만 나는 너무 겁이 많아서 할 수 없을 것 같아.
+Noticeboard_GiveTraitRequest1_Favour |= 누군가에게 약간 짜증이 나. 그 사람에게 {TRAITNAME}(이)가 있으면 정말 좋을 것 같아. 하지만 나는 너무 겁이 많아서 할 수 없을 것 같아.
 
 Noticeboard_GiveTraitRequest3_Name |= {TRAITNAME} 주기
 Noticeboard_GiveTraitRequest3_Pinned |= 세 명에게 {TRAITNAME} 주기
@@ -238,7 +238,7 @@ Noticeboard_CommonFishRequest_S_ShortDesc |= {ITEMTAG} 배달하기
 Noticeboard_CommonFishRequest_S_Desc |= 평범한 물고기 한 마리만 잡아줄 수 있어\n
 Noticeboard_CommonFishRequest_S_Desc |= {FULLNAME}에게 {ITEMTAG} 전달.
 Noticeboard_CommonFishRequest_S_Favour |= 내 낚시 실력은 바로 강 아래로 떨어졌어. 문자 그대로. 막대를 떨어뜨렸더니 둥둥 떠다니더라.
-Noticeboard_CommonFishRequest_S_Favour |= 어떻게든 기분이 나아지려면 {ITEMTAG}이(가) 필요해.
+Noticeboard_CommonFishRequest_S_Favour |= 어떻게든 기분이 나아지려면 {ITEMTAG}(이)가 필요해.
 
 Noticeboard_RareFishRequest_Name |= 미끄러운 도전!
 Noticeboard_RareFishRequest_Pinned |= {FULLNAME}에게 희귀한 물고기 배달하기
@@ -266,7 +266,7 @@ Noticeboard_FaeFishRequest_S_Pinned |= {FULLNAME}에게 {ITEMTAG} 전달
 Noticeboard_FaeFishRequest_S_ShortDesc |= {ITEMTAG} 배달하기
 Noticeboard_FaeFishRequest_S_Desc |= 퀼의 강과 연못에서는 이 물고기를 찾을 수 없습니다.\n
 Noticeboard_FaeFishRequest_S_Desc |= {FULLNAME}에게 {ITEMTAG} 전달.
-Noticeboard_FaeFishRequest_S_Favour |= 이유는 묻지말고 페이 물고기에 대해 내기를 했는데 {ITEMTAG}이(가) 필요해. 좀 구할 수 있다면 정말 재밌을 것 같아. 도와줄래?
+Noticeboard_FaeFishRequest_S_Favour |= 이유는 묻지말고 페이 물고기에 대해 내기를 했는데 {ITEMTAG}(이)가 필요해. 좀 구할 수 있다면 정말 재밌을 것 같아. 도와줄래?
 
 Noticeboard_CommonFlowerRequest_Name |= 신선한 꽃 필요
 Noticeboard_CommonFlowerRequest_Pinned |= {FULLNAME}에게 일반적인 꽃 배달하기
@@ -280,7 +280,7 @@ Noticeboard_CommonFlowerRequest_S_Pinned |= {FULLNAME}에게 {ITEMTAG} 전달
 Noticeboard_CommonFlowerRequest_S_ShortDesc |= {ITEMTAG} 배달하기
 Noticeboard_CommonFlowerRequest_S_Desc |= 신선한 꽃을 받고 싶어\n
 Noticeboard_CommonFlowerRequest_S_Desc |= {FULLNAME}에게 {ITEMTAG} 전달.
-Noticeboard_CommonFlowerRequest_S_Favour |= 이 멋진 장미를 누가 살까? 이런 광경은 본 적이 없어! 글쎄, 자랑할 만한 {ITEMTAG}이(가) 있으면 정말 재미있을 것 같아! 도와줘!
+Noticeboard_CommonFlowerRequest_S_Favour |= 이 멋진 장미를 누가 살까? 이런 광경은 본 적이 없어! 글쎄, 자랑할 만한 {ITEMTAG}(이)가 있으면 정말 재미있을 것 같아! 도와줘!
 
 Noticeboard_RareFlowerRequest_Name |= 희귀한 꽃 필요
 Noticeboard_RareFlowerRequest_Pinned |= {FULLNAME}에게 희귀한 꽃 배달하기

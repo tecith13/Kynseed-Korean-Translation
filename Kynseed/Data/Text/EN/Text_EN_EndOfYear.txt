@@ -1,9 +1,9 @@
 END_OF_YEAR_BIRTHS |= 출생:
 END_OF_YEAR_BIRTH |= •<BabyName>은(는) <Parent1Name>와 <Parent2Name>사이에서 태어났습니다.
 END_OF_YEAR_NEWCOMERS |= 신규 이민자:
-END_OF_YEAR_NEWCOMER |= •<NPCName>이(가) 퀼에 왔습니다.
+END_OF_YEAR_NEWCOMER |= •<NPCName>(이)가 퀼에 왔습니다.
 END_OF_YEAR_DEATHS |= 사망자:
-END_OF_YEAR_DEATH |= •<NPCName>이(가) <DeathAge>세에 세상을 떠났습니다.
+END_OF_YEAR_DEATH |= •<NPCName>(이)가 <DeathAge>세에 세상을 떠났습니다.
 END_OF_YEAR_DEATH_SUMMERTIDE |= •<NPCName>가 서머타이드 헤럴드로 선정되었습니다.
 END_OF_YEAR_MARRIAGES |= 결혼:
-END_OF_YEAR_MARRIAGE |= •<NPC1Name>와 <NPC2Name>이(가) 결혼했습니다.
+END_OF_YEAR_MARRIAGE |= •<NPC1Name>와 <NPC2Name>(이)가 결혼했습니다.

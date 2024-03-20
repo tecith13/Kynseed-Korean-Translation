@@ -153,12 +153,12 @@ GEN_NPC_STORY_BLACKSMITHCOUNTER_END_QUIRKY_2 |= 완벽하게 작동했습니다,
 
 GEN_NPC_STORY_BLACKSMITHCOUNTER_START_PIOUS_1 |= 당신과 조곤 스승님 같은 분들의 모험 이야기를 들으니, 이제 그만 듣고만 있지 않고 제가 직접 이야기를 들려드리고 싶어요. 저는 청중을 매료시킬 수 있고, 수천 년 동안 모닥불 주위에서 이야기를 들려주는 사람이 되고 싶어요. 그러니 이제 그만 팔겠습니다. 대장간을 반값에 살 수 있을까요? 이렇게 밀어주시면 정말 감사하겠습니다.
 GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_PIOUS_1 |= 대장간을 반값에 구입하세요.
-GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_PIOUS_1 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}이(가) 소유한 대장장이를 구입합니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_PIOUS_1 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}(이)가 소유한 대장장이를 구입합니다.
 GEN_NPC_STORY_BLACKSMITHCOUNTER_END_PIOUS_1 |= 감사합니다! 이제 역사의 페이지와 언어에 제 이름을 남기고 모험을 향해 앞으로 나아가세요!
 
 GEN_NPC_STORY_BLACKSMITHCOUNTER_START_PIOUS_2 |= 당신과 조곤 스승님 같은 분들의 모험 이야기를 들으니, 이제 그만 듣고만 있지 않고 제가 직접 이야기를 들려드리고 싶어요. 저는 청중을 매료시킬 수 있고, 수천 년 동안 모닥불 주위에서 이야기를 들려주는 사람이 되고 싶어요. 그러니 이제 그만 팔겠습니다. 대장간을 반값에 살 수 있을까요? 이렇게 밀어주시면 정말 감사하겠습니다.
 GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_NAME_PIOUS_2 |= 대장간을 반값에 구입하세요.
-GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_PIOUS_2 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}이(가) 소유한 대장장이를 구입합니다.
+GEN_NPC_STORY_BLACKSMITHCOUNTER_TASK_DESC_PIOUS_2 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}(이)가 소유한 대장장이를 구입합니다.
 GEN_NPC_STORY_BLACKSMITHCOUNTER_END_PIOUS_2 |= 감사합니다! 이제 역사의 페이지와 언어에 제 이름을 남기고 모험을 향해 앞으로 나아가세요!
 
 GEN_NPC_STORY_CHEMISTCOUNTER_INTRO_1_GENERIC |= 안녕하세요. 만나서 반가워요. 저는 약재상 주인입니다. 양조는 제 사업이고 물약은 제 열정입니다.
@@ -209,7 +209,7 @@ GEN_NPC_STORY_CHEMISTCOUNTER_END_JOVIAL_1 |= 선물해줘서 고마워요. 정�
 
 GEN_NPC_STORY_CHEMISTCOUNTER_START_JOVIAL_2 |= 저는 아까 큰 깨달음을 얻었습니다. 저는 꽃을 너무나도 사랑하지만 평생 꽃을 자르고 부수며 살아왔어요. 어떻게 그럴 수 있을까요? 이제는 꽃을 파괴하는 대신 꽃을 가꾸기 시작해야 할 때입니다. 제 약초를 사주시면 정말 도움이 될 거예요. 50% 할인된 가격에 구매하실 수 있습니다. 어떠세요?
 GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_JOVIAL_2 |= 약재상 반값에 구입하세요.
-GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_JOVIAL_2 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}이(가) 소유한 약재상을 구입합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_JOVIAL_2 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}(이)가 소유한 약재상을 구입합니다.
 GEN_NPC_STORY_CHEMISTCOUNTER_END_JOVIAL_2 |= 진정한 친구. 새로운 기업을 즐겨보세요. 스타 상점 기업! 이제 과감히 도전하여 성공으로 이끄세요!
 
 GEN_NPC_STORY_CHEMISTCOUNTER_START_BOASTFUL_1 |= 제 친구인 마녀사냥꾼을 만나서 몇 가지 일을 해보셔야 합니다. 보통 홈스테드 선술집에서 그를 만날 수 있어요. 그는 약간 무뚝뚝하지만 확실히 자신의 일에 대해 잘 알고 있어요. 그와 조곤이 한판 붙는다고 상상해 보세요! 어쨌든, 그를 만나러 갔다가 다시 오세요.
@@ -234,12 +234,12 @@ GEN_NPC_STORY_CHEMISTCOUNTER_END_QUIRKY_2 |= 당신은 꿈을 꾸는 사람입�
 
 GEN_NPC_STORY_CHEMISTCOUNTER_START_PIOUS_1 |= 약 가방을 싸서 더 경건한 삶을 살아야 할 때가 왔다고 느낍니다. 자연 속에서 더 많은 시간을 보내며 우리 인생의 멋진 부지에 대해 생각해야겠어요. 원하신다면 반값에 사업을 넘겨드릴 수도 있어요. 안타깝게도 저에게서 구입하는 것이 당신의 할 일 목록에서 이것을 체크 할 수있는 유일한 방법이므로 어떻게 생각하십니까, 친애하는 친구?
 GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_PIOUS_1 |= 약재상을 반값에 구매합니다.
-GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_PIOUS_1 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}이(가) 소유한 약재상을 구입합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_PIOUS_1 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}(이)가 소유한 약재상을 구입합니다.
 GEN_NPC_STORY_CHEMISTCOUNTER_END_PIOUS_1 |= 감사합니다. 아, 경배와 성찰의 삶이군. 내 사랑, 당신에겐 기미 크림을 섞어 바르는 삶이죠. 그래도 언제든 팔 수 있겠지!
 
 GEN_NPC_STORY_CHEMISTCOUNTER_START_PIOUS_2 |= 약 가방을 싸서 더 경건한 삶을 살아야 할 때가 왔다고 느낍니다. 자연 속에서 더 많은 시간을 보내며 우리 인생의 멋진 부지에 대해 생각해야겠어요. 원하신다면 이 사업을 반값에 넘겨드릴 수도 있어요. 안타깝게도 저에게서 구입하는 것이 당신의 할 일 목록에서 이것을 체크 할 수있는 유일한 방법이므로 어떻게 생각하십니까, 친애하는 친구?
 GEN_NPC_STORY_CHEMISTCOUNTER_TASK_NAME_PIOUS_2 |= 약재상을 반값에 구입하세요.
-GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_PIOUS_2 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}이(가) 소유한 약재상을 구입합니다.
+GEN_NPC_STORY_CHEMISTCOUNTER_TASK_DESC_PIOUS_2 |= 상점 카운터의 빨간색 장부와 상호작용하고 구매에 동의하여 {FULLNAME}(이)가 소유한 약재상을 구입합니다.
 GEN_NPC_STORY_CHEMISTCOUNTER_END_PIOUS_2 |= 감사합니다. 아, 경배와 성찰의 삶이군. 내 사랑, 당신에겐 기미 크림을 섞어 바르는 삶이죠. 그래도 언제든 팔 수 있겠지!
 
 GEN_NPC_STORY_VALE_INTRO_1_GENERIC |= 안녕하세요, 만나서 반가워요. 여기 멋지지 않나요? 활기차고 다채롭네요. 공기가 상쾌하네요.
