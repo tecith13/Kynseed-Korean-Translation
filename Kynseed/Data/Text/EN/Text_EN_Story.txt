@@ -320,8 +320,8 @@ Ghost3PH |= The creature. She is a foul and evil being. Be strong! Stay true to 
 Ghost3PH |= Good luck, friend.
 
 MoonAwaitingMeleeComplete |= Greetings. I am Moon, the Master Archer. My comrade-in-arms, Jogon, said you would come. You should probably go and complete his training first. I will be here, awaiting your next step.
-형제Day6 |= 오늘은 특별한 날이야. 빌 삼촌의 생일이거든. 가족 소풍을 가기로 했어! 정말 신나네!
-형제Day6 |= 우리는 뻐꾸기 숲으로 갈거야. 정오에 그곳에서 만나!
+SiblingDay6 |= 오늘은 특별한 날이야. 빌 삼촌의 생일이거든. 가족 소풍을 가기로 했어! 정말 신나네!
+SiblingDay6 |= 우리는 뻐꾸기 숲으로 갈거야. 정오에 그곳에서 만나!
 UncleBillMissedPicnic |= 오 내 생일 피크닉에 참석하지 못해서 조금 아쉽지만 바빳다면 이해하마. 함께 했다면 정말 좋았을 텐데 말이야.
 SiblingMissedPicnic |= 어디 있었어? 놓쳤잖아! 지도책으로 너의 위치를 찾을 수 없을 수도 있지. 빌 삼촌이 슬퍼하셨지만 어쨌든 우리는 너 없이도 즐거운 시간을 보냈어. 가끔은 다른 사람을 생각해야 해. 아니면 더 좋은 민들레를 구하거나!
 

@@ -1,6 +1,6 @@
-형제House |= 형제자매 만나기
-형제HouseNamed |= 형제자매 만나기, <VAR1>
-형제HouseDescription |= 멜로우필드의 아웃레인 북쪽 스톤크라운으로 가서 형제자매의 집을 찾으세요.
+SiblingHouse |= 형제자매 만나기
+SiblingHouseNamed |= 형제자매 만나기, <VAR1>
+SiblingHouseDescription |= 멜로우필드의 아웃레인 북쪽 스톤크라운으로 가서 형제자매의 집을 찾으세요.
 
 AnnualCompetition_ThemePopup |= 올해의 <VAR1> 테마는 <VAR2>입니다.
 AnnualCompetition_Theme_MADE_BREAD |= 빵

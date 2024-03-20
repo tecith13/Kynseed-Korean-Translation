@@ -9,7 +9,7 @@ CHICKEN_RACING |= 닭 경주
 CHICKEN_AUCTION |= 닭 경매
 BadTokenTitle |= 썩은 견과류 발견
 BadTokenDescription |= 당신의 가족 중에 나쁜 씨앗이 있었습니다. 아이들이 행복하도록 노력하세요.
-StaminaTokenTitle |= 스태미나 너트 발견
+StaminaTokenTitle |= 체력 너트 발견
 StaminaTokenDescription |= 전투 중 체력 오브가 1 증가합니다.
 CowMoodTooLowForMilk |= 젖소의 기분이 너무 낮아 우유를 줄 수 없습니다.
 
