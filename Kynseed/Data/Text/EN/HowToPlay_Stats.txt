@@ -1,299 +1,299 @@
-Title|Stats, Traits & Talents
-Name|Stats
+Title|능력치, 특성 & 재능
+Name|능력치
 Text|
-Accuracy:↩️
-•Player: Combat Critical Hit chance.↩️
-•Player: Helps with Blacksmith crafting.↩️
-•NPC: Higher quality items when crafting in jobs.
-Barter:↩️
-•Player: Helps with bartering.↩️
-•NPC: Chance to get a better deal.
-Charm:↩️
-•Player: FP gains.↩️
-•Player: Offset REP losses.↩️
-•NPC: Reduce REP drops when working.
-Constitution:↩️
-•Player: Combat resistance to some enemy attacks.↩️
-•Player: Helps with Apothecary crafting.↩️
-•NPC: Chance of crafting higher quality cures.
-Intelligence:↩️
-•Player: Increases sandbox XP gain.↩️
-•Player: Increases weapon XP gain.↩️
-•Player: Helps with Apothecary crafting.↩️
-•NPC: Increases XP gain from family orders.↩️
-•NPC: Work XP gain.↩️
-•NPC: Apothecary cure improvement chance.
-Speed:↩️
-•Player: Movement speed.↩️
-•Player: Increase combat parry window.↩️
-•NPC: Movement speed.↩️
-•NPC: Less time taken to serve customers.
-Stamina:↩️
-•Player: Combat Stamina regeneration speed.↩️
-•NPC: Reduce energy drain while working.
-Strength:↩️
-•Player: Combat damage modifier.↩️
-•Player: Amount of Blacksmith anvil hits.↩️
-•NPC: Blacksmith crafting improvement chance.
-Toughness:↩️
-•Player: Reduces damage taken from blocked enemy attacks.↩️
-•NPC: Helps negate damage in Gathering combat.
-Virility:↩️
-•Player: Increases your chances to have a baby.↩️
-•NPC: Ability to conceive and perform.
-ID|stats
+명중:↩️
+•플레이어: 전투 치명타 확률.↩️
+•플레이어: 대장장이 제작을 도와줍니다.↩️
+•NPC: 작업에서 제작할 때 더 높은 품질의 아이템입니다.
+물물교환:↩️
+•플레이어: 물물교환을 도와줍니다.↩️
+•NPC: 더 나은 거래를 할 수 있는 기회입니다.
+매력:↩️
+•플레이어: FP 획득.↩️
+•플레이어: REP 손실을 상쇄합니다.↩️
+•NPC: 작업 시 REP 드롭을 줄입니다.
+건강:↩️
+•플레이어: 일부 적의 공격에 대한 저항력을 발휘합니다.↩️
+•플레이어: 약종상 제작을 도와줍니다.↩️
+•NPC: 더 높은 품질의 치료법을 제작할 확률.
+지능:↩️
+•플레이어: 샌드박스 XP 획득량이 늘어납니다.↩️
+•플레이어: 무기 XP 획득량이 증가합니다.↩️
+•플레이어: 약종상 제작을 도와줍니다.↩️
+•NPC: 가족 명령으로 얻는 XP가 증가합니다.↩️
+•NPC: 작업 XP 획득.↩️
+•NPC: 약사 치료 개선 확률.
+속도:↩️
+•플레이어: 이동 속도.↩️
+•플레이어: 전투 패리 창을 늘립니다.↩️
+•NPC : 이동속도↩️
+•NPC: 고객 서비스에 소요되는 시간이 단축됩니다.
+체력:↩️
+•플레이어: 전투 스태미나 회복 속도.↩️
+•NPC: 작업 중 에너지 소모를 줄입니다.
+힘:↩️
+•플레이어: 전투 피해 수정자.↩️
+•플레이어: 대장장이 모루 적중 횟수.↩️
+•NPC: 대장장이 제작 향상 확률.
+인성:↩️
+•플레이어: 막은 적의 공격으로 인해 받는 피해가 감소합니다.↩️
+•NPC: 집결 전투에서 피해를 무효화하는 데 도움이 됩니다.
+정력:↩️
+•플레이어: 아기를 가질 확률이 높아집니다.↩️
+•NPC: 임신 및 수행 능력.
+ID|능력치
 
 
-Name|Traits
+Name|특성
 Text|<trait:Stamina>:↩️
-•Player: In Combat, the player's Stamina orbs will refill more quickly. ↩️
-•NPC: They have reduced Energy draining whilst they are working.
+•플레이어: 전투에서 플레이어의 스태미나 오브가 더 빨리 채워집니다. ↩️
+•NPC: 작업하는 동안 에너지 소모가 감소했습니다.
 <trait:Laziness>:↩️
-•Player: In Combat, the player's Stamina orbs will refill more slowly.↩️
-•NPC: Increases Energy draining whilst they are working.
+•플레이어: 전투에서 플레이어의 스태미나 오브는 더 천천히 채워집니다.↩️
+•NPC: 작업하는 동안 에너지 소모가 증가합니다.
 <trait:Intelligence>:↩️
-•Player: Increases EXP gains and helps your Apothecary crafting prowess.↩️
-•NPC: Increases the quality of Apothecary cures they make and also their ability to learn jobs.
+•플레이어: 경험치 획득량이 증가하고 약제사 제작 능력에 도움이 됩니다.↩️
+•NPC: 약제사 치료의 품질과 직업 학습 능력이 향상됩니다.
 <trait:Stupidity>:↩️
-•Player: Decreases EXP gains and reduces your Apothecary crafting prowess.↩️
-•NPC: Decreases the quality of Apothecary cures they make and also their ability to learn jobs.
+•플레이어: 경험치 획득량이 감소하고 약제사 제작 능력이 감소합니다.↩️
+•NPC: 약제사 치료의 품질과 직업 학습 능력이 감소합니다.
 <trait:Strength>:↩️
-•Player: Makes anvil strikes at the blacksmith a little easier.↩️
-•NPC: Increases their chance to make better quality blacksmithing items.
+•플레이어: 대장장이를 모루로 공격하기가 조금 더 쉬워졌습니다.↩️
+•NPC: 더 좋은 품질의 대장간 아이템을 만들 확률이 늘어납니다.
 <trait:Weakness>:↩️
-•Player: Makes anvil strikes at the blacksmith a little harder.↩️
-•NPC: Decreases their chance to make better quality blacksmithing items.
+•플레이어: 대장장이의 모루 타격 범위가 조금 더 어려워 집니다.↩️
+•NPC: 더 좋은 품질의 대장간 아이템을 만들 확률이 감소합니다.
 <trait:Barter>:↩️
-•Player: Increases your chance to make a better barter deal.↩️
-•NPC: Increases their chance to make a better barter deal.
+•플레이어: 더 나은 물물교환 거래를 성사시킬 확률이 증가합니다.️↩️
+•NPC: 더 나은 물물교환 거래를 할 확률이 높아집니다.
 <trait:Weakwilled>:↩️
-•Player: Decreases your chance to make a better barter deal.↩️
-•NPC: Decreases their chance to make a better barter deal.
+•플레이어: 더 나은 물물교환 거래를 할 확률이 감소합니다.↩️
+•NPC: 더 나은 물물교환 거래를 할 확률이 감소합니다.
 <trait:Charm>:↩️
-•Player: Each + increases Friendship Point gains and reduces Reputation falls.↩️
-•NPC: Reduces falls in reputation.
+•플레이어: +마다 우정 포인트 획득량이 증가하고 평판 하락률이 감소합니다.↩️
+•NPC: 평판 하락을 감소시킵니다.
 <trait:Repel>:↩️
-•Player: Each + decreases Friendship Point gains and increases Reputation falls.↩️
-•NPC: Increases falls in reputation.
+•플레이어: +마다 우정 포인트 획득량이 감소하고 평판 하락량이 증가합니다.↩️
+•NPC: 평판 하락폭이 증가합니다.
 <trait:Accuracy>:↩️
-•Player: Makes blacksmithing a little easier.↩️
-•NPC: Increases their chance to make better quality blacksmithing items.
+•플레이어: 대장장이를 좀 더 쉽게 만들어줍니다.↩️
+•NPC: 더 좋은 품질의 대장간 아이템을 만들 확률이 늘어납니다.
 <trait:Clumsiness>:↩️
-•Player: Makes blacksmithing a little harder.↩️
-•NPC: Decreases their chance to make better quality blacksmithing items.
+•플레이어: 대장장이를 조금 더 어렵게 만듭니다.↩️
+•NPC: 더 좋은 품질의 대장간 아이템을 만들 확률이 감소합니다.
 <trait:Constitution>:↩️
-•Player: Gives you more time crafting cures and helps reduce combat status effects.↩️
-•NPC: Increases their chance to make better quality cures.
+•플레이어: 치료법을 만드는 데 더 많은 시간을 주고 전투 상태 효과를 줄이는 데 도움이 됩니다.↩️
+•NPC: 더 나은 품질의 치료법을 만들 확률이 높아집니다.
 <trait:Squeamish>:↩️
-•Player: Gives you less time crafting cures and increases combat status effects.↩️
-•NPC: Decreases their chance to make better quality cures.
+•플레이어: 치료제 제작 시간을 단축하고 전투 상태 효과를 높입니다.↩️
+•NPC: 더 나은 품질의 치료법을 만들 확률이 감소합니다.
 <trait:Toughness>:↩️
-•Player: Take less damage when you block in combat.↩️
-•NPC: Family members take less damage when they block in combat.
+•플레이어: 전투에서 방어할 때 받는 피해가 줄어듭니다.↩️
+•NPC: 가족 구성원이 전투에서 방어할 때 피해를 덜 받습니다.
 <trait:Meek>:↩️
-•Player: Take more damage when you block in combat.↩️
-•NPC: Family members take more damage when they block in combat.
+•플레이어: 전투에서 방어하면 더 많은 피해를 입습니다.↩️
+•NPC: 가족 구성원이 전투에서 방어하면 더 많은 피해를 입습니다.
 <trait:Speed>:↩️
-•Player: Increases your speed and gives you longer to parry in combat.↩️
-•NPC: Increases their speed.
+•플레이어: 속도가 증가하고 전투에서 막기 시간이 길어집니다.↩️
+•NPC: 속도가 증가합니다.
 <trait:Sedative>:↩️
-•Player: Decreases your speed and gives you less time to parry in combat.↩️
-•NPC: Decreases their speed.
+•플레이어: 속도가 감소하고 전투에서 받아칠 수 있는 시간이 줄어듭니다.↩️
+•NPC: 속도를 감소시킵니다.
 <trait:Virility>:↩️
-•Player: Each + increases the chance of conception.↩️
-•NPC: Each + increases the chance of conception.
+•플레이어: 각 +는 임신 가능성을 높입니다.↩️
+•NPC: 각 +는 임신 가능성을 높입니다.
 <trait:Infertility>:↩️
-•Player: Each + decreases the chance of conception.↩️
-•NPC: Each + decreases the chance of conception.
+•플레이어: 각 +는 임신 가능성을 감소시킵니다.↩️
+•NPC: 각 +는 임신 가능성을 감소시킵니다.
 <trait:Healing>:↩️
-•Player: Each + gives you an extra 5% healing when the item is eaten during combat.↩️
-•NPC: No effect on NPCs.
+•플레이어: 각 +는 전투 중 아이템을 먹으면 추가로 5%의 치유량을 제공합니다.↩️
+•NPC: NPC에는 영향을 주지 않습니다.
 <trait:Poisonous>:↩️
-•Player: Each + gives you an extra 5% damage when the item is eaten during combat.↩️
-•NPC: No effect on NPCs.
+•플레이어: +마다 전투 중 아이템을 먹으면 추가 피해가 5% 증가합니다.↩️
+•NPC: NPC에는 영향을 주지 않습니다.
 <trait:Narcolepsy>:↩️
-•Player: You lose one random stat for each + active.↩️
-•NPC: Will sleep at random, each + increases for how long.
+•플레이어: 각 + 활성 상태에 대해 무작위로 하나의 통계를 잃습니다.↩️
+•NPC: 무작위로 잠을 자며, 각 +는 지속 시간이 증가합니다.
 <trait:Insomnia>:↩️
-•Player: You have fewer hours to select when deciding to go to sleep.↩️
-•NPC: Having trouble falling asleep.
+•플레이어: 잠자리에 들기로 결정할 때 선택할 수 있는 시간이 더 적습니다.↩️
+•NPC: 잠드는 데 어려움을 겪고 있습니다.
 <trait:Digestive>:↩️
-•Player: Extends other trait duration.↩️
-•NPC: Extends other trait duration.
+•플레이어: 다른 특성 지속시간을 연장합니다.↩️
+•NPC: 다른 특성의 지속 시간을 연장합니다.
 <trait:Flatulence>:↩️
-•Player: Each + increases the chance you will fart. Adults aren't too keen but kids love it.↩️
-•NPC: Will fart and use the toilet, each + increases the effect.
+•플레이어: 각 +는 방귀를 뀌는 확률을 증가시킵니다. 어른들은 별로 좋아하지 않지만 아이들은 좋아해요↩️
+•NPC: 방귀를 뀌고 화장실을 사용하게 되며, 각각 + 효과가 증가합니다.
 <trait:Bravery>:↩️
-•Player: Each + increases your damage on combat counterattacks.↩️
-•NPC: No effect on NPCs.
+•플레이어: 각각 +는 전투 반격 시 데미지를 증가시킵니다.↩️
+•NPC: NPC에는 영향을 주지 않습니다.
 <trait:Cowardly>:↩️
-•Player: Each + decreases your damage on combat counterattacks.↩️
-•NPC: No effect on NPCs.
+•플레이어: 각 +는 전투 반격 시 데미지를 감소시킵니다.↩️
+•NPC: NPC에는 영향을 주지 않습니다.
 <trait:Truth>:↩️
-•Player: A range of 10% to 50% chance you will get an extra item when foraging in Quill.↩️
-•NPC: Will reveal secret codes, each + increases the likelihood.
+•플레이어: 퀼에서 채집 시 10~50% 확률로 추가 아이템을 얻을 수 있습니다.↩️
+•NPC: 비밀 코드를 공개하며, 각각 +는 가능성을 높입니다.
 <trait:Illusion>:↩️
-•Player: A range of 10% to 50% chance you will get an extra item when foraging in Fae areas.↩️
-•NPC: Less likely to reveal secret codes, each + decreases the likelihood.
+•플레이어: Fae 지역에서 채집할 때 10%~50%의 확률로 추가 아이템을 얻을 수 있습니다.↩️
+•NPC: 비밀 코드를 공개할 가능성이 적고, +가 나올 가능성이 감소합니다.
 <trait:Flameproof>:↩️
-•Player: Each + reduces damage from fire attacks.↩️
-•NPC: No effect on NPCs.
+•플레이어: +마다 불 공격으로 인한 피해가 감소합니다.↩️
+•NPC: NPC에는 영향을 주지 않습니다.
 <trait:Waterproof>:↩️
-•Player: Each + reduces damage from water attacks.↩️
-•NPC: No effect on NPCs.
+•플레이어: 각 +는 물 공격으로 인한 피해를 줄여줍니다.↩️
+•NPC: NPC에는 영향을 주지 않습니다.
 <trait:Scent>:↩️
-•Player: Each + increases your prowess during nookie.↩️
-•NPC: Each + increases their prowess during nookie.
+•플레이어: 각 +는 초보자 동안 기량을 향상시킵니다.↩️
+•NPC: 각 +는 초보자 동안 기량을 증가시킵니다.
 <trait:Stench>:↩️
-•Player: Each + decreases your prowess during nookie.↩️
-•NPC: Each + decrease their prowess during nookie.
+•플레이어: 각 +는 초보자 동안 기량을 감소시킵니다.↩️
+•NPC: 각 +는 초보자 동안 기량을 감소시킵니다.
 <trait:AntiSickness>:↩️
-•Player: Each + reduces your negative traits by 1 and in combat reduces the duration of status effects.↩️
-Each + reduces their negative traits by 1
+•플레이어: 각 +는 부정적인 특성을 1씩 감소시키고 전투에서는 상태 효과의 지속 시간을 감소시킵니다.↩️
+각각의 +는 부정적인 특성을 1씩 감소시킵니다.
 <trait:Emetic>:↩️
-•Player: Each + increases your negative traits by 1 and in combat increases the duration of status effects.↩️
-•NPC: Each + increases their negative traits by 1
+•플레이어: 각 +는 부정적인 특성을 1씩 증가시키고 전투에서는 상태 효과의 지속 시간을 증가시킵니다.↩️
+•NPC: 각 +는 부정적인 특성을 1씩 증가시킵니다.
 <trait:Blessed>:↩️
-•Player: In combat, you can charge an amazing Effigy attack for 10 fewer points for each + you have.↩️
-•NPC: No effect on NPCs.
+•플레이어: 전투에서 보유한 +당 10포인트 적은 놀라운 조각상 공격을 충전할 수 있습니다.↩️
+•NPC: NPC에는 영향을 주지 않습니다.
 <trait:Cursed>:↩️
-•Player: In combat, charging an Effigy attack is 10 more points for each + you have.↩️
-•NPC: No effect on NPCs.
+•플레이어: 전투에서 조각상 공격 충전은 보유한 + 하나당 10포인트가 더 추가됩니다.↩️
+•NPC: NPC에는 영향을 주지 않습니다.
 <trait:Friendly>:↩️
-•Player: Each + increases Friendship Point gains.↩️
-•NPC: Each + increases Friendship Point gains.
+•플레이어: 각각 +는 우정 포인트 획득량을 증가시킵니다.↩️
+•NPC: 각각 +는 우정 포인트 획득량을 증가시킵니다.
 <trait:Shy>:↩️
-•Player: Each + decreases Friendship Point gains.↩️
-•NPC: Each + decreases Friendship Point gains.
+•플레이어: 각각 +마다 우정 포인트 획득량이 감소합니다.↩️
+•NPC: 각각 +는 우정 포인트 획득량을 감소시킵니다.
 <trait:Positivity>:↩️
-•Player: Each + reduces Friendship Point losses.↩️
-•NPC: Each + reduces Friendship Point losses.
+•플레이어: 각 +는 우정 포인트 손실을 줄입니다.↩️
+•NPC: 각 +는 우정 포인트 손실을 줄입니다.
 <trait:Negativity>:↩️
-•Player: Each + increases Friendship Point losses.↩️
-•NPC: Each + increases Friendship Point losses.
+•플레이어: 각각 +는 우정 포인트 손실을 증가시킵니다.↩️
+•NPC: 각각 +는 우정 포인트 손실을 증가시킵니다.
 <trait:Gossip>:↩️
-•Player: NPCs are more likely to give you gossip.↩️
-•NPC: Each + increases the chance they will have a Gift Request or Favour.
+•플레이어: NPC가 당신에게 소문을 줄 확률이 더 높습니다.↩️
+•NPC: 각 +는 선물 요청이나 호의를 받을 확률을 높입니다.
 <trait:Paranoid>:↩️
-•Player: NPCs are less likely to give you gossip.↩️
-•NPC: Each + reduces the chance they will have a Gift Request or Favour.
+•플레이어: NPC가 당신에게 소문을 줄 가능성이 적습니다.↩️
+•NPC: 각 +는 선물 요청이나 호의를 받을 확률을 줄입니다.
 <trait:AnimalLover>:↩️
-•Player: You will befriend animals more quickly.↩️
-•NPC: Each + increases Friendship Point gains if the player has an animal following.
+•플레이어: 동물과 더 빨리 친구가 될 수 있습니다.↩️
+•NPC: 플레이어가 따라오는 동물이 있는 경우 각 +는 우정 포인트 획득을 증가시킵니다.
 <trait:AnimalHater>:↩️
-•Player: You will befriend animals more slowly.↩️
-•NPC: Each + decreases Friendship Point gains if the player has an animal following.
+•플레이어: 동물과 더 천천히 친구가 될 것입니다.↩️
+•NPC: 각 +는 플레이어에게 따라오는 동물이 있는 경우 우정 포인트 획득을 감소시킵니다.
 <trait:Growth>:↩️
-•Player: De-gnomes you.↩️
-•NPC: No effect on NPCs.
+•플레이어: 당신을 비난합니다.↩️
+•NPC: NPC에는 영향을 주지 않습니다.
 <trait:Shrinking>:↩️
-•Player: Turns you into a gnome.↩️
-•NPC: No effect on NPCs.
+•플레이어: 당신을 노움으로 변신시킵니다.↩️
+•NPC: NPC에는 영향을 주지 않습니다.
 <trait:SeeInDark>:↩️
-•Player: Slightly increases brightness in mines and caves.↩️
-•NPC: No effect on NPCs.
-ID|traits
+•플레이어: 광산과 동굴의 밝기가 약간 증가합니다.↩️
+•NPC: NPC에는 영향을 주지 않습니다.
+ID|특성
 
-Name|Talents
+Name|재능
 Text|
-Alchemist:↩️
-•Gets a + 1 potion Star Rating.
-Angler:↩️
-•Gets a + 1 yield on fish.
-Botanist:↩️
-•Gets a + 1 yield on wildflowers.
-Bushman:↩️
-•Gets a + 1 fruit/berry yield.
-Carpenter:↩️
-•Builds cost less wood.
-Cheat:↩️
-•Gets a + 10-50 score on scoring minigames.
-Craftsman:↩️
-•Gets a + 1 Star Rating when smithing.
-Dermatologist:↩️
-•Creams Star Rating +1.
-Explorer:↩️
-•Has + 3 Stamina.
-Farmer:↩️
-•Harvest yield chance 25%.
-Fast Food Chef:↩️
-•Gets a + 1 yield to recipes.
-Gardener:↩️
-•Gets a + 1 crop yield.
-Gatherer:↩️
-•Gets + 3 items when gathering.
-Gourmet:↩️
-•Gets a + 1 Star Rating to recipes.
-Hammerer:↩️
-•Gets a + 1 smithy yield.
-Horticulturist:↩️
-•Gets a + 1 crop quality.
-Grinder:↩️
-•Powder Star Rating +1.
-Resilient:↩️
-•Heals faster / CONS Up + 5.
-Tough Nut:↩️
-•Toughness up +5.
-Detectorist:↩️
-•Gets a + 1 yield on digging.
-Lucky:↩️
-•10% chance of Brass find when cutting grass.
-Builder:↩️
-•Builds need 3 less STR.
-Animal Trainer:↩️
-•Animal combat cooldown reduced.
-Jogger:↩️
-•Has + 5 Speed.
-Samaritan:↩️
-•Chance of Favours increased.
-Labourer:↩️
-•Build needs 3 less STA.
-Planner:↩️
-•Build needs 3 less INT.
-Miller:↩️
-•Double yield flour.
-Lode Runner:↩️
-•Gets a + 1 ore Star Rating.
-Miner:↩️
-•Gets a +1 ore yield.
-Swordsman:↩️
-•Has + 5 sword damage.
-Archer:↩️
-•Has + 5 arrow damage.
-Salesman:↩️
-•Bonus brass from selling.
-Haggler:↩️
-•Barter up +5.
-Charmer:↩️
-•50% Reputation loss reduction.
-Bargain Hunter:↩️
-•Items cost 20% less rounded up.
-Intellectual:↩️
-•XP gains increased 25%.
-Sharpshooter:↩️
-•Archery Crit chance up 25%.
-Assassin:↩️
-•Sword crit chance up 25%.
-Adventurer:↩️
-•Constitution up +5.
-Looter:↩️
-•Chance of 1 extra combat loot per room.
-Souper Human:↩️
-•Gets a + 1 soup Star Rating.
-Steward:↩️
-•Gets a + 1 stew Star Rating.
-Master Baker:↩️
-•Gets a + 1 bread Star Rating.
-Sandwich Earl:↩️
-•Gets a + 1 sandwich Star Rating.
-Jammy Beggar:↩️
-•Gets a + 1 jam Star Rating.
-Confectioner:↩️
-•Gets a + 1 dessert Star Rating.
-Pieman:↩️
-•Gets a + 1 pie Star Rating.
-Socialite:↩️
-•FP gains.
-Stonemason:↩️
-•Less stone cost for builds.
+연금술사:↩️
+•+1 물약 별점을 받습니다.
+낚시꾼:↩️
+•물고기 수확량에 +1을 얻습니다.
+식물학자:↩️
+•야생화에 대해서는 +1 수확량을 얻습니다.
+부시맨:↩️
+•+1 과일/베리 수확량을 얻습니다.
+목수:↩️
+•건축에는 목재 비용이 적게 듭니다.
+치트:↩️
+•스코어링 미니게임에서 +10-50점을 얻습니다.
+장인:↩️
+•스미싱 시 별점 +1점을 받습니다.
+피부과:↩️
+•크림 별점 +1.
+탐험가:↩️
+• 체력이 + 3입니다.
+농부:↩️
+•수확 확률 25%.
+패스트푸드 셰프:↩️
+•레시피에 대해 +1의 수확량을 얻습니다.
+정원사:↩️
+•+1 작물 수확량을 얻습니다.
+수집가:↩️
+•채집 시 아이템을 +3개 획득합니다.
+미식가:↩️
+•레시피에 대해 +1 별점을 얻습니다.
+해머러:↩️
+• 대장간 생산량이 +1 증가합니다.
+원예사:↩️
+•+1 작물 품질을 얻습니다.
+그라인더:↩️
+•파우더 스타 등급 +1.
+탄력성:↩️
+•더 빠른 치유 / CONS Up + 5.
+터프 넛:↩️
+•인력이 +5 증가합니다.
+탐지기:↩️
+•굴착 시 수확량 + 1을 얻습니다.
+행운:↩️
+•잔디를 깎을 때 황동이 발견될 확률은 10%입니다.
+빌더:↩️
+•빌드에는 3개의 STR이 덜 필요합니다.
+동물 조련사:↩️
+•동물 전투 쿨타임이 감소되었습니다.
+조깅하는 사람:↩️
+• 속도가 + 5입니다.
+사마리아인:↩️
+•호의 확률이 증가했습니다.
+노동자:↩️
+•빌드에는 STA가 3개 적게 필요합니다.
+플래너:↩️
+•빌드에는 INT가 3 덜 필요합니다.
+밀러:↩️
+•두배의 수확량 밀가루.
+광맥 러너:↩️
+•+ 1 광석 별 등급을 얻습니다.
+광부:↩️
+•+1 광석 수확량을 얻습니다.
+검객:↩️
+•검 피해가 + 5입니다.
+궁수:↩️
+• 화살 피해가 + 5입니다.
+세일즈맨:↩️
+•판매로 인한 보너스 황동.
+흥정꾼:↩️
+•물물교환 +5.
+차머:↩️
+•평판 손실 50% 감소.
+특가 사냥꾼:↩️
+•항목 비용은 반올림 시 20% 감소됩니다.
+지적:↩️
+•XP 획득량이 25% 증가했습니다.
+명사수:↩️
+•양궁 치명타 확률이 25% 증가합니다.
+암살자:↩️
+•검 치명타 확률이 25% 증가합니다.
+모험가:↩️
+•체력이 +5 올라갑니다.
+약탈자:↩️
+•방당 추가 전투 전리품 1개가 나올 확률이 있습니다.
+수-프 인간:↩️
+•+1 수프 별점을 받습니다.
+스튜-어드:↩️
+•+1 스튜 별점을 받습니다.
+마스터 베이커:↩️
+•+1 빵 별점을 받습니다.
+샌드위치 얼:↩️
+•+1 샌드위치 별점을 받습니다.
+잼 거렁뱅이:↩️
+•+1 잼 별점을 받습니다.
+제과점:↩️
+•+1 디저트 별점을 받습니다.
+파이맨:↩️
+•+1 파이 별점을 얻습니다.
+사교계 명사:↩️
+•FP 이득.
+석공:↩️
+•건축에 필요한 석재 비용이 줄어듭니다.
 ID|talents
