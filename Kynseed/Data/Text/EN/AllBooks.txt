@@ -806,142 +806,142 @@ ID:51
 휘슬을 누르면 기분과 포만도도 표시됩니다. 동물의 기분이 붉은색이면 제대로 행동하지 않으므로 가능한 경우에는 먹이를 주고 쓰다듬어주세요!
 만약 동물들이 자연의 소리, 파이의 냄새, 그리고 일반적으로 무언가 반짝거리는 것에 흥미를 느껴서 길을 잃는다면, 휘슬을 불면 도움이 될 거예요!
 
-Title:The Thatterway: A Guide. Literally - by Amos E Wall
+Title:새터웨이: 말 그대로 가이드. 아모스 E 월 지음
 ID:52
 
-As mentioned in my other book, 'What is The Wottyzit? Just what is it?' I tell of the Thatterway.
-This Faery is incredibly helpful and incredibly sparkly.
-They are drawn to certain humans they find attractive and attach themselves to them.
-When that person is lost or seeking something, the Thatterway will fly out of their host's hair and in the direction they need to be.
-An ancient tome, the 'Manual of Play' mentions their usage thus...
-"To use this feature, the player must set a Task as Active in their Task List, then click in the Left Stick on their control pad or the F1 key on their keyboard."
-I have yet to understand any of that, but it sometimes makes me wonder if we are being controlled by a force higher than our beloved Goddesses.
+제 다른 책 '워티지트는 무엇인가요?'에서도 언급했듯이 저는 새터웨이에 대해 이야기합니다.
+이 요정은 믿을 수 없을 정도로 도움이 되고 믿을 수 없을 정도로 반짝입니다.
+그들은 매력적이라고 생각하는 특정 인간에게 끌리며 그들에게 애착을 갖습니다.
+그 사람이 길을 잃거나 무언가를 찾고 있을 때, 새터웨이는 숙주의 머리카락에서 날아가 필요한 방향으로 이동합니다.
+고대 서적인 '플레이 매뉴얼'에는 다음과 같이 사용법이 언급되어 있습니다.
+이 기능을 사용하려면 플레이어가 작업 목록에서 작업을 활성으로 설정한 다음, 컨트롤 패드의 왼쪽 스틱 또는 키보드의 F1 키를 클릭해야 합니다.
+저는 아직 그 어떤 것도 이해하지 못했지만, 가끔 우리가 사랑하는 여신보다 더 높은 힘에 의해 조종당하고 있는 건 아닌지 의심이 들기도 합니다.
 
-Title:The Ritual of Marriage - by Isla Walker
+Title: 결혼 의식 - 이슬라 워커 지음
 ID:53
 
-Marriage in Quillian society is more than just an excuse to have a party and get drunk.
-Marriage is a statement of intent. That intent is to prove your love for not just your partner but also a love of nature and our fair Goddesses.
-To love another, one must love all around them, which the proposal ritual proves. Once you have found the partner of your dreams and their love for you is complete, you can start the process.
-Firstly, speak to the High Priest in Loverwood to gain the Recipe for the Pie of You and I.
-Then, gift the White Rose, which you will also find in Loverwood, to your beloved.
-They will ask you to prove your love with the customary baking of the Pie.
-Gather ingredients in your own time and bake the Pie.
-Take the Pie to the High Priest and give it to him. He will offer it to the Goddesses. If they smile on the offering, you will be given a Binding Band!
-Take this Band to your lover and gift it to them, and you can then choose the date if they accept!
-Now you are ready to be married and enjoy all the considerable benefits of marriage, such as cooking and foraging!
+퀼의 사회에서 결혼은 단순히 파티를 열고 술에 취하기 위한 핑계 그 이상입니다.
+결혼은 의지의 표현입니다. 그 의도는 배우자뿐만 아니라 자연과 우리의 아름다운 여신에 대한 사랑을 증명하는 것입니다.
+다른 사람을 사랑하려면 주변을 모두 사랑해야 하며, 이는 프로포즈 의식이 증명합니다. 꿈에 그리던 파트너를 찾았고 상대방에 대한 사랑이 완성되었다면 청혼 절차를 시작하면 됩니다.
+먼저, 러브우드에 있는 대사제와 대화하여 당신과 나의 파이 레시피를 얻으세요.
+그런 다음, 러버우드에서도 찾을 수 있는 하얀 장미를 사랑하는 사람에게 선물하세요.
+연인은 파이를 구워 사랑을 증명해달라고 요청할 것입니다.
+시간을 내어 재료를 모아 파이를 구워보세요.
+파이를 대제사장에게 가져가서 건네주세요. 그는 파이를 여신에게 바칠 것입니다. 여신들이 제물을 보고 미소를 지으면 바인딩 밴드를 받을 수 있습니다!
+이 밴드를 연인에게 가져가서 선물하고, 연인이 수락하면 날짜를 선택할 수 있습니다!
+이제 여러분은 결혼할 준비가 되었으며 요리와 채집 등 결혼의 모든 혜택을 누릴 수 있습니다!
 
-Title:Planning Your Wedding for Village Idiots - by Isla Walker
+Title:마을 바보들을 위한 결혼식 계획 - 이슬라 워커 지음
 ID:54
 
-Once you have completed your proposal ritual and offered the Binding Band to your lover, you must plan the big day!
-Choose a date for the big day. Maybe make sure it doesn't clash with anything and try not to get into trouble beforehand!
-Once the time is set, you must arrive before 1 pm on the special day. Get there BEFORE 1 pm!
-Go to the High Priest in Loverwood, and you will then begin the ceremony.
-After the words are spoken, the Priest will invoke the Spirits.
-When a Spirit has chosen you, your spouse and your good self will be imbued with a sample of their power.
-However, divorce your spouse, and you both lose that Spirit. 
-Once the ceremony is done, your spouse will return to your home to fulfil their duties of marriage... so enjoy this new life together and get makin' babies!
+프로포즈 의식을 마치고 연인에게 바인딩 밴드를 제공했다면, 이제 중요한 날을 계획해야 해요!
+중요한 날을 위한 날짜를 선택하세요. 다른 일정과 겹치지 않는지 확인하고 문제가 생기지 않도록 미리 준비하세요!
+시간이 정해지면 특별한 날 오후 1시 이전에 도착해야 합니다. 오후 1시 전에 도착하세요!
+러버우드에 있는 대사제에게 가면 의식이 시작됩니다.
+기도가 끝나면 사제가 정령을 소환합니다.
+정령이 당신을 선택하면, 당신의 배우자와 선한 자아는 정령의 힘의 샘플을 얻게 됩니다.
+그러나 배우자와 이혼하면 두 사람 모두 정령을 잃게 됩니다.
+예식이 끝나면 배우자는 결혼의 의무를 다하기 위해 가정으로 돌아가게 되므로 함께 새로운 삶을 즐기고 아기를 낳으세요!
 
-Title:The Bumper Book of Divorce - by Isla Walker
+Title:이혼의 범퍼 북 - 이슬라 워커 지음
 ID:55
 
-Fed up of a nagging spouse? Bed life wilting like a sunflower in a drought. Crops failing?
-What you need is a pleasant divorce.
-You can do this via the High Priest in Loverwood.
-Divorce via the High Priest is a method that is available any day, all year round.
-There is a Brass cost associated with this method, but it is much handier.
-Just pop into your local Priest and ask about it.
-Your spouse will have no qualms about leaving immediately once the divorce is ratified, as everybody in Quill understands this is the way.
-You are then free to sow the seed of another marriage and get those crops growing again.
+잔소리하는 배우자에게 지쳤나요? 가뭄에 해바라기처럼 시들어가는 부부 생활? 농작물이 실패하고 있나요?
+여러분에게 필요한 것은 즐거운 이혼입니다.
+러브우드에서 대사제을 통해 이혼할 수 있습니다.
+대사제를 통한 이혼은 일 년 내내 언제든지 이용할 수 있는 방법입니다.
+이 방법에는 브라스가 들지만, 훨씬 편리합니다.
+가까운 사제에게 가서 문의하면 됩니다.
+퀼의 모든 사람이 이 방법을 이해하므로, 이혼이 승인되면 배우자는 즉시 떠나는 데 아무런 문제가 없을 것입니다.
+그런 다음 다른 결혼의 씨앗을 뿌리고 그 작물을 다시 자라게 할 수 있습니다.
 
-Title:Infiledity? No Such Word - by Isla Walker
+Title:불륜? 그런 말은 없다 - 이슬라 워커
 ID:56
 
-In ancient times, marriage was a holy act, and to break it was a sin.
-However, times have changed (obviously), and the ways of our Neo-Pagan society are vastly different to those dusty old ways.
-A new marriage is a rebirth, just as death is, and everyone understands that love is a spirit that flows through us all.
-The Spirit may stop to rest but will often feel the need to drift elsewhere and search for a new host.
-There may be some sadness if a bond was strong, but the affected partner knows that it was not meant to be, as the Spirit has chosen another.
-Love must spread like pollen and keep nurturing our land.
-There may be some jealousy or upset, but we dare not risk the wrath of our Goddesses who encourage our more frisky endeavours.
-Love must spread. Seed must spread. Butter must spread.
-These are the tenets that make up the pillars of our lives. Break the pillar, the temple collapses, and all you are left with is dry toast.
+고대에는 결혼은 신성한 행위였고, 이를 어기는 것은 죄악이었습니다.
+그러나 시대가 변했고(당연히), 우리 신이교도 사회의 방식은 먼지가 많은 옛 방식과 크게 달라졌습니다.
+새로운 결혼은 죽음과 마찬가지로 다시 태어나는 것이며, 사랑은 우리 모두를 통해 흐르는 영이라는 것을 모두가 이해합니다.
+영혼은 휴식을 취하기 위해 멈출 수도 있지만 종종 다른 곳으로 떠돌아다니며 새로운 숙주를 찾아야 할 필요성을 느낄 것입니다.
+유대감이 강했다면 슬픔이 있을 수 있지만, 영이 다른 사람을 선택했기 때문에 영향을 받은 파트너는 그럴 의도가 아니었다는 것을 알고 있습니다.
+사랑은 꽃가루처럼 퍼져서 이 땅을 계속 가꾸어 나가야 합니다.
+질투나 속상함이 있을 수 있지만, 우리의 더 활발한 노력을 격려하는 여신의 분노를 감히 감수할 수는 없습니다.
+사랑은 퍼져야 합니다. 씨앗은 퍼져야 합니다. 버터는 퍼져야 합니다.
+이것이 우리 삶의 기둥을 구성하는 신조입니다. 기둥이 무너지면 성전은 무너지고 마른 토스트만 남게 됩니다.
 
-Title:Cough Up the Dough: A Guide to Good Baking - by Tom Bakery
+Title:반죽을 기침하세요: 좋은 베이킹을 위한 가이드 - 톰 베이커리 지음
 ID:57
 
-There are various types of cooking in Quill, and all can be done from your friendly neighbourhood stove.
-Quillian ovens incorporate an excellent hob and warming kiln, which is what this book is about.
-You can create scandalous sandwiches, plump pies and tremendous toasties.
-Simply pick a recipe, and if you get stuck, use the included manual. The HELP option is at the top of the screen.
-I hope your pies will be as stout as oak and with a lovely crust and hot filling... or they will be withered like my pride after Melanie Baps rejected my proposal.
-We could have made such sweet breads together. I will never get to cup her cakes.
-I will have to become a master baker in order to forget her!
+퀼에는 다양한 종류의 요리가 있으며, 모두 친근한 이웃집 스토브에서 할 수 있습니다.
+퀼 오븐에는 훌륭한 홉과 보온 가마가 통합되어 있으며, 이 책이 바로 그 내용입니다.
+스캔들 같은 샌드위치, 풍성한 파이, 엄청난 토스트를 만들 수 있습니다.
+레시피를 선택하기만 하면 되고, 막히는 부분이 있으면 동봉된 설명서를 참고하세요. 도움말 옵션은 화면 상단에 있습니다.
+여러분의 파이가 참나무처럼 단단하고 크러스트가 예쁘고 속이 따뜻하게 채워지길 바라거나, 멜라니 밥스가 제 제안을 거절당한 후 제 자존심처럼 시들어버리길 바랍니다.
+우리는 함께 달콤한 빵을 만들 수있었습니다. 나는 결코 그녀의 케이크를 컵에 담을 수 없을 것입니다.
+그녀를 잊기 위해선 제빵의 달인이 되어야겠군요!
 
-Title:Freyl: Goddess of Fields - by Mae Poll
+Title:프라일: 들판의 여신 - 매 폴 지음
 ID:58
 
-If you have ever seen a shining form standing in the fields - a strong, fair woman with cornrows in her hair and sunlight in her eyes - then you have caught a glimpse of Freyl.
-Her blessings can usher in bountiful crops and imbue vegetables with vigour and flavour. Displease her, though, and you will be harvesting nothing but withered disappointments.
-The good folk of Mellowfields know better than to get on the wrong side of the Goddess of the Fields.
-They worship Freyl above all others and long to hear her laughter rippling through the gently swaying wheat as they compete to grow the biggest, hardiest vegetables in her honour.
-But that rich laughter stops once the harvest has been brought in, for if there is one thing Freyl hates above all else, it is the barren cold of winter.
+들판에 서 있는 빛나는 모습을 본 적이 있다면, 머리에 곱슬머리를 하고 눈에 햇빛을 머금은 강인하고 고운 여인, 프라일을 본 적이 있다면 프라일의 모습을 본 것입니다.
+그녀의 축복은 풍성한 농작물을 가져다주고 채소에 활력과 풍미를 불어넣어 줍니다. 하지만 그녀를 불쾌하게 하면 시든 실망감만 수확하게 될 것입니다.
+멜로우필드의 선량한 주민들은 들판의 여신을 잘못 대하면 안 된다는 것을 잘 알고 있습니다.
+그들은 누구보다 프라일을 숭배하며, 그녀를 기리기 위해 가장 크고 단단한 채소를 재배하기 위해 경쟁하면서 부드럽게 흔들리는 밀밭에서 그녀의 웃음소리가 울려 퍼지기를 갈망합니다.
+그러나 프라일이 무엇보다도 싫어하는 것이 있다면 겨울의 혹독한 추위이기 때문에 수확이 시작되면 그 풍성한 웃음소리는 멈춥니다.
 
-Title:My Diary - by Ken Tiller
+Title:나의 일기 - 켄 틸러 지음
 ID:59
 
-That Veg Rarney! Who does he think he is? He believes he is the Lord of the Plots because he fills his garden with turnips.
-Has he not seen my onions? Does he not appreciate the well-tended flowers and beautiful lavender?
-I think he has always been jealous of my success and just copies me to try to get one over on me.
-I get a greenhouse... he must get a greenhouse. I get a new step... he must get a new step.
-I get a windmill... well, he can't afford a windmill, so I have him there!
-That man must know that I am the best in this part of the haven, and if anyone is going to beat those Lawns, it will be me.
+채식주의자 라니! 자기가 누구라고 생각하는 걸까? 라니는 자신의 정원을 순무로 가득 채워서 자신이 플롯의 군주라고 믿어.
+라니는 내 양파를 못 본건가? 이 잘 가꾸어진 꽃과 아름다운 라벤더에 감사하지 않는건가?
+라니는 항상 내 성공을 질투하고 나를 따라 하려고 모방하는 것 같아.
+나는 온실을 가졌지... 그는 온실을 얻어야하고. 나는 새로운 계단을 오랐지... 그는 새로운 계단을 올라야하지.
+나는 풍차를 가졌고... 음, 라니는 풍차를 살 여유가 없으니 내가 그를 거기에 데려다 놓았지!
+그 남자는 내가 이 안식처에서 최고라는 걸 알아야 해. 저 잔디밭을 이길 사람은 나뿐이야.
 
-Title:Grinding. Or How to Pad Things Out - by Destiny Craftwar
+Title:빻기. 또는 채우는 방법 - 데스티니 크래프트워 지음
 ID:60
 
-Grinding! In ancient times, people would play games for years on end to gain slightly bigger numbers or slightly better-looking pants.
-They would spend countless hours poring over statistics and drop rates and walk back and forward, forward and back, doing the same thing so that they could potentially find an item with 0.00007% more damage.
-In the modern world, the only grinding, other than teeth, is that of a good old miller's stone.
-Simply bring some wheat to the millstone and interact. You can now create lovely, fluffy flour for your baking needs!
-Just reading this, you can get frothy with excitement at the thought of spending countless hours running back and forwards just in the hope that you can get some flour as you try to make ever so slighty better pies.
-Oh.
+그라인딩! 고대에는 사람들이 조금 더 큰 숫자나 조금 더 멋진 바지를 얻기 위해 몇 년 동안 게임을 하곤 했어요.
+그들은 0.00007% 더 높은 데미지를 가진 아이템을 찾기 위해 통계와 드랍률을 수없이 들여다보고, 앞뒤로, 앞뒤로 걸어 다니며 같은 일을 반복했습니다.
+현대 사회에서 치아를 제외한 유일한 분쇄기는 오래된 맷돌뿐입니다.
+맷돌에 밀을 가져와서 상호작용하기만 하면 됩니다. 이제 베이킹에 필요한 사랑스럽고 폭신한 밀가루를 만들 수 있습니다!
+이 글을 읽는 것만으로도 조금이라도 더 나은 파이를 만들기 위해 밀가루를 구하기 위해 수없이 많은 시간을 왔다 갔다 할 생각에 가슴이 설레는 것을 느낄 수 있습니다.
+오.
 
-Title:The Pigriders Guide to the Galaxy - by Bugless Adam
+Title:은하계로 가는 피그리더스 가이드 - 버그리스 아담 지음
 ID:61
 
-Are you new to Quill? Have you come from beyond the eternal mists that ring our fair land?
-Or are you some uneducated muffin from Deepstone? Maybe you just banged your head and forgot?
-You might even be in some kind of ethereal tutorial and need to know things quickly.
-Well, here are some reminders of how things work around here.
-Firstly, the land is ruled over by 6 Fae Goddesses.
-They are...
-Druida, Goddess of Orchards
-Naida, Goddess of Fertility
-Freyl, Goddess of Fields
-Hyalis, Goddess of Death and Rebirth
-Morwenna, Goddess of Beasts
-Aurore, Goddess of Seasons.
-The people of the land make offerings at Goddess statues to these Fae deities.
-The land is covered in mystery, and invisible creatures walk among us under the ever-watchful gaze of the Goddesses.
-It is advised you read everything! There is no substitute for taking note of what people tell you, but a lot of how things work, you need to learn for yourselves, old school!
+퀼이 처음이신가요? 이 공정한 땅을 감싸고 있는 영원한 안개 너머에서 오셨나요?
+아니면 딥스톤에서 온 무식한 머핀인가요? 아니면 머리를 부딪혀서 잊어버렸나요?
+어쩌면 당신은 일종의 미묘한 튜토리얼에 빠져서 빨리 알아야 할 필요가 있을지도 모릅니다.
+그럼, 여기에서는 어떻게 돌아가는지 몇 가지를 상기시켜드리겠습니다.
+첫째, 이 땅은 여섯 명의 페이 여신이 다스리고 있습니다.
+그들은...
+과수원의 여신 드루이다
+다산의 여신 나이다
+들판의 여신 프라일
+죽음과 부활의 여신 히알리스
+짐승의 여신 모웨나
+계절의 여신 오로레.
+이 땅의 사람들은 이 페이 신들에게 여신상에서 제물을 바칩니다.
+이 땅은 신비로 뒤덮여 있고, 보이지 않는 생명체들이 여신의 감시 아래 우리 사이를 걸어 다닙니다.
+모든 내용을 읽어보시길 권합니다! 사람들이 당신에게 말하는 것을 메모하는 것을 대신 할 수는 없지만, 많은 것들이 어떻게 작동하는지, 당신은 스스로 배울 필요가 있습니다, 옛날 학교!
 
-Title:Placeholder Books: Necessary or Just Waffle - by A.Musingly-Named-Author
+Title:플레이스홀더 책: 필요하거나 그냥 와플 - A.Musingly-Named-Author
 ID:62
 
-Sometimes in life, you just have to smile.
-You could be walking along, collecting stuff, enjoying the music of the world when you come across a book like this one.
-Upon reading it, you may expect some juicy gossip or interesting lore.
-But no!
-The text explains how such a book is not written yet and then goes on and on about nothing.
-Is this a waste of the reader's time?
-Yes.
-Is that a bad thing?
-No.
-As long as they smile at the end of the text and realise they were part of some crazy fourth wall development thing, the effort was worth it.
-You can now get back to streaming or whatever.
-Whatever that is!
+인생에서 가끔은 그냥 웃어야 할 때가 있습니다.
+길을 걷고, 물건을 수집하고, 세상의 음악을 즐기다가 이런 책을 만나게 될 수도 있습니다.
+이 책을 읽으면 흥미로운 가십이나 흥미로운 이야기가 나올 거라고 기대할 수도 있습니다.
+하지만 아니죠!
+본문은 그런 책이 아직 쓰여지지 않은 방법을 설명한 다음 아무 것도 계속하지 않습니다.
+독자의 시간 낭비인가요?
+네. 그렇습니다.
+나쁜가요?
+아니요.
+독자가 텍스트 마지막에 미소를 지으며 자신이 미친 제4의 벽 개발의 일부였다는 것을 깨닫는다면 그 노력은 그만한 가치가 있습니다.
+이제 다시 스트리밍이나 다른 일을 할 수 있습니다.
+그게 뭐든 간에!
 
 Title:The Jabberwock - by Carol Lewis
 ID:63
