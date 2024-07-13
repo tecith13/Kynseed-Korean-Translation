@@ -9,144 +9,141 @@ Text|워티지트는 종종 월드의 중요한 물건 위를 맴돌고 있습�
 ID|워티지트
 
 Name|과일과 채소에 달린 별은 무엇인가요?
-Text|수집품들은 대부분 등급을 가지고 있습니다. (1-5등급) 등급이 높을수록 더 높은 가격의 <link:brass>동화<link>에 판매할 수 있습니다.; 더 좋고 오래가는<link:traits>특수효과<link>를 지니며,; 주민들과의 <link:friends>우정<link>을 빠르게 올릴 수 있습니다.
+Text|수집품들은 대부분 등급을 가지고 있습니다. (1-5등급) 등급이 높을수록 더 높은 가격의 <link:brass>동화(Brass)<link>에 판매할 수 있습니다.; 더 좋고 오래가는<link:traits>특수효과<link>를 지니며,; 주민들과의 <link:friends>우정<link>을 빠르게 올릴 수 있습니다.
 
-<link:proverbs>속담<link>과 <link:friends>소문<link>은 수집품의 등급을 높이는 방법을 알려줍니다.
+<link:proverbs>잠언<link>과 <link:friends>소문<link>은 수집품의 등급을 높이는 방법을 알려줍니다.
 ID|stars
 
-Name|How to make friends (or enemies) and influence people
-Text|You can gain Friendship Points (FP) by helping folk and raising friendship.
+Name|친구(또는 적)를 사귀는 방법
+Text|사람들을 돕고 우정을 쌓아서 우정 포인트(FP)를 얻을 수 있습니다.
 
-All Quillians have their likes and dislikes, and finding out about these can be the key to your relationship with a person.
+모든 퀼리언들은 물건에 대한 호불호를 가지고 있으며, 이것들에 대해 알아내는 것이 당신과 사람과의 관계를 위한 열쇠가 될 수 있습니다.
 
-Regular gifts of liked or loved items will encourage people to look forward to your visits; tell you their life stories; share <link:proverbs>proverbs<link>and gossip about their neighbours; <link:itempermissions>allow<link>you to take things from their land; become part of a building team for your projects, or even eventually give you access to their valuable family heirlooms! People are always particularly touched if you remember their birthdays...
+좋아하는 물건이나 사랑하는 물건을 정기적으로 선물하면 사람들이 여러분의 방문을 고대하고, 그들의 인생 이야기를 들려주고, <link:proverbs>잠언<link>을 공유하고, 가십을 나누던지, <link:itempermissions>물건<link>을 그들에 공간에서 가져가거나, 당신이 짓는 건물의 건설을 도와줍니다. 그것뿐만 아니라 집안의 가보를 주기도하죠! 그들은 당신이 생일을 기억해줄때 정말 행복함을 느낍니다...
 
-Folk sometimes drops heavy hints for items with a particular <link:traits>trait<link>. Gifting a suitable item will make them grateful enough to pass on Gossip about other villagers, collectable items, or some interesting lore. Conversely, people will become much less well-disposed and helpful to you if you hurt them, give them things they dislike, or mess up their homes.
+당신에게 친밀감을 가진 사람들은 때때로 <link:traits>특성<link>을 가진 물건에 대해 힌트를 제공합니다. 사람들에게 좋아하는 물건을 선물하면 다른 마을 사람들의 대한 가십거리나, 수집 가능한 물건들, 또는 흥미로운 지식을 전수하기도 합니다. 반대로, 당신이 그들을 다치게 하거나, 싫어하는 것을 선물하거나, 그들의 집을 엉망으로 만든다면 당신에게 호의를 배풀지 않을 것입니다.
 ID|friends
 
-Name|Earning Brass
-Text|As a child, you can do chores for Uncle Bill, sell things at the little Lemonade Stalls in Festival areas, use Selling Cabinets in shops, complete <link:apprenticeships>apprenticeships<link>for business owners, and get non-combat tasks from the <link:noticeboards>Noticeboard<link>.
+Name|동화(Brass) 얻는 법
+Text|빌 삼촌을 위해 집안일을 하고, 축제장에 있는 작은 레모네이드 가판대에서 물건을 팔고, 상점에서 파는 캐비닛을 사용하고, 사업주를 위해 <link:apprenticeships>견습생<link>으로 일하고, <link:noticeboards>알림판<link>에서 비전투 일거리를 얻을 수 있습니다.
 
-Adults can save up to buy their businesses and can take on dangerous but well-paid combat tasks from the <link:noticeboards>Noticeboard<link>or the Witchhunter (based in Homesteads tavern).
+성인이 되면 당신은 개인사업을 시작하기위해 저축할 수 있고, <link:noticeboards>안내판<link> 또는 Homesteads tavern 선술집에서 마녀사냥꾼들에게 위험하지만 보수가 높은 전투 일거리를 수행할 수도 있습니다.
 ID|brass
 
-Name|Village Noticeboards
-Text|Noticeboards can be found in each area of the main village. Check these for details of events, markets and trader visits.
+Name|마을 안내판
+Text|안내판은 본 마을의 각 지역에서 찾을 수 있습니다. 이벤트, 시장 및 떠돌이 상인 방문에 대한 자세한 내용을 확인하십시오.
 
-Villagers can post tasks here to earn you Brass or <link:friends>Friendship-Points<link>. Notices regenerate every day, but some dangerous, well-paying task types are only available to adults.
+마을 사람들은 동화(Brass) 또는 <link:friends>우정 포인트(FP)<link>를 제공하는 일거리를 게시할 수 있습니다. 안내판 일거리는 매일 갱신되고, 매우 어렵고 위험하지만 많은 보수의 일거리는 성인만 제공 받을 수 있습니다.
 
-Noticeboard tasks can always be handed in at a person's <link:mail>mailbox<link>. The reward won't be affected if you do this.
+안내판 일거리를 제공한 사람의 <link:mail>우체통<link>에서도 완료할 수 있으며 보수는 어디서 일거리를 완료해도 같습니다.
 ID|noticeboards
 
-Name|Apprenticeships
-Text|Children are invited to do apprenticeships in the Blacksmith and Apothecary. Once you've completed these, you can make items for yourself or sell them to the business owner. It costs ☎5 each time you use the shop's equipment.
+Name|견습생
+Text|아이들은 대장간과 약국에서 견습 기간을 가질 수 있습니다. 견습 생활을 마치면 스스로 물건을 만들거나, 물건을 사업주에게 팔 수있게 됩니다. 가게 장비를 이용할때마다 ☎5를 지불해야합니다.
 
-The Goods Store apprenticeship has a one-off reward, but all apprenticeships help to set you up for owning your own stores as an adult.
+Goods Store의 견습생은 1회성 보상을 받지만, 모든 견습생프로그램은 성인이 되었을때 자신의 매장을 소유할 수 있도록 도움을 줍니다.
 ID|apprenticeships
 
-Name|Goddesses and their Boons
-Text|The Goddesses expect offerings every 7th day and will bless you for them. Interact with a Goddess statue to offer.
+Name|여신들과 그들의 내리는 축복
+Text|여신들은 매 7일마다 제물을 받길 원하며, 제물을 받을시 당신을 위한 축복을 내릴 것입니다. 여신상에게 제물을 받치세요.
 
-Goddesses are paired each week, and you must decide which one to honour with an offering to gain her Boon for the week.
+매주 여신들이 두명씩 짝지어지며, 당신은 그 중 한 명에게 예물을 바쳐 그 주의 은혜를 받기로 결정해야 합니다. 예물을 바치지 않는다고 해서 벌칙이 있는 것은 아닙니다.
 
-There are no penalties for not making an offering.
+Name|사람 찾기
+Text|이미 만났던 사람을 찾고있다면, 그들의 거주 지역을 <stats> 상태 화면에서 확인할 수 있습니다. 세계 지도를 이용해 그곳으로 가서 '지역' 지도를 <map> 사용하여 그들의 집을 찾아낼 수 있습니다.
 
-Name|Finding a Person
-Text|If you have already met a person, you can look up their home area in the Status screen <stats>. Use the World Map for help getting there, then use the Local Map <map>once in that region to spot their home.
-
-The <link:thatterway>Thatterway<link>can guide you to anybody's <link:mail>mailbox<link>, even if you have never met them.
+<link:thatterway>세터웨이<link>는 누구의 <link:mail>우편함<link>으로도 안내할 수 있습니다, 당신이 한번도 만나지 않았던 사람이라도 말이죠.
 ID|findperson
 
-Name|Mail
-Text|Most tasks can be handed in at a person's mailbox at their home, and the reward won't be affected.
+Name|우편
+Text|대부분의 일거리는 사람들의 집 우편함에서 제출할 수 있으며, 보상에 영향을 미치지 않습니다.
 
-You can collect mail at any postbox - look and listen for the helpful carrier pigeon.
-
-You will get information about upcoming events and competitions, news from and about other people, some magical advertisements, and gifts of items, proverbs or recipes from <link:friends>friends<link>.
+어떤 우체통에서든 우편물을 수집할 수 있습니다 - 도움이 되는 운송 비둘기를 찾아보세요.
+다가오는 행사와 대회에 대한 정보, 다른 사람들의 소식, 마법 같은 광고, 아이템, 잠언 또는 레시피의 선물을 <link:friends>친구들<link>로부터 얻을 수 있습니다.
 ID|mail
 
-Name|Tools
-Text| Usage increases your proficiency with fishing rods, pickaxes, sickles, slingshots, shovels, and swords. This unlocks valuable perks and can also improve the <link:stars>quality<link>of the items you collect or the damage you do in combat.
+Name|도구
+Text|낚싯대, 곡괭이, 낫, 슬링샷, 삽, 그리고 검 사용으로 숙련도가 높아집니다. 이는 유용한 특전을 해제하며, 수집 아이템의 <link:stars>품질<link>이나 전투 데미지를 높혀줍니다.
 
-Tool unlocks are separate from any <link:skills>skills<link>that you earn from Masters, like Twig. Check your proficiency level by viewing the tool in your inventory.
+도구 숙련도에 따른 특전 혜택은 트윅(Twig)과 같은 마스터들에게서 얻는 <link:skills>스킬<link>과는 별개입니다. 인벤토리에서 도구의 숙련도를 확인하세요.
 
-Proficiency applies to the type of tool - for example, you can change from a tin to a zinc shovel without penalty.
+숙련도는 도구 종류에 적용됩니다 - 예를 들어 주괴에서 아연 삽으로 바꿔도 패널티 없이 숙련도는 계속 적용됩니다.
 
-Different metals affect the world in various ways, so it can be worth having more than one of each tool type (though you can only ever have one rod and pickaxe).
+각각의 다른 금속은 다양한 방식으로 영향을 미치기 때문에 같은 도구라도 여러개 가지고 다닐 가치가 있을 수 있습니다(막대와 곡괭이는 하나만 가질 수 있습니다).
 ID|tools
 
-Name|Combat
-Text| Combat is for adults only. Visit Master Jogon in Rivermoor to learn the basics and unlock vital skills.
+Name|전투
+Text|전투는 성인만을 위한 것입니다. 리버무어의 마스터 조곤을 방문하여 기본을 배우고 중요한 기술을 잠금 해제하세요.
 
-In order of difficulty, the four combat areas are Simplewood, Midwood, Toughwood and Mixwood. Each has different inhabitants, with Mixwood also offering additional challenges daily.
+난이도순으로 네 가지 전투 지역은 Simplewood, Midwood, Toughwood, 그리고 Mixwood입니다. 각 지역에는 다른 주민이 살며, Mixwood는 매일 추가적인 도전 과제를 제공합니다.
 
-<link:fairweather>Mr. Fairweather<link>will revive you four times before taking a year of your life as payment should you fall in combat.
+<link:fairweather>Mr. Fairweather<link>은 전투 중 사망 시 1년의 생명을 대가로 최대 네 번 부활시켜줍니다.
 
-Prepare for harder combat by <link:tools>levelling-up<link>your swords; collecting Wards and Charms; taking a cooked meal with <link:traits>traits<link>like Strength or Toughness; buying or crafting combat recipes at Apothecary's; and by unlocking <link:skills>skills<link>via Jogon and Moon.
+어려운 전투들을 대비해 검을 <link:tools>레벨업<link>하고, Wards와 Charms을 수집하고, Strength나 Toughness 같은 <link:traits>특성<link>을 주는 음식을 섭취하거나, Apothecary's 에서 전투 레시피를 구매하거나 제작하고, Jogon과 Moon에게서 <link:skills>스킬<link>을 얻으시기 바랍니다.
 
-Take up to two pets into combat with you - different species have different abilities, and some are particularly effective against certain enemies.
+최대 두 마리의 애완동물을 전투에 동반할 수 있습니다 - 각기 다른 종류의 애완동물은 다른 능력을 가지며, 특정 적에게 특히 효과적입니다.
 ID|combat
 
-Name|Sleep and Save
-Text|Children must sleep from 11 pm to 6 am daily, but adults may stay up all night without ill effects.
+Name|잠자기 & 저장
+Text|어린이들은 매일 밤 11시부터 아침 6시까지 자야 하지만 어른들은 부작용 없이 밤을 지새울 수 있습니다.
 
-The game auto-saves at 6 am every day, and you can also choose to save at any time by sleeping in a bed at home or at one of the campfires scattered around the world.
+이 게임은 매일 오전 6시에 자동 저장되며, 집에 있는 침대나 전 세계에 흩어져 있는 캠프파이어 중 하나에서 잠을 자면 언제든지 저장됩니다.
 ID|sleep
 
-Name|Traits, or what are those icons over people's heads?
-Text|Traits affect people by temporarily changing their skills or demeanor, e.g. making them run faster, be more friendly or smell nice. Crafted items e.g. cooked meals, alter traits for a longer duration, while <link:stars>higher-quality<link>items have more intense effects. For example, a high-quality pie will have a strong, long-lasting effect.
+Name|특성 : 사람들 머리위에 있는 아이콘들은 뭔가요?
+Text|특성은 사람들의 기술이나 태도를 일시적으로 변경하여, 더 빠르게 달리게 만들거나 더 친근하게 대하게 하거나 좋은 냄새가 나게 만듭니다. 조리된 요리같이 제작된 아이템들은 보다 오래 지속되는 특성을 가지며, <link:stars>고품질<link>아이템은 더 강렬한 효과를 가집니다. 예를들면, 고품질 파이는 더 강하고 오래 지속되는 효과를 가지고 있습니다.
 
-A maximum of three traits can be active at one time. Consuming a new item will replace any currently active traits.
+동시에 최대 세 가지 특성만 활성화될 수 있습니다. 새로운 아이템을 소비하면 현재 활성화된 특성을 대체합니다.
 
-Collect 15 of any item to discover its traits. You will discover the traits of a cooked item the first time you craft it using its recipe.
+어떤 아이템을 15개 모으면 그 특성을 발견할 수 있습니다. 요리 아이템의 특성은 해당 레시피를 처음으로 제조할 때 발견할 수 있습니다.
 ID|traits
 
-Name|Item Permissions
-Text|You can only take fruit and vegetables from a garden when you have high enough <link:friends>friendship<link>with all residents of a home. Check the Monument Stone outside to find out your current level of friendship with that household.
+Name|남의 가정에서 아이템 가져가기
+Text|모든 가정의 거주자들과 충분한 <link:friends>우정<link>을 가지고 있을 때만 정원에서 과일과 채소를 가져갈 수 있습니다. 현재 그 가정과의 우정 수준을 알아보려면 밖에 있는 비석을 확인하세요.
 ID|itempermissions
 
-Name|Mr Fairweather
-Text|Adults can visit Mr Fairweather to buy his wares anytime by shining the Obscura on the Henge-portal to Briar. He will collect payment (years of Life Tax) for any goods or services at the end of the year.
+Name|미스터 페어웨더(Mr Fairweather)
+Text|성인들은 Briar로 향하는 Henge-portal에 Obscura를 비추어 미스터 페어웨더의 상품을 언제든지 구매할 수 있습니다. 그는 해마다 연말에 종합적으로 지불받으며(인생 세금의 연수), 어떠한 상품이나 서비스에 대해서도 대금을 받습니다.
 ID|fairweather
 
-Name|Proverbs
-Text|Proverbs are sheets of yellow paper that tell you how to find or improve an item's <link:stars>quality<link>. They are scattered around the world, for sale in shops and from traders, or can be passed on by <link:friends>friends<link>.
+Name|잠언
+Text|잠언은 노란 종이의 모습을 띄고 있으며 물건을 찾는 방법이나 물건의 <link:stars>품질<link>를 향상시키는 방법을 알려줍니다. 잠언은 세계에 흩어져 있으며, 상인이나 떠돌이 상인에게서 구입할 수도 있고, <link:friends>친구들<link>에게서 받을 수도 있습니다.
 
-Look for the item under the proverbs section of your inventory to check your collected tips before going gathering, fishing or fighting.
+채집, 낚시 또는 전투를 하기 전에 인벤토리에서 수집한 잠언을 확인하고 팁을 얻어가세요.
 
-Proverbs for a given item can also be gained by collecting more than five of that item. Task rewards and prizes don't count towards the number collected for this purpose.
+특정 아이템의 잠언은 해당 아이템을 다섯 개 이상 수집함으로써 얻을 수도 있습니다. 그러나 일거리 보상이나 상품으로 받은 아이템은 잠언을 얻는데 필요한 아이템으로 카운트되지 않습니다.
 ID|proverbs
 
-Name|Skills
-Text|You can unlock Skills by visiting the Masters scattered around Quill and fulfilling their requirements. Give them what they ask for, and you can get new abilities to improve your gardening, melee and ranged combat, cooking, exploring, and fishing.
+Name|스킬
+Text|퀼 주변에 흩어져 있는 마스터들을 방문하여 그들의 요구 사항을 충족하면 스킬을 잠금 해제할 수 있습니다. 그들이 요구하는 것을 주면 정원 가꾸기, 난투 및 원거리 전투, 요리, 탐험 및 낚시를 향상시킬 수 있는 새로운 스킬을 얻을 수 있습니다.
 ID|skills
 
-Name|Pets
-Text|You can own up to 3 cats, dogs, pigs and sheep. Cows and certain special exotic pets are limited to one per species.
+Name|반려동물
+Text|여러분은 고양이, 개, 돼지, 양을 세 마리까지 기를 수 있습니다. 소와 특정한 이국적인 반려동물은 종당 한 마리로 제한됩니다.
 
-Pets have a mood that drops with bad treatment and hunger. Keep an eye on their fullness and mood bars: when red, they will stop using their abilities, working, producing milk, or following you. Feed and pet animals to raise fullness and mood.
+반려동물들은 나쁜 대우나 배고픔으로 기분이 떨어질 수 있습니다. 그들의 건강과 기분을 챙기세요: 배고프면 먹이를 줘야 하고, 건강 상태를 확인해야 합니다. 기분이 빨간색으로 바뀐다면 동물들은 당신을 무시할지도 모릅니다.
 
-Pets may get ill after prolonged periods without being fed. They might go green, poor things. Like dear old Uncle Bill, they would benefit from being given something with the Healing trait.
+오랬동안 밥을 먹지 않으면 동물들이 굉장히 아파질수 있습니다. 오랬동안 아프다보면 하늘나라로 가버릴지도 모릅니다...슬프게도 말이죠. 빌 삼촌처럼 잘 돌봐준다면 힐링 특성이 있는 무언가를 줄지도 모릅니다.
 
-Press <whistle>to view the pet whistle. You can check a pet's age, whereabouts, fullness and mood. You can also summon the pet or send them home.
+<whistle>누르면 반려동물 창을 볼 수 있습니다. 동물의 나이, 행방, 배부름수치 그리고 기분을 확인할 수 있습니다. 또한, 반려동물을 소환하거나 집으로 보낼수도 있습니다.
 ID|pets
 
 Name|가족들
-Text|가족들. 가족을 얼마나 사랑하는지! 킨시드에서는 가족 생활을 즐겁고 생산적으로 만들 수 있는 다양한 방법이 있습니다.
+Text|가족들. 가족을 얼마나 사랑한다구요! 킨시드에서는 가족 생활을 즐겁고 생산적으로 만들 수 있는 다양한 방법이 있습니다.
 
 우선, 가족이 필요합니다. NPC에게 구애하고, 결혼하고, 입양하거나 아이를 낳으면 가족이 생깁니다. 아이들은 몇 년이 지나야 '쓸모 있는' 존재가 되지만, 속도를 높이고 싶다면 언제든지 페어웨더 씨를 찾아갈 수 있습니다.
 
-가족 스케줄러는 윌로우다운 농장의 실내에서 찾을 수 있습니다. 이 스케줄러를 사용해 농사부터 공부까지 가족에게 명령을 내릴 수 있습니다. 가족을 먹이를 구하러 보낼 수도 있습니다. 18세 이상은 원할 경우 전투에 투입할 수 있습니다.
+가족 스케줄러는 윌로우다운 농장의 실내에서 찾을 수 있습니다. 이 스케줄러를 사용해 농사부터 공부까지 가족에게 명령을 내릴 수 있습니다. 가족이 음식을 구하러 보낼 수도 있습니다. 18세 이상은 원할 경우 전투에 투입할 수 있습니다.
 
-사업을 운영하는 경우 사업장에서 일하기를 원할 수도 있습니다.
+사업을 운영하는 경우 사업장에서 일을 시킬수도 있습니다.
 
-가족 구성원이 여러분을 대신해 여러 가지 일을 하고 있다고 가정해 봅시다. 이 경우 우선순위가 자동으로 모임, 상점 작업, 그다음 일정 순으로 설정되고, 그 다음 가족 스케줄러에 지정된 일정에 따릅니다..
+가족 구성원이 여러분을 대신해 여러 가지 일을 하고 있다고 가정해 봅시다. 이 경우 우선순위가 자동으로 모임, 상점 작업, 그다음 일정 순으로 설정되고, 그 다음 가족 스케줄러에 지정된 일정에 따릅니다.
 ID|가족들
 
 Name|커스터마이징
 Text|플레이어는 윌로우다운 농장과 농장 구역의 넓은 부분을 커스터마이징할 수 있습니다.
 
-커스터마이징에 접근하려면 윌로우다운 농장에 있는 동안 지도를 열거나, 농가에 있는 경우 커스터마이징 테이블을 통해 상호작용할 수 있습니다. 이렇게 하면 윌로우다운 농장의 지도 보기가 열립니다.
+커스터마이징에 접근하려면 윌로우다운 농장에 있는 동안 지도를 열거나, 농가에 있는 경우 커스터마이징 테이블을 통해 상호작용할 수 있습니다. 상호작용을 할 시 윌로우다운 농장의 지도 보기가 열립니다.
 
 커스터마이징하려는 영역을 선택합니다. 회색 아이콘이 있는 영역은 반드시 구매해야 플레이할 수 있습니다.
 
