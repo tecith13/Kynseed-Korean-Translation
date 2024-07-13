@@ -14,47 +14,45 @@ Text|수집품들은 대부분 등급을 가지고 있습니다. (1-5등급) 등
 <link:proverbs>속담<link>과 <link:friends>소문<link>은 수집품의 등급을 높이는 방법을 알려줍니다.
 ID|stars
 
-Name|How to make friends (or enemies) and influence people
-Text|You can gain Friendship Points (FP) by helping folk and raising friendship.
+Name|친구(또는 적)를 사귀는 방법
+Text|사람들을 돕고 우정을 쌓아서 우정 포인트(FP)를 얻을 수 있습니다.
 
-All Quillians have their likes and dislikes, and finding out about these can be the key to your relationship with a person.
+모든 퀼리언들은 그들의 호불호를 가지고 있으며, 이것들에 대해 알아내는 것이 당신과 사람과의 관계를 위한 열쇠가 될 수 있습니다.
 
-Regular gifts of liked or loved items will encourage people to look forward to your visits; tell you their life stories; share <link:proverbs>proverbs<link>and gossip about their neighbours; <link:itempermissions>allow<link>you to take things from their land; become part of a building team for your projects, or even eventually give you access to their valuable family heirlooms! People are always particularly touched if you remember their birthdays...
+좋아하는 물건이나 사랑하는 물건을 정기적으로 선물하면 사람들이 여러분의 방문을 고대하고, 그들의 인생 이야기를 들려주고, <link:proverbs>속담<link>을 공유하고, 가십을 나누던지, <link:itempermissions>물건<link>을 그들에 공간에서 가져가거나, 당신이 짓는 건물의 건설을 도와줍니다. 그것뿐만 아니라 집안의 가보를 주기도하죠! 그들은 당신이 생일을 기억해줄때 정말 행복함을 느낍니다...
 
-Folk sometimes drops heavy hints for items with a particular <link:traits>trait<link>. Gifting a suitable item will make them grateful enough to pass on Gossip about other villagers, collectable items, or some interesting lore. Conversely, people will become much less well-disposed and helpful to you if you hurt them, give them things they dislike, or mess up their homes.
+당신에게 친밀감을 가진 사람들은 때때로 <link:traits>특성<link>을 가진 물건에 대해 힌트를 제공합니다. 사람들에게 좋아하는 물건을 선물하면 다른 마을 사람들의 대한 가십거리나, 수집 가능한 물건들, 또는 흥미로운 지식을 전수하기도 합니다. 반대로, 당신이 그들을 다치게 하거나, 싫어하는 것을 선물하거나, 그들의 집을 엉망으로 만든다면 당신에게 호의를 배풀지 않을 것입니다.
 ID|friends
 
-Name|Earning Brass
-Text|As a child, you can do chores for Uncle Bill, sell things at the little Lemonade Stalls in Festival areas, use Selling Cabinets in shops, complete <link:apprenticeships>apprenticeships<link>for business owners, and get non-combat tasks from the <link:noticeboards>Noticeboard<link>.
+Name|동화(Brass) 얻는 법
+Text|빌 아저씨를 위해 집안일을 하고, 축제장에 있는 작은 레모네이드 가판대에서 물건을 팔고, 상점에서 파는 캐비닛을 사용하고, 사업주를 위해 <link:apprenticeships>견습생<link>으로 일하고, <link:noticeboards>알림판<link>에서 비전투 과제를 얻을 수 있습니다.
 
-Adults can save up to buy their businesses and can take on dangerous but well-paid combat tasks from the <link:noticeboards>Noticeboard<link>or the Witchhunter (based in Homesteads tavern).
+어른이 되면 당신은 개인사업을 시작하기위해 저축할 수 있고,<link:noticeboards>안내판<link>또는 Homesteads tavern 선술집에서 마녀사냥꾼들에게 위험하지만 보수가 높은 전투 임무를 수행할 수도 있습니다.
 ID|brass
 
-Name|Village Noticeboards
-Text|Noticeboards can be found in each area of the main village. Check these for details of events, markets and trader visits.
+Name|마을 안내판
+Text|안내판은 본 마을의 각 지역에서 찾을 수 있습니다. 이벤트, 시장 및 떠돌이 상인 방문에 대한 자세한 내용을 확인하십시오.
 
-Villagers can post tasks here to earn you Brass or <link:friends>Friendship-Points<link>. Notices regenerate every day, but some dangerous, well-paying task types are only available to adults.
+마을 사람들은 동화(Brass) 또는 <link:friends>우정 포인트(FP)<link>를 제공하는 일거리를 게시할 수 있습니다. 안내판 일거리는 매일 갱신되고, 매우 어렵고 위험하지만 많은 보수의 일거리는 어른만 제공 받을 수 있습니다.
 
-Noticeboard tasks can always be handed in at a person's <link:mail>mailbox<link>. The reward won't be affected if you do this.
+안내판 일거리를 제공한 사람의 <link:mail>우체통<link>에서도 완료할 수 있으며 보수는 어디서 일거리를 완료해도 같습니다.
 ID|noticeboards
 
-Name|Apprenticeships
-Text|Children are invited to do apprenticeships in the Blacksmith and Apothecary. Once you've completed these, you can make items for yourself or sell them to the business owner. It costs ☎5 each time you use the shop's equipment.
+Name|견습생
+Text|아이들은 대장간과 약국에서 견습 기간을 가질 수 있습니다. 견습 생활을 마치면 스스로 물건을 만들거나, 물건을 사업주에게 팔 수있게 됩니다. 가게 장비를 이용할때마다 ☎5를 지불해야합니다.
 
-The Goods Store apprenticeship has a one-off reward, but all apprenticeships help to set you up for owning your own stores as an adult.
+Goods Store의 견습생은 1회성 보상을 받지만, 모든 견습생프로그램은 성인이 되었을때 자신의 매장을 소유할 수 있도록 도움을 줍니다.
 ID|apprenticeships
 
-Name|Goddesses and their Boons
-Text|The Goddesses expect offerings every 7th day and will bless you for them. Interact with a Goddess statue to offer.
+Name|여신들과 그들의 내리는 축복
+Text|여신들은 매 7일마다 제물을 받길 원하며, 제물을 받을시 당신을 위한 축복을 내릴 것입니다. 여신상에게 제물을 받치세요.
 
-Goddesses are paired each week, and you must decide which one to honour with an offering to gain her Boon for the week.
+매주 여신들이 두명씩 짝지어지며, 당신은 그 중 한 명에게 예물을 바쳐 그 주의 은혜를 받기로 결정해야 합니다. 예물을 바치지 않는다고 해서 벌칙이 있는 것은 아닙니다.
 
-There are no penalties for not making an offering.
+Name|사람 찾기
+Text|이미 만났던 사람을 찾고있다면, 그들의 거주 지역을 <stats> 상태 화면에서 확인할 수 있습니다. 세계 지도를 이용해 그곳으로 가서 '지역' 지도를 <map> 사용하여 그들의 집을 찾아낼 수 있습니다.
 
-Name|Finding a Person
-Text|If you have already met a person, you can look up their home area in the Status screen <stats>. Use the World Map for help getting there, then use the Local Map <map>once in that region to spot their home.
-
-The <link:thatterway>Thatterway<link>can guide you to anybody's <link:mail>mailbox<link>, even if you have never met them.
+<link:thatterway>세터웨이<link>는 누구의 <link:mail>우편함<link>으로도 안내할 수 있습니다, 당신이 한번도 만나지 않았던 사람이라도 말이죠.
 ID|findperson
 
 Name|Mail
@@ -121,14 +119,14 @@ Name|Skills
 Text|You can unlock Skills by visiting the Masters scattered around Quill and fulfilling their requirements. Give them what they ask for, and you can get new abilities to improve your gardening, melee and ranged combat, cooking, exploring, and fishing.
 ID|skills
 
-Name|Pets
-Text|You can own up to 3 cats, dogs, pigs and sheep. Cows and certain special exotic pets are limited to one per species.
+Name|반려동물
+Text|여러분은 고양이, 개, 돼지, 양을 세 마리까지 기를 수 있습니다. 소와 특정한 이국적인 반려동물은 종당 한 마리로 제한됩니다.
 
-Pets have a mood that drops with bad treatment and hunger. Keep an eye on their fullness and mood bars: when red, they will stop using their abilities, working, producing milk, or following you. Feed and pet animals to raise fullness and mood.
+반려동물들은 나쁜 대우나 배고픔으로 기분이 떨어질 수 있습니다. 그들의 건강과 기분을 챙기세요: 배고프면 먹이를 줘야 하고, 건강 상태를 확인해야 합니다. 기분이 빨간색으로 바뀐다면 동물들은 당신을 무시할지도 모릅니다.
 
-Pets may get ill after prolonged periods without being fed. They might go green, poor things. Like dear old Uncle Bill, they would benefit from being given something with the Healing trait.
+오랬동안 밥을 먹지 않으면 동물들이 굉장히 아파질수 있습니다. 오랬동안 아프다보면 하늘나라로 가버릴지도 모릅니다...슬프게도 말이죠. 빌 삼촌처럼 잘 돌봐준다면 힐링 특성이 있는 무언가를 줄지도 모릅니다.
 
-Press <whistle>to view the pet whistle. You can check a pet's age, whereabouts, fullness and mood. You can also summon the pet or send them home.
+<whistle>누르면 반려동물 창을 볼 수 있습니다. 동물의 나이, 행방, 배부름수치 그리고 기분을 확인할 수 있습니다. 또한, 반려동물을 소환하거나 집으로 보낼수도 있습니다.
 ID|pets
 
 Name|가족들
