@@ -23,13 +23,8 @@
 ## 번역이 필요한 파일
 AllBooks.txt
 
-Text_EN_Customisation
-
-Text_EN_Story.txt
-
-Text_EN_NPCStories.txt
-
 * 문맥상의 오류나 오탈자에 의한 수정도 언제나 환영입니다.
+* 거슬리는 번역체 수정도 언제나 환영입니다.
 
 
 
