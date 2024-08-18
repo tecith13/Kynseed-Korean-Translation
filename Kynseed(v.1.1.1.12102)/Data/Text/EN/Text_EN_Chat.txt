@@ -1,7 +1,7 @@
 Chat_Greeting_WORK_Blacksmith[P][Dislike] |= 대장간에서 일해준 <Goddess>에게 감사하지만, 잘 알지도 못하는 사람들 때문에 신경 쓰이는 건 싫어.
 Chat_Greeting_WORK_Blacksmith[P][Neutral] |= <Greeting>. 대장간에서 꾸준히 일해준 <Goddess>에게 감사해.
 Chat_Greeting_WORK_Blacksmith[P][Friendly] |= <Greeting>. 열심히 일해서 신성한 <Goddess>에게 영광을 돌리도록 하자.
-Chat_Greeting_WORK_Blacksmith[P][Like] |= <Greeting>. 오늘 내 대장간을 찾아주셔서 고마워, <PlayerName>.
+Chat_Greeting_WORK_Blacksmith[P][Like] |= <Greeting>. 오늘 내 대장간을 찾아주어서 고마워, <PlayerName>.
 Chat_Greeting_WORK_Blacksmith[P][Love] |= <Greeting>. 이 도구를 제작하는 동안 <PlayerName>, 너의 안전과 행복을 기원해.
 Chat_Greeting_WORK_GoodsStore[P][Dislike] |= 아무리 까다로운 손님이라도 인내와 관용을 실천할 수 있는 기회를 주신 <Goddess>께 감사드려....
 Chat_Greeting_WORK_GoodsStore[P][Neutral] |= <Greeting>. <Goddess>께서 오늘도 저희의 판매를 도와주시고 번영을 가져다주시길 바라.
@@ -330,8 +330,8 @@ Chat_Greeting_EAT[C][Love] |= <Greeting>. 나 혼자 먹는 것보다 <PlayerNam
 
 Chat_Greeting_WORK_Blacksmith[Dislike] |= 이제 뭘 원해? 나 바쁜 거 안 보여? 필요한 게 뭔지 말해줘야 대장간으로 돌아갈 수 있어.
 Chat_Greeting_WORK_Blacksmith[Neutral] |= <Greeting>. 어떻게 도와줄까? 원하는 것이 무엇인지 알려주면 내가 도와줄 수 있도록 하지.
-Chat_Greeting_WORK_Blacksmith[Friendly] |= <Greeting>. 만나서 반가워. 대장간에는 무슨 일로 왔어? 일이 좀 많아서, 하지만 최선을 다해 도와줄게.
-Chat_Greeting_WORK_Blacksmith[Like] |= <Greeting>. 어떻게 지냈어? 대장간 일로 바쁘긴 하지만 어떻게 지내고 있는지 듣고 싶어.
+Chat_Greeting_WORK_Blacksmith[Friendly] |= <Greeting>. 만나서 반가워. 대장간에는 무슨 일로 왔어? 일이 좀 많지만 최선을 다해 도와줄게.
+Chat_Greeting_WORK_Blacksmith[Like] |= <Greeting>. 어떻게 지냈어? 대장간 일로 바쁘긴 하지만 네가 어떻게 지내고 있는지 듣고 싶어.
 Chat_Greeting_WORK_Blacksmith[Love] |= <Greeting>. <PlayerName>, 네가 오기를 기다렸어. 어떻게 지내? 잘 듣고 있어.
 Chat_Greeting_WORK_GoodsStore[Dislike] |= 원하는 게 뭐야? 나 바쁜 거 안 보여? 필요한 게 있으면 둘러보되 귀찮게 하지마.
 Chat_Greeting_WORK_GoodsStore[Neutral] |= <Greeting>. 지금 한창 상품 진열대를 정리하고 있어서 정신이 없어 보여도 이해해줘.
